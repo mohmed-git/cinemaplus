@@ -6,11 +6,14 @@
   "scripts": {
     "build": "ASTRO_TELEMETRY_DISABLED=1 astro build",
     "dev": "astro dev --host 0.0.0.0",
-    "preview": "astro preview --host 0.0.0.0 --port 3000",
+    "preview": "npm run build && wrangler dev",
     "astro": "astro",
-    "data": "node scripts/build-data.mjs"
+    "data": "node scripts/build-data.mjs",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "12",
     "@astrojs/sitemap": "^3.2.1",
     "@astrojs/tailwind": "^5.1.4",
     "astro": "^5.1.1",
@@ -23,6 +26,7 @@
     "@types/node": "^22.10.2",
     "csv-parse": "^5.6.0",
     "serve": "^14.2.6",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "wrangler": "^4.104.0"
   }
 }

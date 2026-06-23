@@ -3,6 +3,8 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
+import cloudflare from "@astrojs/cloudflare";
+
 // اسم الموقع ورابطه للنشر
 export const SITE_NAME = 'CinemaPlus';
 export const SITE_URL = 'https://cinemanaplus.site';
@@ -20,10 +22,12 @@ export default defineConfig({
   site: SITE_URL,
   output: 'static',
   trailingSlash: 'ignore',
+
   build: {
     format: 'directory',
     inlineStylesheets: 'auto',
   },
+
   integrations: [
     tailwind({
       applyBaseStyles: true,
@@ -37,10 +41,12 @@ export default defineConfig({
       entryLimit: 1000,
     }),
   ],
+
   server: {
     host: '0.0.0.0',
     port: 3000,
   },
+
   vite: {
     build: {
       cssMinify: true,
@@ -50,4 +56,6 @@ export default defineConfig({
       noExternal: ['fuse.js'],
     },
   },
+
+  adapter: cloudflare()
 });
