@@ -1,0 +1,260 @@
+{
+  "slug": "terra-formars",
+  "clean_title": "Terra Formars",
+  "raw_name": "انمي Terra Formars",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/terra-formars.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r2z6kbe8k23084l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1010090,
+          "tmdb_still_path": "/4uKK0BMU1CP5UxCSn8Z4o2elVhD.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/15wx-sjk1d17q3z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1010452,
+          "tmdb_still_path": "/n7q7bUG2eWCuhgNcxRZNZMg1Ihf.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/qmk41he8127xlzn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1011287,
+          "tmdb_still_path": "/zT9edRMtzUn6i8KSrRf0syQweA5.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/e-8kes-x2q28ggy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1026616,
+          "tmdb_still_path": "/7vVeu81heO1GhAhz6MB2QNcEaV.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/3ewg-hm3q67l8mw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1026617,
+          "tmdb_still_path": "/tTLV10grptYqEO4nI0K4GE9RVaR.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/15wx-sjk1nwg21j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1026618,
+          "tmdb_still_path": "/qGX6YbqbaFFwPs9PBEseTqKhfm1.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/0qwy-il7zd34y8-"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1026619,
+          "tmdb_still_path": "/f2Ws3Lz3gRU9S4yl9sjocRO7Tu6.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/dn82lax7-jywm6d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1026620,
+          "tmdb_still_path": "/ntabLsJ6WScE4nVfWI8MMCwufUM.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/g48mxt-e2mg44ej"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1026621,
+          "tmdb_still_path": "/4b9xn0A49Psn5XpSaiYXg7Hxcmy.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/g48mxt-e2m6r21p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1026622,
+          "tmdb_still_path": "/gVg82mBvhU0nh5PJfuPyabDnXBn.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/e-8kes-x210kp70"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1026623,
+          "tmdb_still_path": "/uUx7NsC3xqwIkQdyEx6DsB50ehA.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/0qwy-il7z0wr6pe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1026624,
+          "tmdb_still_path": "/gPmd47VZfEuvLxFupjBnVA30KwX.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/wxeplhndl-qr2ql"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1026625,
+          "tmdb_still_path": "/2M5MQs6v5VG5I7oBrgwszBDwmkr.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Terra Formars ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و26 حلقة. في أنمي Terra Formars تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، خيال علمي، فضاء، رعب العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/terra-formars",
+  "story": "يدور أنمي Terra Formars ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و26 حلقة. في أنمي Terra Formars تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، خيال علمي، فضاء، رعب العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Hiroshi Hamasaki",
+  "stars": "Akira Ishida، Kaito Ishikawa، Daisuke Ono، Yoshimasa Hosoya، Kenji Akabane، Unsho Ishizuka",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Terra Formars",
+    "mainDescription": "يدور أنمي Terra Formars ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و26 حلقة. في أنمي Terra Formars تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، خيال علمي، فضاء، رعب العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Terra Formars أنمي 2014 | يدور أنمي Terra Formars ضمن أجواء حركة ومغامرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Terra Formars من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61398"
+    }
+  },
+  "tmdb_id": 61398,
+  "tmdb_url": "https://www.themoviedb.org/tv/61398",
+  "original_title": "テラフォーマーズ"
+}

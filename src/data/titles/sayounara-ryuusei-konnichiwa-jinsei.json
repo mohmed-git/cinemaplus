@@ -1,0 +1,544 @@
+{
+  "slug": "sayounara-ryuusei-konnichiwa-jinsei",
+  "clean_title": "Sayounara Ryuusei Konnichiwa Jinsei",
+  "raw_name": "انمي Sayounara Ryuusei Konnichiwa Jinsei",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/sayounara-ryuusei-konnichiwa-jinsei.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7722089122502"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=seIuWsxYbMWdClpU"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x96p6m2"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7722097576646"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7722102885062"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rr6WhB6MYdt1o5F1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 5495529,
+          "tmdb_still_path": "/pz8aXrEPj0VmC50tjyV6oSAjxnQ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7765426965190"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=p2FDdQ5KoztxomAd"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9746ie"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7765465107142"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7765506788038"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EpaH9eJbZ6iaDIZK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 5645608,
+          "tmdb_still_path": "/hh1QDgnCh2I5iE96ztemdb6zGyy.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7812371319494"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=T21tmd5g5jLgNHVb"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x97jlm6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7812379970246"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7812384164550"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=W8bEJFxUy6gx0GNY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 5645610,
+          "tmdb_still_path": "/wT9MUGy4n6klMEB6IFViI91VBNY.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7840132434630"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=63wmX9ONbIpPapgh"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x97zarc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7840167496390"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7840188861126"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PUbvoxgyp3M6MCEr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 5645611,
+          "tmdb_still_path": "/jcETTbwOPevzyTlUboCOfuirx1m.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7933735209670"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=J4Jpf1dG8InACE2m"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x98dueu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7933771713222"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7933820209862"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vxJY716EcuiWFXFL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5645612,
+          "tmdb_still_path": "/iC1iT7EUT1qOxvOcQlULpFtXdsf.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8112003156678"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DqGyqRgFHc5Dvx8L"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x98sb68"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8112046410438"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8112089729734"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DlKFr8BJHNXJyLcr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5645614,
+          "tmdb_still_path": "/9wxY6abtVIqKr8DxCN13HSgl3eE.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8285271296710"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nlStyEk1t51jePZS"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x99696q"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8285320841926"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8285363702470"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5dW3sxHX0UGQ0mE4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5645615,
+          "tmdb_still_path": "/sODOcv5FYBME6HZdbM6WDF9F7Tg.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8438065138374"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=J2VfOKbU2udllOCW"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x99jqhy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8438108719814"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8438157937350"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4RmrBWtbXckNlUwf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 5645616,
+          "tmdb_still_path": "/mUlDXyCsSf1aYvJGfuWfOCjlJqt.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8608568773318"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=8f5zknE3TaUvLmiB"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x99x88q"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8608603376326"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8608650365638"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=49WFzDYrddNhqPS9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5645618,
+          "tmdb_still_path": "/ga2yRmVbPUUUL8hPW36B5DD5Lm0.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8791766207174"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ixzIes4nbeKJKMfI"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9aaup0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8791838100166"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8791845702342"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UwMQZnEHvAittB7V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5645619,
+          "tmdb_still_path": "/8nJ1aLsmuT4HdkTJYxP9ryOowLU.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8961113918150"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mzDew0eBLqGdaxxq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ap48w"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8961123355334"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8961127877318"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2GKiQnpLlAYa44QL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 5645620,
+          "tmdb_still_path": "/53r3kvcfHoq5CCBW3ay87ZvvdlH.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8986918193862"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vItEHk0ThuJe30RN"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9b29b4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8986927827654"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8986945522374"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bvtsdv4gNMYHlB27"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-27",
+          "runtime": 24,
+          "tmdb_episode_id": 5645621,
+          "tmdb_still_path": "/zbzHsAHCFuDchcwXaaPnsBL3pQc.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Sayounara Ryuusei Konnichiwa Jinsei ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Sayounara Ryuusei Konnichiwa Jinsei تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/sayounara-ryuusei-konnichiwa-jinsei",
+  "story": "يدور أنمي Sayounara Ryuusei Konnichiwa Jinsei ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Sayounara Ryuusei Konnichiwa Jinsei تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shunsuke Takeuchi، Hitomi Sekine، Ayaka Ohashi",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": null,
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Sayounara Ryuusei Konnichiwa Jinsei",
+    "mainDescription": "يدور أنمي Sayounara Ryuusei Konnichiwa Jinsei ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Sayounara Ryuusei Konnichiwa Jinsei تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Sayounara Ryuusei Konnichiwa Jinsei أنمي 2024 | يدور أنمي Sayounara Ryuusei Konnichiwa Jinsei ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Sayounara Ryuusei Konnichiwa Jinsei من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/259786"
+    }
+  },
+  "tmdb_id": 259786,
+  "tmdb_url": "https://www.themoviedb.org/tv/259786",
+  "original_title": "さようなら竜生、こんにちは人生"
+}

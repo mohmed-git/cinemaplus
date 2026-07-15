@@ -1,0 +1,424 @@
+{
+  "slug": "hundred",
+  "clean_title": "Hundred",
+  "raw_name": "انمي Hundred",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hundred.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349932153419"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/znmm0tj1np63wn6"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/11bbDYQREO56fo8ueVlXcse5H_slyVv-W/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/ennSWchhea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1200685,
+          "tmdb_still_path": "/w5bjs4DIWioLrDaFqnBg05lNUcw.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349938707019"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/wx116fnd82ly214"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1u2I1JZgJhLJqJqN6ufVzSP7CH8agwENx/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/4mXlM6Ueiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1183428,
+          "tmdb_still_path": "/eC3zCi0NuAukIUmPnT5Lesjc0g5.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349943163467"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/2l660t23kd61dyn"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1ucw0kK1Gfdu37fBUwXjuAVA5CToNKbSA/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/xbRZE0OIiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1200686,
+          "tmdb_still_path": "/gnFV5xZvLdW7i7eBUWBo3RfTE1Q.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349947357771"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/n1jj6u2pq7gpykr"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1_EWcUoWPrm8vkyISKWxPZ1NlF0nntJ1z/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-r0cw80x0f6hs.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1212752,
+          "tmdb_still_path": "/hvvMpU1g0wXMou2qrFMVTkHli9M.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349952404043"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/8n116t8y6p4ek6-"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/15dXiQrEFZCd-d6AxVWsGcebmn_EmPhaT/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/qaDdeZmmiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1212753,
+          "tmdb_still_path": "/cDAPSwUflogXQNe17wjLGalJ10I.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349958236747"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/qm660be8y4rqg3d"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/19Fv9eOlfPxGELRDvblp0gtMlSJwB1q9L/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/zHo455z5iq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1212754,
+          "tmdb_still_path": "/hbGoFXvagUncIrR6kiVhopveZoQ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/pz44dbm8x7jj6-g"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/12fpzASb8E4NQWPTlasCsUNynfdjCXZ21/preview"
+            },
+            {
+              "id": 3,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-asj660rb562l.html"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/1-SspGWEiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1212755,
+          "tmdb_still_path": "/dwsYmQohif7sBaBGtMLmtqF3iRm.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/dnjj4tx7nlpk83q"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1oNvl8aPaYGwXiVXlLIlOPZdeZ2hq5a4J/preview"
+            },
+            {
+              "id": 3,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-it8dqpka9ono.html"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/hTzfLoDeea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1212756,
+          "tmdb_still_path": "/rBs7S9KzhlLnvVW9wMeWt0Nwx16.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/1544dujk6rydx3m"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1mv3-F1rrM5pyZqNvK3A2D2Y7t-HEdFXU/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/DslmiazA#BHlZL1pVgTPoohb5oH0Z3yoWKW-Ph8XAvlYqq_OYleI"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/mrEtXUqhiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1212757,
+          "tmdb_still_path": "/btmYUdcFx3YoZdZciFHw6BU8g51.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349980387915"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/7gpp4ugzyk2-e07"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1C4h6osh0qGdYSZ2LOo6wPjd4KsO8_NZF/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/LHbqn2F-iq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1212758,
+          "tmdb_still_path": "/8W8Cn50xdsrRn5oEdbzdfLqpfQg.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349983271499"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r277rhe8jd3z871"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1EEX-BfVfuZxe-pchGbKwTZtc1Kkt71Iy/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/k2S1upjqea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1212759,
+          "tmdb_still_path": "/eUGrEXoShB2bf1zwCTf0J9XSguy.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349987596875"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-k223ipyw60eey2"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/10go1GNaXa8uQfKA9k9PXoS8HtPNoq-4f/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Ny0h6WTPea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1212760,
+          "tmdb_still_path": "/g2Y6Dneqt2ptj5qEOnwSdZ9O37Y.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hundred ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Hundred على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف ميكا، حريم، خيال علمي، ايتشي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hundred على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/hundred",
+  "story": "يدور أنمي Hundred ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Hundred على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف ميكا، حريم، خيال علمي، ايتشي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hundred على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Rumi Okubo، Yoshiaki Hasegawa، Mao Ichimichi، Ayaka Imamura، Kaya Okuno، Machico",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا",
+  "trailerId": "6I_qEn6yYoo",
+  "rating": "6.3",
+  "imdb_rating": "6.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hundred",
+    "mainDescription": "يدور أنمي Hundred ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Hundred على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف ميكا، حريم، خيال علمي، ايتشي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hundred على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Hundred أنمي 2016 | يدور أنمي Hundred ضمن أجواء حركة ومغامرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hundred من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/66109"
+    }
+  },
+  "tmdb_id": 66109,
+  "tmdb_url": "https://www.themoviedb.org/tv/66109",
+  "original_title": "ハンドレッド"
+}

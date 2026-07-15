@@ -1,0 +1,492 @@
+{
+  "slug": "nisekoi",
+  "clean_title": "Nisekoi",
+  "raw_name": "انمي Nisekoi",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/nisekoi.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 20,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 20,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/45h7hs4w15ox"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/0jg8w5zby5rm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1060281,
+          "tmdb_still_path": "/g6BmcnAip0O5khEb7rg5WWalUsy.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1syl7j8jckm3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/rw5m4ra9qrl6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1060291,
+          "tmdb_still_path": "/5DzKtvpqHKZZtSaCTOQEGyKgeHZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/546fibe0sufl"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/8fbs4t2qth1n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1060437,
+          "tmdb_still_path": "/byW4zIH34RgkEYJmz1IFAf3IBgl.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0nkq2t0s9in5"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/nyz5qid6s0p7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1060438,
+          "tmdb_still_path": "/4zMgaLF4kewCKWerJgpFpzyHpEh.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0w629287dsyn"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/vmvcoenx57hm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1060439,
+          "tmdb_still_path": "/qdeUEZpcTLXzzufhDl7nzpp23az.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/u6mn7ua9dng8"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/liynftsazdzx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1060440,
+          "tmdb_still_path": "/lvVpdq2MKcBUNM5e0IpOCXxdFH8.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/pfq643l84hhn"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/nq4p2beb4sfz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1060441,
+          "tmdb_still_path": "/nBphYPsg50scGF2avN75ZwIBQof.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vm0kgjiewdfz"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/or9vcy974uzl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1060442,
+          "tmdb_still_path": "/2hkbZs341or1vLVpWxug2OSa5r.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nay82avtetay"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/yvmxu9ddprs6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1060444,
+          "tmdb_still_path": "/4kcVdaGzRmiaWUnI8e8YTWxwzZ3.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/p2718mxk6y4b"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/j20vrq0bt7zr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1060445,
+          "tmdb_still_path": "/sSOFZ5VtTf8sKAKoipuMStVFLS3.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xui8y7wulw0v"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/lqbiz6oo4irs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1060446,
+          "tmdb_still_path": "/4st4pljWIH0TDRQHrbSg4lofSZI.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/fm0essepiwo1"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/i2v5kdqqimcg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1060447,
+          "tmdb_still_path": "/fqoTGCIVia587D0Uadix4Pyasso.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/eg4kx0bum8j1"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qwk0dj0oroav"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1060448,
+          "tmdb_still_path": "/uTxDQ5uDhp72pnC315cpBN3pKPo.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/tpppu91x6i67"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ab3i5dohuaxi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1060449,
+          "tmdb_still_path": "/ceNfMi6yp3HHFMlWXySqooe300y.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ycz0eng2vvop"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bfcn8wv1g08b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1060450,
+          "tmdb_still_path": "/cslMOrkMhMiaMCLn2fDsGg42wnS.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/bg5sxvylmci4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/odvz6l7t3y72"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1060451,
+          "tmdb_still_path": "/sCYDMfjFxwmx5LWBIJx23B22U7n.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/yr42hittyxi6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/icyjel4v6b8u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1060453,
+          "tmdb_still_path": "/hC48np6zRG0Ld6E8rgApeovLYwB.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/v6nnnh49qpqt"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/95d4a4p4elu0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1060454,
+          "tmdb_still_path": "/zLqJyjq5BT3OAzsFDlUSJASEtUu.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/72de7r3hf1ec"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/h5ugk6d6o9f3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1060455,
+          "tmdb_still_path": "/p9pD5Q2aB7WrIyK5paXjEvKq54i.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/jqjy4wvfwsba"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ygl5byqo97eh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1060456,
+          "tmdb_still_path": "/xmXgDmfmU9duIAwbWzY1BxcgnVl.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Nisekoi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و32 حلقة. تبدأ قصة Nisekoi من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف حريم، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Nisekoi على CINMAPRO عبر 1 موسم و20 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/nisekoi",
+  "story": "يدور أنمي Nisekoi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و32 حلقة. تبدأ قصة Nisekoi من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف حريم، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Nisekoi على CINMAPRO عبر 1 موسم و20 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Koki Uchiyama، Nao Toyama، Kana Hanazawa، Takehito Koyasu، Manami Numakura، Kotori Koiwai",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "dPBBNxl_nKE",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Nisekoi",
+    "mainDescription": "يدور أنمي Nisekoi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و32 حلقة. تبدأ قصة Nisekoi من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف حريم، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Nisekoi على CINMAPRO عبر 1 موسم و20 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Nisekoi أنمي 2014 | يدور أنمي Nisekoi ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Nisekoi من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/62640"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "nisekoi",
+      "title": "Nisekoi",
+      "url": "/anime/nisekoi",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 20,
+      "poster": "/images/anime/nisekoi.jpg"
+    },
+    {
+      "slug": "nisekoi-season-2",
+      "title": "Nisekoi Season 2",
+      "url": "/anime/nisekoi-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/nisekoi-season-2.jpg"
+    }
+  ],
+  "tmdb_id": 62640,
+  "tmdb_url": "https://www.themoviedb.org/tv/62640",
+  "original_title": "ニセコイ"
+}

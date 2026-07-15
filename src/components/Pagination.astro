@@ -1,0 +1,112 @@
+---
+import { pageNumbers } from '../lib/filters';
+
+interface Props {
+  current: number;
+  total: number;
+  /** function to build a URL for a given page number */
+  hrefFor: (page: number) => string;
+}
+
+const { current, total, hrefFor } = Astro.props as Props;
+const nums = pageNumbers(current, total);
+const prevHref = current > 1 ? hrefFor(current - 1) : null;
+const nextHref = current < total ? hrefFor(current + 1) : null;
+---
+
+{total > 1 && (
+  <nav class="mt-10 flex flex-wrap items-center justify-center gap-2" aria-label="ترقيم الصفحات">
+    <!-- Prev -->
+    {prevHref ? (
+      <a href={prevHref} class="page-btn" rel="prev" aria-label="السابق">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 rtl:rotate-180">
+          <path d="M15 18l-6-6 6-6"/>
+        </svg>
+        <span class="hidden sm:inline">السابق</span>
+      </a>
+    ) : (
+      <span class="page-btn opacity-40 cursor-not-allowed">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 rtl:rotate-180">
+          <path d="M15 18l-6-6 6-6"/>
+        </svg>
+        <span class="hidden sm:inline">السابق</span>
+      </span>
+    )}
+
+    <!-- Numbered pages -->
+    {nums.map((n) =>
+      n === '…' ? (
+        <span class="page-ellipsis">…</span>
+      ) : n === current ? (
+        <span class="page-current" aria-current="page">{n}</span>
+      ) : (
+        <a href={hrefFor(n)} class="page-btn">{n}</a>
+      )
+    )}
+
+    <!-- Next -->
+    {nextHref ? (
+      <a href={nextHref} class="page-btn" rel="next" aria-label="التالي">
+        <span class="hidden sm:inline">التالي</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 rtl:rotate-180">
+          <path d="M9 6l6 6-6 6"/>
+        </svg>
+      </a>
+    ) : (
+      <span class="page-btn opacity-40 cursor-not-allowed">
+        <span class="hidden sm:inline">التالي</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 rtl:rotate-180">
+          <path d="M9 6l6 6-6 6"/>
+        </svg>
+      </span>
+    )}
+  </nav>
+)}
+
+<style>
+  .page-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    height: 2.5rem;
+    min-width: 2.5rem;
+    padding: 0 0.85rem;
+    border-radius: 0.75rem;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    background: rgba(255, 255, 255, 0.03);
+    color: #d6d3d1;
+    font-weight: 600;
+    font-size: 0.875rem;
+    transition: all 0.25s ease;
+    backdrop-filter: blur(8px);
+  }
+  .page-btn:hover {
+    background: linear-gradient(135deg, rgba(124, 58, 237, 0.18), rgba(217, 70, 239, 0.14));
+    border-color: rgba(167, 139, 250, 0.4);
+    color: #fff;
+    box-shadow: 0 0 18px -6px rgba(168, 85, 247, 0.55);
+  }
+  .page-current {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    min-width: 2.5rem;
+    padding: 0 0.85rem;
+    border-radius: 0.75rem;
+    background: linear-gradient(135deg, #7c3aed, #d946ef);
+    color: #fff;
+    font-weight: 800;
+    font-size: 0.9rem;
+    box-shadow: 0 0 22px -4px rgba(168, 85, 247, 0.7);
+  }
+  .page-ellipsis {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    min-width: 2rem;
+    color: #6b7280;
+    font-weight: 700;
+  }
+</style>

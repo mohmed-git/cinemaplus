@@ -1,0 +1,1702 @@
+{
+  "slug": "dragon-ball-z",
+  "clean_title": "Dragon Ball Z",
+  "raw_name": "انمي Dragon Ball Z",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dragon-ball-z.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 291,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 291,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-04-26",
+          "runtime": 25,
+          "tmdb_episode_id": 969581,
+          "tmdb_still_path": "/qcYJj4oIkAWpPbOE1LjXJ2l2d6W.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-05-03",
+          "runtime": 25,
+          "tmdb_episode_id": 969582,
+          "tmdb_still_path": "/mFYFlJfxBlirEtZOXUr9naU1wMF.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-05-10",
+          "runtime": 25,
+          "tmdb_episode_id": 969583,
+          "tmdb_still_path": "/5orXI5prcDYsGxe98fDiOpEesS3.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-05-17",
+          "runtime": 25,
+          "tmdb_episode_id": 969584,
+          "tmdb_still_path": "/70h09WjqCHwijBtMNR3wdk6ad7l.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-05-24",
+          "runtime": 25,
+          "tmdb_episode_id": 969585,
+          "tmdb_still_path": "/ulwBq5Beb5yIVsWvbFvDVWFeody.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-06-07",
+          "runtime": 25,
+          "tmdb_episode_id": 969586,
+          "tmdb_still_path": "/zXm1b7KsyxIyys0RX412KL133AA.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-06-14",
+          "runtime": 25,
+          "tmdb_episode_id": 969587,
+          "tmdb_still_path": "/h5omhk3BXKPCaOI14TrR5v53R6s.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-06-21",
+          "runtime": 25,
+          "tmdb_episode_id": 969588,
+          "tmdb_still_path": "/f5E14e3SWcP6S9MQBb0HyxYgkhA.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-06-28",
+          "runtime": 25,
+          "tmdb_episode_id": 969589,
+          "tmdb_still_path": "/kfFlkrUSBQmbinytEg55RLhkqbT.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-07-05",
+          "runtime": 25,
+          "tmdb_episode_id": 969590,
+          "tmdb_still_path": "/uunEQV59p2VAbllmxA7R2EGL5zu.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-07-12",
+          "runtime": 25,
+          "tmdb_episode_id": 969591,
+          "tmdb_still_path": "/6TsOGz5IhtXN65n7vpH9AOlBenl.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-07-19",
+          "runtime": 25,
+          "tmdb_episode_id": 969592,
+          "tmdb_still_path": "/vnehrqeSa08PLSBI2JnPikkW4Ar.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-07-26",
+          "runtime": 25,
+          "tmdb_episode_id": 969593,
+          "tmdb_still_path": "/1oSv307IvUtuwGlhkNhpaN37Jys.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-08-02",
+          "runtime": 25,
+          "tmdb_episode_id": 969594,
+          "tmdb_still_path": "/9xMzsqDORjP6IGVEaMTolYJbxop.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-08-09",
+          "runtime": 25,
+          "tmdb_episode_id": 969595,
+          "tmdb_still_path": "/dkUG4NRNFP60JfZ4IttT0ST8YxS.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-08-16",
+          "runtime": 25,
+          "tmdb_episode_id": 969596,
+          "tmdb_still_path": "/7CEd1PGPkBoRJgDAZfpGrc8V7e9.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-08-30",
+          "runtime": 25,
+          "tmdb_episode_id": 969597,
+          "tmdb_still_path": "/2pLT3FcuSBr45krtwjYF4Xq85iO.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-09-06",
+          "runtime": 25,
+          "tmdb_episode_id": 969598,
+          "tmdb_still_path": "/cM4cZhFQUQA7wlw7tQvIIFVzZp.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-09-13",
+          "runtime": 25,
+          "tmdb_episode_id": 969599,
+          "tmdb_still_path": "/pr7I4vKmZQhAYSWRHVDRd4y6xqr.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-09-20",
+          "runtime": 25,
+          "tmdb_episode_id": 969600,
+          "tmdb_still_path": "/2apBKPjkFau5zneuDGa2iCwygDI.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-09-27",
+          "runtime": 25,
+          "tmdb_episode_id": 969601,
+          "tmdb_still_path": "/rW3eXIAfgy5iCI5w5QI2Ncahnm3.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-10-11",
+          "runtime": 25,
+          "tmdb_episode_id": 969602,
+          "tmdb_still_path": "/cntWV7wpM7HnPrxA2syzsZMZ4tI.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-10-18",
+          "runtime": 25,
+          "tmdb_episode_id": 969603,
+          "tmdb_still_path": "/yNP1PoKlQXYwm4VQnL2S9xrEj8k.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-10-25",
+          "runtime": 25,
+          "tmdb_episode_id": 969604,
+          "tmdb_still_path": "/rIycubjN4nxIQkDHvY1ZNxMtJGN.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-11-01",
+          "runtime": 25,
+          "tmdb_episode_id": 969605,
+          "tmdb_still_path": "/hNPiypQ7gL2qWaxKf0u6C15mPA6.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-11-08",
+          "runtime": 25,
+          "tmdb_episode_id": 969606,
+          "tmdb_still_path": "/ehCDN5Ov0QvdOiKeWmLzIzKtD6K.jpg"
+        },
+        {
+          "episode": 27,
+          "title": "الحلقة 27",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-11-22",
+          "runtime": 25,
+          "tmdb_episode_id": 969607,
+          "tmdb_still_path": "/cixtMak9tVwvUEzgw3xlR3PmFFX.jpg"
+        },
+        {
+          "episode": 28,
+          "title": "الحلقة 28",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-11-29",
+          "runtime": 25,
+          "tmdb_episode_id": 969608,
+          "tmdb_still_path": "/sVeRyqmCLC0xg6klvGcZN6CyzR0.jpg"
+        },
+        {
+          "episode": 29,
+          "title": "الحلقة 29",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-12-06",
+          "runtime": 25,
+          "tmdb_episode_id": 969609,
+          "tmdb_still_path": "/apLeFbT5b8fxIGq3qsrVUQG1s47.jpg"
+        },
+        {
+          "episode": 30,
+          "title": "الحلقة 30",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-12-13",
+          "runtime": 25,
+          "tmdb_episode_id": 969610,
+          "tmdb_still_path": "/637VS7fJd82IoD3MnvKmncyTnVU.jpg"
+        },
+        {
+          "episode": 31,
+          "title": "الحلقة 31",
+          "servers": [],
+          "overview": null,
+          "air_date": "1989-12-20",
+          "runtime": 25,
+          "tmdb_episode_id": 969611,
+          "tmdb_still_path": "/7NNu0dactXn0dxk5VDdFrU8gLg4.jpg"
+        },
+        {
+          "episode": 32,
+          "title": "الحلقة 32",
+          "servers": [],
+          "overview": null,
+          "air_date": "1990-01-17",
+          "runtime": 25,
+          "tmdb_episode_id": 969612,
+          "tmdb_still_path": "/rv9GK9wBZ2iaPUDc7jQRuRPcEIf.jpg"
+        },
+        {
+          "episode": 33,
+          "title": "الحلقة 33",
+          "servers": [],
+          "overview": null,
+          "air_date": "1990-01-24",
+          "runtime": 25,
+          "tmdb_episode_id": 969613,
+          "tmdb_still_path": "/s2oEfRkMeDPCgytDaluSFMkiso5.jpg"
+        },
+        {
+          "episode": 34,
+          "title": "الحلقة 34",
+          "servers": [],
+          "overview": null,
+          "air_date": "1990-01-31",
+          "runtime": 25,
+          "tmdb_episode_id": 969614,
+          "tmdb_still_path": "/7DLotUvCkIM0e3xJiWHjJOjgeiq.jpg"
+        },
+        {
+          "episode": 35,
+          "title": "الحلقة 35",
+          "servers": [],
+          "overview": null,
+          "air_date": "1990-02-07",
+          "runtime": 25,
+          "tmdb_episode_id": 969615,
+          "tmdb_still_path": "/v3ZLfF4ZB0iQceMy9yFO4YhMpcH.jpg"
+        },
+        {
+          "episode": 36,
+          "title": "الحلقة 36",
+          "servers": [],
+          "overview": null,
+          "air_date": "1990-02-14",
+          "runtime": 25,
+          "tmdb_episode_id": 969616,
+          "tmdb_still_path": "/7UpfI5c7htFAOTSvQbQZz5bExUG.jpg"
+        },
+        {
+          "episode": 37,
+          "title": "الحلقة 37",
+          "servers": [],
+          "overview": null,
+          "air_date": "1990-02-21",
+          "runtime": 25,
+          "tmdb_episode_id": 969617,
+          "tmdb_still_path": "/awkwjK4NY3qSeiKWWRhecExjRz9.jpg"
+        },
+        {
+          "episode": 38,
+          "title": "الحلقة 38",
+          "servers": [],
+          "overview": null,
+          "air_date": "1990-02-28",
+          "runtime": 25,
+          "tmdb_episode_id": 969618,
+          "tmdb_still_path": "/9QKFZLxc6UWLXpoJI7RvxMRT3We.jpg"
+        },
+        {
+          "episode": 39,
+          "title": "الحلقة 39",
+          "servers": [],
+          "overview": null,
+          "air_date": "1990-03-07",
+          "runtime": 25,
+          "tmdb_episode_id": 969619,
+          "tmdb_still_path": "/mb9KszOUDAvaBaUzN1jbnUzYtNv.jpg"
+        },
+        {
+          "episode": 40,
+          "title": "الحلقة 40",
+          "servers": []
+        },
+        {
+          "episode": 41,
+          "title": "الحلقة 41",
+          "servers": []
+        },
+        {
+          "episode": 42,
+          "title": "الحلقة 42",
+          "servers": []
+        },
+        {
+          "episode": 43,
+          "title": "الحلقة 43",
+          "servers": []
+        },
+        {
+          "episode": 44,
+          "title": "الحلقة 44",
+          "servers": []
+        },
+        {
+          "episode": 45,
+          "title": "الحلقة 45",
+          "servers": []
+        },
+        {
+          "episode": 46,
+          "title": "الحلقة 46",
+          "servers": []
+        },
+        {
+          "episode": 47,
+          "title": "الحلقة 47",
+          "servers": []
+        },
+        {
+          "episode": 48,
+          "title": "الحلقة 48",
+          "servers": []
+        },
+        {
+          "episode": 49,
+          "title": "الحلقة 49",
+          "servers": []
+        },
+        {
+          "episode": 50,
+          "title": "الحلقة 50",
+          "servers": []
+        },
+        {
+          "episode": 51,
+          "title": "الحلقة 51",
+          "servers": []
+        },
+        {
+          "episode": 52,
+          "title": "الحلقة 52",
+          "servers": []
+        },
+        {
+          "episode": 53,
+          "title": "الحلقة 53",
+          "servers": []
+        },
+        {
+          "episode": 54,
+          "title": "الحلقة 54",
+          "servers": []
+        },
+        {
+          "episode": 55,
+          "title": "الحلقة 55",
+          "servers": []
+        },
+        {
+          "episode": 56,
+          "title": "الحلقة 56",
+          "servers": []
+        },
+        {
+          "episode": 57,
+          "title": "الحلقة 57",
+          "servers": []
+        },
+        {
+          "episode": 58,
+          "title": "الحلقة 58",
+          "servers": []
+        },
+        {
+          "episode": 59,
+          "title": "الحلقة 59",
+          "servers": []
+        },
+        {
+          "episode": 60,
+          "title": "الحلقة 60",
+          "servers": []
+        },
+        {
+          "episode": 61,
+          "title": "الحلقة 61",
+          "servers": []
+        },
+        {
+          "episode": 62,
+          "title": "الحلقة 62",
+          "servers": []
+        },
+        {
+          "episode": 63,
+          "title": "الحلقة 63",
+          "servers": []
+        },
+        {
+          "episode": 64,
+          "title": "الحلقة 64",
+          "servers": []
+        },
+        {
+          "episode": 65,
+          "title": "الحلقة 65",
+          "servers": []
+        },
+        {
+          "episode": 66,
+          "title": "الحلقة 66",
+          "servers": []
+        },
+        {
+          "episode": 67,
+          "title": "الحلقة 67",
+          "servers": []
+        },
+        {
+          "episode": 68,
+          "title": "الحلقة 68",
+          "servers": []
+        },
+        {
+          "episode": 69,
+          "title": "الحلقة 69",
+          "servers": []
+        },
+        {
+          "episode": 70,
+          "title": "الحلقة 70",
+          "servers": []
+        },
+        {
+          "episode": 71,
+          "title": "الحلقة 71",
+          "servers": []
+        },
+        {
+          "episode": 72,
+          "title": "الحلقة 72",
+          "servers": []
+        },
+        {
+          "episode": 73,
+          "title": "الحلقة 73",
+          "servers": []
+        },
+        {
+          "episode": 74,
+          "title": "الحلقة 74",
+          "servers": []
+        },
+        {
+          "episode": 75,
+          "title": "الحلقة 75",
+          "servers": []
+        },
+        {
+          "episode": 76,
+          "title": "الحلقة 76",
+          "servers": []
+        },
+        {
+          "episode": 77,
+          "title": "الحلقة 77",
+          "servers": []
+        },
+        {
+          "episode": 78,
+          "title": "الحلقة 78",
+          "servers": []
+        },
+        {
+          "episode": 79,
+          "title": "الحلقة 79",
+          "servers": []
+        },
+        {
+          "episode": 80,
+          "title": "الحلقة 80",
+          "servers": []
+        },
+        {
+          "episode": 81,
+          "title": "الحلقة 81",
+          "servers": []
+        },
+        {
+          "episode": 82,
+          "title": "الحلقة 82",
+          "servers": []
+        },
+        {
+          "episode": 83,
+          "title": "الحلقة 83",
+          "servers": []
+        },
+        {
+          "episode": 84,
+          "title": "الحلقة 84",
+          "servers": []
+        },
+        {
+          "episode": 85,
+          "title": "الحلقة 85",
+          "servers": []
+        },
+        {
+          "episode": 86,
+          "title": "الحلقة 86",
+          "servers": []
+        },
+        {
+          "episode": 87,
+          "title": "الحلقة 87",
+          "servers": []
+        },
+        {
+          "episode": 88,
+          "title": "الحلقة 88",
+          "servers": []
+        },
+        {
+          "episode": 89,
+          "title": "الحلقة 89",
+          "servers": []
+        },
+        {
+          "episode": 90,
+          "title": "الحلقة 90",
+          "servers": []
+        },
+        {
+          "episode": 91,
+          "title": "الحلقة 91",
+          "servers": []
+        },
+        {
+          "episode": 92,
+          "title": "الحلقة 92",
+          "servers": []
+        },
+        {
+          "episode": 93,
+          "title": "الحلقة 93",
+          "servers": []
+        },
+        {
+          "episode": 94,
+          "title": "الحلقة 94",
+          "servers": []
+        },
+        {
+          "episode": 95,
+          "title": "الحلقة 95",
+          "servers": []
+        },
+        {
+          "episode": 96,
+          "title": "الحلقة 96",
+          "servers": []
+        },
+        {
+          "episode": 97,
+          "title": "الحلقة 97",
+          "servers": []
+        },
+        {
+          "episode": 98,
+          "title": "الحلقة 98",
+          "servers": []
+        },
+        {
+          "episode": 99,
+          "title": "الحلقة 99",
+          "servers": []
+        },
+        {
+          "episode": 100,
+          "title": "الحلقة 100",
+          "servers": []
+        },
+        {
+          "episode": 101,
+          "title": "الحلقة 101",
+          "servers": []
+        },
+        {
+          "episode": 102,
+          "title": "الحلقة 102",
+          "servers": []
+        },
+        {
+          "episode": 103,
+          "title": "الحلقة 103",
+          "servers": []
+        },
+        {
+          "episode": 104,
+          "title": "الحلقة 104",
+          "servers": []
+        },
+        {
+          "episode": 105,
+          "title": "الحلقة 105",
+          "servers": []
+        },
+        {
+          "episode": 106,
+          "title": "الحلقة 106",
+          "servers": []
+        },
+        {
+          "episode": 107,
+          "title": "الحلقة 107",
+          "servers": []
+        },
+        {
+          "episode": 108,
+          "title": "الحلقة 108",
+          "servers": []
+        },
+        {
+          "episode": 109,
+          "title": "الحلقة 109",
+          "servers": []
+        },
+        {
+          "episode": 110,
+          "title": "الحلقة 110",
+          "servers": []
+        },
+        {
+          "episode": 111,
+          "title": "الحلقة 111",
+          "servers": []
+        },
+        {
+          "episode": 112,
+          "title": "الحلقة 112",
+          "servers": []
+        },
+        {
+          "episode": 113,
+          "title": "الحلقة 113",
+          "servers": []
+        },
+        {
+          "episode": 114,
+          "title": "الحلقة 114",
+          "servers": []
+        },
+        {
+          "episode": 115,
+          "title": "الحلقة 115",
+          "servers": []
+        },
+        {
+          "episode": 116,
+          "title": "الحلقة 116",
+          "servers": []
+        },
+        {
+          "episode": 117,
+          "title": "الحلقة 117",
+          "servers": []
+        },
+        {
+          "episode": 118,
+          "title": "الحلقة 118",
+          "servers": []
+        },
+        {
+          "episode": 119,
+          "title": "الحلقة 119",
+          "servers": []
+        },
+        {
+          "episode": 120,
+          "title": "الحلقة 120",
+          "servers": []
+        },
+        {
+          "episode": 121,
+          "title": "الحلقة 121",
+          "servers": []
+        },
+        {
+          "episode": 122,
+          "title": "الحلقة 122",
+          "servers": []
+        },
+        {
+          "episode": 123,
+          "title": "الحلقة 123",
+          "servers": []
+        },
+        {
+          "episode": 124,
+          "title": "الحلقة 124",
+          "servers": []
+        },
+        {
+          "episode": 125,
+          "title": "الحلقة 125",
+          "servers": []
+        },
+        {
+          "episode": 126,
+          "title": "الحلقة 126",
+          "servers": []
+        },
+        {
+          "episode": 127,
+          "title": "الحلقة 127",
+          "servers": []
+        },
+        {
+          "episode": 128,
+          "title": "الحلقة 128",
+          "servers": []
+        },
+        {
+          "episode": 129,
+          "title": "الحلقة 129",
+          "servers": []
+        },
+        {
+          "episode": 130,
+          "title": "الحلقة 130",
+          "servers": []
+        },
+        {
+          "episode": 131,
+          "title": "الحلقة 131",
+          "servers": []
+        },
+        {
+          "episode": 132,
+          "title": "الحلقة 132",
+          "servers": []
+        },
+        {
+          "episode": 133,
+          "title": "الحلقة 133",
+          "servers": []
+        },
+        {
+          "episode": 134,
+          "title": "الحلقة 134",
+          "servers": []
+        },
+        {
+          "episode": 135,
+          "title": "الحلقة 135",
+          "servers": []
+        },
+        {
+          "episode": 136,
+          "title": "الحلقة 136",
+          "servers": []
+        },
+        {
+          "episode": 137,
+          "title": "الحلقة 137",
+          "servers": []
+        },
+        {
+          "episode": 138,
+          "title": "الحلقة 138",
+          "servers": []
+        },
+        {
+          "episode": 139,
+          "title": "الحلقة 139",
+          "servers": []
+        },
+        {
+          "episode": 140,
+          "title": "الحلقة 140",
+          "servers": []
+        },
+        {
+          "episode": 141,
+          "title": "الحلقة 141",
+          "servers": []
+        },
+        {
+          "episode": 142,
+          "title": "الحلقة 142",
+          "servers": []
+        },
+        {
+          "episode": 143,
+          "title": "الحلقة 143",
+          "servers": []
+        },
+        {
+          "episode": 144,
+          "title": "الحلقة 144",
+          "servers": []
+        },
+        {
+          "episode": 145,
+          "title": "الحلقة 145",
+          "servers": []
+        },
+        {
+          "episode": 146,
+          "title": "الحلقة 146",
+          "servers": []
+        },
+        {
+          "episode": 147,
+          "title": "الحلقة 147",
+          "servers": []
+        },
+        {
+          "episode": 148,
+          "title": "الحلقة 148",
+          "servers": []
+        },
+        {
+          "episode": 149,
+          "title": "الحلقة 149",
+          "servers": []
+        },
+        {
+          "episode": 150,
+          "title": "الحلقة 150",
+          "servers": []
+        },
+        {
+          "episode": 151,
+          "title": "الحلقة 151",
+          "servers": []
+        },
+        {
+          "episode": 152,
+          "title": "الحلقة 152",
+          "servers": []
+        },
+        {
+          "episode": 153,
+          "title": "الحلقة 153",
+          "servers": []
+        },
+        {
+          "episode": 154,
+          "title": "الحلقة 154",
+          "servers": []
+        },
+        {
+          "episode": 155,
+          "title": "الحلقة 155",
+          "servers": []
+        },
+        {
+          "episode": 156,
+          "title": "الحلقة 156",
+          "servers": []
+        },
+        {
+          "episode": 157,
+          "title": "الحلقة 157",
+          "servers": []
+        },
+        {
+          "episode": 158,
+          "title": "الحلقة 158",
+          "servers": []
+        },
+        {
+          "episode": 159,
+          "title": "الحلقة 159",
+          "servers": []
+        },
+        {
+          "episode": 160,
+          "title": "الحلقة 160",
+          "servers": []
+        },
+        {
+          "episode": 161,
+          "title": "الحلقة 161",
+          "servers": []
+        },
+        {
+          "episode": 162,
+          "title": "الحلقة 162",
+          "servers": []
+        },
+        {
+          "episode": 163,
+          "title": "الحلقة 163",
+          "servers": []
+        },
+        {
+          "episode": 164,
+          "title": "الحلقة 164",
+          "servers": []
+        },
+        {
+          "episode": 165,
+          "title": "الحلقة 165",
+          "servers": []
+        },
+        {
+          "episode": 166,
+          "title": "الحلقة 166",
+          "servers": []
+        },
+        {
+          "episode": 167,
+          "title": "الحلقة 167",
+          "servers": []
+        },
+        {
+          "episode": 168,
+          "title": "الحلقة 168",
+          "servers": []
+        },
+        {
+          "episode": 169,
+          "title": "الحلقة 169",
+          "servers": []
+        },
+        {
+          "episode": 170,
+          "title": "الحلقة 170",
+          "servers": []
+        },
+        {
+          "episode": 171,
+          "title": "الحلقة 171",
+          "servers": []
+        },
+        {
+          "episode": 172,
+          "title": "الحلقة 172",
+          "servers": []
+        },
+        {
+          "episode": 173,
+          "title": "الحلقة 173",
+          "servers": []
+        },
+        {
+          "episode": 174,
+          "title": "الحلقة 174",
+          "servers": []
+        },
+        {
+          "episode": 175,
+          "title": "الحلقة 175",
+          "servers": []
+        },
+        {
+          "episode": 176,
+          "title": "الحلقة 176",
+          "servers": []
+        },
+        {
+          "episode": 177,
+          "title": "الحلقة 177",
+          "servers": []
+        },
+        {
+          "episode": 178,
+          "title": "الحلقة 178",
+          "servers": []
+        },
+        {
+          "episode": 179,
+          "title": "الحلقة 179",
+          "servers": []
+        },
+        {
+          "episode": 180,
+          "title": "الحلقة 180",
+          "servers": []
+        },
+        {
+          "episode": 181,
+          "title": "الحلقة 181",
+          "servers": []
+        },
+        {
+          "episode": 182,
+          "title": "الحلقة 182",
+          "servers": []
+        },
+        {
+          "episode": 183,
+          "title": "الحلقة 183",
+          "servers": []
+        },
+        {
+          "episode": 184,
+          "title": "الحلقة 184",
+          "servers": []
+        },
+        {
+          "episode": 185,
+          "title": "الحلقة 185",
+          "servers": []
+        },
+        {
+          "episode": 186,
+          "title": "الحلقة 186",
+          "servers": []
+        },
+        {
+          "episode": 187,
+          "title": "الحلقة 187",
+          "servers": []
+        },
+        {
+          "episode": 188,
+          "title": "الحلقة 188",
+          "servers": []
+        },
+        {
+          "episode": 189,
+          "title": "الحلقة 189",
+          "servers": []
+        },
+        {
+          "episode": 190,
+          "title": "الحلقة 190",
+          "servers": []
+        },
+        {
+          "episode": 191,
+          "title": "الحلقة 191",
+          "servers": []
+        },
+        {
+          "episode": 192,
+          "title": "الحلقة 192",
+          "servers": []
+        },
+        {
+          "episode": 193,
+          "title": "الحلقة 193",
+          "servers": []
+        },
+        {
+          "episode": 194,
+          "title": "الحلقة 194",
+          "servers": []
+        },
+        {
+          "episode": 195,
+          "title": "الحلقة 195",
+          "servers": []
+        },
+        {
+          "episode": 196,
+          "title": "الحلقة 196",
+          "servers": []
+        },
+        {
+          "episode": 197,
+          "title": "الحلقة 197",
+          "servers": []
+        },
+        {
+          "episode": 198,
+          "title": "الحلقة 198",
+          "servers": []
+        },
+        {
+          "episode": 199,
+          "title": "الحلقة 199",
+          "servers": []
+        },
+        {
+          "episode": 200,
+          "title": "الحلقة 200",
+          "servers": []
+        },
+        {
+          "episode": 201,
+          "title": "الحلقة 201",
+          "servers": []
+        },
+        {
+          "episode": 202,
+          "title": "الحلقة 202",
+          "servers": []
+        },
+        {
+          "episode": 203,
+          "title": "الحلقة 203",
+          "servers": []
+        },
+        {
+          "episode": 204,
+          "title": "الحلقة 204",
+          "servers": []
+        },
+        {
+          "episode": 205,
+          "title": "الحلقة 205",
+          "servers": []
+        },
+        {
+          "episode": 206,
+          "title": "الحلقة 206",
+          "servers": []
+        },
+        {
+          "episode": 207,
+          "title": "الحلقة 207",
+          "servers": []
+        },
+        {
+          "episode": 208,
+          "title": "الحلقة 208",
+          "servers": []
+        },
+        {
+          "episode": 209,
+          "title": "الحلقة 209",
+          "servers": []
+        },
+        {
+          "episode": 210,
+          "title": "الحلقة 210",
+          "servers": []
+        },
+        {
+          "episode": 211,
+          "title": "الحلقة 211",
+          "servers": []
+        },
+        {
+          "episode": 212,
+          "title": "الحلقة 212",
+          "servers": []
+        },
+        {
+          "episode": 213,
+          "title": "الحلقة 213",
+          "servers": []
+        },
+        {
+          "episode": 214,
+          "title": "الحلقة 214",
+          "servers": []
+        },
+        {
+          "episode": 215,
+          "title": "الحلقة 215",
+          "servers": []
+        },
+        {
+          "episode": 216,
+          "title": "الحلقة 216",
+          "servers": []
+        },
+        {
+          "episode": 217,
+          "title": "الحلقة 217",
+          "servers": []
+        },
+        {
+          "episode": 218,
+          "title": "الحلقة 218",
+          "servers": []
+        },
+        {
+          "episode": 219,
+          "title": "الحلقة 219",
+          "servers": []
+        },
+        {
+          "episode": 220,
+          "title": "الحلقة 220",
+          "servers": []
+        },
+        {
+          "episode": 221,
+          "title": "الحلقة 221",
+          "servers": []
+        },
+        {
+          "episode": 222,
+          "title": "الحلقة 222",
+          "servers": []
+        },
+        {
+          "episode": 223,
+          "title": "الحلقة 223",
+          "servers": []
+        },
+        {
+          "episode": 224,
+          "title": "الحلقة 224",
+          "servers": []
+        },
+        {
+          "episode": 225,
+          "title": "الحلقة 225",
+          "servers": []
+        },
+        {
+          "episode": 226,
+          "title": "الحلقة 226",
+          "servers": []
+        },
+        {
+          "episode": 227,
+          "title": "الحلقة 227",
+          "servers": []
+        },
+        {
+          "episode": 228,
+          "title": "الحلقة 228",
+          "servers": []
+        },
+        {
+          "episode": 229,
+          "title": "الحلقة 229",
+          "servers": []
+        },
+        {
+          "episode": 230,
+          "title": "الحلقة 230",
+          "servers": []
+        },
+        {
+          "episode": 231,
+          "title": "الحلقة 231",
+          "servers": []
+        },
+        {
+          "episode": 232,
+          "title": "الحلقة 232",
+          "servers": []
+        },
+        {
+          "episode": 233,
+          "title": "الحلقة 233",
+          "servers": []
+        },
+        {
+          "episode": 234,
+          "title": "الحلقة 234",
+          "servers": []
+        },
+        {
+          "episode": 235,
+          "title": "الحلقة 235",
+          "servers": []
+        },
+        {
+          "episode": 236,
+          "title": "الحلقة 236",
+          "servers": []
+        },
+        {
+          "episode": 237,
+          "title": "الحلقة 237",
+          "servers": []
+        },
+        {
+          "episode": 238,
+          "title": "الحلقة 238",
+          "servers": []
+        },
+        {
+          "episode": 239,
+          "title": "الحلقة 239",
+          "servers": []
+        },
+        {
+          "episode": 240,
+          "title": "الحلقة 240",
+          "servers": []
+        },
+        {
+          "episode": 241,
+          "title": "الحلقة 241",
+          "servers": []
+        },
+        {
+          "episode": 242,
+          "title": "الحلقة 242",
+          "servers": []
+        },
+        {
+          "episode": 243,
+          "title": "الحلقة 243",
+          "servers": []
+        },
+        {
+          "episode": 244,
+          "title": "الحلقة 244",
+          "servers": []
+        },
+        {
+          "episode": 245,
+          "title": "الحلقة 245",
+          "servers": []
+        },
+        {
+          "episode": 246,
+          "title": "الحلقة 246",
+          "servers": []
+        },
+        {
+          "episode": 247,
+          "title": "الحلقة 247",
+          "servers": []
+        },
+        {
+          "episode": 248,
+          "title": "الحلقة 248",
+          "servers": []
+        },
+        {
+          "episode": 249,
+          "title": "الحلقة 249",
+          "servers": []
+        },
+        {
+          "episode": 250,
+          "title": "الحلقة 250",
+          "servers": []
+        },
+        {
+          "episode": 251,
+          "title": "الحلقة 251",
+          "servers": []
+        },
+        {
+          "episode": 252,
+          "title": "الحلقة 252",
+          "servers": []
+        },
+        {
+          "episode": 253,
+          "title": "الحلقة 253",
+          "servers": []
+        },
+        {
+          "episode": 254,
+          "title": "الحلقة 254",
+          "servers": []
+        },
+        {
+          "episode": 255,
+          "title": "الحلقة 255",
+          "servers": []
+        },
+        {
+          "episode": 256,
+          "title": "الحلقة 256",
+          "servers": []
+        },
+        {
+          "episode": 257,
+          "title": "الحلقة 257",
+          "servers": []
+        },
+        {
+          "episode": 258,
+          "title": "الحلقة 258",
+          "servers": []
+        },
+        {
+          "episode": 259,
+          "title": "الحلقة 259",
+          "servers": []
+        },
+        {
+          "episode": 260,
+          "title": "الحلقة 260",
+          "servers": []
+        },
+        {
+          "episode": 261,
+          "title": "الحلقة 261",
+          "servers": []
+        },
+        {
+          "episode": 262,
+          "title": "الحلقة 262",
+          "servers": []
+        },
+        {
+          "episode": 263,
+          "title": "الحلقة 263",
+          "servers": []
+        },
+        {
+          "episode": 264,
+          "title": "الحلقة 264",
+          "servers": []
+        },
+        {
+          "episode": 265,
+          "title": "الحلقة 265",
+          "servers": []
+        },
+        {
+          "episode": 266,
+          "title": "الحلقة 266",
+          "servers": []
+        },
+        {
+          "episode": 267,
+          "title": "الحلقة 267",
+          "servers": []
+        },
+        {
+          "episode": 268,
+          "title": "الحلقة 268",
+          "servers": []
+        },
+        {
+          "episode": 269,
+          "title": "الحلقة 269",
+          "servers": []
+        },
+        {
+          "episode": 270,
+          "title": "الحلقة 270",
+          "servers": []
+        },
+        {
+          "episode": 271,
+          "title": "الحلقة 271",
+          "servers": []
+        },
+        {
+          "episode": 272,
+          "title": "الحلقة 272",
+          "servers": []
+        },
+        {
+          "episode": 273,
+          "title": "الحلقة 273",
+          "servers": []
+        },
+        {
+          "episode": 274,
+          "title": "الحلقة 274",
+          "servers": []
+        },
+        {
+          "episode": 275,
+          "title": "الحلقة 275",
+          "servers": []
+        },
+        {
+          "episode": 276,
+          "title": "الحلقة 276",
+          "servers": []
+        },
+        {
+          "episode": 277,
+          "title": "الحلقة 277",
+          "servers": []
+        },
+        {
+          "episode": 278,
+          "title": "الحلقة 278",
+          "servers": []
+        },
+        {
+          "episode": 279,
+          "title": "الحلقة 279",
+          "servers": []
+        },
+        {
+          "episode": 280,
+          "title": "الحلقة 280",
+          "servers": []
+        },
+        {
+          "episode": 281,
+          "title": "الحلقة 281",
+          "servers": []
+        },
+        {
+          "episode": 282,
+          "title": "الحلقة 282",
+          "servers": []
+        },
+        {
+          "episode": 283,
+          "title": "الحلقة 283",
+          "servers": []
+        },
+        {
+          "episode": 284,
+          "title": "الحلقة 284",
+          "servers": []
+        },
+        {
+          "episode": 285,
+          "title": "الحلقة 285",
+          "servers": []
+        },
+        {
+          "episode": 286,
+          "title": "الحلقة 286",
+          "servers": []
+        },
+        {
+          "episode": 287,
+          "title": "الحلقة 287",
+          "servers": []
+        },
+        {
+          "episode": 288,
+          "title": "الحلقة 288",
+          "servers": []
+        },
+        {
+          "episode": 289,
+          "title": "الحلقة 289",
+          "servers": []
+        },
+        {
+          "episode": 290,
+          "title": "الحلقة 290",
+          "servers": []
+        },
+        {
+          "episode": 291,
+          "title": "الحلقة 291",
+          "servers": []
+        }
+      ]
+    }
+  ],
+  "description": "استمرار مغامرات غوكو وأصدقاؤة للدفاع ضد مجموعة متنوعة من الأشرار التي تسعى إلى تدمير أو حكم كوكب الأرض.",
+  "url": "/anime/dragon-ball-z",
+  "story": "استمرار مغامرات غوكو وأصدقاؤة للدفاع ضد مجموعة متنوعة من الأشرار التي تسعى إلى تدمير أو حكم كوكب الأرض.",
+  "year": "1989",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Masako Nozawa، Ryo Horikawa، Toshio Furukawa، Mayumi Tanaka، Naoki Tatsuta، Ryusei Nakao",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": "z_pKjQitI8o",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dragon Ball Z",
+    "mainDescription": "استمرار مغامرات غوكو وأصدقاؤة للدفاع ضد مجموعة متنوعة من الأشرار التي تسعى إلى تدمير أو حكم كوكب الأرض.",
+    "metaDescription": "Dragon Ball Z أنمي 1989 | استمرار مغامرات غوكو وأصدقاؤة للدفاع ضد مجموعة متنوعة من الأشرار التي تسعى إلى تدمير أو حكم كوكب الأرض | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dragon Ball Z من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/12971"
+    }
+  },
+  "tmdb_id": 12971,
+  "tmdb_url": "https://www.themoviedb.org/tv/12971",
+  "original_title": "ドラゴンボールゼット"
+}

@@ -1,0 +1,109 @@
+---
+import { SITE } from '../lib/site';
+import { listingRoute } from '../lib/routes';
+const year = new Date().getFullYear();
+---
+
+<footer class="relative mt-20 md:mt-28 overflow-hidden border-t border-white/[0.06]" style="background: linear-gradient(180deg, transparent, rgba(11,11,18,1) 30%);">
+  <!-- Top neon line -->
+  <div class="absolute top-0 right-0 left-0 h-px bg-gradient-to-l from-transparent via-neon-violet/60 to-transparent"></div>
+
+  <!-- Decorative orbs -->
+  <div class="orb h-72 w-72 -bottom-20 -right-10 bg-brand-700"></div>
+  <div class="orb h-80 w-80 -top-20 -left-10 bg-neon-fuchsia"></div>
+
+  <div class="container-app relative py-14 md:py-16">
+    <div class="grid grid-cols-1 gap-10 md:grid-cols-12">
+      <!-- Brand section -->
+      <div class="md:col-span-5">
+        <a href="/" class="group inline-flex items-center gap-3 font-display text-2xl font-extrabold text-white">
+          <span class="relative flex h-12 w-12 items-center justify-center rounded-2xl bg-gradient-to-br from-brand-600 via-neon-violet to-neon-fuchsia text-white shadow-[0_0_24px_-4px_rgba(168,85,247,0.7)]">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-6 w-6">
+              <path d="M8 5v14l11-7z"/>
+            </svg>
+            <span class="absolute inset-0 -z-10 rounded-2xl bg-gradient-to-br from-brand-500 to-neon-fuchsia blur-md opacity-50"></span>
+          </span>
+          <span class="gradient-text neon-glow tracking-wider">{SITE.name.toUpperCase()}</span>
+        </a>
+        <p class="mt-5 max-w-md text-sm leading-relaxed text-gray-400">
+          {SITE.description}
+        </p>
+
+        <!-- Official social accounts are not linked until real profiles are available. -->
+        <div class="mt-6 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full border border-white/[0.06] bg-white/[0.03] px-3 py-2">الحسابات الرسمية ستُعلن هنا عند توفرها</span>
+          <a href="/contact" class="text-brand-300 transition-colors hover:text-brand-200">تواصل معنا</a>
+        </div>
+      </div>
+
+      <!-- Sections links -->
+      <div class="md:col-span-3">
+        <h3 class="mb-4 flex items-center gap-2 text-sm font-bold text-white uppercase tracking-wider">
+          <span class="h-4 w-1 rounded-full bg-gradient-to-b from-brand-400 to-neon-fuchsia"></span>
+          الأقسام
+        </h3>
+        <ul class="space-y-3 text-sm">
+          <li><a href="/" class="text-gray-400 transition-colors hover:text-brand-400">الرئيسية</a></li>
+          <li><a href={listingRoute('movie')} class="text-gray-400 transition-colors hover:text-brand-400">الأفلام</a></li>
+          <li><a href={listingRoute('series')} class="text-gray-400 transition-colors hover:text-brand-400">المسلسلات</a></li>
+          <li><a href={listingRoute('anime')} class="text-gray-400 transition-colors hover:text-brand-400">الأنمي</a></li>
+          <li><a href="/search" class="text-gray-400 transition-colors hover:text-brand-400">البحث</a></li>
+        </ul>
+      </div>
+
+      <!-- Useful links -->
+      <div class="md:col-span-2">
+        <h3 class="mb-4 flex items-center gap-2 text-sm font-bold text-white uppercase tracking-wider">
+          <span class="h-4 w-1 rounded-full bg-gradient-to-b from-brand-400 to-neon-fuchsia"></span>
+          روابط
+        </h3>
+        <ul class="space-y-3 text-sm">
+          <li><a href="/sitemap-index.xml" class="text-gray-400 transition-colors hover:text-brand-400">خريطة الموقع</a></li>
+          <li><a href="/robots.txt" class="text-gray-400 transition-colors hover:text-brand-400">robots.txt</a></li>
+          <li><a href="/terms" class="text-gray-400 transition-colors hover:text-brand-400">شروط الاستخدام</a></li>
+          <li><a href="/privacy" class="text-gray-400 transition-colors hover:text-brand-400">سياسة الخصوصية</a></li>
+          <li><a href="/contact" class="text-gray-400 transition-colors hover:text-brand-400">اتصل بنا</a></li>
+        </ul>
+      </div>
+
+      <!-- Info -->
+      <div class="md:col-span-2">
+        <h3 class="mb-4 flex items-center gap-2 text-sm font-bold text-white uppercase tracking-wider">
+          <span class="h-4 w-1 rounded-full bg-gradient-to-b from-brand-400 to-neon-fuchsia"></span>
+          معلومات
+        </h3>
+        <div class="space-y-3 text-xs leading-relaxed text-gray-400">
+          <p>جميع المحتويات مستضافة لدى أطراف ثالثة. {SITE.name} مجرد منصة تجميع.</p>
+          <p class="flex items-center gap-1.5 text-brand-300">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-3.5 w-3.5">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            </svg>
+            مشاهدة آمنة ومجانية
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom bar -->
+    <div class="mt-12 flex flex-col items-center justify-between gap-4 border-t border-white/[0.04] pt-6 md:flex-row">
+      <p class="text-xs text-gray-500">
+        © {year} <span class="font-bold gradient-text">{SITE.name.toUpperCase()}</span> — جميع الحقوق محفوظة.
+      </p>
+      <p class="text-xs text-gray-600 flex items-center gap-1.5">
+        صُنع بـ <span class="text-neon-fuchsia">♥</span> باستخدام Astro · Tailwind CSS
+      </p>
+    </div>
+
+    <!-- TMDB attribution (required by The Movie Database terms of use) -->
+    <div class="mt-4 flex flex-col items-center gap-2 border-t border-white/[0.04] pt-5 text-center">
+      <a href="https://www.themoviedb.org/" rel="noopener nofollow" target="_blank" class="inline-flex items-center gap-2 text-[11px] text-gray-500 hover:text-gray-300 transition-colors">
+        <svg viewBox="0 0 273.42 35.52" class="h-3 w-auto" role="img" aria-label="TMDB"><rect width="273.42" height="35.52" rx="6" fill="#0d253f"/><text x="50%" y="62%" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#01b4e4">TMDB</text></svg>
+      </a>
+      <p class="max-w-2xl text-[11px] leading-relaxed text-gray-600">
+        هذا الموقع يستخدم TMDB API، والمعلومات والملصقات والتقييمات مأخوذة من
+        <a href="https://www.themoviedb.org/" rel="noopener nofollow" target="_blank" class="text-brand-400 hover:text-brand-300 underline">The Movie Database (TMDB)</a>،
+        لكن الموقع غير معتمَد أو مدعوم رسمياً من TMDB.
+      </p>
+    </div>
+  </div>
+</footer>

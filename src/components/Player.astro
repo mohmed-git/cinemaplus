@@ -1,0 +1,124 @@
+---
+import type { Server } from '../lib/types';
+
+interface Props {
+  servers: Server[];
+  /** fallback label shown if an iframe fails */
+  title: string;
+}
+const { servers, title } = Astro.props;
+const first = servers[0];
+---
+
+<div class="space-y-4">
+  <!-- Player -->
+  <div class="relative aspect-video w-full overflow-hidden rounded-xl border border-surface-3/60 bg-black shadow-card">
+    <div id="player-loading" class="absolute inset-0 flex items-center justify-center bg-black/70 text-gray-300">
+      <div class="flex flex-col items-center gap-3">
+        <div class="h-10 w-10 animate-spin rounded-full border-2 border-brand-500 border-t-transparent"></div>
+        <span class="text-sm">جاري تحميل المشغل…</span>
+      </div>
+    </div>
+
+    <div id="player-error" class="hidden absolute inset-0 flex items-center justify-center bg-surface-1 text-gray-200">
+      <div class="max-w-md space-y-3 px-6 text-center">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="mx-auto h-10 w-10 text-brand-400">
+          <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+        </svg>
+        <p class="font-semibold">تعذر تحميل السيرفر الحالي</p>
+        <p class="text-sm text-gray-400">يرجى اختيار سيرفر آخر من القائمة أدناه.</p>
+      </div>
+    </div>
+
+    {first && (
+      <iframe
+        id="video-frame"
+        src={first.url}
+        title={title}
+        class="h-full w-full"
+        allowfullscreen
+        loading="lazy"
+        referrerpolicy="no-referrer"
+        sandbox="allow-scripts allow-same-origin allow-presentation allow-forms allow-popups"
+      ></iframe>
+    )}
+  </div>
+
+  <!-- Server selector -->
+  <div class="rounded-xl border border-surface-3/60 bg-surface-1 p-3">
+    <div class="mb-2 flex items-center justify-between">
+      <h3 class="text-sm font-semibold text-white">
+        <span class="inline-block h-4 w-1 translate-y-0.5 rounded bg-brand-500 ml-2"></span>
+        اختر السيرفر
+      </h3>
+      <span class="text-xs text-gray-400">{servers.length} سيرفر</span>
+    </div>
+
+    <div class="flex flex-wrap gap-2">
+      {servers.map((s, i) => (
+        <button
+          type="button"
+          class={`server-btn rounded-lg px-3 py-2 text-sm font-medium transition-colors ${
+            i === 0
+              ? 'bg-brand-600 text-white'
+              : 'bg-surface-3 text-gray-200 hover:bg-surface-4'
+          }`}
+          data-url={s.url}
+          data-idx={i}
+        >
+          {s.label}
+        </button>
+      ))}
+    </div>
+
+    <p class="mt-3 rounded-lg bg-surface-2 px-3 py-2 text-xs leading-relaxed text-gray-400">
+      <strong class="text-gray-300">تنبيه:</strong>
+      السيرفرات أعلاه تابعة لمزودي طرف ثالث. في حال توقف سيرفر عن العمل،
+      جرّب سيرفرًا آخر. لا نستضيف أي محتوى على الموقع مباشرة.
+    </p>
+  </div>
+</div>
+
+<script>
+  const buttons = document.querySelectorAll<HTMLButtonElement>('.server-btn');
+  const frame = document.getElementById('video-frame') as HTMLIFrameElement | null;
+  const loading = document.getElementById('player-loading') as HTMLElement | null;
+  const errorBox = document.getElementById('player-error') as HTMLElement | null;
+
+  let errorTimer: number | undefined;
+
+  function setActive(idx: number) {
+    buttons.forEach((b, i) => {
+      const active = i === idx;
+      b.classList.toggle('bg-brand-600', active);
+      b.classList.toggle('text-white', active);
+      b.classList.toggle('bg-surface-3', !active);
+      b.classList.toggle('text-gray-200', !active);
+    });
+  }
+
+  function showLoading() {
+    loading?.classList.remove('hidden');
+    errorBox?.classList.add('hidden');
+    clearTimeout(errorTimer);
+    // If iframe doesn't fire "load" quickly, keep loading indicator; never auto-fail —
+    // many third-party iframes block the load event.
+  }
+
+  frame?.addEventListener('load', () => {
+    loading?.classList.add('hidden');
+  });
+
+  buttons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const url = btn.dataset.url!;
+      const idx = Number(btn.dataset.idx || 0);
+      setActive(idx);
+      showLoading();
+      if (frame) frame.src = url;
+    });
+  });
+
+  // initial: hide loading after 4s regardless, so the user isn't stuck
+  setTimeout(() => loading?.classList.add('hidden'), 4000);
+</script>

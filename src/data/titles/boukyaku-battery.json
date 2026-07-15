@@ -1,0 +1,544 @@
+{
+  "slug": "boukyaku-battery",
+  "clean_title": "Boukyaku Battery",
+  "raw_name": "انمي Boukyaku Battery",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/boukyaku-battery.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7295835245131"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fWLE0NZZU5TBwhL5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8wkgjy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7295843437131"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7295848352331"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NPNDIDVmGnFtXOsC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5004612,
+          "tmdb_still_path": "/rDzo46nsY1sYFU0UVryT1pzyzKo.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7315614272075"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6xU2X7omkGomJAOY"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8wwl5e"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7315625609803"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7315635112523"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8EWvbOr6butxleE3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5267942,
+          "tmdb_still_path": "/mCdosQD9v0fAuyG9ENQTYLyZZWM.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7335779502667"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=v4oWwE0SIORT8SIL"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8xc5lu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7335785204299"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7335792282187"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zbqz9edHaiaBV4jW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5267943,
+          "tmdb_still_path": "/naZua5cgjH1AjbfGu3E6DNmpXWW.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7356881570379"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Q2VHy6r5VcRe2oNb"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8xpiiu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7356901427787"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7356908898891"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RWr5tIKiba3Z9wSr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-01",
+          "runtime": 24,
+          "tmdb_episode_id": 5268195,
+          "tmdb_still_path": "/jqhi6txYiRdnoXbdtcebwSz0U57.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7379518884427"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=joscipif8MV7NLBj"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8y5pi8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7379527338571"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7379532253771"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0c3SDxDfhKP0Ebiu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5268196,
+          "tmdb_still_path": "/hHsIWpVTwbAQDcsQn2RBdMMvxay.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7403380542027"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9YPqmlpFsi2dAdJW"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8yhn8c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7403386374731"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7403391879755"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bOWQCA2zGyJ0qSiN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5268197,
+          "tmdb_still_path": "/orgqPvT9GfXF3yhFwl3loaPhRZw.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7426158103115"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=m72H3lBJdz2JnsuJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8yubv6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7426168195659"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7426173700683"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bM08GGvWbTe1wnFA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5268198,
+          "tmdb_still_path": "/epwcTSq3lpPtK1c9BJ3VN5svYD8.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7469754419787"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5oy5Wk9YEB8qXeE1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8zmt14"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7469765298763"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7469768968779"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GlpnvmO3Tp23vxt0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5268199,
+          "tmdb_still_path": "/2pAQJW5cYMhgt6uyxFpJ7KVc2ty.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7493244029515"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KQxdt1lHApK6itm3"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x90553q"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7493251369547"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7493256088139"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=x72DfhRLgmdRov8t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5268200,
+          "tmdb_still_path": "/voLCSfjADFbQXzq92oW9n24C5pY.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7514937363019"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZrOayi0eOr1QH7Ke"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x90j2se"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7514945030731"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7514950470219"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mf4KJhdtB38U1IE5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5268201,
+          "tmdb_still_path": "/mxLm699Ti1GyZc2N4J1odn6GEbG.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7541099858507"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4UVqwZKVxg8h42zV"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x90xkz0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7541107395147"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7541111982667"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=y6Llut6to6RwGgtB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-26",
+          "runtime": 24,
+          "tmdb_episode_id": 5268202,
+          "tmdb_still_path": "/2tIhVpttApB6wH6k2tcSFK5tWJf.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7562091170379"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6rigswJXggFfIIaR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91dhji"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7562098969163"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7562102180427"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8MggO0h0yBkDNLLe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5268203,
+          "tmdb_still_path": "/rj62F8Mnn8k1w9xxUGlSn2c0SaV.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Boukyaku Battery ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. يدور أنمي Boukyaku Battery حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء رياضي، شونين، مدرسي، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/boukyaku-battery",
+  "story": "يدور أنمي Boukyaku Battery ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. يدور أنمي Boukyaku Battery حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء رياضي، شونين، مدرسي، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Toshiki Masuda، Mamoru Miyano، Yohei Azakami، Nobunaga Shimazaki، Yuki Kaji، Yoshitaka Yamaya",
+  "genre": "أنمي، رسوم متحركة، دراما، كوميديا",
+  "trailerId": "ltJa3i_4GyQ",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Boukyaku Battery",
+    "mainDescription": "يدور أنمي Boukyaku Battery ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. يدور أنمي Boukyaku Battery حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء رياضي، شونين، مدرسي، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Boukyaku Battery أنمي 2024 | يدور أنمي Boukyaku Battery ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Boukyaku Battery من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/231873"
+    }
+  },
+  "tmdb_id": 231873,
+  "tmdb_url": "https://www.themoviedb.org/tv/231873",
+  "original_title": "忘却バッテリー"
+}

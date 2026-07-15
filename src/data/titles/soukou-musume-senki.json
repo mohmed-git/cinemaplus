@@ -1,0 +1,243 @@
+{
+  "slug": "soukou-musume-senki",
+  "clean_title": "Soukou Musume Senki",
+  "raw_name": "انمي Soukou Musume Senki",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/soukou-musume-senki.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 6,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 6,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/wxeplhnzyk06nj-"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7gc7i9hzroc0.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-u991gtdnbbql.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2289113,
+          "tmdb_still_path": "/escA7TTVDtTb8JmwWjjaZoUd0sO.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/wxeplhnzyk06nj-"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-xgxziobx9lkm.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2605907,
+          "tmdb_still_path": "/kNmoIxnnFjFmOlrjgpmqprhQCLG.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/wxeplhnzx741nlq"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-x6h65ci3dx6g.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2605909,
+          "tmdb_still_path": "/jJRRlXCGBuveuMzGKlJwCzgQvXQ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2314441984587"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/lkuEdu7Cea"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1kY9PI8JQ2CYzh6N8XHwfxBeyg14OOSAD/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-s1q78nizq3gk.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2314484320843"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r2z6kbe82n78-mw"
+            },
+            {
+              "id": 7,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1_LmO8OTKuSjU9M8shSXFLcS1--V7oM1x/preview"
+            },
+            {
+              "id": 8,
+              "label": "fmplay - SD",
+              "url": "https://www.fembed.com/v/4yw3-tznkr05yq0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2605910,
+          "tmdb_still_path": "/5D320emjEzxCwdJEh2aMaqtmGgR.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/vczfSOSMiq"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/r2z6kbe83p06n0m"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0molxh54fueh.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/yg3kycen27823g5"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6gp2lrqi5gzd.html"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-dwfnht0stos4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2605912,
+          "tmdb_still_path": "/nsVXBlRUFiP0Z0WE9RQfDmuC7Z8.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/3ewg-hm347yx3-l"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-z93imej158nx.html"
+            },
+            {
+              "id": 3,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/g48mxt-edkj036p"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-hh37kc26pldm.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2605913,
+          "tmdb_still_path": "/x58Jw04eac5QEjJuinOyGlIoWjf.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Soukou Musume Senki ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Soukou Musume Senki من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، عسكري، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و6 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/soukou-musume-senki",
+  "story": "يدور أنمي Soukou Musume Senki ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Soukou Musume Senki من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، عسكري، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و6 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Rikako Aida، Rie Murakawa، Saori Onishi، Ayaka Fukuhara، Saki Miyashita",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "QcUfH9_sLfE",
+  "rating": "5.7",
+  "imdb_rating": "5.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Soukou Musume Senki",
+    "mainDescription": "يدور أنمي Soukou Musume Senki ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Soukou Musume Senki من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، عسكري، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و6 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Soukou Musume Senki أنمي 2021 | يدور أنمي Soukou Musume Senki ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Soukou Musume Senki من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/104155"
+    }
+  },
+  "tmdb_id": 104155,
+  "tmdb_url": "https://www.themoviedb.org/tv/104155",
+  "original_title": "装甲娘戦機"
+}

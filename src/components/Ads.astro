@@ -1,0 +1,42 @@
+---
+/**
+ * مكوّن الإعلانات — Adsterra
+ * يُستخدم في Base.astro فقط ويغطي جميع الصفحات.
+ */
+---
+
+<!-- ═══════════════════════════════════════════════
+     1) Popunder — يُحمَّل مرة واحدة لكل جلسة
+     ═══════════════════════════════════════════════ -->
+<script src="https://pl29732227.effectivecpmnetwork.com/ee/83/d3/ee83d32a4831963ddc166312735eb9d8.js" is:inline></script>
+
+<!-- ═══════════════════════════════════════════════
+     2) Social Bar — يظهر في الجزء السفلي تلقائياً
+     ═══════════════════════════════════════════════ -->
+<script src="https://pl29732229.effectivecpmnetwork.com/6a/4f/c7/6a4fc7ce371ab54cb46f7a0a514f61d8.js" is:inline></script>
+
+<!-- ═══════════════════════════════════════════════
+     3) Smartlink كـ Popunder ثانوي على أول نقرة
+     ═══════════════════════════════════════════════ -->
+<script is:inline>
+(function () {
+  const SMARTLINK = "https://www.effectivecpmnetwork.com/wbnrckax?key=af6decf62eddc36667ffab047fdae426";
+  const KEY = "_sl_fired";
+  // تشغيل مرة واحدة كل 24 ساعة
+  function shouldFire() {
+    const last = parseInt(sessionStorage.getItem(KEY) || "0", 10);
+    return Date.now() - last > 86400000;
+  }
+  function fire(e) {
+    // تجاهل النقرات على روابط الإعلانات نفسها
+    if (e.target.closest('a[href*="effectivecpmnetwork"]')) return;
+    if (!shouldFire()) return;
+    sessionStorage.setItem(KEY, String(Date.now()));
+    try {
+      const w = window.open(SMARTLINK, "_blank", "noopener");
+      if (!w) window.location.href = SMARTLINK; // fallback إذا حُجب الـ popup
+    } catch (_) {}
+  }
+  document.addEventListener("click", fire, { once: false, passive: true });
+})();
+</script>

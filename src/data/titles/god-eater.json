@@ -1,0 +1,325 @@
+{
+  "slug": "god-eater",
+  "clean_title": "God Eater",
+  "raw_name": "انمي God Eater",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/god-eater.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8jfpcyz0mf7y"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/2rf224flqiyv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1067087,
+          "tmdb_still_path": "/cekrw6jT2AiEJ9aZIbiFhbu9IAF.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/fjeh0zz4n06s"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/nkos3xwy47pe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1092002,
+          "tmdb_still_path": "/yhfTvGHBm0JxItbe3gmmnGO7DO7.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uxa53q2ai0od"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/2fdgdysvjvr2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1092003,
+          "tmdb_still_path": "/qs0ogNvXHxTqcYg5WpSTmV2gnYC.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/9f8ctlsh2luv"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/tkgdms8jaykc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1189758,
+          "tmdb_still_path": "/7MReASBS8g1fLWmG5J3VFJRwmi5.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/hsa0slj6f3at"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/rtrcea1zhlmk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1189759,
+          "tmdb_still_path": "/fLowmOhRBjPoIXUaqW6jeV2RPZR.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/tuzddow4306d"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/6bh85q0i0dey"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1102606,
+          "tmdb_still_path": "/jECh7rvUtTrf3orzG0VMkvkhwRn.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/s4prj086ftp5"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/00swwn85iujo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1104795,
+          "tmdb_still_path": "/3dHWhDW65aHY4IyBtvXUqgZOkpm.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/rh5hzvitx77h"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/2yjaoid791jl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1108933,
+          "tmdb_still_path": "/mQx9hwTbMlucRY7CnysnozjVOnr.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/z62mzq3ll2pe"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/q8agepi2wdiz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1175270,
+          "tmdb_still_path": "/qZ0ZscYUyxkFnBib1CKoNNABmfz.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ng5nvj7scrx9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/d60aeq1rjufl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1175271,
+          "tmdb_still_path": "/ajlQpfbBdhEBz1d2hps51FqpfQu.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uxooqoipofcs"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/ars14qcch2e2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1175272,
+          "tmdb_still_path": "/nqDpghKTkb3KMtbJzPCrOaG8A3F.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5yfhaumlxuts"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/dv5phasxgxe6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1179103,
+          "tmdb_still_path": "/5dW1A8JjVbeJzH2n6WjBI4rAiJ2.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/cevv417a51jf"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/irzzse0odntn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1179104,
+          "tmdb_still_path": "/mzdf8BxI0wsTxwzVx2C0CMj8Tm2.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي God Eater ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة God Eater من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال، عسكري، خيال علمي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/god-eater",
+  "story": "يدور أنمي God Eater ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة God Eater من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال، عسكري، خيال علمي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2015",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ryuichi Kijima، Hiroaki Hirata، Kazuya Nakai، Sayaka Ohara، Daisuke Sakaguchi، Maaya Sakamoto",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا",
+  "trailerId": "2LUfrT5hZM4",
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "God Eater",
+    "mainDescription": "يدور أنمي God Eater ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة God Eater من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال، عسكري، خيال علمي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "God Eater أنمي 2015 | يدور أنمي God Eater ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات God Eater من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/62773"
+    }
+  },
+  "tmdb_id": 62773,
+  "tmdb_url": "https://www.themoviedb.org/tv/62773",
+  "original_title": "ゴッドイーター"
+}

@@ -1,0 +1,349 @@
+{
+  "slug": "kemono-jihen",
+  "clean_title": "Kemono Jihen",
+  "raw_name": "انمي Kemono Jihen",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kemono-jihen.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/7mjexezc5spa"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-zfr1bsg3a3tl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2179852,
+          "tmdb_still_path": "/96PGx7mw4jgG3eQP6nLcM2c2z6i.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/eidxredgd3vg"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kerbrf88achg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2614477,
+          "tmdb_still_path": "/d8aOX9dAr9ZDo1VcQlbVi5ALIah.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/qm1xeu7r8bzp"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/n1r80h2pz42ddk8"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rnhqn1jclbru.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 2614478,
+          "tmdb_still_path": "/845Dxshy1aTNZQjwzre8cdvcUTB.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/1etaf3rqniba"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/e-8kes-xw0r2636"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-gv9ihvgt9kpq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 2614479,
+          "tmdb_still_path": "/AkigIe6vSCNyfrOrwihfjZFsSJT.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/a8gvzpwn4zsy"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/e-8kes-x57y775d"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0eqwxnkgpjl8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2614480,
+          "tmdb_still_path": "/kTwEO6Zg41gtXdD89Gg9IFQnXn7.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/8p60cjf1qrh9"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/mp0xds5647qy6zp"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-83kwyssss9g9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2614481,
+          "tmdb_still_path": "/3JPst9L5ipwW1oBsSuURevybSpD.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/xmyrpukmjqoo"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/1544dujkj510w-3"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-n9fkzoxrm6ic.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2614482,
+          "tmdb_still_path": "/7SpAjo5KPLoBpZIiF0SvEs9S5Lg.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/2ywd5lebqbko"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/g48mxt-ezgw5dg4"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-urb5h2uz5xg7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2614483,
+          "tmdb_still_path": "/hBGRe6GxN6GWFp6SmzVux7wT3gd.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hrrer9veudut"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/mp0xds56llj03dk"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-sjvdhk3gkwun.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2614484,
+          "tmdb_still_path": "/zqokMcEQk72cEoPUd9hrsivYvOD.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/5v0ku7jokh7g"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/wxeplhndl0je5ln"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bes3d6nxmcd9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2614485,
+          "tmdb_still_path": "/unhKtUe3JMoSzCoRaVNzbSjFqzy.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ecwzynr2lcfl"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/wxeplhnd4r60d0l"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-04un6balal5b.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2614486,
+          "tmdb_still_path": "/z5fQDkMsnoXWiN7QQgTEyAF1vgo.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ielpwuv6eehq"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-y73dnefl0p28.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2696413,
+          "tmdb_still_path": "/l3O2CCDunvrMiEPIoyjXyJzG8DO.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kemono Jihen ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Kemono Jihen على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، غموض، شياطين، خارق للطبيعة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/kemono-jihen",
+  "story": "يدور أنمي Kemono Jihen ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Kemono Jihen على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، غموض، شياطين، خارق للطبيعة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Natsumi Fujiwara، Junichi Suwabe، Ayumu Murase، Natsuki Hanae",
+  "genre": "أنمي، رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "kK06OmMYgKU",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kemono Jihen",
+    "mainDescription": "يدور أنمي Kemono Jihen ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Kemono Jihen على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، غموض، شياطين، خارق للطبيعة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Kemono Jihen أنمي 2021 | يدور أنمي Kemono Jihen ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kemono Jihen من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/100022"
+    }
+  },
+  "tmdb_id": 100022,
+  "tmdb_url": "https://www.themoviedb.org/tv/100022",
+  "original_title": "怪物事変"
+}

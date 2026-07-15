@@ -1,0 +1,469 @@
+{
+  "slug": "kinoko-inu",
+  "clean_title": "Kinoko Inu",
+  "raw_name": "انمي Kinoko Inu",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kinoko-inu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7721306163910"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zaohJA7zHxSFrlco"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7721318288070"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PPGBEy1XWGGHO1bo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5581579,
+          "tmdb_still_path": "/7OSKgDK6nAF8NeUV1mLdhj3jDf4.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PV0oU7ZrDmvl2LKk"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/brx0cfhuzpam"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/twtddg9tqw0n"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oOmspl6UMiC4hVHt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5645861,
+          "tmdb_still_path": "/evAy4kZyBauq8JhjX4sAkmDM4s5.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6lsabgddzh1cYiXG"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/1514seyhgytg"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/iasitp0xrotq"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kU2JmirNLMjBtkTT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5664600,
+          "tmdb_still_path": "/ojd2iVWPQJkmIjjZC4yUHCyemOn.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yzs5HHFjmieZPXyt"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/bloz07f9klwk"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/ibtdvo56uzdx"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Qk3uXEdv1Y8aoL2R"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/cl6hdfpn4fl1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5696584,
+          "tmdb_still_path": "/4QttSTN9ALTEBae42YmM1l484wK.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DVeOaaVaV229HBRP"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/7je5aukgd7n1"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/pker7pq9jowq"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Mm9ODfg4CvreF0ow"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/gidcugq1jbdj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5697611,
+          "tmdb_still_path": "/FTL9wfJznP7iUbWSdzmgt0wT9E.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Vm0U1qiWV79GnhTw"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/sdz9d4j70o7i"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/jt9wjfgt9e3f"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gVjy0IUJCOpcxcQ6"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/d7t91yzmb5pp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5735306,
+          "tmdb_still_path": "/uBfldIG0HX7D43h96FmaCBVbMbf.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EcM1fQk6wLMVeHeW"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swishsrv.com/e/c2zz6l3awjyr"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swishsrv.com/e/yseitkrn9mw6"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mET0qFQZJ4GMMsDp"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swishsrv.com/e/mnie069iqlsk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5735310,
+          "tmdb_still_path": "/8HUh2gtQ3AEtxfPvt9hYQUa4znF.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=koqQxWj0CwMBvMvg"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swishsrv.com/e/rqdizxlwvc8u"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swishsrv.com/e/5rmsnn22drf9"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zOeDmU6IEe6SrtrB"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swishsrv.com/e/w907xtxbiaj9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5735311,
+          "tmdb_still_path": "/wVUu4gQt3wKdbRC7JFIuYdIIYTC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=hSr7yK8HE2C0MDmu"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/zo8anrsverw6"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/214ot2w92krp"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GcaFyrUvmD78AYpQ"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/9upzdz08769w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5735312,
+          "tmdb_still_path": "/jHkxyMlKCPENFnG71KU0kVpPmBy.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qLXQTvNOOfeZi0Yd"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/vlxbruu0byca"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/81a6m3f88c8t"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lAjLUcXJIiDsztoZ"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/cfw41jg4i5tj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5735313,
+          "tmdb_still_path": "/xwksOuO3UKtwy9HGc2oLkhvkiu3.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9IQ7NMJ5u87xGGW0"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/9bajeabxiunv"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/5zqhiywv0vqo"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fxa1yYT0WXFxyyLV"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/qe4gjal23db9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5735314,
+          "tmdb_still_path": "/4Y4kYj4ZdQyphTRElom8G4ryOTD.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lD6ktwPp4ISg8CFs"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/xi1f4g1d0l5e"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/ia6ky5t0h7oq"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mmz3OS6NPzPE3C5l"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/xu2kr2sdlvsg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5735315,
+          "tmdb_still_path": "/hS9TyBuvpSMehZhXcANAyWBvXG1.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kinoko Inu ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Kinoko Inu على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. ينتمي العمل إلى أجواء سينين، شريحة من الحياة، لذلك يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "url": "/anime/kinoko-inu",
+  "story": "يدور أنمي Kinoko Inu ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Kinoko Inu على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. ينتمي العمل إلى أجواء سينين، شريحة من الحياة، لذلك يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Daiki Kobayashi، Yuto Uemura، Takuma Terashima، Misaki Kuno، Anna Nagase",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": null,
+  "rating": "7.0",
+  "imdb_rating": "7.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kinoko Inu",
+    "mainDescription": "يدور أنمي Kinoko Inu ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Kinoko Inu على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. ينتمي العمل إلى أجواء سينين، شريحة من الحياة، لذلك يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+    "metaDescription": "Kinoko Inu أنمي 2024 | يدور أنمي Kinoko Inu ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kinoko Inu من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/270659"
+    }
+  },
+  "tmdb_id": 270659,
+  "tmdb_url": "https://www.themoviedb.org/tv/270659",
+  "original_title": "きのこいぬ"
+}

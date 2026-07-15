@@ -1,0 +1,220 @@
+{
+  "slug": "pluto",
+  "clean_title": "Pluto",
+  "raw_name": "انمي Pluto",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/pluto.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "حلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QKPcujGFZkkXqQc4"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NuJUhQuyRpCmUZzd"
+            }
+          ],
+          "overview": "يتم العثور على حُطام آلي سويسري محبوب. وفي تلك الأثناء، يتحرى المحقق \"غيجيشت\"، المعني بالآليين في الـ\"يوروبول\"، عن قضية أخرى غريبة ذات صلة.",
+          "air_date": "2023-10-26",
+          "runtime": 72,
+          "tmdb_episode_id": 1877592,
+          "tmdb_still_path": "/mAqCVVw5VG3KZcI2O528LDlZcSZ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "حلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Wkrl8XIeCegRiZDb"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=i3ab8bL71hirTXR0"
+            }
+          ],
+          "overview": "يُعثر على جثة قتيل آخر غُرِس فيها قرنان. ويتواصل \"غيجيشت\" مع \"أتوم\"، وهو أكثر الآليين السبعة تطورًا، للمساعدة في تحليل جرائم القتل المتسلسلة.",
+          "air_date": "2023-10-26",
+          "runtime": 58,
+          "tmdb_episode_id": 4560454,
+          "tmdb_still_path": "/evYFDMR0DvhL7lt6CPyfbmKDfF4.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "حلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3AbugcmUDO7iIrJn"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wGYgUb4PlJp7aTrl"
+            }
+          ],
+          "overview": "يُستدعى \"عبد الله\" من قِبل مفوض الشرطة \"طواش\" بخصوص مقتل \"تازاكي\"، ويشتبه \"غيجيشت\" في تعرّض بياناته للاختراق.",
+          "air_date": "2023-10-26",
+          "runtime": 63,
+          "tmdb_episode_id": 4560455,
+          "tmdb_still_path": "/lfc90O04b6Xkvev0ciwdnyrMWaY.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "حلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tHcTafp8kxJxXsNg"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vKoqyvhuQ8WtavPv"
+            }
+          ],
+          "overview": "يُحضر البروفيسور \"أوتشانوميزو\" كلبًا آليًّا محطمًا إلى البيت ويحاول إصلاحه. وبعد فترة وجيزة، يزوره في منزله رجل غامض يزعم أنه صاحب الكلب.",
+          "air_date": "2023-10-26",
+          "runtime": 59,
+          "tmdb_episode_id": 4560457,
+          "tmdb_still_path": "/4vCyaXmiadyMKEb0yWjyhWiGWQK.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "حلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VRH5tbdhkpMxf8JP"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=A1pbz6qmOox2Clqu"
+            }
+          ],
+          "overview": "بعد توصيل \"أدولف هاس\" إلى منزل آمن، يبحث \"غيجيشت\" في ماضيه. وفي تلك الأثناء، يشعر \"هركليز\" و\"إبسيلون\" بتهديد غامض يقترب منهما.",
+          "air_date": "2023-10-26",
+          "runtime": 60,
+          "tmdb_episode_id": 4560458,
+          "tmdb_still_path": "/e4Tfkzv0ab0FXg1BuBW7P7VYOFR.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "حلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eNgcWjnjwFIopz9o"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=q8t1TE6pZtAl2DNy"
+            }
+          ],
+          "overview": "يلتقي \"غيجيشت\" بـ\"عبد الله\" في \"بلاد الفرس\" ليتحرى أكثر عن القضية لكنه يكتشف كذبة، ثم يقترب قليلًا من الحقيقة حين يصادف طفلًا آليًّا.",
+          "air_date": "2023-10-26",
+          "runtime": 61,
+          "tmdb_episode_id": 4560459,
+          "tmdb_still_path": "/wrXjDMt0mGDffEahR5ow3ICL2Tj.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "حلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=03TaFYJH5iqF8rDy"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=S5MQuRZp5LAOPrE8"
+            }
+          ],
+          "overview": "يحاول الدكتور \"تينما\" استعادة \"أتوم\" مهما كلفه الأمر، وينصح مسؤول حكومي \"إبسيلون\" المهموم بالإخلاء لأنه سيكون الهدف التالي.",
+          "air_date": "2023-10-26",
+          "runtime": 56,
+          "tmdb_episode_id": 4560460,
+          "tmdb_still_path": "/6MW1AgghuwJ1MK8SSPHfSswrxxh.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "حلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1JgItOsU1b7DjFY8"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2QvUvdDm95bEbLpC"
+            }
+          ],
+          "overview": "يراقب البروفيسور \"أوتشانوميزو\" سلوك \"أتوم\" الغريب عن كثب. ويواجه الدكتور \"تينما\" ماضيه وتتكشف الحقيقة التي تثير تهديدًا مدمرًا للعالم أجمع.",
+          "air_date": "2023-10-26",
+          "runtime": 68,
+          "tmdb_episode_id": 4560461,
+          "tmdb_still_path": "/qcDkAL5mrt81OGqMl2S3FkCATU1.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "عندما تدمَّر الروبوتات السبعة الأكثر تطوّرًا في العالم ويُقتل حلفاؤها من البشر واحدًا تلو الآخر، سرعان ما يكتشف المفتش \"غيجيشت\" أنه معرّض للخطر أيضًا.",
+  "url": "/anime/pluto",
+  "story": "عندما تدمَّر الروبوتات السبعة الأكثر تطوّرًا في العالم ويُقتل حلفاؤها من البشر واحدًا تلو الآخر، سرعان ما يكتشف المفتش \"غيجيشت\" أنه معرّض للخطر أيضًا.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shinshu Fuji",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، غموض، جريمة",
+  "trailerId": "9ez8lm9I26Y",
+  "rating": "7.8",
+  "imdb_rating": "7.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Pluto",
+    "mainDescription": "عندما تدمَّر الروبوتات السبعة الأكثر تطوّرًا في العالم ويُقتل حلفاؤها من البشر واحدًا تلو الآخر، سرعان ما يكتشف المفتش \"غيجيشت\" أنه معرّض للخطر أيضًا.",
+    "metaDescription": "Pluto أنمي 2023 | عندما تدمَّر الروبوتات السبعة الأكثر تطوّرًا في العالم ويُقتل حلفاؤها من البشر واحدًا تلو الآخر | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Pluto من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/91997"
+    }
+  },
+  "tmdb_id": 91997,
+  "tmdb_url": "https://www.themoviedb.org/tv/91997",
+  "original_title": "PLUTO"
+}

@@ -1,0 +1,559 @@
+{
+  "slug": "overtake",
+  "clean_title": "Overtake!",
+  "raw_name": "انمي Overtake!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/overtake.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6681510545995"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nCDTCEIvIBpqZ9CL"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ogehd"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6681523063371"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/QvsziQIR#Zjj6v0IBGowxbaQ9WJEe_wiwLS5ceUb6lA3LoXrFbAM"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6681533680203"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Zm6VTxE5EdiURFG7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-01",
+          "runtime": 25,
+          "tmdb_episode_id": 4175027,
+          "tmdb_still_path": "/aJQ152Vx0rySr055ehmFVMBwhAL.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6703184611915"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=S5TdY4UA1SxLpFOG"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8oo536"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6703192345163"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/u34UUYKZ#_FBlshhp1NWIFd13Gke-3kZV4sFi-CtmiigBizz_8dQ"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6703204272715"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=N7uAMu2grd6lnzW7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4779681,
+          "tmdb_still_path": "/svIt3CKdG7ZI6lRNhSIrsNvpUpb.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6724799892043"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mrjAOxahVPSif6DL"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ouew8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6724813523531"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/TzYykSzY#1KXerjOzJwMVxLx4n68cs8S87YPrmdfGtartfsZI-Z0"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6724818111051"
+            },
+            {
+              "id": 7,
+              "label": "vdea - FHD",
+              "url": "https://videa.hu/player?v=9JrIxx3YdvgMYbvd"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8ouf0s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-15",
+          "runtime": 24,
+          "tmdb_episode_id": 4779684,
+          "tmdb_still_path": "/j8CY43n8Eu1jNR4C3Snsfvkji05.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6747899693643"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2LskxH0sQKxOu58z"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6747912342091"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/5ulQ1ZgB#4mOGYNcxbL2W-LQUgaHFfyfp7GKUsJxEuYj9t7hc3-8"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6747924007499"
+            },
+            {
+              "id": 6,
+              "label": "vdea - FHD",
+              "url": "https://videa.hu/player?v=RdP6IvL9fvabHOHs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-22",
+          "runtime": 24,
+          "tmdb_episode_id": 4779688,
+          "tmdb_still_path": "/tAcy5SEu4tW1GIc0GrR05NlKml.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6770609097291"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Snw1GwPVbzRcUkrn"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6770621286987"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/CIZEiCwS#qxmnNRKufAbwPBsOs_Uoz6UlZPCmr53fg3CSmwZ_wLM"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6770629544523"
+            },
+            {
+              "id": 6,
+              "label": "vdea - FHD",
+              "url": "https://videa.hu/player?v=IKJZGIcDaC4IGDzk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-29",
+          "runtime": 24,
+          "tmdb_episode_id": 4779692,
+          "tmdb_still_path": "/q7wx3upSVbtWQR5RttFpgddBUTA.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6793272560203"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YPFI3vEF0fCk59cl"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6793284815435"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/kfNXwTCB#NwpWFDUGe7YD_R08P0PLnY9GoXurjCBzJr-yb4SFp1s"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6793291893323"
+            },
+            {
+              "id": 6,
+              "label": "vdea - FHD",
+              "url": "https://videa.hu/player?v=y3blGVAr8tLxF7zp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4779711,
+          "tmdb_still_path": "/i8baJyZqDCAznNLRsfMrQMC77T4.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6814544431691"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JYPVyEaqKkXHlqvz"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6814557866571"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0DkxjDoa#mbJCBVeGwxRIFh2D8A5v6-WKj1FSCkwLLKkS0MLM1Vs"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6814563240523"
+            },
+            {
+              "id": 6,
+              "label": "vdea - FHD",
+              "url": "https://videa.hu/player?v=EYVslB6RtEHu1jWR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4779714,
+          "tmdb_still_path": "/o0pWN39wY2GDCZbLYKvPmAswdg9.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6836424280651"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=k3LUZffTS2wHknPb"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6836433455691"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/vZF2TLpI#cDzIeaHzxXcxP-tsJLoN0nHZYXMbumZ4IbZfprPDmkg"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6836440140363"
+            },
+            {
+              "id": 6,
+              "label": "vdea - FHD",
+              "url": "https://videa.hu/player?v=Y2aIvHPN2919y4Gi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4779717,
+          "tmdb_still_path": "/5Rk3MH3DY4MEyuS9IOaYdsz7lXL.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6860115413579"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=LIH5zJzJvUxPGyKI"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6860127144523"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/s30SiDYI#WNonuMRa1XekOaAzOZLfF6K_seBFRv-tD90o7OtthbI"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6860139006539"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hp1jLbnLNRsi5cBm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-26",
+          "runtime": 25,
+          "tmdb_episode_id": 4779720,
+          "tmdb_still_path": "/VUuwq70Q52ixZk3X57WTSC2WHk.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6881391741515"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=i4lYPwFexx3hDTIn"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6881401637451"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/N6sm0QRB#PQGXfelpIMLd2kwpF212Xy5tsq26heMlaI2zSt6Bmw4"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6881408453195"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SBugVYs97bgq1nCp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-03",
+          "runtime": 24,
+          "tmdb_episode_id": 4779722,
+          "tmdb_still_path": "/2AmJXHgRmvdrjfBFAWpT0ptPZjo.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6903896607307"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZYZDfyuF023OlUHS"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6903905258059"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/sa1GBCKB#6ixiSwfx8u73nu64fafqTf1CMrF8aeWKamVu8qM3m2Y"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6903909845579"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aywSYTCBtaUbjmvY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-10",
+          "runtime": 24,
+          "tmdb_episode_id": 4779725,
+          "tmdb_still_path": "/teyJCiTvk1tuU8zzJ3cvCPHNtWm.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6924891327051"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YcefiEKH2nRPU76m"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6924901616203"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/oe1SCLwD#rUIXaIlwasVNYqQPx0wmKvrFNtWIh7bwT1JCTEbZyJ4"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6924913216075"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4779728,
+          "tmdb_still_path": "/uo2UTUWSAHs2U4bAYVMkjfgduMO.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Overtake! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Overtake! حول رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "url": "/anime/overtake",
+  "story": "يدور أنمي Overtake! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Overtake! حول رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Anan Furuya، Katsuyuki Konishi، Tasuku Hatanaka، Kengo Kawanishi، Taku Yashiro، Reina Ueda",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "ra8E2whNNac",
+  "rating": "6.7",
+  "imdb_rating": "6.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Overtake!",
+    "mainDescription": "يدور أنمي Overtake! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Overtake! حول رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+    "metaDescription": "Overtake! أنمي 2023 | يدور أنمي Overtake | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Overtake! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/218684"
+    }
+  },
+  "tmdb_id": 218684,
+  "tmdb_url": "https://www.themoviedb.org/tv/218684",
+  "original_title": "オーバーテイク!"
+}

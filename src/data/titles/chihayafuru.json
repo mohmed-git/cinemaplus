@@ -1,0 +1,472 @@
+{
+  "slug": "chihayafuru",
+  "clean_title": "Chihayafuru",
+  "raw_name": "انمي Chihayafuru",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/chihayafuru.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/po01ataj6zq2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-05",
+          "runtime": 23,
+          "tmdb_episode_id": 898084,
+          "tmdb_still_path": "/g7Grem5RKCCWsLOEbnagP1dKkEG.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fwu65kwqvq71"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-12",
+          "runtime": 23,
+          "tmdb_episode_id": 898085,
+          "tmdb_still_path": "/rUBttDlRedG8j0I0fglGLrcdgf2.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4qpkutxdyudi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-19",
+          "runtime": 23,
+          "tmdb_episode_id": 898086,
+          "tmdb_still_path": "/8KUsGdIf9RWsXmXQ1mWKEc7e4FV.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/iajg85pc1s1w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-26",
+          "runtime": 23,
+          "tmdb_episode_id": 898087,
+          "tmdb_still_path": "/mcyi9AWtowDx5fc5q01f7TcGDVr.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4shrfl1nkw6k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-02",
+          "runtime": 23,
+          "tmdb_episode_id": 898089,
+          "tmdb_still_path": "/zLNd0BM0RRITjEYG0Fagf1uxsK4.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/kvuu6no00crk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-09",
+          "runtime": 23,
+          "tmdb_episode_id": 898088,
+          "tmdb_still_path": "/wbb7NRSRO3K5ABUUaK6Y079nF2p.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ebn6s2rb5ic8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-16",
+          "runtime": 23,
+          "tmdb_episode_id": 898090,
+          "tmdb_still_path": "/gxCLeeo1lF9WASykuwnw6q11cSh.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4ymbb8vv7mlt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-23",
+          "runtime": 23,
+          "tmdb_episode_id": 898092,
+          "tmdb_still_path": "/7inrcJlU11SI8tBu4zUhbLEN2l7.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6cmd1bhn0no0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-30",
+          "runtime": 23,
+          "tmdb_episode_id": 898091,
+          "tmdb_still_path": "/5g6oQJ9I3LXcLGGK8ag9x4UuF6o.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ba7gpg32cwfg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-07",
+          "runtime": 23,
+          "tmdb_episode_id": 898094,
+          "tmdb_still_path": "/bhpGZO4iob90KB5Ww0hDoLYweBe.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cqwgwxqkhsdm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-14",
+          "runtime": 23,
+          "tmdb_episode_id": 898093,
+          "tmdb_still_path": "/YktyD9hTRtpqLffzZOZCKck41d.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3m2optb9af5g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-21",
+          "runtime": 23,
+          "tmdb_episode_id": 898095,
+          "tmdb_still_path": "/9BeRTzMi6BrzjvYhcW0tya98Fhh.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dxs0n8ffywmx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-01-04",
+          "runtime": 23,
+          "tmdb_episode_id": 898097,
+          "tmdb_still_path": "/gAOcfJvOCK9tBy6LoArctz9SvqO.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/g038keh55hp2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-01-11",
+          "runtime": 23,
+          "tmdb_episode_id": 898096,
+          "tmdb_still_path": "/gZPSvWC4Kt0uqTBb8za9YHKUjJz.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0dhmffuw1y7i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-01-18",
+          "runtime": 23,
+          "tmdb_episode_id": 898098,
+          "tmdb_still_path": "/2rMv90qavn30q3TDu0XDVKneqxG.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pb7i5vqbfaw6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-01-25",
+          "runtime": 23,
+          "tmdb_episode_id": 898099,
+          "tmdb_still_path": "/gag4J19TaDCTXOv24ILexPf3p2X.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qrll49yza5zy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-02-01",
+          "runtime": 23,
+          "tmdb_episode_id": 898100,
+          "tmdb_still_path": "/iPDa1ABhjhOuQ1YyetEj1hAu4AI.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/kbpd9cv0dm06"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-02-08",
+          "runtime": 23,
+          "tmdb_episode_id": 898101,
+          "tmdb_still_path": "/m5P6FyR7EXcVwlpSUtXmpsCmaYQ.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/m9vnlm8c17yp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-02-15",
+          "runtime": 23,
+          "tmdb_episode_id": 898102,
+          "tmdb_still_path": "/ba4dsV1yH4mxqbB22jPeeScabUg.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/oqx79qdbd2u7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-02-22",
+          "runtime": 23,
+          "tmdb_episode_id": 898103,
+          "tmdb_still_path": "/zRTavn4oplUHX2FVPxUiPhwkjjw.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/63hecyk6u8j2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-02-29",
+          "runtime": 23,
+          "tmdb_episode_id": 898104,
+          "tmdb_still_path": "/wLLd9xZ8Ad9WRMBOy8CZhioXVt4.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/c3dyblajfvg0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-03-07",
+          "runtime": 23,
+          "tmdb_episode_id": 898105,
+          "tmdb_still_path": "/gZFC7vgVHYdw1nA3LbSE0iSSvgM.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/w6s4tr390v8z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-03-14",
+          "runtime": 23,
+          "tmdb_episode_id": 898106,
+          "tmdb_still_path": "/eyTVfbYTtVC9a0n6FVXkTzR85ll.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/c5dfzik1rxv4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-03-21",
+          "runtime": 23,
+          "tmdb_episode_id": 898107,
+          "tmdb_still_path": "/8eb289iYWzQNr7vMqY3gilk7Kbo.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/x36wpvhg61ah"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-03-28",
+          "runtime": 23,
+          "tmdb_episode_id": 898108,
+          "tmdb_still_path": "/keh1UVALrw846Ek9yG2WAoODv0j.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "أمضت تشيهايا آياسي معظم حياتها في مساندة مسيرة أختها كعارضة. لكنها تلتقي يوماً صبياً يدعى آراتا واتايا الذي يرى فيها موهبة لاعبة كاروتا بارعة. بينما تحلم تشيهايا بأن تصبح أفضل لاعبة كاروتا في اليابان، تنفصل عن أصدقائها في اللعب. والآن في المرحلة الثانوية، لا تزال تشيهايا تمارس الكاروتا وتحلم بلقاء أصدقائها مجدداً.",
+  "url": "/anime/chihayafuru",
+  "story": "أمضت تشيهايا آياسي معظم حياتها في مساندة مسيرة أختها كعارضة. لكنها تلتقي يوماً صبياً يدعى آراتا واتايا الذي يرى فيها موهبة لاعبة كاروتا بارعة. بينما تحلم تشيهايا بأن تصبح أفضل لاعبة كاروتا في اليابان، تنفصل عن أصدقائها في اللعب. والآن في المرحلة الثانوية، لا تزال تشيهايا تمارس الكاروتا وتحلم بلقاء أصدقائها مجدداً.",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Asami Seto، Mamoru Miyano، Yoshimasa Hosoya",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "Y8U-E8hldHk",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Chihayafuru",
+    "mainDescription": "أمضت تشيهايا آياسي معظم حياتها في مساندة مسيرة أختها كعارضة. لكنها تلتقي يوماً صبياً يدعى آراتا واتايا الذي يرى فيها موهبة لاعبة كاروتا بارعة. بينما تحلم تشيهايا بأن تصبح أفضل لاعبة كاروتا في اليابان، تنفصل عن أصدقائها في اللعب. والآن في المرحلة الثانوية، لا تزال تشيهايا تمارس الكاروتا وتحلم بلقاء أصدقائها مجدداً.",
+    "metaDescription": "Chihayafuru أنمي 2011 | أمضت تشيهايا آياسي معظم حياتها في مساندة مسيرة أختها كعارضة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Chihayafuru من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45247"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "chihayafuru",
+      "title": "Chihayafuru",
+      "url": "/anime/chihayafuru",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 25,
+      "poster": "/images/anime/chihayafuru.jpg"
+    },
+    {
+      "slug": "chihayafuru-2nd-season",
+      "title": "Chihayafuru 2nd Season",
+      "url": "/anime/chihayafuru-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 25,
+      "poster": "/images/anime/chihayafuru-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 45247,
+  "tmdb_url": "https://www.themoviedb.org/tv/45247",
+  "original_title": "ちはやふる"
+}

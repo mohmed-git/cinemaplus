@@ -1,0 +1,963 @@
+{
+  "slug": "strike-the-blood",
+  "clean_title": "Strike the Blood",
+  "raw_name": "انمي Strike the Blood",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/strike-the-blood.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334543907403"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/071gnmeupikgsplcaf09xm3msgvk1lg7"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1_K1dVhMx513TH3NNwRxbBJA3N549QrZt/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-hur0fk5ljg24.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zl6jp4dxgjoa.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1010882,
+          "tmdb_still_path": "/hx1DH14t84zXQgyScETZMHuLXtL.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334628842059"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/ev8abrcc5wvybtk53cql9ernpdpfk5sc"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1FwPXixc7rD7A5cB9kdNJDbMGAVwjRl7N/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-mgt98pkxhjqp.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7hgviolev7h5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1207610,
+          "tmdb_still_path": "/sZROnoxMJbmwcnG9aF0pBlIKcnE.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334649485899"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/v342u8s5314trhwjuyxbofpzc4kh4l8z"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1LJxpNYShbLYQ2n6TAe1B6y9t-H076koQ/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-89g2e5npa4q0.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ywpcprtny4yz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1207611,
+          "tmdb_still_path": "/h6h5T5igniZF3Vr7aTv8LxiDOIc.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334671768139"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/ailx7whvnnshj330blooqwccs5acgd6g"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1S-n-OL1Jpk94X5H0g6qTUyg-CNYJ0E_G/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-3trttdyh7cpq.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ju00w8qdbsgt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1207612,
+          "tmdb_still_path": "/kJ0piX4UxB0CX3yG17pRC0WMuK.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334692674123"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/j8hdjpwmr2uuq0cep6l2riskjx21kux6"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1dlKGR_bl0OLj473Rg0tn2d8vqv6V_LdR/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-yq62f4o5k4b1.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-gtgonxe054b2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1207613,
+          "tmdb_still_path": "/lOaIaX6CItgni1mQOgXaYc7kxVt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334703487563"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/ts2b7w3zzubfjzxnf2vc6fjfu7s50oz5"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/12_f2KXcCUTkx_OmMbwxyYbGeuq5MWk89/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-4a6i33nh1par.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0sk2gryf6knj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1207614,
+          "tmdb_still_path": "/a5DQvbP1o59ZTxv2jdNlDdRcOTr.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334714432075"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/9kxm8xqokup5nwft4xb4v01fsomn66en"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1TCSntWEVVDHer0DMIxK_1XHSyFZXrMSm/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-cr6st8j4gglz.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-lpweickmxh47.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1207615,
+          "tmdb_still_path": "/pQqPq9sbXd9GjJtbr7JgrR1iarv.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334726294091"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/f0vzwzlwfx4rufugqlvl6koohqk0f4x5"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1VwucMFQl00e1JF2vCDS7g8Dc-YHMsXPL/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-gzyyakt9jidm.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-x8s33t0q8b4e.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1207616,
+          "tmdb_still_path": "/aGzjMIjaEynZgqqDHYWXLKbbmEz.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334738942539"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/y3jum4hjcx27yajfcfcbiyk3mf187ati"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1HbGoVToldArP1mOs91LPOggnbptySM-G/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-vu5ffhwah6xr.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ax1e6cwoyqkt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1207617,
+          "tmdb_still_path": "/1wKGG7bGwjqPJbA2W5tkAd9KxAk.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334799759947"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/dqhelth13zny3ysrgaycvst44p7zo6tz"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1QYgyxWSaUKVah3xitbyomhkfrPv1lg0_/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-kct5h94luwyl.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-914toc71mmsy.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1207618,
+          "tmdb_still_path": "/7opQPquXAot7mdGZRpBQIZYUJHP.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334863395403"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/8d0qnoz62shqy52gbybz0ugc2ug8ny6r"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1y3Nc0KLkcauvhHxGgRoS6kwUcpLU8DzB/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-yxg8ahuqyune.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-8d5nkcydk6vc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1207619,
+          "tmdb_still_path": "/tHiDM6GOtXcNBha2l5eIgCoy95s.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334885677643"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/v3ju7wqni6bevf30pbgjcftx3kcfp33g"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1CgUfHk9_YCoczMXZOW-EowXXLkUquvt-/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-ho5g5hpxkonr.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-eav1dycvz2ew.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1207620,
+          "tmdb_still_path": "/p9irOjZop0TEiUwTTTXEqj6bANE.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334967990859"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/r61qg30qstvw32crmcf2kscjg8zwgvso"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/19N8tf7GZouDvM_Pr-Sh0nY-etIMDpr33/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-wmd61et1fxjw.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-rm4epiu6u01w.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1207621,
+          "tmdb_still_path": "/vdkOc9uu3di7RHJXOjjbo6ozgbO.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334979066443"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/i5b0dvxffm64h9yuh2ilmygomvbp5haf"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1lAJeIUjyE-sPSINinsrTz12DkW3RCg9B/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-w7tucoepgzit.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-1smi5f0v8fu3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1207622,
+          "tmdb_still_path": "/r8DR0qwMY6QvGcYABqDGDeJaNE8.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2334990469707"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/6hncthyo569tteeaa58ly8sng4pszqgt"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1kek0aMtS7JZgp5wJuzqMZX_hfxxGVENy/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-ug89koqvj92v.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-g5fsfchc4y44.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1207623,
+          "tmdb_still_path": "/tdxON9mdAXXJaUQSJmQipk5KCOU.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335002987083"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/nud5psrg33y48vyz0hfkax2qk240j9bp"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1HVjPq9TD-xieSNUW5fQUuPOhr_dQ4aVp/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-nqep0mvy9i7t.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qf8isyk90jci.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1207624,
+          "tmdb_still_path": "/iztbp0r5MLPYuK5DWcC68I9fkgL.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335014324811"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/killk1eglycugl4qdq39q7ybf23yruo9"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1aqtweRrrg5x7mQhndlpFrkkvVbOF6frN/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-fvkv59tlixtl.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-yqrk1sspjrdx.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1207625,
+          "tmdb_still_path": "/zRGguIHEHbC5ZZCraPTBtcxbBur.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335026973259"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/4ckd8v064i9w5rgdmlm0n4mlil7xlfvp"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ps3Pwta0BcrSE_xFlsnDHfOt0Jc-77zQ/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-chhwdkzpdg8o.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-92hn7cw4bkod.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1207626,
+          "tmdb_still_path": "/a4iL3RY9YZTwIM3UTAtMjeuMUfo.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335037262411"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/5e6wdax3kjg4f7o2tmnct1pcrfu6a4l8"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1KtuChW66u2YOIjpji_640sxUipVHpyet/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-66tafsk4qbo5.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qtfmhn0kdq1m.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1207627,
+          "tmdb_still_path": "/nWqI5A5dnfFpjlnb58L9fiKfn8o.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335062166091"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/15kh2thxa48j3nrt9krih3vgc3s6e58a"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ok-p5bAN4vPD0O8kMqHdcCQ0EARsp43M/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-lt9sxwl8ksi8.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-q7k4qyqf27pj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1207628,
+          "tmdb_still_path": "/o4s8aEl1Go1fMT2zhJ6iOODHlVO.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335071537739"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/s6ytr03xqdp5jqyvaurbvzwm7zi8zrbh"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1bSPZz306rvTn5DbkIdkIYONTnAmJUqdz/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-ui74rk9xeviu.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qinl1m5sownl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1207629,
+          "tmdb_still_path": "/4Fe8JqklVZidOkVNjxGwtltkIqn.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335084120651"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/mc2rtirjfi7shzylryiprunny29tequ5"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1eZt-wptMYtkzpDJgNypRi2mUN4uHFZYx/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-fbwosoo2c6qj.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-1mbrzywk8yy6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1207630,
+          "tmdb_still_path": "/99AuVIcOc3MMTPv6sO0dWzj0YnW.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335102863947"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/px4i2x5qmuqoomultmo52qb2vmvey7qh"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/13PPTneTIFEZhluDz55QCER57Q1sEq7G1/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-w96hi0jnw8tq.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-u6n1fh9njt6h.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1207631,
+          "tmdb_still_path": "/7dvGJXHloyILXQXgGPQXO6P6Cex.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2335109548619"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/6liii5fjsqbnhu1s98kx39c0jngqhzc8"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1RNsbp8Npp60-ipLCL03E76pdTlhNM6uK/preview"
+            },
+            {
+              "id": 4,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-g9es7owfo4d0.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0w2latuveyov.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1207632,
+          "tmdb_still_path": "/jZpp0gKq5M0yEqXf9GiDPCv0Avc.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Strike the Blood ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يدور أنمي Strike the Blood حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، حريم، خارق للطبيعة، ايتشي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Strike the Blood على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/strike-the-blood",
+  "story": "يدور أنمي Strike the Blood ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يدور أنمي Strike the Blood حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، حريم، خارق للطبيعة، ايتشي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Strike the Blood على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoshimasa Hosoya، Risa Taneda، Asami Seto، Rina Hidaka، Ikumi Hayama، Ryota Osaka",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Strike the Blood",
+    "mainDescription": "يدور أنمي Strike the Blood ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يدور أنمي Strike the Blood حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، حريم، خارق للطبيعة، ايتشي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Strike the Blood على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Strike the Blood أنمي 2013 | يدور أنمي Strike the Blood ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Strike the Blood من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61440"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "strike-the-blood",
+      "title": "Strike the Blood",
+      "url": "/anime/strike-the-blood",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 24,
+      "poster": "/images/anime/strike-the-blood.png"
+    },
+    {
+      "slug": "strike-the-blood-final",
+      "title": "Strike the Blood Final",
+      "url": "/anime/strike-the-blood-final",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 4,
+      "poster": "/images/anime/strike-the-blood-final.jpg"
+    },
+    {
+      "slug": "strike-the-blood-ii",
+      "title": "Strike the Blood II",
+      "url": "/anime/strike-the-blood-ii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 8,
+      "poster": "/images/anime/strike-the-blood-ii.jpg"
+    },
+    {
+      "slug": "strike-the-blood-iii",
+      "title": "Strike the Blood III",
+      "url": "/anime/strike-the-blood-iii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 10,
+      "poster": "/images/anime/strike-the-blood-iii.jpg"
+    },
+    {
+      "slug": "strike-the-blood-iv",
+      "title": "Strike the Blood IV",
+      "url": "/anime/strike-the-blood-iv",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/strike-the-blood-iv.jpg"
+    }
+  ],
+  "tmdb_id": 61440,
+  "tmdb_url": "https://www.themoviedb.org/tv/61440",
+  "original_title": "ストライク・ザ・ブラッド"
+}

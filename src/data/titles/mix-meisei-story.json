@@ -1,0 +1,436 @@
+{
+  "slug": "mix-meisei-story",
+  "clean_title": "Mix: Meisei Story",
+  "raw_name": "انمي Mix: Meisei Story",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mix-meisei-story.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933771528779"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1724298,
+          "tmdb_still_path": "/7vsaxZ0Cu2EGMTMlhvrS34iqTRM.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933802854987"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1759625,
+          "tmdb_still_path": "/4UJ0b7nml8BQsOtPdvfUHWp4CyZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933806852683"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1766253,
+          "tmdb_still_path": "/48a7NsZ41c52ur4FDYkBF0DAda5.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933812030027"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1766254,
+          "tmdb_still_path": "/erBRHCHZkACJw2Xh0fo6WnqaiAl.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933821467211"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1766255,
+          "tmdb_still_path": "/8gynUxT8PRDtZLRVi9mmbmGJlr7.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933845912139"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1766256,
+          "tmdb_still_path": "/opvsG7DEXL3y7UBIHKVWMei9qAu.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933855808075"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1766257,
+          "tmdb_still_path": "/yC3MpSYJStBlwIiN3g22rW5GDtg.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933867604555"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1803806,
+          "tmdb_still_path": "/m16K2KtRnUtZFVTsWkVszlX7L7B.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933874223691"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1803807,
+          "tmdb_still_path": "/4r0PQYYWFv0mVNDy1DymVOkG9wM.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933885364811"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1819030,
+          "tmdb_still_path": "/aPodjnjxlhevRHYTtnRkCjUa6XY.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933954243147"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1819031,
+          "tmdb_still_path": "/5F57dpgLNSRWGCIdF3Dqvgs84Vm.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4933968923211"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1839731,
+          "tmdb_still_path": "/bsr4r9ojcbZlrJRcEz8x1NPblDp.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934625528395"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1839732,
+          "tmdb_still_path": "/fayoVvuuGi0My50qG67sL4j4CJr.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934376163915"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1850177,
+          "tmdb_still_path": "/bLLMUVVqHgWwvjOgah0GSmswx9Y.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934027709003"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1857012,
+          "tmdb_still_path": "/PdiSBwo9jxeJaGDx8BQOmiRwVm.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934032886347"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1864289,
+          "tmdb_still_path": "/pQ2t3OKALrfz2Q8xJ84aJSEMxud.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934038719051"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1871633,
+          "tmdb_still_path": "/gtqxX0a5EVTosXb9Hwh4iCSXEB3.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934045469259"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1881508,
+          "tmdb_still_path": "/uheq1VeIT51AdpZmMWRn9BVQLMO.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934053726795"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1881509,
+          "tmdb_still_path": "/mpZrdfpMRt4Rgr5IpdfzU48gj9q.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934063360587"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1892542,
+          "tmdb_still_path": "/3naYAnfysTxgDiv7ewujAdysfy3.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934073453131"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1898936,
+          "tmdb_still_path": "/rdJC5y9eV7LuipfJIuRUNlCfnD6.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934083938891"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1898937,
+          "tmdb_still_path": "/vCDf7U2UNxw3h4BfbtOqRoIlEFB.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934109825611"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1898938,
+          "tmdb_still_path": "/swT0K5Ar5c3Eg8D4QWolMhSZqfX.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4934121359947"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1898939,
+          "tmdb_still_path": "/dhzQinxTobJ7KAZCXTJWi28QukH.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Mix: Meisei Story ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 2 موسم و48 حلقة. يدور أنمي Mix: Meisei Story حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف رياضي، شونين، دراما، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mix: Meisei Story على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/mix-meisei-story",
+  "story": "يدور أنمي Mix: Meisei Story ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 2 موسم و48 حلقة. يدور أنمي Mix: Meisei Story حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف رياضي، شونين، دراما، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mix: Meisei Story على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuki Kaji، Yuma Uchida، Maaya Uchida، Kana Hanazawa",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": null,
+  "rating": "6.6",
+  "imdb_rating": "6.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mix: Meisei Story",
+    "mainDescription": "يدور أنمي Mix: Meisei Story ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 2 موسم و48 حلقة. يدور أنمي Mix: Meisei Story حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف رياضي، شونين، دراما، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mix: Meisei Story على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Mix: Meisei Story أنمي 2019 | يدور أنمي Mix: Meisei Story ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mix: Meisei Story من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/87456"
+    }
+  },
+  "tmdb_id": 87456,
+  "tmdb_url": "https://www.themoviedb.org/tv/87456",
+  "original_title": "MIX"
+}

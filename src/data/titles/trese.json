@@ -1,0 +1,353 @@
+{
+  "slug": "trese",
+  "clean_title": "Trese",
+  "raw_name": "انمي Trese",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/trese.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 6,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 6,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2629450795595"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/7gpp4uglm42k7kj"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-md1pqn7kgp84.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2629462002251"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/pz44dbmglnwe346"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kwrmwjs1paeq.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2629458790987"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-rx510dxa06z2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-11",
+          "runtime": 31,
+          "tmdb_episode_id": 1968207,
+          "tmdb_still_path": "/bB9SzKcdfo745kqtn8I5cuLBOEU.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2629473208907"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/68rr3b0w-qg76rr"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7iu852kis9vz.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2629473143371"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/4yddpsz6-kjrdn8"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-aob75gwg9n5r.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2629477796427"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-lrts3t7ak6jf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-11",
+          "runtime": 27,
+          "tmdb_episode_id": 2972476,
+          "tmdb_still_path": "/mBEczZ6eTuZBau6EGceb0p2dxoW.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2629482777163"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/ygzzdue35kjm2l6"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-a7wz3gq1e5g7.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2629486053963"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/n1jj6u2jzd3q5y-"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-2tje6sv6omy9.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2629485136459"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-x1wdrsuc49py.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-11",
+          "runtime": 27,
+          "tmdb_episode_id": 2972477,
+          "tmdb_still_path": "/qm7pYfdNcad5IF9G8ZmfbZ5mB7Z.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2631792724555"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/pz44dbmglmq7pkj"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-b08kwl1zo661.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2631881919051"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/x8kk7b58n5ly7pq"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-hm3f3vvstc1y.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2631878838859"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-19yhe78k6bw0.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-11",
+          "runtime": 25,
+          "tmdb_episode_id": 2972478,
+          "tmdb_still_path": "/tIz5u41ZuAKTir14bqz4ZSfgtLB.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2631901645387"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/lrjj2tnjrn45wy5"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-6soqnrjwqapm.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2631908002379"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/1544duj2030ll54"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qeazv2g6s97o.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2631906298443"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-f61s98rlsel2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-11",
+          "runtime": 31,
+          "tmdb_episode_id": 2972479,
+          "tmdb_still_path": "/gVho1Xvs39T1TGMLRfSCCbccFv8.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2631958399563"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/qm660begz46qn1-"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-x11aaf0522j6.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2631967902283"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/x8kk7b58n1147zn"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2631963707979"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-4l84wzor822h.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-11",
+          "runtime": 34,
+          "tmdb_episode_id": 2972480,
+          "tmdb_still_path": "/x557b8WGV07HaXW3408FUxTMIgY.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Trese ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، غموض، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و6 حلقة. في أنمي Trese تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، بوليسي، خارق للطبيعة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و6 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/trese",
+  "story": "يدور أنمي Trese ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، غموض، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و6 حلقة. في أنمي Trese تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، بوليسي، خارق للطبيعة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و6 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة",
+  "director": null,
+  "stars": "Shay Mitchell، Carlos Alazraqui، Eric Bauza، Steve Blum، Jon Jon Briones، Matthew Yang King",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، غموض، جريمة",
+  "trailerId": "jUy0RgeggCQ",
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Trese",
+    "mainDescription": "يدور أنمي Trese ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، غموض، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و6 حلقة. في أنمي Trese تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، بوليسي، خارق للطبيعة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و6 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Trese أنمي 2021 | يدور أنمي Trese ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Trese من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/94924"
+    }
+  },
+  "tmdb_id": 94924,
+  "tmdb_url": "https://www.themoviedb.org/tv/94924",
+  "original_title": "Trese"
+}

@@ -1,0 +1,361 @@
+{
+  "slug": "dorohedoro-season-2",
+  "clean_title": "Dorohedoro Season 2",
+  "raw_name": "انمي Dorohedoro Season 2",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dorohedoro-season-2.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 9,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 9,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EaSF5NS437GbCkcE"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/pifiq8uo93ig"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/jvtiw8c190vo"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BUi0TvKwTuZMglMJ"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3env84b6axur"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-01",
+          "runtime": 27,
+          "tmdb_episode_id": 6927383,
+          "tmdb_still_path": "/sa27UhRUAkx45sGPPj8HPWeNkaz.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NfVBTqfGKsSLXtYe"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/pha9grdxedif"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/l11xgbmir9ks"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xQbU3EIWnLAg07kN"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5gr623bqkb1o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-01",
+          "runtime": 26,
+          "tmdb_episode_id": 7076892,
+          "tmdb_still_path": "/eYrkuWDRBB6ou8mEslr29Zgya83.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=LHJjHIcSyIKwj3xL"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/yiunq0r0lirm"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/n2a5hv0k12st"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ekplxaMImqXl54L4"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0lcor5fediy4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-01",
+          "runtime": 26,
+          "tmdb_episode_id": 7076894,
+          "tmdb_still_path": "/8WCQqCGEx3cL6jSM93GicxNXq9p.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gSv5k49i70v3uY0Y"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/nvepenj9mcw5"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/bf61fcowtz98"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=L4gkYkhZH7FIUE8f"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/l06r25e8sgp3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-08",
+          "runtime": 24,
+          "tmdb_episode_id": 7084738,
+          "tmdb_still_path": "/1PkWmwdbtPVGfaPe7jPZxL6cNAJ.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZrB7F5qARDNFH1uo"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/q4b94ihxzcei"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/xry8or2zv2rs"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AT4kouL8budfJAdf"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1af9qavoqpbh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-15",
+          "runtime": 25,
+          "tmdb_episode_id": 7084739,
+          "tmdb_still_path": "/jCTymybqm48wv7yYPGJibJKpELR.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/1grwksiqkpnv"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-h71iyjjmx9l6.html"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/f45zw5j8qibf"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-1c5zb4gh14w6.html"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mjkn724r5gri"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-22",
+          "runtime": 25,
+          "tmdb_episode_id": 7084740,
+          "tmdb_still_path": "/k7czt5b867KEseSUMKEfJu931Kp.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/d1kqquyt0q99"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-9h8pu9pn4y52.html"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/q44zkye2hibn"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/bmdld1r7lb7x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-29",
+          "runtime": 27,
+          "tmdb_episode_id": 7084741,
+          "tmdb_still_path": "/AoCSwOYwVIVAzpUXH8bLQR6RxvR.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/6h345pp8ytpi"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-5w2ui83m1yf0.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-lj04rjbeewvg.html"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/y5x06hldmu9m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-05-06",
+          "runtime": 25,
+          "tmdb_episode_id": 7084742,
+          "tmdb_still_path": "/naBmqKvSZvMAX6VlOVBwwJheeyE.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/5er425rfxeil"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-2lurrgyw6zbi.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-phoyf7aiv2aw.html"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7iqscdot85wj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-05-13",
+          "runtime": 27,
+          "tmdb_episode_id": 7084743,
+          "tmdb_still_path": "/czhNUbqaMX2eMcOzWED9JfKay7R.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يسعى \"كايمان\"، فاقد الذاكرة، وبمساعدة من صديقته \"نيكايدو\" إلى إبطال لعنة رأس السحلية بقتل الساحر المسؤول... وفي الحفرة، ستُقرع طبول الحرب.",
+  "url": "/anime/dorohedoro-season-2",
+  "story": "يسعى \"كايمان\"، فاقد الذاكرة، وبمساعدة من صديقته \"نيكايدو\" إلى إبطال لعنة رأس السحلية بقتل الساحر المسؤول... وفي الحفرة، ستُقرع طبول الحرب.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Reina Kondo، Wataru Takagi، Yu Kobayashi، Yoshimasa Hosoya، Kenyu Horiuchi، Kengo Takanashi",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "ZB1ACrzVDRM",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dorohedoro Season 2",
+    "mainDescription": "يسعى \"كايمان\"، فاقد الذاكرة، وبمساعدة من صديقته \"نيكايدو\" إلى إبطال لعنة رأس السحلية بقتل الساحر المسؤول... وفي الحفرة، ستُقرع طبول الحرب.",
+    "metaDescription": "Dorohedoro Season 2 أنمي 2020 | يسعى \"كايمان\" | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dorohedoro Season 2 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/94404"
+    }
+  },
+  "tmdb_id": 94404,
+  "tmdb_url": "https://www.themoviedb.org/tv/94404",
+  "original_title": "ドロヘドロ"
+}

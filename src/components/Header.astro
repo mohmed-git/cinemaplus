@@ -1,0 +1,216 @@
+---
+import { SITE, NAV } from '../lib/site';
+import { SUBCATEGORIES, subcatRoute } from '../lib/subcategories';
+const { currentPath = '', section = 'home' } = Astro.props as { currentPath?: string; section?: string };
+const path = currentPath || Astro.url.pathname;
+
+// أيقونات التنقل
+const navIcons: Record<string, string> = {
+  '/': 'M3 12l2-2m0 0l7-7 7 7m-9 2v8m-4-8h12',
+  [NAV[1].href]: 'M15.6 11.6L22 7v10l-6.4-4.5v-1zM2 5a2 2 0 012-2h12a2 2 0 012 2v14a2 2 0 01-2 2H4a2 2 0 01-2-2V5z',
+  [NAV[2].href]: 'M2 7h20v13H2zM7 4l5 3 5-3',
+  [NAV[3].href]: 'M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5',
+  '/search': 'M21 21l-4.3-4.3M11 19a8 8 0 110-16 8 8 0 010 16z',
+};
+---
+
+<header id="site-header" class="fixed top-0 right-0 left-0 z-50 transition-all duration-300">
+  <div class="header-bg absolute inset-0 transition-all duration-500"></div>
+
+  <div class="container-app relative flex h-16 lg:h-[72px] items-center justify-between gap-4">
+    <!-- الشعار -->
+    <a href="/" class="group relative flex items-center gap-2.5 font-display font-extrabold text-white shrink-0">
+      <span class="relative flex h-10 w-10 lg:h-11 lg:w-11 items-center justify-center rounded-xl text-[#04070a] transition-all duration-500" style="background: var(--gradient-primary); box-shadow: var(--glow);">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5 lg:h-6 lg:w-6">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+      </span>
+      <span class="flex flex-col leading-none">
+        <span class="text-lg lg:text-xl tracking-wide gradient-text neon-glow">{SITE.name}</span>
+        <span class="text-[9px] lg:text-[10px] font-bold tracking-[0.3em] text-gray-400 uppercase">{SITE.nameEn}</span>
+      </span>
+    </a>
+
+    <!-- التنقل (سطح المكتب) -->
+    <nav class="hidden md:flex items-center gap-1 mx-2">
+      {NAV.filter(n => n.href !== '/search').map((item) => {
+        const active =
+          item.href === '/'
+            ? path === '/' || path === ''
+            : path.startsWith(item.href);
+        return (
+          <a
+            href={item.href}
+            class={`nav-link relative rounded-xl px-4 py-2 text-sm font-bold transition-all duration-300 ${active ? 'text-white nav-link--active' : 'text-gray-300 hover:text-white'}`}
+          >
+            {item.label}
+          </a>
+        );
+      })}
+
+      <!-- أقسام (sub-categories) dropdown -->
+      <div class="relative group/sections">
+        <button type="button" class={`nav-link relative rounded-xl px-4 py-2 text-sm font-bold transition-all duration-300 inline-flex items-center gap-1 ${path.startsWith('/x/c/') ? 'text-white nav-link--active' : 'text-gray-300 hover:text-white'}`} aria-haspopup="true">
+          أقسام
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="h-3.5 w-3.5 transition-transform group-hover/sections:rotate-180"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="invisible opacity-0 translate-y-1 group-hover/sections:visible group-hover/sections:opacity-100 group-hover/sections:translate-y-0 absolute right-0 top-full pt-2 transition-all duration-200 z-50">
+          <div class="glass-strong rounded-2xl border border-white/[0.08] p-2 w-56 shadow-2xl grid grid-cols-1 gap-0.5">
+            {SUBCATEGORIES.map((s) => (
+              <a href={subcatRoute(s.code)} class={`flex items-center justify-between rounded-xl px-3 py-2 text-sm font-semibold transition-all ${path === subcatRoute(s.code) ? 'text-white bg-brand-500/15' : 'text-gray-300 hover:text-white hover:bg-white/[0.05]'}`}>
+                {s.label}
+                <span class="h-1 w-1 rounded-full bg-brand-400/60"></span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- شريط البحث -->
+    <form action="/search" method="GET" class="hidden lg:flex relative items-center flex-1 max-w-sm" role="search">
+      <span class="absolute right-3 text-gray-400">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+        </svg>
+      </span>
+      <input type="search" name="q" autocomplete="off" placeholder="ابحث عن فيلم أو مسلسل أو أنمي…" class="input-neon !py-2 pr-9 text-sm" />
+    </form>
+
+    <!-- الأزرار الجانبية -->
+    <div class="flex items-center gap-1.5 shrink-0">
+      <a href="/search" class="lg:hidden btn-icon" aria-label="بحث">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-5 w-5">
+          <circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" />
+        </svg>
+      </a>
+      <button id="mobile-toggle" class="md:hidden btn-icon" aria-label="فتح القائمة" aria-expanded="false" aria-controls="mobile-menu">
+        <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6 transition-transform duration-300">
+          <line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- القائمة الجانبية للموبايل -->
+  <nav id="mobile-menu" class="md:hidden hidden glass-strong border-t border-white/[0.06] animate-slide-down">
+    <div class="container-app flex flex-col py-4 gap-1.5">
+      <form action="/search" method="GET" class="relative mb-3">
+        <span class="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+        </span>
+        <input type="search" name="q" placeholder="ابحث…" class="input-neon pr-10" />
+      </form>
+      {NAV.map((item) => {
+        const active = item.href === '/' ? path === '/' : path.startsWith(item.href);
+        return (
+          <a href={item.href} class={`flex items-center gap-3 rounded-xl px-4 py-3 text-sm font-bold transition-all ${active ? 'text-white' : 'text-gray-200 hover:bg-white/[0.04] border border-transparent'}`} style={active ? 'background: var(--gradient-primary); color:#04070a; box-shadow: var(--glow);' : ''}>
+            {navIcons[item.href] && (
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-5 w-5">
+                <path d={navIcons[item.href]}/>
+              </svg>
+            )}
+            {item.label}
+          </a>
+        );
+      })}
+
+      <!-- أقسام تفصيلية للموبايل -->
+      <div class="mt-2 pt-2 border-t border-white/[0.06]">
+        <p class="px-4 pb-1.5 text-[11px] font-bold uppercase tracking-wider text-gray-500">أقسام تفصيلية</p>
+        <div class="grid grid-cols-2 gap-1">
+          {SUBCATEGORIES.map((s) => (
+            <a href={subcatRoute(s.code)} class={`flex items-center gap-2 rounded-xl px-3 py-2.5 text-[13px] font-semibold transition-all ${path === subcatRoute(s.code) ? 'text-white bg-brand-500/15' : 'text-gray-200 hover:bg-white/[0.04]'}`}>
+              <span class="h-1 w-1 rounded-full bg-brand-400/60"></span>
+              {s.label}
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<div class="h-16 lg:h-[72px]"></div>
+
+<!-- شريط التنقل السفلي للموبايل -->
+<nav class="md:hidden fixed bottom-0 left-0 right-0 z-40 glass-strong border-t border-white/[0.08]" aria-label="القائمة السفلية">
+  <div class="grid grid-cols-5 h-16">
+    {NAV.map((item) => {
+      const active = item.href === '/' ? (path === '/' || path === '') : path.startsWith(item.href);
+      return (
+        <a href={item.href} class={`flex flex-col items-center justify-center gap-1 text-[10px] font-semibold transition-all relative ${active ? 'text-white' : 'text-gray-400'}`}>
+          {active && (
+            <span class="absolute top-0 left-1/2 -translate-x-1/2 h-0.5 w-8 rounded-b-full" style="background: var(--gradient-primary); box-shadow: var(--glow);"></span>
+          )}
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width={active ? '2.4' : '2'} stroke-linecap="round" stroke-linejoin="round" class={`h-[22px] w-[22px] transition-transform ${active ? 'scale-110' : ''}`} style={active ? 'color: var(--brand-400);' : ''}>
+            <path d={navIcons[item.href] || ''}/>
+          </svg>
+          <span>{item.label}</span>
+        </a>
+      );
+    })}
+  </div>
+</nav>
+
+<script>
+  const btn = document.getElementById('mobile-toggle');
+  const menu = document.getElementById('mobile-menu');
+  const header = document.getElementById('site-header');
+
+  btn?.addEventListener('click', () => {
+    const open = menu?.classList.toggle('hidden') === false;
+    btn.setAttribute('aria-expanded', String(open));
+  });
+
+  menu?.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      menu.classList.add('hidden');
+      btn?.setAttribute('aria-expanded', 'false');
+    });
+  });
+
+  window.addEventListener('scroll', () => {
+    const y = window.scrollY;
+    if (header) header.classList.toggle('header-scrolled', y > 30);
+  }, { passive: true });
+</script>
+
+<style>
+  .header-bg {
+    background: rgba(7, 7, 10, 0.55);
+    backdrop-filter: blur(16px) saturate(140%);
+    -webkit-backdrop-filter: blur(16px) saturate(140%);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  }
+  .header-scrolled .header-bg {
+    background: rgba(7, 7, 10, 0.9);
+    backdrop-filter: blur(28px) saturate(160%);
+    -webkit-backdrop-filter: blur(28px) saturate(160%);
+    border-bottom-color: color-mix(in srgb, var(--brand-400) 18%, transparent);
+    box-shadow: 0 8px 32px -12px rgba(0, 0, 0, 0.6);
+  }
+  /* الخط السفلي الذي يتلوّن بلون القسم */
+  .nav-link::after {
+    content: '';
+    position: absolute;
+    right: 1rem;
+    left: 1rem;
+    bottom: 0.35rem;
+    height: 2px;
+    border-radius: 999px;
+    background: var(--gradient-primary);
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 0.3s ease;
+  }
+  .nav-link:hover::after,
+  .nav-link--active::after {
+    transform: scaleX(1);
+  }
+  .nav-link--active {
+    background: color-mix(in srgb, var(--brand-500) 12%, transparent);
+  }
+</style>

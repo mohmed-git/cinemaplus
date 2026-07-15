@@ -1,0 +1,325 @@
+{
+  "slug": "angel-beats",
+  "clean_title": "Angel Beats!",
+  "raw_name": "انمي Angel Beats!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/angel-beats.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/gvkfa57tsdbx"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/dytlz5ipzdcn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-03",
+          "runtime": 26,
+          "tmdb_episode_id": 883937,
+          "tmdb_still_path": "/seOnRGCNCN8FR58a6VgEltscSvp.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/dcqnd44sqnzu"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/dal6jluhiwzi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 883938,
+          "tmdb_still_path": "/wZZTqUxFAplf7dKKwdIWU1LGYd4.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/wavrmn1ro9p6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/dqge73npwq11"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-17",
+          "runtime": 24,
+          "tmdb_episode_id": 883940,
+          "tmdb_still_path": "/npyiZDN1tpAac31QCNtLTAmverL.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/fs0x27omul7a"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7o55duyr10ao"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-24",
+          "runtime": 24,
+          "tmdb_episode_id": 883939,
+          "tmdb_still_path": "/u59Hy3ghStbpkKtjNSPdbZd9yIq.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/jb2rtqpprm9y"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/pm5xq84r4sf2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-01",
+          "runtime": 25,
+          "tmdb_episode_id": 883941,
+          "tmdb_still_path": "/6UQK0QWpuDPcjY4yS3jTIW9erv7.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xxkfdfsohz6b"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/c332yc0qircq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 883942,
+          "tmdb_still_path": "/pVEBrP1FKcMyiQBZyaEP7CXz1Oi.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ift9zmkh5inz"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/m8zjq6r5pnvm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-14",
+          "runtime": 26,
+          "tmdb_episode_id": 883943,
+          "tmdb_still_path": "/v5qsXlHOPzBpthAL0Z2aHpiq2jy.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ykg8hlibokfl"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/o2k2pv5xhnc2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 883944,
+          "tmdb_still_path": "/3VXmqw9lMETGWoulUGf9WJkBm4Q.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/x2iqui7naxia"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/fmk2186zoorq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-28",
+          "runtime": 26,
+          "tmdb_episode_id": 883945,
+          "tmdb_still_path": "/thDLv8fBSsQr03QtYqCj0iNQeDU.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uu7muwezct2k"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/93c9uenfkcua"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-04",
+          "runtime": 27,
+          "tmdb_episode_id": 883948,
+          "tmdb_still_path": "/e10GjZ5ACGtBheCVh4KxKn0PT3q.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/fntc4cyr4p4t"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xxaup3jvkogw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-11",
+          "runtime": 26,
+          "tmdb_episode_id": 883947,
+          "tmdb_still_path": "/7OqcK6YHbPIE14Jk55Kv9ROkJn1.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8hcdss9jw2jz"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/jl4sp7206y8k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-18",
+          "runtime": 27,
+          "tmdb_episode_id": 883946,
+          "tmdb_still_path": "/xAa0RvxFt0dRtyMTYGKRoDKyR6z.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/duccjlqzmqvs"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/w1klzova2iev"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-25",
+          "runtime": 26,
+          "tmdb_episode_id": 883949,
+          "tmdb_still_path": "/yjTLgi8JrocMNXTTXNLF9YDMRh3.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "أوتوناشي هو ولد فقد ذاكرت حياته بعد موته وهو مسجل في مدرسة ما بعد الموت، ويلتقي فتاة تدعى يوري و التي تدعوه للإنضمام إلى جبهة القتال التي تحارب ضد الإله، جبهة القتال ضد رئيس مجلس الطلاب انجل، فتاة مع قوى خارقة للطبيعة.",
+  "url": "/anime/angel-beats",
+  "story": "أوتوناشي هو ولد فقد ذاكرت حياته بعد موته وهو مسجل في مدرسة ما بعد الموت، ويلتقي فتاة تدعى يوري و التي تدعوه للإنضمام إلى جبهة القتال التي تحارب ضد الإله، جبهة القتال ضد رئيس مجلس الطلاب انجل، فتاة مع قوى خارقة للطبيعة.",
+  "year": "2010",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Hiroshi Kamiya، Harumi Sakurai، Kana Hanazawa، Ryohei Kimura، Yuuki Masuda، Yumiko Kobayashi",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": "mpl9Gtk8MOc",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Angel Beats!",
+    "mainDescription": "أوتوناشي هو ولد فقد ذاكرت حياته بعد موته وهو مسجل في مدرسة ما بعد الموت، ويلتقي فتاة تدعى يوري و التي تدعوه للإنضمام إلى جبهة القتال التي تحارب ضد الإله، جبهة القتال ضد رئيس مجلس الطلاب انجل، فتاة مع قوى خارقة للطبيعة.",
+    "metaDescription": "Angel Beats! أنمي 2010 | أوتوناشي هو ولد فقد ذاكرت حياته بعد موته وهو مسجل في مدرسة ما بعد الموت | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Angel Beats! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/42942"
+    }
+  },
+  "tmdb_id": 42942,
+  "tmdb_url": "https://www.themoviedb.org/tv/42942",
+  "original_title": "Angel Beats!"
+}

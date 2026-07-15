@@ -1,0 +1,244 @@
+{
+  "slug": "akudama-drive",
+  "clean_title": "Akudama Drive",
+  "raw_name": "انمي Akudama Drive",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/akudama-drive.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yKXInvUDmkFEDFCN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2187983,
+          "tmdb_still_path": "/6REAocUKM1zk3BnIblKyEFp5l7M.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yJ0eDw0lRdWof3nq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2422503,
+          "tmdb_still_path": "/yZ0nodskc5olcxTzU2PaRyC9AyL.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UIVAJpmHLpgbp1m8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2422504,
+          "tmdb_still_path": "/iV9vx7Tr9NcFZdV6itaqVA5YcbC.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fPwAiAn9h3Zx0YEt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2422505,
+          "tmdb_still_path": "/aEcwtt2sevzH4eHBv60DN5DuFrc.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YqH3YF12Wv1YfQeK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2422506,
+          "tmdb_still_path": "/iBJwnHvNsL1gOpcK36sZ1RdZ77q.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TY9AFRCYeIDA3TGD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2422507,
+          "tmdb_still_path": "/1MGDb8TlZRdMjJxMjlyHG2GUtVx.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FqfUBg9Xv8mOHRfZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2422508,
+          "tmdb_still_path": "/wS4DiHAMa5LbErD9uQHkvGsxzwa.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=23lrbRhzPdyKCiW7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2422509,
+          "tmdb_still_path": "/3u8VxaQ8FyTasqLvizkLh8NcCEo.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bgndDP2QYzffyEVE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2422510,
+          "tmdb_still_path": "/zj1WniDvLhlNyFM0lncrL5ipOFC.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9ChxVaHqfwBpLXJf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2422511,
+          "tmdb_still_path": "/fGuYByAnyoQrJPbzb28qhidiUvO.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hX18r4XgrURymPta"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2422512,
+          "tmdb_still_path": "/baURnstoJbyn5EFBx95QeZxhMO.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PT5XL67fpmQTovCr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-24",
+          "runtime": 24,
+          "tmdb_episode_id": 2422513,
+          "tmdb_still_path": "/roqdBIqGxvbXqEdNoKmQ5AqOPzw.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "قصة انمي Akudama Drive منذ زمن بعيد كانت دولتا كانتو و كانسي في حالة صراع قسَّم العالم، و مع نهاية الحرب أصبحت كانسي تابعة لكانتو. حكومة كانسي وقوات الشرطة فيها أصبحت ضعيفة وتفشت الجريمة في أنحاء البلاد. أؤلئك المجرمون يطلق عليهم “أكوداما”.",
+  "url": "/anime/akudama-drive",
+  "story": "قصة انمي Akudama Drive منذ زمن بعيد كانت دولتا كانتو و كانسي في حالة صراع قسَّم العالم، و مع نهاية الحرب أصبحت كانسي تابعة لكانتو. حكومة كانسي وقوات الشرطة فيها أصبحت ضعيفة وتفشت الجريمة في أنحاء البلاد. أؤلئك المجرمون يطلق عليهم “أكوداما”.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tomoyo Kurosawa، Yuuichirou Umehara، Shunsuke Takeuchi، Shun Horie، Megumi Ogata، Subaru Kimura",
+  "genre": "أنمي، رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، جريمة",
+  "trailerId": "vtBy-KHATR0",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Akudama Drive",
+    "mainDescription": "قصة انمي Akudama Drive منذ زمن بعيد كانت دولتا كانتو و كانسي في حالة صراع قسَّم العالم، و مع نهاية الحرب أصبحت كانسي تابعة لكانتو. حكومة كانسي وقوات الشرطة فيها أصبحت ضعيفة وتفشت الجريمة في أنحاء البلاد. أؤلئك المجرمون يطلق عليهم “أكوداما”.",
+    "metaDescription": "Akudama Drive أنمي 2020 | قصة انمي Akudama Drive منذ زمن بعيد كانت دولتا كانتو و كانسي في حالة صراع قسَّم العالم | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Akudama Drive من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/100436"
+    }
+  },
+  "tmdb_id": 100436,
+  "tmdb_url": "https://www.themoviedb.org/tv/100436",
+  "original_title": "アクダマドライブ"
+}

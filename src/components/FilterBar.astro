@@ -1,0 +1,163 @@
+---
+/**
+ * Genre + Year filter chips for category listings.
+ * - Reads current selection from `genre` / `yearKey` props (server-rendered).
+ * - Uses pure links (`<a>`) so it works without JS and is crawlable.
+ */
+import { PRIMARY_GENRES, genreSlug } from '../lib/filters';
+import type { YearBucket } from '../lib/filters';
+
+interface Props {
+  basePath: string;            // e.g. "/movies"
+  genre?: string | null;        // currently selected genre (Arabic name)
+  yearKey?: string | null;      // currently selected year bucket key
+  yearBuckets: YearBucket[];
+  genreCounts?: Map<string, number>;
+  totalCount: number;           // total items matching current filters
+}
+
+const {
+  basePath,
+  genre = null,
+  yearKey = null,
+  yearBuckets,
+  genreCounts,
+  totalCount,
+} = Astro.props as Props;
+
+// Build URLs while preserving the OTHER active filter
+function urlFor(opts: { g?: string | null; y?: string | null }): string {
+  const params = new URLSearchParams();
+  const g = opts.g === undefined ? genre : opts.g;
+  const y = opts.y === undefined ? yearKey : opts.y;
+  if (g) params.set('genre', genreSlug(g));
+  if (y) params.set('year', y);
+  const qs = params.toString();
+  return qs ? `${basePath}?${qs}` : basePath;
+}
+
+const allUrl = urlFor({ g: null, y: null });
+const hasActive = !!genre || !!yearKey;
+
+// Visible genres = primary list (filter to those that exist in the dataset if counts provided)
+const genreList = genreCounts
+  ? PRIMARY_GENRES.filter((g) => (genreCounts.get(g) || 0) > 0)
+  : [...PRIMARY_GENRES];
+---
+
+<section class="glass-panel-sm p-4 sm:p-5 my-6 space-y-4" aria-label="فلاتر">
+  <!-- Header row -->
+  <div class="flex flex-wrap items-center justify-between gap-3">
+    <h2 class="text-sm font-bold text-white flex items-center gap-2">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 text-brand-400">
+        <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+      </svg>
+      تصفية النتائج
+      <span class="chip-surface text-[11px] !py-0.5 !px-2 mr-1">{totalCount.toLocaleString('ar-EG')}</span>
+    </h2>
+    {hasActive && (
+      <a href={allUrl} class="inline-flex items-center gap-1.5 text-xs font-semibold text-rose-300 hover:text-rose-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-3.5 w-3.5">
+          <line x1="18" y1="6" x2="6" y2="18"/>
+          <line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+        مسح الفلاتر
+      </a>
+    )}
+  </div>
+
+  <!-- Genres row -->
+  <div>
+    <p class="text-[11px] font-semibold text-gray-400 mb-2 tracking-wider">التصنيف</p>
+    <div class="flex flex-wrap gap-2">
+      <a
+        href={urlFor({ g: null })}
+        class={`filter-chip ${!genre ? 'filter-chip--active' : ''}`}
+      >
+        الكل
+      </a>
+      {genreList.map((g) => {
+        const active = genre === g;
+        const count = genreCounts?.get(g) || 0;
+        return (
+          <a
+            href={urlFor({ g: active ? null : g })}
+            class={`filter-chip ${active ? 'filter-chip--active' : ''}`}
+          >
+            {g}
+            {count > 0 && <span class="filter-chip__count">{count}</span>}
+          </a>
+        );
+      })}
+    </div>
+  </div>
+
+  <!-- Years row -->
+  {yearBuckets.length > 0 && (
+    <div>
+      <p class="text-[11px] font-semibold text-gray-400 mb-2 tracking-wider">سنة الإصدار</p>
+      <div class="flex flex-wrap gap-2">
+        <a
+          href={urlFor({ y: null })}
+          class={`filter-chip ${!yearKey ? 'filter-chip--active' : ''}`}
+        >
+          الكل
+        </a>
+        {yearBuckets.map((b) => {
+          const active = yearKey === b.key;
+          return (
+            <a
+              href={urlFor({ y: active ? null : b.key })}
+              class={`filter-chip ${active ? 'filter-chip--active' : ''}`}
+            >
+              {b.label}
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  )}
+</section>
+
+<style>
+  .filter-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 0.95rem;
+    border-radius: 0.7rem;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    background: rgba(255, 255, 255, 0.025);
+    color: #d6d3d1;
+    font-size: 0.78rem;
+    font-weight: 600;
+    transition: all 0.22s ease;
+    line-height: 1;
+  }
+  .filter-chip:hover {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(167, 139, 250, 0.35);
+    color: #fff;
+  }
+  .filter-chip--active {
+    background: linear-gradient(135deg, #7c3aed, #d946ef);
+    border-color: rgba(217, 70, 239, 0.6);
+    color: #fff;
+    box-shadow: 0 0 18px -4px rgba(168, 85, 247, 0.7);
+  }
+  .filter-chip__count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.4rem;
+    height: 1.25rem;
+    padding: 0 0.35rem;
+    border-radius: 999px;
+    background: rgba(0, 0, 0, 0.35);
+    font-size: 0.65rem;
+    font-weight: 700;
+  }
+  .filter-chip--active .filter-chip__count {
+    background: rgba(255, 255, 255, 0.2);
+  }
+</style>

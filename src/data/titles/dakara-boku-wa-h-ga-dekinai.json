@@ -1,0 +1,244 @@
+{
+  "slug": "dakara-boku-wa-h-ga-dekinai",
+  "clean_title": "Dakara Boku wa, H ga Dekinai.",
+  "raw_name": "انمي Dakara Boku wa, H ga Dekinai.",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dakara-boku-wa-h-ga-dekinai.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/f4fplci5p55k6vujpiqnhh20qvgdvfav"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 897982,
+          "tmdb_still_path": "/pimNnN8kzhFNTbQT3lZwzNO2cM8.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/vl6b4if0bvv0yz9bd7afpp6f1osochdu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 897983,
+          "tmdb_still_path": "/2hGFXMYZ30hdndtPOcubsg7Nm0O.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/eaj8x3zm5fa0qz5kzb9xu2plaz37mobx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 897984,
+          "tmdb_still_path": "/g301GRKuDbpV874bl1B2yHz91E.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/5ojpagxn7in1ukw7cj3tb3s0ptqfwuhq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 897985,
+          "tmdb_still_path": "/3vA300NXifFelEaUjmGCuIIH5ZV.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/f0x7qytjfp8fy5cixeqhv1v2rahokops"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 897986,
+          "tmdb_still_path": "/frqrbJrGUkQPUiaH2iC4IlKmhCa.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/sdccrg7ixzghp0bf0qh47ctpvwnp9qxt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 897987,
+          "tmdb_still_path": "/ISgDKuD5eWgw9YfUEfXOInmyDH.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/bsywynuswqammj2n52jkvp5fm16wrq44"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 897988,
+          "tmdb_still_path": "/65UGxYfKGsu8UQNmiBpLDiGWpR1.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/ryvus0jxcd084mq4fk14w60ozb8y9e7x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-28",
+          "runtime": 24,
+          "tmdb_episode_id": 897989,
+          "tmdb_still_path": "/26Et9VXNJG7VSvpqfaqYX2lutzO.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/06esru212g869z1b1dzeehm95x9swcki"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-04",
+          "runtime": 24,
+          "tmdb_episode_id": 897990,
+          "tmdb_still_path": "/bwqltq18LtjTgj5RjU0R9LA0E5c.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/3o1uuqvrntizyhhnf9jd1hi945fex8ky"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-11",
+          "runtime": 24,
+          "tmdb_episode_id": 897991,
+          "tmdb_still_path": "/tJB3doZDadNEtdPApIJKf5wAJfP.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/0idu93w8224t8tn9tzf5odndx876aly3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-18",
+          "runtime": 24,
+          "tmdb_episode_id": 897992,
+          "tmdb_still_path": "/5HWRm5AnZSxREQR60JrqCRFsP4a.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/tgkgjjkh2wlkuosuk60wlylg0ubcw419"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-25",
+          "runtime": 24,
+          "tmdb_episode_id": 897993,
+          "tmdb_still_path": "/sDlJ9Bww8460wrCuvnoaNi38MYF.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Dakara Boku wa, H ga Dekinai. ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Dakara Boku wa, H ga Dekinai. حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف كوميدي، خارق للطبيعة، رومانسي، ايتشي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Dakara Boku wa, H ga Dekinai. على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/dakara-boku-wa-h-ga-dekinai",
+  "story": "يدور أنمي Dakara Boku wa, H ga Dekinai. ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Dakara Boku wa, H ga Dekinai. حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف كوميدي، خارق للطبيعة، رومانسي، ايتشي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Dakara Boku wa, H ga Dekinai. على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Tachibana Pan",
+  "stars": "Hiro Shimono، Kaori Ishihara، Aya Endo، Arisa Nishiguchi، Misato Fukuen، Yoshinori Tsushima",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، كوميديا",
+  "trailerId": "a7QLbvl5iYU",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dakara Boku wa, H ga Dekinai.",
+    "mainDescription": "يدور أنمي Dakara Boku wa, H ga Dekinai. ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Dakara Boku wa, H ga Dekinai. حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف كوميدي، خارق للطبيعة، رومانسي، ايتشي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Dakara Boku wa, H ga Dekinai. على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Dakara Boku wa, H ga Dekinai. أنمي 2012 | يدور أنمي Dakara Boku wa, H ga Dekinai | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dakara Boku wa, H ga Dekinai. من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45234"
+    }
+  },
+  "tmdb_id": 45234,
+  "tmdb_url": "https://www.themoviedb.org/tv/45234",
+  "original_title": "だから僕は、Hができない。"
+}

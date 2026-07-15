@@ -1,0 +1,942 @@
+{
+  "slug": "idolish7-second-beat",
+  "clean_title": "IDOLiSH7: Second Beat!",
+  "raw_name": "انمي IDOLiSH7: Second Beat!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/idolish7-second-beat.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 15,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 15,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/9Mky4Dy7ea"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2243555232331"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-v69pro2jhqwt.html"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ml_8h6EFvF8EkbiKY8k4Voss_LJdiulT/preview"
+            },
+            {
+              "id": 5,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-zi76d0aaldtx.html"
+            },
+            {
+              "id": 6,
+              "label": "dstream",
+              "url": "https://dood.to/e/vabhkxw2237r1jyv0idg75lcfdktmdxv"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-odn4yn3j61rs.html"
+            },
+            {
+              "id": 8,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/zzq7mjzrbt14"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-nxzuc3okrt50.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-01",
+          "runtime": 25,
+          "tmdb_episode_id": 1415201,
+          "tmdb_still_path": "/1x5TsoeQ8XesQwEypFOq64bZ218.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/sFb0yzFZiq"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2243583281739"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-y63mmoma8o6g.html"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1PYyjOAVOE_np6c0jHBJi5Q2AAOWu6EhY/preview"
+            },
+            {
+              "id": 5,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-j9tc20ra7avr.html"
+            },
+            {
+              "id": 6,
+              "label": "dstream",
+              "url": "https://dood.to/e/n46x6npzcfqc2cguf0r138tt7h4460wh"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-ocj49mjah7sy.html"
+            },
+            {
+              "id": 8,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/1es9vsaxpq0e"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-junmriezshq5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-01",
+          "runtime": 25,
+          "tmdb_episode_id": 1419310,
+          "tmdb_still_path": "/dGrHaJUE4SuACPBWawBc2wziO2j.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/z2JnCWvKiq"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2244379871819"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-2xi7yd63c4lt.html"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1D2xVjGJZHiDvtEw8t_pjyKmAN9wnQPpL/preview"
+            },
+            {
+              "id": 5,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-pjdm0l2nqyl6.html"
+            },
+            {
+              "id": 6,
+              "label": "dstream",
+              "url": "https://dood.to/e/yj7zcufktbd8fl09kzvxeaaunfmgdzb7"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-mt4pkkxj7dmq.html"
+            },
+            {
+              "id": 8,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/6o9cry6nz4ia"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-c1n90t1zp6q3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-07",
+          "runtime": 25,
+          "tmdb_episode_id": 1419311,
+          "tmdb_still_path": "/t6ujzURJnyhqb70icRS5aM8fety.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/2s47mCqGiq"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2244387867211"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-uhfp61tev6bg.html"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1Tkt6JYDfNp8ljfep8GXToAU1FlBJReaN/preview"
+            },
+            {
+              "id": 5,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-9kyk1ewgg22b.html"
+            },
+            {
+              "id": 6,
+              "label": "dstream",
+              "url": "https://dood.to/e/kviipgjfsam4davvlzaogxemy1zidw43"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-r5yudji8tkrh.html"
+            },
+            {
+              "id": 8,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/bwwx05mpouxc"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-1nnb4uevoqwn.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-14",
+          "runtime": 25,
+          "tmdb_episode_id": 1428350,
+          "tmdb_still_path": "/aNYLEeXf471l1CfCUGSHs8lWomp.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/L2tVyvDZea"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2244417948235"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-4dxmdngllgco.html"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1th8RfsFx3_VfMLH1-hPoJeR0dJLm-JAz/preview"
+            },
+            {
+              "id": 5,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-jieh0lijfg4f.html"
+            },
+            {
+              "id": 6,
+              "label": "dstream",
+              "url": "https://dood.to/e/6om9ye9pf7zesl4mj0pgqihl6ctwhesj"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-2dqnf10ae9zf.html"
+            },
+            {
+              "id": 8,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/goyx9vc6j5tt"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ll1bk7wdwsgp.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-21",
+          "runtime": 25,
+          "tmdb_episode_id": 1428351,
+          "tmdb_still_path": "/aCLwbhMmoHTVsCLspsroYhxxLld.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/pDhkUp0Ciq"
+            },
+            {
+              "id": 2,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-0jfphqhkh2u0.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2043015334475"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1yX8s1YxERR3Df1Of_3Jn80HIib5isfyk/preview"
+            },
+            {
+              "id": 5,
+              "label": "mega",
+              "url": "https://mega.nz/embed/ll8nCK4T#2NM5UkA_H7wIcuKExLVrDqD5nj8RPGINoYKmaBrKVYo"
+            },
+            {
+              "id": 6,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-4t8isjsplugm.html"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/j6gh0wf6li5y"
+            },
+            {
+              "id": 8,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-ww43eptdy9gg.html"
+            },
+            {
+              "id": 9,
+              "label": "anavids",
+              "url": "https://anavids.com/embed-35jznq7ve28b.html"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-tldc388ebygw.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-28",
+          "runtime": 25,
+          "tmdb_episode_id": 1428924,
+          "tmdb_still_path": "/v2nhxUnAWIlxbJMOugQJZzXFC6b.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/VUbIEPq4iq"
+            },
+            {
+              "id": 2,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-o474qdo6z71n.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2058583018059"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ARfQNrUfUxd_jVjveT9fSS7-koRgQ47s/preview"
+            },
+            {
+              "id": 5,
+              "label": "mega",
+              "url": "https://mega.nz/embed/ZpwBSSIT#fRQQKPvjfX_zYDapksZq1gkAXQfvP17A1dJHNsEl17o"
+            },
+            {
+              "id": 6,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-qv5m0s6ptwtw.html"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/t9sfg10mi3o6"
+            },
+            {
+              "id": 8,
+              "label": "uqlaod",
+              "url": "https://uqload.com/embed-imh8bkx56n4h.html"
+            },
+            {
+              "id": 9,
+              "label": "anavids",
+              "url": "https://anavids.com/embed-748nns03j3s0.html"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-elfsev09zzrx.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-04",
+          "runtime": 25,
+          "tmdb_episode_id": 1428925,
+          "tmdb_still_path": "/qTAZF7awYRyPJAwGGzC8cLSCPqn.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/zjAWxjC2iq"
+            },
+            {
+              "id": 2,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-r2c6mk3agkpm.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2077981477451"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1Gr5eOkajqVh5dTO6RWqzsnRkB1azfSzc/preview"
+            },
+            {
+              "id": 5,
+              "label": "mega",
+              "url": "https://mega.nz/embed/gdFw3TAB#wnYVnatGhJERKR43NqtdpeIWJAHZRK_nJEHSJt94ho8"
+            },
+            {
+              "id": 6,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-rawultgfro5w.html"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/yd23df0236fs"
+            },
+            {
+              "id": 8,
+              "label": "uqlaod",
+              "url": "https://uqload.com/embed-b76q8nj6nhde.html"
+            },
+            {
+              "id": 9,
+              "label": "anavids",
+              "url": "https://anavids.com/embed-084eyfg2et96.html"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qjftq0opb0jl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-11",
+          "runtime": 25,
+          "tmdb_episode_id": 1431380,
+          "tmdb_still_path": "/5ye4ShKJ4zgRJ38OPKemlqGcN31.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/nLLApA-diq"
+            },
+            {
+              "id": 2,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-vkujhswcqgfy.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2095778826827"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1p_nRevYX7wmK-6dJdVcbh-Cjf5EeE1uS/preview"
+            },
+            {
+              "id": 5,
+              "label": "mega",
+              "url": "https://mega.nz/embed/l6JEiTab#ewFvn3Q1l2DI8nS5393MF-Ya6sKwL7TjwOCtWEm3C0Q"
+            },
+            {
+              "id": 6,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-dnaz3cez16sh.html"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/50zy5sutc80d"
+            },
+            {
+              "id": 8,
+              "label": "uqlaod",
+              "url": "https://uqload.com/embed-kelypkd083xi.html"
+            },
+            {
+              "id": 9,
+              "label": "anavids",
+              "url": "https://anavids.com/embed-sjn6jfpetul1.html"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-2plz7si2rls6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-18",
+          "runtime": 25,
+          "tmdb_episode_id": 1434651,
+          "tmdb_still_path": "/fX6TMIiV1REkoqlZJi5y2KdPupd.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/i7BWZMSmiq"
+            },
+            {
+              "id": 2,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-vprw7wjgi046.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2118042847819"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1G-go3ZLVS4fT4aOOHhsIlNpjxLl9LbKr/preview"
+            },
+            {
+              "id": 5,
+              "label": "mega",
+              "url": "https://mega.nz/embed/El8BmaRD#hArF5n9IJNYn9wZPo3Pwa2y7CBNWbqxo4u0xXff4o7I"
+            },
+            {
+              "id": 6,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-yetdn9t43kwb.html"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/bjol7z43vmuz"
+            },
+            {
+              "id": 8,
+              "label": "uqlaod",
+              "url": "https://uqload.com/embed-50bx8wxeh14y.html"
+            },
+            {
+              "id": 9,
+              "label": "anavids",
+              "url": "https://anavids.com/embed-usar6gcbi073.html"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-xix9ns7df4dg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 1434652,
+          "tmdb_still_path": "/t9P7rNzIe81EvLabc3KuDfYT6n5.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/c6ECdhpqea"
+            },
+            {
+              "id": 2,
+              "label": "segavid",
+              "url": "https://segavid.com/embed-vf1zwqiu06rc.html"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-55q7sf57iq6d.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2139625753163"
+            },
+            {
+              "id": 5,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1zBzjyI_MqBIE8kIVKMQLx20KUCXLTpMS/preview"
+            },
+            {
+              "id": 6,
+              "label": "mega",
+              "url": "https://mega.nz/embed/HmhEkZLL#U1XBaq-gUg80B7mDk2P4B6PblmNNP4m8inYK1stWeK0"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/j8jtwzjczyzt"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-g6lvtklrvj75.html"
+            },
+            {
+              "id": 9,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-h53s9g7regvh.html"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-gtn16cnnb3hv.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-04",
+          "runtime": 25,
+          "tmdb_episode_id": 1434653,
+          "tmdb_still_path": "/yJtSCUlWfcWFdVqaRCL4zjoWwby.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/emJdm_Urea"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2175208852043"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-r9dq85qfxtoo.html"
+            },
+            {
+              "id": 4,
+              "label": "segavid",
+              "url": "https://segavid.com/embed-4wm7300g9vbr.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ZWcpwO3Rm1qIEOEroGRwDcllWO8LBexD/preview"
+            },
+            {
+              "id": 6,
+              "label": "mega",
+              "url": "https://mega.nz/embed/INxy0AjY#berFo5Ff1EVvZDgnGvt-b5rF8ANLm6RGPYWempgnJug"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/e4ormwg6zr9y"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-ptxcflnv80d1.html"
+            },
+            {
+              "id": 9,
+              "label": "anavids",
+              "url": "https://anavids.com/embed-6yjli2xmav5f.html"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/53etx6jlxq36"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-11",
+          "runtime": 25,
+          "tmdb_episode_id": 1452172,
+          "tmdb_still_path": "/is5Ht2845Yg4hcE5O7VtENoj0Va.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/Vsia580Siq"
+            },
+            {
+              "id": 2,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-2ck0cm0bd9tq.html"
+            },
+            {
+              "id": 3,
+              "label": "segavid",
+              "url": "https://segavid.com/embed-u98c5bveuzd1.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2182231493195"
+            },
+            {
+              "id": 5,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1xASug9PfaeujzT18v_d5Bga7t2r5Ss0l/preview"
+            },
+            {
+              "id": 6,
+              "label": "mega",
+              "url": "https://mega.nz/embed/gEcXXIxR#ITt2gB1AvSNS4hZPaqNot_ShItf0bJrwgWmPnivBdxs"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/tvpscmc7pvwz"
+            },
+            {
+              "id": 8,
+              "label": "dstream",
+              "url": "https://dood.to/e/mcl3tfrnqwzs5eo07aviaavv6quswh57"
+            },
+            {
+              "id": 9,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-ns3l0mmtgjct.html"
+            },
+            {
+              "id": 10,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-3mrm5f44t92i.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-19",
+          "runtime": 25,
+          "tmdb_episode_id": 1460481,
+          "tmdb_still_path": "/9xax0r61ZDPjZFiB1tEv13MOVm4.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/Paha2vX6iq"
+            },
+            {
+              "id": 2,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-8fkqj1wjxrzb.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2244624190027"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1JlVtzHB8d2FaUCVE7jdcxqXX-eDH1nks/preview"
+            },
+            {
+              "id": 5,
+              "label": "dstream",
+              "url": "https://dood.to/e/rdjvz4zldydrno6anygf7bd20rlcfssk"
+            },
+            {
+              "id": 6,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-1vllj68mool0.html"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/nvk16ie6z1ev"
+            },
+            {
+              "id": 8,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-sss30kbyddr2.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-fg4x41nv1zv6.html"
+            },
+            {
+              "id": 10,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/wgE7MfW2ea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-25",
+          "runtime": 25,
+          "tmdb_episode_id": 1460482,
+          "tmdb_still_path": "/uVYaSuhc9dRO9tDexqsRYCTDBCp.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/rFXW2C9Qea"
+            },
+            {
+              "id": 2,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-ng8m0zenskph.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2244683565643"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1UQER_peNt_ogrNVFUumqL77rnq_A3D3s/preview"
+            },
+            {
+              "id": 5,
+              "label": "dstream",
+              "url": "https://dood.to/e/8xa8wqfoj5vd2ajfzgd7p15ywexvp15n"
+            },
+            {
+              "id": 6,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-uvvs3kerk3gr.html"
+            },
+            {
+              "id": 7,
+              "label": "uptostream",
+              "url": "https://uptostream.com/iframe/6ifk0hcfv7i8"
+            },
+            {
+              "id": 8,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-gm23f0hr7k6a.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-vpfac8rtcb9s.html"
+            },
+            {
+              "id": 10,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/kwcxndNqiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-01",
+          "runtime": 25,
+          "tmdb_episode_id": 1463570,
+          "tmdb_still_path": "/lzGKNcerg3ToQTy1GxSahwA7gw1.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي IDOLiSH7: Second Beat! ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 3 موسم و62 حلقة. يدور أنمي IDOLiSH7: Second Beat! حول حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. ينتمي العمل إلى أجواء موسيقى، لذلك يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و15 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "url": "/anime/idolish7-second-beat",
+  "story": "يدور أنمي IDOLiSH7: Second Beat! ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 3 موسم و62 حلقة. يدور أنمي IDOLiSH7: Second Beat! حول حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. ينتمي العمل إلى أجواء موسيقى، لذلك يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و15 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Toshiki Masuda، Yusuke Shirai، Tsubasa Yonaga، KENN، Atsushi Abe، Takuya Eguchi",
+  "genre": "أنمي، رسوم متحركة، دراما، كوميديا",
+  "trailerId": null,
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "IDOLiSH7: Second Beat!",
+    "mainDescription": "يدور أنمي IDOLiSH7: Second Beat! ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 3 موسم و62 حلقة. يدور أنمي IDOLiSH7: Second Beat! حول حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. ينتمي العمل إلى أجواء موسيقى، لذلك يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و15 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+    "metaDescription": "IDOLiSH7: Second Beat! أنمي 2018 | يدور أنمي IDOLiSH7: Second Beat | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات IDOLiSH7: Second Beat! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/76128"
+    }
+  },
+  "tmdb_id": 76128,
+  "tmdb_url": "https://www.themoviedb.org/tv/76128",
+  "original_title": "アイドリッシュセブン"
+}

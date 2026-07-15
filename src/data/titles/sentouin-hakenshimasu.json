@@ -1,0 +1,364 @@
+{
+  "slug": "sentouin-hakenshimasu",
+  "clean_title": "Sentouin, Hakenshimasu!",
+  "raw_name": "انمي Sentouin, Hakenshimasu!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/sentouin-hakenshimasu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-big9hzzj9kmm.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-o4ylwoj1lcfm.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-nknc8b7st4u7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2192201,
+          "tmdb_still_path": "/wyhIgn1RTjZmdZC2hfp7yQnOseb.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-2zj4eivr9nuc.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-s8a67tzliw49.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-uoe9zmybyrox.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2844818,
+          "tmdb_still_path": "/2QM8JvQnUq7IB0XW5mYrjJuq1oa.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-539crc4j1ogo.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-269h8k5a34to.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-kovlgdq3rekq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2844819,
+          "tmdb_still_path": "/7NxfPH2tikTJIKz0RYZjydvzRRL.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-p8ud48iuv4e2.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-axredokcwent.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-09bs1c14zuki.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2844820,
+          "tmdb_still_path": "/wpCpW1TotnQcDxyMyCOMWOlI4fy.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-idiqsp4if1ou.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-oap3x2jgnpxu.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-9ky7vs5gnirj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2844821,
+          "tmdb_still_path": "/pG3TOHRMC0BDzSXSbm7DjcRgT01.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-ws2o17wi35qd.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-zt1p0jwuy2zu.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-h5rbbp8degn0.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2844822,
+          "tmdb_still_path": "/3G1tZxidwx8D5IMIlsvZOxhZeaW.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-esao51f0c5gq.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-xasp9ff41odo.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-0ejekywqx86x.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2844823,
+          "tmdb_still_path": "/lSGDSvPkxE1P16VA1OJ5cOdxnY1.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-nu4g7eo8ll6c.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-rh57peiz4l2n.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-u25za84ewd9v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2844824,
+          "tmdb_still_path": "/nu8G8j0ZD1XkUHkpYPohdutsMQE.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-l3jd2jh0gzqk.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-ovgnshi6u3fm.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-kzi15zfa5pfe.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2844825,
+          "tmdb_still_path": "/k5hwE4L5BDkB34DYnR8y5Ccu0Zt.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-wfelzxgw4chn.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-f4mmaejl99rd.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-gxtzk3gexyql.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2844826,
+          "tmdb_still_path": "/wxStjUFrwGDed9PV1HGA6qvCt4d.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-hv97k49x2fsk.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-2upgh0kelqwv.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-p7vc4pwhuq01.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2844827,
+          "tmdb_still_path": "/4ZPvFOMeYLQGAv22Hk1D86pgCpf.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://mp4upload.com/embed-f9xqgozv6o4a.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://mp4upload.com/embed-0hh3jqqrtegv.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://mp4upload.com/embed-9juvcd41drwq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2844828,
+          "tmdb_still_path": "/xto5keubZkqlJf1pus19OfQo2z2.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Sentouin, Hakenshimasu! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Sentouin, Hakenshimasu! تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/sentouin-hakenshimasu",
+  "story": "يدور أنمي Sentouin, Hakenshimasu! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Sentouin, Hakenshimasu! تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yusuke Shirai، Miyu Tomita، Sayaka Kikuchi، Natsumi Murakami، Minami Takahashi، Sayumi Watabe",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "-uJdqz-fBl8",
+  "rating": "7.8",
+  "imdb_rating": "7.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Sentouin, Hakenshimasu!",
+    "mainDescription": "يدور أنمي Sentouin, Hakenshimasu! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Sentouin, Hakenshimasu! تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Sentouin, Hakenshimasu! أنمي 2021 | يدور أنمي Sentouin, Hakenshimasu | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Sentouin, Hakenshimasu! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/100567"
+    }
+  },
+  "tmdb_id": 100567,
+  "tmdb_url": "https://www.themoviedb.org/tv/100567",
+  "original_title": "戦闘員、派遣します！"
+}

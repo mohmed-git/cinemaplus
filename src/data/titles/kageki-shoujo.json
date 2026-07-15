@@ -1,0 +1,260 @@
+{
+  "slug": "kageki-shoujo",
+  "clean_title": "Kageki Shoujo!!",
+  "raw_name": "انمي Kageki Shoujo!!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kageki-shoujo.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-z5t51felybnd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2478074,
+          "tmdb_still_path": "/gMPg2V4eZvfPcDSjsJi2O4YP7Sl.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-b87wryatocry.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3046617,
+          "tmdb_still_path": "/xrLTxDrkrolhI9gbnLsVLH5nMaZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fx315oez66cv.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3046618,
+          "tmdb_still_path": "/egJttvJtpIFTCotDuWtAy5xWq9Y.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-1i08nf5r39d9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 3046619,
+          "tmdb_still_path": "/xHNLMvM5InnyR7pNv0Ye7cwpPYd.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-r62mdyakadsa.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 3046620,
+          "tmdb_still_path": "/k7ypRw0JYknHw3Ik1BAqV1hSRzd.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fo8lgj7b4kw9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 3046622,
+          "tmdb_still_path": "/zlVmcPgkVhOxYJI5vhaKB92777H.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-g81rypnpluop.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 3046623,
+          "tmdb_still_path": "/7EZ8Dy08yqWlJVt0QUWO9cMhoaC.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-udcoxyj6t7ua.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 3046624,
+          "tmdb_still_path": "/xIq3gKcrkdidrkVnr9MqCjXXBPg.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-sqqo5vkw7lqb.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 3046625,
+          "tmdb_still_path": "/aWM6wGamtbSr4HQtv2eSQ5Kj1DE.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0q26zm7lygq6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3046627,
+          "tmdb_still_path": "/54DG9buKSQdpzgOEDsfTCmVS30D.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-8g2tngpbf4q6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3046628,
+          "tmdb_still_path": "/saVAUyTCPnJVwNyWHM4oYJBA9YB.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-b45705i968le.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3046629,
+          "tmdb_still_path": "/u6h3bZDwNfivf3wj9bJHO2MxFDc.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-3u8hxaz8qoig.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-26",
+          "runtime": 24,
+          "tmdb_episode_id": 3046630,
+          "tmdb_still_path": "/kHxbNHaZ2McUR0BD02vTQnsxIEK.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kageki Shoujo!! ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Kageki Shoujo!! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مدرسي، دراما يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kageki Shoujo!! على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/kageki-shoujo",
+  "story": "يدور أنمي Kageki Shoujo!! ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Kageki Shoujo!! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مدرسي، دراما يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kageki Shoujo!! على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Sayaka Senbongi، Yumiri Hanamori، Sumire Uesaka، You Taichi، Rico Sasaki، Risae Matsuda",
+  "genre": "أنمي، رسوم متحركة، دراما، كوميديا",
+  "trailerId": "9E95y6UOiLs",
+  "rating": "7.1",
+  "imdb_rating": "7.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kageki Shoujo!!",
+    "mainDescription": "يدور أنمي Kageki Shoujo!! ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Kageki Shoujo!! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مدرسي، دراما يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kageki Shoujo!! على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Kageki Shoujo!! أنمي 2021 | يدور أنمي Kageki Shoujo | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kageki Shoujo!! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/112138"
+    }
+  },
+  "tmdb_id": 112138,
+  "tmdb_url": "https://www.themoviedb.org/tv/112138",
+  "original_title": "かげきしょうじょ‼"
+}

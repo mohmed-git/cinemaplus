@@ -1,0 +1,482 @@
+{
+  "slug": "shoushimin-series",
+  "clean_title": "Shoushimin Series",
+  "raw_name": "انمي Shoushimin Series",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/shoushimin-series.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/myVideo#:~:text=Left%20column,%D0%9C%D0%BE%D0%B8%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=06t59G9U665PfoAc"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91n8k0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7574897101387"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7574899591755"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dfQ2V6j7LZEcObzj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-07",
+          "runtime": 23,
+          "tmdb_episode_id": 5070564,
+          "tmdb_still_path": "/kJZzR1Per38oslekGMURYOlIopG.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7595542383179"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eaUkiQdVuDS2UBo8"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x923zsu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7595549592139"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7595553851979"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=w6s5CLAQZ2jd6TS7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-14",
+          "runtime": 23,
+          "tmdb_episode_id": 5460423,
+          "tmdb_still_path": "/w4YydZUWntht7J1ngJsoJT84ymZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7616895846987"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=c1LUs1uu8BMLHQ0e"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92jwz6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7616904104523"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7616908429899"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EB6J2U5xYVQeUMFR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-21",
+          "runtime": 23,
+          "tmdb_episode_id": 5460424,
+          "tmdb_still_path": "/4Wi9Q3oiIzmblOiGGNxptJpqCLF.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7661949946443"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gWm3DS4Pkq0zvdu1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x93gg14"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7661963053643"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7661968886347"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=X8iIaklbYPbYealJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-04",
+          "runtime": 23,
+          "tmdb_episode_id": 5460425,
+          "tmdb_still_path": "/qRDQP6X720YJfM68qqIe90Ddgcp.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7691416767051"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IL7Ds6OCQZfPIyua"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x93tquc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7691428629067"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7691434658379"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mvczGj5w0BYORAtL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-11",
+          "runtime": 23,
+          "tmdb_episode_id": 5460529,
+          "tmdb_still_path": "/5szSOjRJgshcPFinCUJ4HyKMWzg.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7715091515979"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Fdob8PUFiwjyy3Tz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x946t6a"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7715098593867"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7715102853707"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1elbPLGmQAjh9ZqF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-18",
+          "runtime": 23,
+          "tmdb_episode_id": 5460530,
+          "tmdb_still_path": "/3SZ7cIuK6kJ7JOgylGAuWlMpzTV.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7736272489035"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=f90sYFCtNzsY0Y3R"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x94jzsg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7736277797451"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7736284547659"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3gHj7UasWmk4YNP0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-25",
+          "runtime": 23,
+          "tmdb_episode_id": 5460531,
+          "tmdb_still_path": "/6Hp4Sln1chtamsQFofzcdNYIHlj.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7757260196427"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OpulhTz0NXr9TYxR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x94xga4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7757268519499"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7757271730763"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xDljGpH1HraYQS5V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-01",
+          "runtime": 23,
+          "tmdb_episode_id": 5460532,
+          "tmdb_still_path": "/o8oh7T3005ypMuo3i9sqHp5ISbm.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7779265612363"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kH6mXjRFvSXuWquo"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x95bfgq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7779273017931"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7779277081163"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KeFG4yHtcZi2aCZU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-08",
+          "runtime": 23,
+          "tmdb_episode_id": 5460533,
+          "tmdb_still_path": "/9QZEJiELnNFF2DXM6hklPgc48eI.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7800968055371"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=guVhzjVfgrZQRdul"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x95nupu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7800976771659"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7800982800971"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=31UWqRCeldJzngzW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-15",
+          "runtime": 23,
+          "tmdb_episode_id": 5460535,
+          "tmdb_still_path": "/a4iOzr6Z3eLpXDUY6PWrfl1rMNC.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Shoushimin Series ضمن أجواء رسوم متحركة، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. في أنمي Shoushimin Series تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، مدرسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/shoushimin-series",
+  "story": "يدور أنمي Shoushimin Series ضمن أجواء رسوم متحركة، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. في أنمي Shoushimin Series تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، مدرسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shuichiro Umeda، Hina Youmiya، Makoto Furukawa",
+  "genre": "أنمي، رسوم متحركة، غموض",
+  "trailerId": "ogzoSX6DYQc",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Shoushimin Series",
+    "mainDescription": "يدور أنمي Shoushimin Series ضمن أجواء رسوم متحركة، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. في أنمي Shoushimin Series تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، مدرسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Shoushimin Series أنمي 2024 | يدور أنمي Shoushimin Series ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Shoushimin Series من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/243501"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "shoushimin-series",
+      "title": "Shoushimin Series",
+      "url": "/anime/shoushimin-series",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 10,
+      "poster": "/images/anime/shoushimin-series.jpg"
+    },
+    {
+      "slug": "shoushimin-series-2nd-season",
+      "title": "Shoushimin Series 2nd Season",
+      "url": "/anime/shoushimin-series-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/shoushimin-series-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 243501,
+  "tmdb_url": "https://www.themoviedb.org/tv/243501",
+  "original_title": "小市民シリーズ"
+}

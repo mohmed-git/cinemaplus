@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.astro/
+
+# Data processing artifacts (regenerated on build)
+# keep generated JSON committed optionally — we ignore to keep repo light
+# src/data/titles/
+# src/data/generated/
+
+# Logs
+*.log
+npm-debug.log*
+pids
+*.pid
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Netlify
+.netlify/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Backup
+*.bak
+*.backup
+*.tar.gz
+*.zip
+
+# Reports can stay for inspection
+# reports/
+
+# Trim-data backup
+src/data/generated/all.full.json
+.dev.vars
+scripts/.cache/
+
+# Generated episode shards & indexes (rebuilt by scripts/build-episode-shards.mjs on every build)
+public/_data/episodes/
+public/_data/similar/
+public/_data/new/
+public/_data/subcat/
+public/_data/oldgw/
+src/data/generated/episode-manifest.json
+src/data/generated/episode-routes.json
+src/data/generated/new-manifest.json
+src/data/generated/subcat-counts.json
+.wrangler/
+core
+
+src/data/generated/tmdb-extra-cache.json
+exports/

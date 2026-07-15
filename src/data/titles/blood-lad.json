@@ -1,0 +1,262 @@
+{
+  "slug": "blood-lad",
+  "clean_title": "Blood Lad",
+  "raw_name": "انمي Blood Lad",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/blood-lad.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600235690571"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/evbfbmy7wlaz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-07-08",
+          "runtime": 25,
+          "tmdb_episode_id": 943320,
+          "tmdb_still_path": "/i0GuRBuJgUJwpExpdcbwBtlPuPL.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600246307403"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ihprrvl8s4cf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-07-15",
+          "runtime": 25,
+          "tmdb_episode_id": 943323,
+          "tmdb_still_path": "/aYfyymLzvI898gcKU9L1uSstECK.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600259807819"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/stoh5a4tevfa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-07-22",
+          "runtime": 25,
+          "tmdb_episode_id": 943322,
+          "tmdb_still_path": "/zzwtXlp9mxCBYwOT3fs3slgI8tG.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600266164811"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rboppsxks1d2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-07-29",
+          "runtime": 25,
+          "tmdb_episode_id": 943321,
+          "tmdb_still_path": "/uCf4JtKOvJIKk9z8NFxxR5awl3i.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600271735371"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/gudszjjzptea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-08-05",
+          "runtime": 25,
+          "tmdb_episode_id": 943318,
+          "tmdb_still_path": "/8Wg3E9LyxP7rzEA4ZPMKkOeVKVJ.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600276847179"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/tstjtmhsvswo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-08-12",
+          "runtime": 25,
+          "tmdb_episode_id": 943319,
+          "tmdb_still_path": "/6nhF4pK09LOfpn5zRk4fOjaCI8I.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600281893451"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/xmjwtmntgflf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-08-19",
+          "runtime": 25,
+          "tmdb_episode_id": 943316,
+          "tmdb_still_path": "/atDmFZWWDgKhvqLxbrTiohPvsm.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600286874187"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ae7rrqsng1k3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-08-26",
+          "runtime": 25,
+          "tmdb_episode_id": 943317,
+          "tmdb_still_path": "/voXHUY3qhC3rW376w9kTUca3DCG.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600291330635"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/8gn8knl7bz1v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-09-02",
+          "runtime": 25,
+          "tmdb_episode_id": 943314,
+          "tmdb_still_path": "/8qwe7AOXVv2HaW3NZXj1Z5tZNkt.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4600295524939"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/20rjgyt2oiwl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-09-09",
+          "runtime": 25,
+          "tmdb_episode_id": 943315,
+          "tmdb_still_path": "/opAiYLmASmK5tTZcnDzqXAdW8MI.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Blood Lad ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يعتمد Blood Lad على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، خارق للطبيعة، أكشن، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/blood-lad",
+  "story": "يدور أنمي Blood Lad ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يعتمد Blood Lad على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، خارق للطبيعة، أكشن، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Iori Nomizu، Sarah Emi Bridcutt، Ryota Osaka، Yuuka Nanri، Ryohei Kimura",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "qI7YtisCL0w",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Blood Lad",
+    "mainDescription": "يدور أنمي Blood Lad ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يعتمد Blood Lad على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، خارق للطبيعة، أكشن، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Blood Lad أنمي 2013 | يدور أنمي Blood Lad ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Blood Lad من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/57577"
+    }
+  },
+  "tmdb_id": 57577,
+  "tmdb_url": "https://www.themoviedb.org/tv/57577",
+  "original_title": "ブラッドラッド"
+}

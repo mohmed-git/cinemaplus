@@ -1,0 +1,153 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import TitleDetailContent from '../../components/TitleDetailContent.astro';
+import { getTitlesByCategory, getSimilarTitles, toIndexEntry } from '../../lib/titles';
+import { SITE } from '../../lib/site';
+import type { Title } from '../../lib/types';
+import { gatewayRoute, listingRoute } from '../../lib/routes';
+import {
+  buildJsonLdDescription,
+  buildMetaDescription,
+  buildSeoTitle,
+  buildWorkJsonLd,
+  cleanBrand,
+  getDisplayTitle,
+  getRating,
+  getRatingInfo,
+  getWorkImage,
+  splitGenres,
+} from '../../lib/detailContent';
+
+const moviePatternOverrides: Record<string, number> = {
+  '1-million-followers-2024-مترجم-اون-لاين': 0,
+  '12-desperate-hours-2023-مترجم-اون-لاين': 1,
+  '12-to-midnight-2024-مترجم-اون-لاين': 2,
+  '13th-summer-2024-مترجم-اون-لاين': 3,
+  '15-cameras-2023-مترجم-اون-لاين': 4,
+  '20-days-in-mariupol-2023-مترجم-اون-لاين': 5,
+  '2073-2024-مترجم-اون-لاين': 6,
+  '3-days-in-malay-2023-مترجم-اون-لاين': 7,
+  '57-seconds-2023-مترجم-اون-لاين': 8,
+  '5lbs-of-pressure-2024-مترجم-اون-لاين': 9,
+};
+
+export async function getStaticPaths() {
+  const moviePatternOverrides: Record<string, number> = {
+    '1-million-followers-2024-مترجم-اون-لاين': 0,
+    '12-desperate-hours-2023-مترجم-اون-لاين': 1,
+    '12-to-midnight-2024-مترجم-اون-لاين': 2,
+    '13th-summer-2024-مترجم-اون-لاين': 3,
+    '15-cameras-2023-مترجم-اون-لاين': 4,
+    '20-days-in-mariupol-2023-مترجم-اون-لاين': 5,
+    '2073-2024-مترجم-اون-لاين': 6,
+    '3-days-in-malay-2023-مترجم-اون-لاين': 7,
+    '57-seconds-2023-مترجم-اون-لاين': 8,
+    '5lbs-of-pressure-2024-مترجم-اون-لاين': 9,
+  };
+  const movies = getTitlesByCategory('movie');
+  return movies.map((t, index) => ({
+    params: { slug: t.slug },
+    props: { title: t, patternId: moviePatternOverrides[t.slug] ?? Math.floor(index / 10) % 10 },
+  }));
+}
+
+const { title, patternId } = Astro.props as { title: Title; patternId: number };
+const detailKind = 'movie' as const;
+const primaryEpisode = title.seasons[0]?.episodes[0] ?? null;
+const canWatch = (primaryEpisode?.servers?.length || 0) > 0;
+const similar = getSimilarTitles(title, 12).map(toIndexEntry);
+const genres = splitGenres(title.genre);
+const displayTitle = getDisplayTitle(title);
+const pageTitle = buildSeoTitle(title, detailKind);
+const pageDescription = buildMetaDescription(title, detailKind);
+const jsonLdDescription = buildJsonLdDescription(title, detailKind);
+const rating = getRating(title);
+const ratingInfo = getRatingInfo(title);
+
+const pageUrl = new URL(title.url, SITE.url).toString();
+const watchUrl = new URL(gatewayRoute(title.slug), SITE.url).toString();
+const ogImage = getWorkImage(title, SITE.url) ?? title.poster ?? undefined;
+const jsonLd = buildWorkJsonLd(title, detailKind, {
+  siteUrl: SITE.url,
+  siteName: SITE.name,
+  pageUrl,
+  watchUrl: canWatch ? watchUrl : undefined,
+  categoryLabel: 'أفلام',
+  categoryHref: listingRoute('movie'),
+});
+---
+
+<Base title={pageTitle} description={pageDescription} image={ogImage} ogType="video.movie" jsonLd={jsonLd} section="movies">
+  <section class="relative -mt-16 overflow-hidden pt-16 lg:-mt-[72px] lg:pt-[72px]">
+    <div class="absolute inset-0 -z-10">
+      {title.poster && (
+        <img src={title.poster} alt="" aria-hidden="true" loading="eager" referrerpolicy="no-referrer" class="h-full w-full scale-110 object-cover opacity-40 blur-3xl" />
+      )}
+      <div class="absolute inset-0 hero-overlay"></div>
+      <div class="orb -top-10 right-10 h-72 w-72 bg-brand-600"></div>
+      <div class="orb -left-10 top-40 h-80 w-80 bg-gold-500"></div>
+    </div>
+
+    <div class="container-app relative pb-12 pt-6 md:pb-20 md:pt-10">
+      <Breadcrumbs items={[{ label: 'الرئيسية', href: '/' }, { label: 'أفلام', href: listingRoute('movie') }, { label: displayTitle }]} />
+
+      <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-12 md:gap-10">
+        <div class="flex justify-center md:col-span-4 md:justify-start lg:col-span-3">
+          <div class="relative">
+            <div class="relative aspect-[2/3] w-[240px] overflow-hidden rounded-3xl shadow-2xl ring-1 ring-white/10 sm:w-[280px] md:w-full">
+              {title.poster ? (
+                <img src={title.poster} alt={displayTitle} loading="eager" referrerpolicy="no-referrer" class="h-full w-full object-cover" />
+              ) : (
+                <div class="flex h-full w-full items-center justify-center bg-gradient-to-br from-surface-3 to-surface-5 p-6 text-center text-sm text-gray-400">{displayTitle}</div>
+              )}
+              <div class="badge-hd absolute right-3 top-3 shadow-[0_4px_14px_rgba(251,191,36,0.45)]">{title.quality || 'HD'}</div>
+            </div>
+            <div class="absolute -inset-4 -z-10 rounded-3xl bg-gradient-to-br from-brand-600/30 to-gold-500/25 blur-2xl"></div>
+          </div>
+        </div>
+
+        <div class="space-y-5 md:col-span-8 lg:col-span-9">
+          <div class="flex flex-wrap items-center gap-2">
+            <span class="chip-brand">فيلم</span>
+            {ratingInfo && (
+              <span class="chip-surface inline-flex items-center gap-1" title={`التقييم من ${ratingInfo.source}`}>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5 text-amber-400"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                {ratingInfo.value}
+                <span class="text-[10px] text-gray-400">{ratingInfo.source}</span>
+              </span>
+            )}
+            {title.year && <span class="chip-surface">{title.year}</span>}
+            {title.duration && <span class="chip-surface">{title.duration}</span>}
+            {title.quality && <span class="badge-quality">{title.quality}</span>}
+          </div>
+
+          <h1 class="font-display text-3xl font-extrabold leading-[1.1] text-white md:text-4xl lg:text-5xl">{displayTitle}</h1>
+          {genres.length > 0 && (
+            <div class="flex flex-wrap gap-2">
+              {genres.map((genre) => <span class="inline-flex items-center rounded-full border border-white/[0.06] bg-white/[0.04] px-3 py-1 text-xs text-gray-300">{genre}</span>)}
+            </div>
+          )}
+
+          {canWatch && (
+            <div class="flex flex-wrap gap-3 pt-1">
+              <a href={gatewayRoute(title.slug)} class="btn-primary px-7 py-3.5 text-base">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M8 5v14l11-7z" /></svg>
+                شاهد الآن
+              </a>
+            </div>
+          )}
+
+          <div class="grid grid-cols-2 gap-3 pt-4 sm:grid-cols-4">
+            <div class="glass-panel-sm p-3"><div class="text-[10px] uppercase tracking-wider text-gray-500">المدة</div><div class="mt-0.5 text-sm font-bold text-white">{title.duration || 'غير محددة'}</div></div>
+            <div class="glass-panel-sm p-3"><div class="text-[10px] uppercase tracking-wider text-gray-500">الجودة</div><div class="mt-0.5 text-sm font-bold text-white">{title.quality || 'HD'}</div></div>
+            <div class="glass-panel-sm p-3"><div class="text-[10px] uppercase tracking-wider text-gray-500">اللغة</div><div class="mt-0.5 text-sm font-bold text-white">{cleanBrand(title.language) || 'مترجم'}</div></div>
+            <div class="glass-panel-sm p-3"><div class="text-[10px] uppercase tracking-wider text-gray-500">السيرفرات</div><div class="mt-0.5 text-sm font-bold text-white">{primaryEpisode?.servers.length || 0}</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <TitleDetailContent title={title} kind={detailKind} similar={similar} similarHref={listingRoute('movie')} patternId={patternId} />
+</Base>

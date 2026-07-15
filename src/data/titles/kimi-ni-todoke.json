@@ -1,0 +1,606 @@
+{
+  "slug": "kimi-ni-todoke",
+  "clean_title": "Kimi ni Todoke",
+  "raw_name": "انمي Kimi ni Todoke",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kimi-ni-todoke.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "مقدمة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576816200267"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QEe8xqzxSx4J4AJb"
+            }
+          ],
+          "overview": "تتعرّض \"سواكو كورونوما\" للسخرية بسبب هيئتها المخيفة، لكنّ زميلها اللطيف \"كازيهايا\" يشجّعها فتعرض أن تؤدّي دور الشبح في حدث تقيمه المدرسة.",
+          "air_date": "2009-10-07",
+          "runtime": 23,
+          "tmdb_episode_id": 1243246,
+          "tmdb_still_path": "/l9ndSxkMlo0lYWmh0sqg6lzGq5y.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "استيعاب التغيير",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576864959051"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PFpYHy9ihOc5VDyu"
+            }
+          ],
+          "overview": "تثير \"سواكو\" رعب زملائها عندما تأتي إلى المدرسة مغمورة بالماء، لكنّ \"كازيهايا\"، الذي يتبنّى جروًا ضالًّا، و\"يوشيدا\" يعاملانها بلطف.",
+          "air_date": "2009-10-14",
+          "runtime": 23,
+          "tmdb_episode_id": 1344605,
+          "tmdb_still_path": "/vOik1FF1JwzbsejilCW0riijsuY.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "بعد المدرسة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576882195019"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cON7ieEnPsQeyw9T"
+            }
+          ],
+          "overview": "تسعد \"سواكو\" بتحيّة أصدقائها، وتتطوّع لاحقًا لإعداد دفتر تسجيل الحضور بناءً على طلب \"بين\" الذي يَشغل دور المعلّم مؤقتًا.",
+          "air_date": "2009-10-21",
+          "runtime": 23,
+          "tmdb_episode_id": 1344606,
+          "tmdb_still_path": "/n39l6iofFqssciD2BAivLy07M6W.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "شائعات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576891763275"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UrTXOUZeOUpCaHOI"
+            }
+          ],
+          "overview": "تنتشر شائعة تفيد بأنّ \"سواكو\" تُسيء إلى زميلتيها \"يوشيدا\" و\"يانو\". ورغم سخريتهما من تلك الادّعاءات، إلّا أنّ سوء التفاهم ينشأ شيئًا فشيئًا.",
+          "air_date": "2009-10-28",
+          "runtime": 23,
+          "tmdb_episode_id": 1344607,
+          "tmdb_still_path": "/2PSqtI47xWMOb6sboEfeSbU2Odh.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "عزم وإصرار",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576904411723"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iJ1KR0jJ50q5dApP"
+            }
+          ],
+          "overview": "بعد شعورها بالسوء لأنّها تسبّبت في المشاكل لـ\"يوشيدا\" و\"يانو\"، تضع \"سواكو\" مسافة بينها وبين صديقتيها، ويواجهها \"كازيهايا\" بشأن ما تشعر به.",
+          "air_date": "2009-11-04",
+          "runtime": 23,
+          "tmdb_episode_id": 1344608,
+          "tmdb_still_path": "/8xP4ODtwKCGP7uXEQBPS0tdf33K.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الصديقات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576917715531"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iVkYsvyRLq4HMTUl"
+            }
+          ],
+          "overview": "تتشاجر \"سواكو\" مع طالبة تثير النميمة والثرثرة في حقّ \"يوشيدا\" و\"يانو\" في دورة المياه. وحين تحتدم الأمور، تظهر \"يوشيدا\" و\"يانو\".",
+          "air_date": "2009-11-11",
+          "runtime": 23,
+          "tmdb_episode_id": 1344609,
+          "tmdb_still_path": "/qsVL2nwLrijPN1I4oHsouABbyta.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "ليلة السّبت",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576928266827"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BHLtJFLNB9n2V3Zq"
+            }
+          ],
+          "overview": "بدعوة من \"يوشيدا\" و\"يانو\"، تذهب \"سواكو\" إلى مطعم للرامن تديره عائلة \"ريو\". وبعد تناول الطعام، تمضي الفتيات وقتهنّ في غرفة \"ريو\" ثمّ يوجهنّ الدعوة إلى \"كازيهايا\".",
+          "air_date": "2009-11-18",
+          "runtime": 23,
+          "tmdb_episode_id": 1344610,
+          "tmdb_still_path": "/twevwOcZ2zAxJ5nrUCnBmbhOpeT.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "تدريب تطوّعي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576938293835"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=U3ZZjZ1UcI8HBIWy"
+            }
+          ],
+          "overview": "بينما يبدأ موقفهما في التغير تجاه \"سواكو\"، تصرّ \"يوشيدا\" و\"يانو\" عليها أن تدعوهما باسمهما الأوّل. ويلقي \"بين\" بمهمّة صعبة على عاتق \"كازيهايا\".",
+          "air_date": "2009-11-25",
+          "runtime": 23,
+          "tmdb_episode_id": 1344611,
+          "tmdb_still_path": "/2bcgVbGenAFuaUD3uG3li3IAbuz.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "صديقة جديدة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5576948517451"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HDHpmQMgBUwh0rQ0"
+            }
+          ],
+          "overview": "بعد إعجابها بلطف \"كورومي\" وسلوكها الطيّب، تتحدّث \"سواكو\" مع \"تشيزورو\" و\"أياني\" عن رغبتها في تغيير تسريحة شعرها كي تصبح أشبه بها.",
+          "air_date": "2009-12-02",
+          "runtime": 23,
+          "tmdb_episode_id": 1344612,
+          "tmdb_still_path": "/ac9faEt7y115GPRAW2FuIQH2USH.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "التعاون معًا",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577015167563"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0HQt8YPDwtfSYQkw"
+            }
+          ],
+          "overview": "تتحدّث \"سواكو\" بصراحة مع \"كورومي\"، التي تبدو دائمًا بشوشة تجاهها وتحييها بكلّ ودّ. وفي غضون ذلك، تشكّ \"أياني\" في أنّ \"كورومي\" بصدد أمر ما.",
+          "air_date": "2009-12-09",
+          "runtime": 23,
+          "tmdb_episode_id": 1344613,
+          "tmdb_still_path": "/gdwR5IqCvxuCejtY1QoBEy0d5tH.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "أهو أمر خاصّ؟",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577025194571"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Rm6KOkNMjVkESM76"
+            }
+          ],
+          "overview": "حين تُفاجأ بسرّ ما عن \"كورومي\" وبطلب منها، توضّح \"سواكو\" لها سبب امتناعها عن مساعدتها. وبعد سماعها لذلك، تغضب \"كورومي\" وتكشف عن وجهها الحقيقي.",
+          "air_date": "2009-12-16",
+          "runtime": 23,
+          "tmdb_episode_id": 1344614,
+          "tmdb_still_path": "/a32aoi778yWBXJWufJoxAMpA2F0.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "مشاعر الحبّ",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577038563915"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LzAhZpVObY5rKoQ1"
+            }
+          ],
+          "overview": "تتأثّر \"سواكو\" حين تعلم أنّ \"كورومي\" كانت مغرمة بـ\"كازيهايا\" منذ المرحلة الإعدادية. وفي وقت لاحق، يعثر \"ريو\" على دعوة غير متوقّعة في خزانة الأحذية لديه.",
+          "air_date": "2009-12-23",
+          "runtime": 23,
+          "tmdb_episode_id": 1344615,
+          "tmdb_still_path": "/ytDVPdsIJHKgXnPnc6nT8O6x0UM.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحبّ",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/video/5577134705227"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3u5uYHHqRnk9ngSE"
+            }
+          ],
+          "overview": "يبدي \"كازيهايا\" ردّة فعل عنيفة حين يرى \"سواكو\" تتحدّث إلى \"ريو\" على انفراد. وبعدما توضع الأمور أمامه في نصابها الصحيح، يطرح عليها سؤالًا مهمًّا.",
+          "air_date": "2010-01-06",
+          "runtime": 23,
+          "tmdb_episode_id": 1344616,
+          "tmdb_still_path": "/ieV2z1x5FmBEmYHHGOxoDxu0hD0.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "كورومي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577140406859"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kqaA0jwONcg6JstR"
+            }
+          ],
+          "overview": "تعترف \"كورومي\" لـ\"أياني\" و\"تشيزورو\" بأنّها مَن نشرت الشائعات. وعند سماع \"سواكو\" لذلك، تصاب بالذهول فتتقدّم من أصدقائها بطلب مفاجئ.",
+          "air_date": "2010-01-13",
+          "runtime": 23,
+          "tmdb_episode_id": 1344618,
+          "tmdb_still_path": "/hkzS0nZ6MNazci5NSM0v7fKrORK.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "منافسة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577152137803"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=F0MnYG7pdya6TKeT"
+            }
+          ],
+          "overview": "تسترجع \"كورومي\" لحظات وقوعها في حبّ \"كازيهايا\" أثناء المرحلة الدراسية المتوسّطة... لكنّها تستجمع شجاعتها، متأثّرةً بكلمات \"سواكو\"، لتبوح له بحقيقة مشاعرها.",
+          "air_date": "2010-01-20",
+          "runtime": 23,
+          "tmdb_episode_id": 1344619,
+          "tmdb_still_path": "/tKudzeSlqngzYcdWRI6mJj1d6YL.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "حوار ليلي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577163344459"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6t5NU0ZzZ3fxALnJ"
+            }
+          ],
+          "overview": "تلخيصًا لأحداث القصّة حتى الآن، يجتمع رجال كبار في السنّ وصغار في الحجم لاحتساء الشراب في غرفة \"بين\" بينما يخوضون في الحديث عن \"سواكو\" التي اشتدّ عودها كفتاة مراهقة.",
+          "air_date": "2010-01-27",
+          "runtime": 23,
+          "tmdb_episode_id": 1344620,
+          "tmdb_still_path": "/emDXSHB1F2zoG52P2Bx6xOIYX5.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "يوم العطلة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577173174859"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=f253j65iBFdLdAT9"
+            }
+          ],
+          "overview": "تزور \"تشيزورو\" و\"أياني\" منزل \"سواكو\" للمرة الأولى. وبينما تقضي الفتيات وقتًا ممتعًا، يتّصل \"كازيهايا\" ويطلب منهنّ مرافقته إلى شقّة \"بين\".",
+          "air_date": "2010-02-03",
+          "runtime": 23,
+          "tmdb_episode_id": 1344621,
+          "tmdb_still_path": "/fgLB6bZSx9NEM4OiACoUdD2x5d0.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "حبيب تشيزورو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577183070795"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9g952gjSBxWEc9Ih"
+            }
+          ],
+          "overview": "بعد مساعدة \"سواكو\" لصديقتها \"تشيزورو\" في اختيار هديّة لعيد ميلاد \"ريو\"، تسألها إذا كانت معجبة بشخص ما... فهي تستشعر وجود علاقة خاصة بين \"تشيزورو\" و\"ريو\".",
+          "air_date": "2010-02-10",
+          "runtime": 23,
+          "tmdb_episode_id": 1344622,
+          "tmdb_still_path": "/6UrNbbO82Vu6ShjjxvklM5ZU6qZ.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577194539595"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3bO2pTTdZAFci8L9"
+            }
+          ],
+          "overview": "تجتمع \"سواكو\" و\"أياني\" في منزل \"تشيزورو\" للمبيت هناك. وفي وقت لاحق، وبينما توشك \"تشيزورو\" على تقديم الهديّة لـ\"ريو\" في عيد ميلاده، يصل شخص غير متوقع.",
+          "air_date": "2010-02-17",
+          "runtime": 23,
+          "tmdb_episode_id": 1344623,
+          "tmdb_still_path": "/w3e7QrLW1q7Sw67w2pitrOtD1K1.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الهدية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577202993739"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ddsNRjffvAKYsPrN"
+            }
+          ],
+          "overview": "تعود \"تشيزورو\"، التي لا تزال تشعر بالصدمة بسبب خِطبة \"تورو\"، إلى منزل \"ريو\" لإعطائه هديّته... لكنّ الترحيب البارد من جانبه يُشعل نقاشًا حادًّا.",
+          "air_date": "2010-02-24",
+          "runtime": 23,
+          "tmdb_episode_id": 1344624,
+          "tmdb_still_path": "/h7YsV3tKVhckiCOoHWg2cvkGsXR.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "يوم الثلج الأوّل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577216232011"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Xny5Y1bPvjmw1p1W"
+            }
+          ],
+          "overview": "في اليوم التالي لشجارها مع \"ريو\"، تذهب \"تشيزورو\" إلى المدرسة بروحٍ معنوية مرتفعة. وفي تلك الليلة، تقابل الفتيات \"تورو\" في طريق عودتهنّ من الكاريوكي.",
+          "air_date": "2010-03-03",
+          "runtime": 23,
+          "tmdb_episode_id": 1344625,
+          "tmdb_still_path": "/kfuwSZlaFH8PX3Vq2ydE9CC4VFF.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "عيد الميلاد المجيد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577229863499"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Hhz3W19WUI7FFZ1e"
+            }
+          ],
+          "overview": "مع اقتراب نهاية الفصل الدراسي الثاني، يخطّط \"كازيهايا\" لإقامة حفل بمناسبة عيد الميلاد المجيد ويدعو إليه \"سواكو\"... لكنّها مشتّتة بين أصدقائها وأبويها.",
+          "air_date": "2010-03-10",
+          "runtime": 23,
+          "tmdb_episode_id": 1344626,
+          "tmdb_still_path": "/xXpMR5cG6KfmJHo1oAjC9ucRW9P.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الاثنان",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577239759435"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1MqnI6ZNjaf6RzqL"
+            }
+          ],
+          "overview": "تغمر \"سواكو\" السعادة عندما تدعوها \"تشيزورو\" إلى أحد المعابد في ليلة رأس السنة، وتحضّر \"أياني\" و\"تشيزورو\" مفاجأةً بمناسبة عيد ميلاد \"سواكو\".",
+          "air_date": "2010-03-17",
+          "runtime": 23,
+          "tmdb_episode_id": 1344627,
+          "tmdb_still_path": "/xfxJWrcdlP1Imzn8jp19uEqH1zb.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "يوم الميلاد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577247033931"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pMnckeEcBuBpFJqq"
+            }
+          ],
+          "overview": "عندما يتخلّف الأصدقاء عن الحضور، يتّجه \"كازيهايا\" و\"سواكو\" معًا إلى المعبد وهما يشعران بالإرتباك... ولكن كانت عيون \"ريو\" و\"أياني\" و\"تشيزورو\" تراقبهما خلسةً من البعيد.",
+          "air_date": "2010-03-24",
+          "runtime": 23,
+          "tmdb_episode_id": 1344628,
+          "tmdb_still_path": "/feYymBBFwZRF5bObT3ZLfIBJUcp.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "العام الجديد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577266825803"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PZtcymPqSfJTe0pc"
+            }
+          ],
+          "overview": "يشعر \"ريو\" بالسأم عند المعبد ويهمّ بالعودة إلى الديار، إلّا أن \"أياني\" تمنعه من الرحيل. وتحتفل \"سواكو\" و\"كازيهايا\" ببداية العام الجديد معًا ويسحبان من ورق الأمنيات.",
+          "air_date": "2010-03-31",
+          "runtime": 23,
+          "tmdb_episode_id": 1344629,
+          "tmdb_still_path": "/qenldvyCxdsVRyJy4zCSEYtSp5H.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تبدأ طالبة المدرسة الثانوية \"سواكو\"، التي تحمل اللقب \"سداكو\" بسبب مظهرها الغريب، في الخروج من قوقعتها حين تصادق الفتى \"كازيهايا\"، صاحب الشعبية الكبيرة بين أقرانه.",
+  "url": "/anime/kimi-ni-todoke",
+  "story": "تبدأ طالبة المدرسة الثانوية \"سواكو\"، التي تحمل اللقب \"سداكو\" بسبب مظهرها الغريب، في الخروج من قوقعتها حين تصادق الفتى \"كازيهايا\"، صاحب الشعبية الكبيرة بين أقرانه.",
+  "year": "2009",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Mamiko Noto، Daisuke Namikawa، Miyuki Sawashiro، Yuko Sanpei، Yuichi Nakamura، Mamoru Miyano",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "_gJR6gfRYEQ",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kimi ni Todoke",
+    "mainDescription": "تبدأ طالبة المدرسة الثانوية \"سواكو\"، التي تحمل اللقب \"سداكو\" بسبب مظهرها الغريب، في الخروج من قوقعتها حين تصادق الفتى \"كازيهايا\"، صاحب الشعبية الكبيرة بين أقرانه.",
+    "metaDescription": "Kimi ni Todoke أنمي 2009 | تبدأ طالبة المدرسة الثانوية \"سواكو\" | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kimi ni Todoke من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/68854"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "kimi-ni-todoke",
+      "title": "Kimi ni Todoke",
+      "url": "/anime/kimi-ni-todoke",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 25,
+      "poster": "/images/anime/kimi-ni-todoke.jpg"
+    },
+    {
+      "slug": "kimi-ni-todoke-2nd-season",
+      "title": "Kimi ni Todoke 2nd Season",
+      "url": "/anime/kimi-ni-todoke-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/kimi-ni-todoke-2nd-season.jpg"
+    },
+    {
+      "slug": "kimi-ni-todoke-3rd-season",
+      "title": "Kimi ni Todoke 3rd Season",
+      "url": "/anime/kimi-ni-todoke-3rd-season",
+      "season": 3,
+      "seasonLabel": "الموسم 3",
+      "episodesCount": 5,
+      "poster": "/images/anime/kimi-ni-todoke-3rd-season.jpg"
+    }
+  ],
+  "tmdb_id": 68854,
+  "tmdb_url": "https://www.themoviedb.org/tv/68854",
+  "original_title": "君に届け"
+}

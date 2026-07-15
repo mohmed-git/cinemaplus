@@ -1,0 +1,436 @@
+{
+  "slug": "zetsuen-no-tempest",
+  "clean_title": "Zetsuen no Tempest",
+  "raw_name": "انمي Zetsuen no Tempest",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/zetsuen-no-tempest.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cR0nqsTBBst8Jj8p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-05",
+          "runtime": null,
+          "tmdb_episode_id": 908587,
+          "tmdb_still_path": "/fuMdJvtb3JA0cL1oTnMQjmkhn7m.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=l9KvqfLI0cnLfSIb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-12",
+          "runtime": null,
+          "tmdb_episode_id": 908590,
+          "tmdb_still_path": "/zl4naMTolggc3CUDX7QU4lXwIoq.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BiwagL5mEBLrTEBW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-19",
+          "runtime": 25,
+          "tmdb_episode_id": 908589,
+          "tmdb_still_path": "/3Q34nRUbdW2X7ZhNS73biqjt2GN.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4tsOyGiKkJAxJSab"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-26",
+          "runtime": 25,
+          "tmdb_episode_id": 908591,
+          "tmdb_still_path": "/9t8gkVAeUWzIfCylhWQb90vl9zn.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5NzMK6esaekULR7E"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-02",
+          "runtime": null,
+          "tmdb_episode_id": 908599,
+          "tmdb_still_path": "/hdp9JLw9U2V6zaWzmnD8MLuNrG0.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nqJvPPk6q7C3Qlnl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-09",
+          "runtime": null,
+          "tmdb_episode_id": 908588,
+          "tmdb_still_path": "/iYBttYprYO7Ij1oNQ71Tq7mjqWe.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Ffrs2pFW2Xm6f7oF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-16",
+          "runtime": null,
+          "tmdb_episode_id": 908598,
+          "tmdb_still_path": "/7boTYmOQOi8UyNXiMHvCL4ajYdD.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0EP9f4ZoeSl2CwnH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-23",
+          "runtime": null,
+          "tmdb_episode_id": 908580,
+          "tmdb_still_path": "/yIquge2V7PopPwlLxp8WPys0Vys.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ywJi5mkVGvfoaryA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-30",
+          "runtime": null,
+          "tmdb_episode_id": 908593,
+          "tmdb_still_path": "/jZDtMYXD51T6HcnxWvbA9tOZCGK.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aqvXUuduouDKXSyi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-07",
+          "runtime": null,
+          "tmdb_episode_id": 908581,
+          "tmdb_still_path": "/qSdAlD92pcye7oGc4TJTgWUDQoN.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HHYIYL7CP5DjrQrP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-14",
+          "runtime": null,
+          "tmdb_episode_id": 908594,
+          "tmdb_still_path": "/qlpRR1kQhTafMjwPK9SvZOW1GUZ.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=47g0KvW2cXWvf62V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-21",
+          "runtime": null,
+          "tmdb_episode_id": 908582,
+          "tmdb_still_path": "/lDKb3WDMiXEmFT7ZSp3Zh4G5XPQ.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gTFL03kMMYTqhQ85"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-11",
+          "runtime": null,
+          "tmdb_episode_id": 908576,
+          "tmdb_still_path": "/dTeAm9NtJfnJNTaHvtHEqfzBbwO.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=q0Znk8wEri9bRK2f"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-18",
+          "runtime": null,
+          "tmdb_episode_id": 908596,
+          "tmdb_still_path": "/lPc0ZmmMVB9Xz9weXHKx7jjFjjy.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0yfryrm2HNRVHmE6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-25",
+          "runtime": null,
+          "tmdb_episode_id": 908585,
+          "tmdb_still_path": "/9LKNkhnFPtJ3k7FFgGeEGL2n1Xt.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GaQF1RkjrrrX7Lsi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-01",
+          "runtime": null,
+          "tmdb_episode_id": 908586,
+          "tmdb_still_path": "/4fotgsXVF0oUGfFwDxWTFumUb9c.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PLQlkiTB0QPA9wpm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-08",
+          "runtime": null,
+          "tmdb_episode_id": 908584,
+          "tmdb_still_path": "/5rTSrI4qEJmjSBg7X2xCKO6Vrb1.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gtbpNFkWXeRd2wM0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-15",
+          "runtime": null,
+          "tmdb_episode_id": 908597,
+          "tmdb_still_path": "/nJlZ0sfRQoMcLELCkuszmXMCv3V.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jbqRWwGkQeLEfq5s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-22",
+          "runtime": null,
+          "tmdb_episode_id": 908595,
+          "tmdb_still_path": "/gDdKOli9qgAmM2GwizeS6inHEPB.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dTE1DbZb98jlQznl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-01",
+          "runtime": null,
+          "tmdb_episode_id": 908583,
+          "tmdb_still_path": "/qefPC9njwfWtD6FTb4VGIzXzSgP.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WqiqRqwElobROlBv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-08",
+          "runtime": null,
+          "tmdb_episode_id": 908579,
+          "tmdb_still_path": "/79Zy4kpBtyGSQcQE83LaJ4qVron.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PAAJXU73Any1m358"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-15",
+          "runtime": 25,
+          "tmdb_episode_id": 908578,
+          "tmdb_still_path": "/kHPHqCo6ht5rLKQQ5L4CRrG9Sqi.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wv1YhVROmXoInXmg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-22",
+          "runtime": 25,
+          "tmdb_episode_id": 908592,
+          "tmdb_still_path": "/lwUV82QgU4tOwLXK4qjrCFE0YSM.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZLiQAboysRg1NSAE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-29",
+          "runtime": null,
+          "tmdb_episode_id": 908577,
+          "tmdb_still_path": "/74swOQtHeWGBLLdKMncRa5mY448.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Zetsuen no Tempest ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. في أنمي Zetsuen no Tempest تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، سحر، شونين، أكشن العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و24 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/zetsuen-no-tempest",
+  "story": "يدور أنمي Zetsuen no Tempest ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. في أنمي Zetsuen no Tempest تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، سحر، شونين، أكشن العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و24 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Koki Uchiyama، Miyuki Sawashiro، Toshiyuki Toyonaga، Kana Hanazawa، Yuki Kaji، Nana Mizuki",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "yabiKrhP-uA",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Zetsuen no Tempest",
+    "mainDescription": "يدور أنمي Zetsuen no Tempest ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. في أنمي Zetsuen no Tempest تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، سحر، شونين، أكشن العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و24 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Zetsuen no Tempest أنمي 2012 | يدور أنمي Zetsuen no Tempest ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Zetsuen no Tempest من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/46283"
+    }
+  },
+  "tmdb_id": 46283,
+  "tmdb_url": "https://www.themoviedb.org/tv/46283",
+  "original_title": "絶園のテンペスト"
+}

@@ -1,0 +1,546 @@
+{
+  "slug": "clannad-after-story",
+  "clean_title": "Clannad: After Story",
+  "raw_name": "انمي Clannad: After Story",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/clannad-after-story.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579360442955"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/r8laymcidymp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-10-05",
+          "runtime": 24,
+          "tmdb_episode_id": 647098,
+          "tmdb_still_path": "/adGNMycbeegvsGRpMMvhR1ON3Pg.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579387509323"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/qsqpx2lhgf04"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-10-12",
+          "runtime": 24,
+          "tmdb_episode_id": 647099,
+          "tmdb_still_path": "/ilosaDbXJAr6fH6xmEQQqJchDYd.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579399699019"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/c9pyg6yelupc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-10-19",
+          "runtime": 24,
+          "tmdb_episode_id": 647100,
+          "tmdb_still_path": "/4LNH1bQwFBcYRLxatU3qkRcAyAJ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579412806219"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hidgxmpirok5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-10-26",
+          "runtime": 24,
+          "tmdb_episode_id": 647101,
+          "tmdb_still_path": "/aCHcO7OZLsP7h4ZE8VWpuabiuBR.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579420277323"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ycdncxyo9rbm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-11-02",
+          "runtime": 24,
+          "tmdb_episode_id": 647102,
+          "tmdb_still_path": "/24wZSrDveV2gJ7oLDODoSeWoLwE.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579429780043"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/aq31um4sgcys"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-11-09",
+          "runtime": 24,
+          "tmdb_episode_id": 647103,
+          "tmdb_still_path": "/ny0TfrpMHEys5ilHPJeREQdqhBl.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579437840971"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/yzp2u7ccsz1i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-11-16",
+          "runtime": 24,
+          "tmdb_episode_id": 647104,
+          "tmdb_still_path": "/f0aLH3h5j0ZDGdzaxDwA6zlUp0f.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579446426187"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rrj7bjgtgdrd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-11-23",
+          "runtime": 24,
+          "tmdb_episode_id": 647105,
+          "tmdb_still_path": "/c6SUn29Njkc4EUCpjLH190nG3I8.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579454093899"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/55t56s2mmnqs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-11-30",
+          "runtime": 24,
+          "tmdb_episode_id": 647106,
+          "tmdb_still_path": "/q15BThOIZXjGA75cyRy04wd9V3l.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579461171787"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/q7yxahpbkz8b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-12-07",
+          "runtime": 24,
+          "tmdb_episode_id": 647107,
+          "tmdb_still_path": "/sCwoMa8XPzTWGlelZb9OUTw5iBr.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579468446283"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/5qvll3qeyvgz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-12-14",
+          "runtime": 24,
+          "tmdb_episode_id": 647108,
+          "tmdb_still_path": "/qFaS9GHcbeXs9jCSkpmI9SMI1np.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579476572747"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/46xomho7unhf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-12-21",
+          "runtime": 24,
+          "tmdb_episode_id": 647109,
+          "tmdb_still_path": "/znKPYdKw9igBDeHPKMI5zC6Wq8D.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579482470987"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/7s7xjsnpah2d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-01-11",
+          "runtime": 24,
+          "tmdb_episode_id": 647110,
+          "tmdb_still_path": "/f0Pc2tA8tILJ94WLTZj19w2yZpQ.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579504097867"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/4m3qji10nggc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-01-18",
+          "runtime": 24,
+          "tmdb_episode_id": 647111,
+          "tmdb_still_path": "/trlFzpLQJpKhIQo3J4tdjKHPWYH.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579512224331"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/u3p5ouobsqmm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-01-25",
+          "runtime": 24,
+          "tmdb_episode_id": 647112,
+          "tmdb_still_path": "/wwfNHZXEibIGguXeeO9ikyR6jUI.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579519236683"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/kydpaccjg72r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-02-01",
+          "runtime": 24,
+          "tmdb_episode_id": 647113,
+          "tmdb_still_path": "/5KBW1Wjk5pbZEn17FFdfuwH74TK.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579525986891"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rwxvqh7o25zl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-02-08",
+          "runtime": 24,
+          "tmdb_episode_id": 647114,
+          "tmdb_still_path": "/pHKvt9rlwpKWrcsVjpUGxtAlpbL.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579534047819"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/s5cgfwdpybky"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-02-15",
+          "runtime": 24,
+          "tmdb_episode_id": 647115,
+          "tmdb_still_path": "/lf5ydMheBB9jzl9hj2gUpXwQkvN.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579538766411"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/poopjl2ibgop/"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-02-29",
+          "runtime": 24,
+          "tmdb_episode_id": 647116,
+          "tmdb_still_path": "/d0MWhNPsVvooBUqvOasnfVykR7H.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579544205899"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/vnl8srspgvzj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 647117,
+          "tmdb_still_path": "/dgTl2brzibvM60OuOkgYjNYha84.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579549121099"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/iqqvpzhw5clq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 647118,
+          "tmdb_still_path": "/655tJrUJkEiaotkU5gxWHLWoEAf.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579555543627"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/idyih4xbywxm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 647119,
+          "tmdb_still_path": "/dxdHyRn6TVbmJ1DhpvJaz8bUL3s.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579563539019"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/kbucbjqzr7lv"
+            }
+          ]
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4579570420299"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/fibnqsahfoeq"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "أوكازاكي تومويا طالب في السنة الثالثة الذي كره حياته بشدة لكنها أوشكت أن تتغير بعد أن قابل في طريقه إلى المدرسة فتاة تدعى ناغيسا .",
+  "url": "/anime/clannad-after-story",
+  "story": "أوكازاكي تومويا طالب في السنة الثالثة الذي كره حياته بشدة لكنها أوشكت أن تتغير بعد أن قابل في طريقه إلى المدرسة فتاة تدعى ناغيسا .",
+  "year": "2007",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuichi Nakamura، Mai Nakahara، Ryotaro Okiayu، Kikuko Inoue",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما، خيال علمي وفانتازيا",
+  "trailerId": "IecYMqp1N4k",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Clannad: After Story",
+    "mainDescription": "أوكازاكي تومويا طالب في السنة الثالثة الذي كره حياته بشدة لكنها أوشكت أن تتغير بعد أن قابل في طريقه إلى المدرسة فتاة تدعى ناغيسا .",
+    "metaDescription": "Clannad: After Story أنمي 2007 | أوكازاكي تومويا طالب في السنة الثالثة الذي كره حياته بشدة لكنها أوشكت أن تتغير بعد أن قابل في طريقه إلى المدرسة فتاة…",
+    "highlights": "تم تحديث بيانات Clannad: After Story من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/24835"
+    }
+  },
+  "tmdb_id": 24835,
+  "tmdb_url": "https://www.themoviedb.org/tv/24835",
+  "original_title": "CLANNAD"
+}

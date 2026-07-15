@@ -1,0 +1,1082 @@
+{
+  "slug": "ao-no-hako",
+  "clean_title": "Ao no Hako",
+  "raw_name": "انمي Ao no Hako",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ao-no-hako.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "تشيناتسو سينباي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7721847622342"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=k6GVe0eQPu8Hxtlc"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x96ozvu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7721864334022"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7721873246918"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cT51Zx26rlbF5LCj"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x96p0h2"
+            }
+          ],
+          "overview": "رغم بعض المصادفات التي يرفّ لها القلب، يتساءل \"تايكي\" ما إذا كانت \"تشيناتسو\" التي يكنّ لها مشاعر إعجاب تعرف شيئًا عنه، ولو حتى اسمه. ويدفعه خبر صادم لاحقًا للإقدام على خطوة جريئة.",
+          "air_date": "2024-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3868199,
+          "tmdb_still_path": "/iP1wh8pjHPOP7S7DewTa4KDDgVO.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "عليك الذهاب إلى البطولة الوطنية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7732147456710"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=8vwlEV7qa2y2NrVc"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x96t2rk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7732156500678"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7732166855366"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Zx4ZVw3Si2Izferj"
+            }
+          ],
+          "overview": "سرعان ما تتصرف زميلة \"تايكي\" الجديدة في السكن وكأنها في بيتها. ومع توطّد علاقتهما، تُفضي محاولاته للتكتم على الموضوع إلى سوء فهم.",
+          "air_date": "2024-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5593771,
+          "tmdb_still_path": "/654vPnrKqjJufJj53Zg5uCV7jpE.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "تشي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7768417503942"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wOYhASjLpmctsV3s"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x974st2"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7768421108422"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7768425892550"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KU0zJWioX9BcKR2a"
+            }
+          ],
+          "overview": "يسمع \"تايكي\" \"هاريو\" صدفة وهو ينادي \"تشيناتسو\" باسم مستعار مميز فيصاب بالارتباك، فهل سيؤثر هذا الأمر على مباراته المرتقبة ضد طالب الصفوف العليا؟",
+          "air_date": "2024-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5593772,
+          "tmdb_still_path": "/1PYnJ1W53ZPRyEYpp25EZbvrlJw.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "في حال فوزه",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7812980607686"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mc736pXAgpA7GyM5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x97k4xg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7812981983942"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7812982770374"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=i1v73WpXrX1MiOPK"
+            }
+          ],
+          "overview": "يؤدي تبادل غير مقصود لزيّ النادي إلى موقف تتصاعد فيه دقات القلب. ولاحقًا، يرفع \"هاريو\" مستوى الرهانات المرتبطة بمباراة \"تايكي\"، بينما يقدّم \"تايكي\" طلبًا سرّيًا إلى \"تشيناتسو\".",
+          "air_date": "2024-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5593773,
+          "tmdb_still_path": "/tpNkGMMFxVaaHSUr0xi8WtxWtEs.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "حديقة الأسماك",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7844508338886"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=L0rcYEAlT8JfFvUj"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x97zwp8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7844510501574"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7844512664262"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ekJGvmYNEqzsmrd1"
+            }
+          ],
+          "overview": "في ظل تنافس شديد بين كلا اللاعبين في الملعب، هل سيفوز \"تايكي\" في مباراته ضد \"كيشي\"... وهل ستدعوه \"تشيناتسو\" إلى حوض الأسماك؟",
+          "air_date": "2024-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5593774,
+          "tmdb_still_path": "/9DT2lF6SHysuBkd5vgCXK460WEk.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "تمنَّ لي الحظ!",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7941012458182"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rfCCsfFnd6kypZtt"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x98ehl2"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7941058661062"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7941197138630"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IbY5H00vuj58QGGZ"
+            }
+          ],
+          "overview": "تكتشف \"هينا\" أمرًا صادمًا وهي في طريقها لإعادة هاتف \"تشيناتسو\" المحمول، وتواجه لاعبة الجمباز ضغطًا متزايدًا بينما تقاوم مشاعرها الوليدة.",
+          "air_date": "2024-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5593775,
+          "tmdb_still_path": "/pyIWyOKZMnWBk6jAIrbnDOc0bP1.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "أيمكنني الحصول على واحدة؟",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8130859567814"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=752Lpm2gRWHPgeEP"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x98tnkk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8130903214790"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8130944830150"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cMZuEDphT68foCYB"
+            }
+          ],
+          "overview": "يتناهى إلى مسامع \"تشيناتسو\" انتقاد اللاعبين المنافسين لأدائها الأخير في اللعبة. وفي وقت لاحق، تنتزع \"هينا\" قضمة من طعام \"تايكي\" ممازحة له وتلاحظ \"تشيناتسو\" ذلك من بعيد.",
+          "air_date": "2024-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5593776,
+          "tmdb_still_path": "/sxrKwe2e9gWOVURsyHrciPXCh1k.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "هدف!",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8304449096390"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DA8azbuorPON74Ci"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x997rpc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8304495102662"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8304534686406"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gI1nvmds1TDyXITJ"
+            }
+          ],
+          "overview": "بينما يسعى \"تايكي\" جاهدًا للوصول إلى البطولة الوطنية، تمنحه \"تشيناتسو\" كلمة تشجيعية. ولاحقًا، يواجه \"هاريو\" و\"تايكي\" أفضل لاعبَين في المباراة الرباعية.",
+          "air_date": "2024-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5593777,
+          "tmdb_still_path": "/hzvtE1H7wPCom0pHwrrlKwgrOn2.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8458756688582"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=H6EjPUMQCHviyX8i"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x99l4ls"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8458811148998"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8458848111302"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OXvjnTU9BBEfMNZM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5593778,
+          "tmdb_still_path": "/sMA1jXiKf31WxEmtY2OTs7vGpUw.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8629302594246"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fs9qlQnixqOyoKxf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x99yjp8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8629357841094"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8629390412486"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pIhK2PwINonziwEl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5593779,
+          "tmdb_still_path": "/cUOPnuBTWz7i7jomwRR8XzMkbCd.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8807169264326"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=o343iBUfVlvjw8Mp"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ac9v6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8807228050118"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8807280937670"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6c1LyrdnKgIxtQuo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5593780,
+          "tmdb_still_path": "/rz3xzgykJRv90rk03gzq0PnKPRO.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8961816660678"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MjlDxgzlgVdKBDlD"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9apta4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8961819609798"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8961821838022"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rilQhT59DmHxRmqX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5593781,
+          "tmdb_still_path": "/5fBnYivRNHmPUMvVRfWgdPfWKVT.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9019539131078"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jBASMNobFf6ptVsx"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9bffs6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9019556956870"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9019566590662"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Cv4C3xGD7nMm55c8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5645740,
+          "tmdb_still_path": "/ihS0QGr6HL8P7L6y7OYSPiwCDR4.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9048873372358"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AjQ9JQOmuhWZQdBL"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9bqbqg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9048882809542"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9048891722438"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=H8QYhdE9RfWiXZZH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-09",
+          "runtime": 24,
+          "tmdb_episode_id": 5645741,
+          "tmdb_still_path": "/34khq5ncoySUYA9VzauvfgTj6rm.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9072559393478"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=D5LGucTPLrYYXbbt"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9c384a"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9072562801350"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9072565095110"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ohBzEne3X6feX1m5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 5645742,
+          "tmdb_still_path": "/jlXKcCW9TW8PGGjxMoGy1WsPoWt.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9099243162310"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eyrxj8TyYdlcaLjX"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ciyh4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9099250502342"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9099257383622"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9TvP01R3Z2sTN6xT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 5645743,
+          "tmdb_still_path": "/4lZji1ZM6IBykmLYxgyuDfFerzm.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9122663172806"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PMXapy6gyCbXYuO8"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9cyige"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9122673789638"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9122680146630"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jD6h74no94ZFICpf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 5645744,
+          "tmdb_still_path": "/r84lf3xXptHTKevjyUJXVqktesr.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9143021013702"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aifp2mWKwxopQY4U"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9dakqg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9143023045318"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9143025470150"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GpnwN8p7HQJKuOG3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5645745,
+          "tmdb_still_path": "/8gPCl2ceXGssrAydbuKQCG5xGoB.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9166822640326"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AsZVdIetxqgADJ3m"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9do2k0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9166827752134"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9166831487686"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2mUx3LGaumANk2OZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5645746,
+          "tmdb_still_path": "/vEyVb21mXP7uCk1RgPk0YdNrliD.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9194445540038"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zclHlwM3LUOEeP93"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9e96ha"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9194450062022"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9194453338822"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=T3fPGEDiELVvXoEl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 5645747,
+          "tmdb_still_path": "/24bKMeaaNypMAqmO3itHxRXsXU.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9217707150022"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JTVqooSHyk2Vtjie"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9etcxq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9217716652742"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9217722157766"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5r4wN9IegsARveR4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 5645748,
+          "tmdb_still_path": "/svItHgAc20VnY829RgeHzg3Hc4W.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9243959560902"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JjPYRSrW3E3MmKnJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9fdc1u"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9243968735942"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9243977321158"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PxSqEgVUEsJU8Kls"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5645749,
+          "tmdb_still_path": "/sVmrm0n8LqRIgQuORsUj1EoKsRd.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9262316784326"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4jq7FjaadITHiXjn"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9fpa0g"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9262319209158"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9262320978630"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Fr7wOfDnRPRc8LIc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5645750,
+          "tmdb_still_path": "/rf35oTeibEneOyZBM4YcccS62Qy.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9289267415750"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3d2dJlqX2VBbwkoO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9g2klw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9289270561478"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9289272068806"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=odeACPaR8QLjYU7q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-20",
+          "runtime": 24,
+          "tmdb_episode_id": 5645751,
+          "tmdb_still_path": "/sLQeOfkntkwEWpjoUa5lEMI8HrK.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9312904940230"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=01HZLyKgP4IPC010"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9gj0mi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9312913394374"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9312916277958"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kpuwq38ZTiMA7lfA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-27",
+          "runtime": 24,
+          "tmdb_episode_id": 5645752,
+          "tmdb_still_path": "/ctkW1CquYlv2DF2z9rpHFqll0VV.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "لطالما كان لاعب الريشة الطائرة \"تايكي\" معجبًا بنجمة كرة السلة \"تشيناتسو\" من بعيد. ولكن في أحد أيام الربيع، ينشأ تحول مفاجئ يقربهما من بعضهما بصورة غير متوقعة",
+  "url": "/anime/ao-no-hako",
+  "story": "لطالما كان لاعب الريشة الطائرة \"تايكي\" معجبًا بنجمة كرة السلة \"تشيناتسو\" من بعيد. ولكن في أحد أيام الربيع، ينشأ تحول مفاجئ يقربهما من بعضهما بصورة غير متوقعة",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shoya Chiba، Reina Ueda، Akari Kito",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "tcK9Eghsfq8",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ao no Hako",
+    "mainDescription": "لطالما كان لاعب الريشة الطائرة \"تايكي\" معجبًا بنجمة كرة السلة \"تشيناتسو\" من بعيد. ولكن في أحد أيام الربيع، ينشأ تحول مفاجئ يقربهما من بعضهما بصورة غير متوقعة",
+    "metaDescription": "Ao no Hako أنمي 2024 | لطالما كان لاعب الريشة الطائرة \"تايكي\" معجبًا بنجمة كرة السلة \"تشيناتسو\" من بعيد | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ao no Hako من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/207347"
+    }
+  },
+  "tmdb_id": 207347,
+  "tmdb_url": "https://www.themoviedb.org/tv/207347",
+  "original_title": "アオのハコ"
+}

@@ -1,0 +1,282 @@
+{
+  "slug": "mushishi-zoku-shou",
+  "clean_title": "Mushishi Zoku Shou",
+  "raw_name": "انمي Mushishi Zoku Shou",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mushishi-zoku-shou.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/d40blx91hqz1"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/vqeiba0wfmcj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 677650,
+          "tmdb_still_path": "/CnJlK033C4ipsWnxgq5NDC9pfx.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/usmbksl6pn29"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/seenyy4162q3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 677651,
+          "tmdb_still_path": "/9p2plnvuyOTZz7qmxqcQcTGxiR6.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/90yep827z3fy"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ynyqn3tcpcqm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 677652,
+          "tmdb_still_path": "/z52RTOZvTWQ81TezyiFrSHZ2Ygv.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/9hi1hw32m997"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/0y9vzt0g01eq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 677653,
+          "tmdb_still_path": "/9mLFX99hO4KQT5cxwifbwW2Acs1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1mshk35z7f8z"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/oiyfpshp2gqg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 677654,
+          "tmdb_still_path": "/9kcxm5f7aWknWbRKE2UbHg1Jfxy.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ey2qh70r5bxg"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/x8d0ox5lj2i8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 677655,
+          "tmdb_still_path": "/8oPtnNKUZX2hGxBiIroE9j60coW.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/x0um9el7cnoo"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/w3qamxgbjy9e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 677656,
+          "tmdb_still_path": "/q2uZgG85nMT2CUxxganVkruG3BZ.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/pw4t68e3xiza"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/twjtfcn8u96h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 677657,
+          "tmdb_still_path": "/bkyKaMnaH0VWiVYLibPbfVBkmG1.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/g5ibckvw3adm"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/aw6qqa4ohja1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 677658,
+          "tmdb_still_path": "/8QI8ZsYfHexfS0dVLj0nDLfcaTv.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0s8fii5a72z4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/p78e0gr5fs04"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 677659,
+          "tmdb_still_path": "/8EKOzQSFSnGTigCoKYowRvuJ8Wf.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تتكلم القصة عن مخلوقات واسعة الإنتشار تظهر عادة كمخلوقات خارقة للطبيعة تدعى الموشي. ويشار إليها إنها أقل الكائنات بدائية. ونظرا لطبيعتها فإن معظم البشر لا يستطيعون رؤيتها أو معرفة وجودها، لكن يوجد القليل جدا من البشر الذين يستطيعون رؤيتها والتفاعل معها. أحد هؤلاء هو جينكو بطل السلسلة.",
+  "url": "/anime/mushishi-zoku-shou",
+  "story": "تتكلم القصة عن مخلوقات واسعة الإنتشار تظهر عادة كمخلوقات خارقة للطبيعة تدعى الموشي. ويشار إليها إنها أقل الكائنات بدائية. ونظرا لطبيعتها فإن معظم البشر لا يستطيعون رؤيتها أو معرفة وجودها، لكن يوجد القليل جدا من البشر الذين يستطيعون رؤيتها والتفاعل معها. أحد هؤلاء هو جينكو بطل السلسلة.",
+  "year": "2005",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuto Nakano، Mika Doi، Ai Kobayashi، Miyu Tsuzurahara، Yuji Ueda",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "Fj8x64uCrO0",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mushishi Zoku Shou",
+    "mainDescription": "تتكلم القصة عن مخلوقات واسعة الإنتشار تظهر عادة كمخلوقات خارقة للطبيعة تدعى الموشي. ويشار إليها إنها أقل الكائنات بدائية. ونظرا لطبيعتها فإن معظم البشر لا يستطيعون رؤيتها أو معرفة وجودها، لكن يوجد القليل جدا من البشر الذين يستطيعون رؤيتها والتفاعل معها. أحد هؤلاء هو جينكو بطل السلسلة.",
+    "metaDescription": "Mushishi Zoku Shou أنمي 2005 | تتكلم القصة عن مخلوقات واسعة الإنتشار تظهر عادة كمخلوقات خارقة للطبيعة تدعى الموشي | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mushishi Zoku Shou من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/26867"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "mushishi-zoku-shou",
+      "title": "Mushishi Zoku Shou",
+      "url": "/anime/mushishi-zoku-shou",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 10,
+      "poster": "/images/anime/mushishi-zoku-shou.jpg"
+    },
+    {
+      "slug": "mushishi-zoku-shou-2nd-season",
+      "title": "Mushishi Zoku Shou 2nd Season",
+      "url": "/anime/mushishi-zoku-shou-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 10,
+      "poster": "/images/anime/mushishi-zoku-shou-2nd-season.png"
+    }
+  ],
+  "tmdb_id": 26867,
+  "tmdb_url": "https://www.themoviedb.org/tv/26867",
+  "original_title": "蟲師"
+}

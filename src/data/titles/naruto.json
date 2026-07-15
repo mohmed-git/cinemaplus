@@ -1,0 +1,2515 @@
+{
+  "slug": "naruto",
+  "clean_title": "Naruto",
+  "raw_name": "انمي Naruto",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/naruto.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 128,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 128,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mkkqhFy9KUYu8QWa"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/uynnctb0nuwx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1059121,
+          "tmdb_still_path": "/7xOP0rKDniTZKEaRM7seKfY9SG8.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PLdYtvJscPrrZAYD"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/iyn26wws5sm0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1059122,
+          "tmdb_still_path": "/5e0sxZupgkWNRvEnSn8CtDaTNck.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9jtkSgiBPuaLIwJp"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/od4rpnp2uv6f"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1059123,
+          "tmdb_still_path": "/AnET8GFEtsVkhZCvNDYdo1OhFUZ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=asVdq6NLGobOBaPb"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/4zpebojhdhvd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1059124,
+          "tmdb_still_path": "/754Qrt6RuRblgazi8LiZ26AkmzK.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yuN67AxugvlYy3zL"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/s8fy4hr9oznk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1059125,
+          "tmdb_still_path": "/6DUDSdvZIq4ebWB56EXPWNIt7Yp.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DLtzs1nkSUSz23Zv"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/8dxpe6jkf9kn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1059126,
+          "tmdb_still_path": "/iFwElDN6atOMRNsTnO2xpGr9cfH.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=D9v4fs1RbWqXOpLF"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/07id7ds8u2hr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1059127,
+          "tmdb_still_path": "/hCux6yOMEr0aTASISowEYR5HNm6.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MBVEC4ZIPEkgexPD"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/ncd540js2bkb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1059128,
+          "tmdb_still_path": "/aHB9h0MKT9SM56QDpFEAThWmfZw.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Qkb5Maav0GCJrroa"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/925ritke3r7k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1059129,
+          "tmdb_still_path": "/zPkIKMA53ysQZ2zj5inHwsXA2ME.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QoZtJ654xj7qSPNz"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/9s0pkd0hqhxc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 908135,
+          "tmdb_still_path": "/mgSDvvVi16W2jDvulu5kHr3Zsrs.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=V0G2gL7b8yFItuVG"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-1rljkkbojmqk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 908136,
+          "tmdb_still_path": "/cvhg1zkpVk67Nap3L9vCmmjhWVZ.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MGpxapOURsAo7pyR"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qhyaqdmjkxk8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 908137,
+          "tmdb_still_path": "/2BOgs1XwMqakMbh55nFeWO1ad31.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bjd06MSg96zBMDns"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-mdmxfuc6232f.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2002-12-26",
+          "runtime": 24,
+          "tmdb_episode_id": 908138,
+          "tmdb_still_path": "/rxmDDbuvKzAEmBljTXEntUFJBbS.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NGX0xKMEaEOdsFSY"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-c1o4bxyof8x8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-01-09",
+          "runtime": 24,
+          "tmdb_episode_id": 908139,
+          "tmdb_still_path": "/dsNUKjlGPBKIoH1XYzr25IDxYum.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WjJWLjcEOBZCVELq"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-lakbcva02psl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 908140,
+          "tmdb_still_path": "/480oLCtY8CkKySvOeO0MyBbMI1b.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7kkydGnSruPdrkit"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7s2k4po3iop1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 908141,
+          "tmdb_still_path": "/AntqxDoUOQkiuWfCQohBubKKA7.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=skbvqUh8tAx95eNi"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ritug8w6synd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 908142,
+          "tmdb_still_path": "/d0FSZc0LLbdEwhZ829dxpCN9b5t.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6xMgKsWcnflmooUS"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ksu6y2jfbwlt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 908143,
+          "tmdb_still_path": "/fWq5VAWWX2PQ8dZUFvmN8w095tb.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZZUtcnv3XUcVeexJ"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-lhvsl2iwo7pl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 908144,
+          "tmdb_still_path": "/vEo04e0vR3tySztQoLVgrBpiVIa.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=H34YoS5y06Bj1pYb"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-cgeh5rxk5m3m.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 908145,
+          "tmdb_still_path": "/r6DTT3moIK4CgU5OpmByLdOCU1x.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5teQ7awxAkctv11R"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7z0biv256d01.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 908146,
+          "tmdb_still_path": "/lTZR0D5mFCmjGqUsvn66QxC0SAO.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EZ5sIZ4Oal20aJeq"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-my5foy1d6dvr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-03-06",
+          "runtime": 24,
+          "tmdb_episode_id": 908147,
+          "tmdb_still_path": "/2YRIgqJVVAycZ0ZZfIN4GQ169qM.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XXioiMrOCvz9L5HF"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-e5cyns8ozae0.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-03-13",
+          "runtime": 24,
+          "tmdb_episode_id": 908148,
+          "tmdb_still_path": "/8cusxVCLl6Vhz8z6EwLAvEPp0bV.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SUi6eIAiIKBE9BP6"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-bnolkqppdmrg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-03-20",
+          "runtime": 24,
+          "tmdb_episode_id": 908149,
+          "tmdb_still_path": "/9GXCX3b9hBg2Dke5Y2UQTdC3h5T.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aZb4rcgtiSwAEZMq"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-kdhwepsof36v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-03-27",
+          "runtime": 24,
+          "tmdb_episode_id": 908150,
+          "tmdb_still_path": "/ggsD7py8c7EDWHheDq2fMeM5JbS.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Y7V5BjLenqgZrzBO"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-u92r0aruarb3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 908151,
+          "tmdb_still_path": "/c82OEFZfwvhIYDu4L2Wkiu0AidQ.jpg"
+        },
+        {
+          "episode": 27,
+          "title": "الحلقة 27",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Bf8DLobcVNM4NjIm"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-4b9piuj5elp0.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 908152,
+          "tmdb_still_path": "/e0GGbezmLS5SVYTgAHQEnB2pfXE.jpg"
+        },
+        {
+          "episode": 28,
+          "title": "الحلقة 28",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KgfJIE5hg00PZZy2"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-sz60d1mmftty.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 908153,
+          "tmdb_still_path": "/uUuQV1Ywfo4ZLyt5qS67sV64PzT.jpg"
+        },
+        {
+          "episode": 29,
+          "title": "الحلقة 29",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=T0kNEZN3riy5XI95"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-svp1hym58kut.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 908154,
+          "tmdb_still_path": "/xO0wT3hZ7BA5ejNGqxYM4rDkrLo.jpg"
+        },
+        {
+          "episode": 30,
+          "title": "الحلقة 30",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Gs6aLl2NONdq6uS8"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-co9t7uhpmoyh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 908155,
+          "tmdb_still_path": "/fow6cCMvQDNTZd4pojbB5n9Biw1.jpg"
+        },
+        {
+          "episode": 31,
+          "title": "الحلقة 31",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QkIhaQcQw0rWv07g"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-82o336w4l45a.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 908156,
+          "tmdb_still_path": "/8O4ZB71t8avTJlfeWgjYshH9uO3.jpg"
+        },
+        {
+          "episode": 32,
+          "title": "الحلقة 32",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pAIhsWh7cnWpx9sq"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-1j6s0yrbvjhn.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 908157,
+          "tmdb_still_path": "/upF0XMGkN88cNW5EJ9Fcvrn3BjK.jpg"
+        },
+        {
+          "episode": 33,
+          "title": "الحلقة 33",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IQBEsUOqhEMxXOoh"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-l155af7rs0o9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 908158,
+          "tmdb_still_path": "/o27QYKY0FWstxJkLaw8k19VMHi1.jpg"
+        },
+        {
+          "episode": 34,
+          "title": "الحلقة 34",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=F1nUZgSH0yHlbVHh"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-3whap4o9wyd9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 908159,
+          "tmdb_still_path": "/lgaCuu47RnTkJFSaTGE8oVr0D79.jpg"
+        },
+        {
+          "episode": 35,
+          "title": "الحلقة 35",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nAcqhvqxpFzucV4g"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zsxqpskyydk7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 908160,
+          "tmdb_still_path": "/d8LGgOxvDIJgBpBIgypfOT0eJg5.jpg"
+        },
+        {
+          "episode": 36,
+          "title": "الحلقة 36",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UuiWDG0zAHJgqfGz"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zbsruvtwlwt4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1144958,
+          "tmdb_still_path": "/p4k6c0ElCzJfn8ixALdQprUbBXq.jpg"
+        },
+        {
+          "episode": 37,
+          "title": "الحلقة 37",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2EJ6ZUQypE9zGQAk"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qgu752gze96l.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1144961,
+          "tmdb_still_path": "/rJhRWpsbk4cVwQsHcql10UalGOB.jpg"
+        },
+        {
+          "episode": 38,
+          "title": "الحلقة 38",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rYXhsJNowmFQVSc5"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-fa31ix13plp8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1145015,
+          "tmdb_still_path": "/kEUY1p3yB2zuzs6G0J9zRa3n5vA.jpg"
+        },
+        {
+          "episode": 39,
+          "title": "الحلقة 39",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0ICxAzs7dad6jt6p"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7mnepbbark2v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-07-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1145016,
+          "tmdb_still_path": "/yqXPIz1zU9g4FHbma3Hw4ZwzBv.jpg"
+        },
+        {
+          "episode": 40,
+          "title": "الحلقة 40",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bHtlWI0Rz91dwPrl"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-hd52phzocmak.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-07-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1145020,
+          "tmdb_still_path": "/ttIRnPMOec3EeQ6DScu0SR2OtnW.jpg"
+        },
+        {
+          "episode": 41,
+          "title": "الحلقة 41",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ctuohVEeDFqsApb4"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ujeltz5054bf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1145021,
+          "tmdb_still_path": "/3kBlIN2qODUZrcu2POv2mG3l2dZ.jpg"
+        },
+        {
+          "episode": 42,
+          "title": "الحلقة 42",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZM8cj1A9JxLqlQX0"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-cgdsxi1vvvrm.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-07-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1145022,
+          "tmdb_still_path": "/mje94QnuzJ0i3E9T41Et5wP5ws.jpg"
+        },
+        {
+          "episode": 43,
+          "title": "الحلقة 43",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rdeRw558x7LYwwPZ"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-pvu9ig2fhspp.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1145023,
+          "tmdb_still_path": "/cfyppAV2k3JNOk2w3OSNpy3iXSd.jpg"
+        },
+        {
+          "episode": 44,
+          "title": "الحلقة 44",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=b17PXyybGVlZAFbE"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ciqzgqty96mn.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1145527,
+          "tmdb_still_path": "/99FrIir3fl2I4THjM8SMvmSj3MI.jpg"
+        },
+        {
+          "episode": 45,
+          "title": "الحلقة 45",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6OYfh1BdHoLIpfUz"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-9pyediqrbxym.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1145528,
+          "tmdb_still_path": "/bE7SGcJpYQ7nQOgepW8awRopLbC.jpg"
+        },
+        {
+          "episode": 46,
+          "title": "الحلقة 46",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AJVroPMYLBy57cfH"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-77n1akog0t70.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1145529,
+          "tmdb_still_path": "/799bK1KRz4M2YrMGyXI1Y1VZmhX.jpg"
+        },
+        {
+          "episode": 47,
+          "title": "الحلقة 47",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jjv0GqcbBngrsjWL"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-086hg2f9gabg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1145530,
+          "tmdb_still_path": "/hgUDkVN629NTuACZK4ucL24H7ij.jpg"
+        },
+        {
+          "episode": 48,
+          "title": "الحلقة 48",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=prWwvIfLwdtqSxqo"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-spkdaic2e9dt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1145531,
+          "tmdb_still_path": "/by1hzL5jaQ5AgdP2pxYuPnLbKLo.jpg"
+        },
+        {
+          "episode": 49,
+          "title": "الحلقة 49",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Tsqz7fdNVsfUJv4k"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-e44io4zpn3tk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1145540,
+          "tmdb_still_path": "/kc18Rwed6GBPz7EdwRTedULhsF0.jpg"
+        },
+        {
+          "episode": 50,
+          "title": "الحلقة 50",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rwTub2H0mJnCbLdZ"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-cwxekjgt3xa9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-09-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1145541,
+          "tmdb_still_path": "/4gpJWjIQqI9bxhzupttFUdycU6m.jpg"
+        },
+        {
+          "episode": 51,
+          "title": "الحلقة 51",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Ul2S98sSscmCsMji"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-6yddfkj6vurl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-09-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1145542,
+          "tmdb_still_path": "/eHcbJbaAc9jn7h5BZivDtJzjnyt.jpg"
+        },
+        {
+          "episode": 52,
+          "title": "الحلقة 52",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Muy388MUGpQZAwr5"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-kvaiub4jmqhj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2003-10-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1145543,
+          "tmdb_still_path": "/rf92mvS6qERp44wplipu4sZUWXZ.jpg"
+        },
+        {
+          "episode": 53,
+          "title": "الحلقة 53",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MLUj3tbbmIqR2JsL"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3009948617291"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-emjsha8wiehh.html"
+            }
+          ]
+        },
+        {
+          "episode": 54,
+          "title": "الحلقة 54",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=L0En1UPAPt3c66Dq"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3009960806987"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7xwqkon81avy.html"
+            }
+          ]
+        },
+        {
+          "episode": 55,
+          "title": "الحلقة 55",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Np6oV4ETe6aSrGa5"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010030471755"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-wp0790txcnfd.html"
+            }
+          ]
+        },
+        {
+          "episode": 56,
+          "title": "الحلقة 56",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=RXgU8W8FZkPPWSQT"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010067171915"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-djycadxcoomg.html"
+            }
+          ]
+        },
+        {
+          "episode": 57,
+          "title": "الحلقة 57",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=p6ymY9guhXaE02DC"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010083949131"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-afzw4rvjuxu9.html"
+            }
+          ]
+        },
+        {
+          "episode": 58,
+          "title": "الحلقة 58",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kmJOf6kn9PXN4vIX"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010109246027"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-m3qi91ou5w5v.html"
+            }
+          ]
+        },
+        {
+          "episode": 59,
+          "title": "الحلقة 59",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4lveTQgHksIVGohH"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010118355531"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-kz67dypf4o0i.html"
+            }
+          ]
+        },
+        {
+          "episode": 60,
+          "title": "الحلقة 60",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xkxGtalAgGdHKBS3"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010135001675"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-mkf0ef1ebi5u.html"
+            }
+          ]
+        },
+        {
+          "episode": 61,
+          "title": "الحلقة 61",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xl8c0xseKVFOIoxJ"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010287176267"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-p3ce26ai7xoa.html"
+            }
+          ]
+        },
+        {
+          "episode": 62,
+          "title": "الحلقة 62",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qGAQwoKbFKraurrt"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010296351307"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-vqkz51mr699q.html"
+            }
+          ]
+        },
+        {
+          "episode": 63,
+          "title": "الحلقة 63",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=A5tPv5f3bSNMo53i"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010315684427"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-m6472b21bgbs.html"
+            }
+          ]
+        },
+        {
+          "episode": 64,
+          "title": "الحلقة 64",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZBlfkQK5tKQhy2Vu"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010320599627"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-of0y8trg27i6.html"
+            }
+          ]
+        },
+        {
+          "episode": 65,
+          "title": "الحلقة 65",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ytmY1vhKnrVpZrZI"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010329840203"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0md1eddwopo0.html"
+            }
+          ]
+        },
+        {
+          "episode": 66,
+          "title": "الحلقة 66",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=innGvyu8BkgLny8A"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010345044555"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ebsjay4zhhe8.html"
+            }
+          ]
+        },
+        {
+          "episode": 67,
+          "title": "الحلقة 67",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=w534R9H1NBJgmNYL"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010351991371"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-wtr700l5zgdx.html"
+            }
+          ]
+        },
+        {
+          "episode": 68,
+          "title": "الحلقة 68",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qnJu1pZrntjkFBnE"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010361559627"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-c251oij2wp5q.html"
+            }
+          ]
+        },
+        {
+          "episode": 69,
+          "title": "الحلقة 69",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=R2iKLK7ZEtNqRe56"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010369620555"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-nekqg4x3x2e4.html"
+            }
+          ]
+        },
+        {
+          "episode": 70,
+          "title": "الحلقة 70",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=150wBhRXj8ssqP12"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010379254347"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-2m25hbbpz5zv.html"
+            }
+          ]
+        },
+        {
+          "episode": 71,
+          "title": "الحلقة 71",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kAchKbpk12TPEcG9"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010403437131"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-2dp5d990iqgv.html"
+            }
+          ]
+        },
+        {
+          "episode": 72,
+          "title": "الحلقة 72",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010419755595"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-gk5ttoka1tvq.html"
+            }
+          ]
+        },
+        {
+          "episode": 73,
+          "title": "الحلقة 73",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010426636875"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ku2nbidc9paq.html"
+            }
+          ]
+        },
+        {
+          "episode": 74,
+          "title": "الحلقة 74",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010431552075"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-z2w6wafbzk0j.html"
+            }
+          ]
+        },
+        {
+          "episode": 75,
+          "title": "الحلقة 75",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010437122635"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-9jhb8r9z95ax.html"
+            }
+          ]
+        },
+        {
+          "episode": 76,
+          "title": "الحلقة 76",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010464451147"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qfqyl00vu1me.html"
+            }
+          ]
+        },
+        {
+          "episode": 77,
+          "title": "الحلقة 77",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010468579915"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-m1lmb1dzkiqu.html"
+            }
+          ]
+        },
+        {
+          "episode": 78,
+          "title": "الحلقة 78",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010472839755"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-nq369q90sstn.html"
+            }
+          ]
+        },
+        {
+          "episode": 79,
+          "title": "الحلقة 79",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010476116555"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ikfzp4aigww3.html"
+            }
+          ]
+        },
+        {
+          "episode": 80,
+          "title": "الحلقة 80",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010488371787"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-x20ysx2nm7di.html"
+            }
+          ]
+        },
+        {
+          "episode": 81,
+          "title": "الحلقة 81",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010503313995"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-34d5e4rgah7o.html"
+            }
+          ]
+        },
+        {
+          "episode": 82,
+          "title": "الحلقة 82",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3010507770443"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-6rsnjnc2hane.html"
+            }
+          ]
+        },
+        {
+          "episode": 83,
+          "title": "الحلقة 83",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3693340396107"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/1caw16jhjprw"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6zbb021r0l0h.html"
+            }
+          ]
+        },
+        {
+          "episode": 84,
+          "title": "الحلقة 84",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3693344459339"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rmca2kp9lsq9"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ygqty2o14ouw.html"
+            }
+          ]
+        },
+        {
+          "episode": 85,
+          "title": "الحلقة 85",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3693347998283"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/4mcfzro9ovrt"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6re9qyqjlcz9.html"
+            }
+          ]
+        },
+        {
+          "episode": 86,
+          "title": "الحلقة 86",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3693350160971"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/t3h6scjot2le"
+            }
+          ]
+        },
+        {
+          "episode": 87,
+          "title": "الحلقة 87",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3693352847947"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/7abn6xesuycz"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-cdfihu5vzu2k.html"
+            }
+          ]
+        },
+        {
+          "episode": 88,
+          "title": "الحلقة 88",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698028055115"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/iihvpbepbkp9"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rgk3euf71p5g.html"
+            }
+          ]
+        },
+        {
+          "episode": 89,
+          "title": "الحلقة 89",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3693359860299"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/v2ik1swafgxh"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rrh75kq2xlne.html"
+            }
+          ]
+        },
+        {
+          "episode": 90,
+          "title": "الحلقة 90",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3693364578891"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/pel456aoamde"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qo0r27lnc63f.html"
+            }
+          ]
+        },
+        {
+          "episode": 91,
+          "title": "الحلقة 91",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698065082955"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/1e7g27jnc6nc"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-f6o7d54j5v9k.html"
+            }
+          ]
+        },
+        {
+          "episode": 92,
+          "title": "الحلقة 92",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698068032075"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/nzmzcg4tubmd"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7cwue39xzci4.html"
+            }
+          ]
+        },
+        {
+          "episode": 93,
+          "title": "الحلقة 93",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698070719051"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hxas8o6pbvj0"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-g0yfwuhfk3gc.html"
+            }
+          ]
+        },
+        {
+          "episode": 94,
+          "title": "الحلقة 94",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698073733707"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/dblwz592ve9k"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-tcmnc6k2tmme.html"
+            }
+          ]
+        },
+        {
+          "episode": 95,
+          "title": "الحلقة 95",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698075961931"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/wpc7diiyxo85"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kqb4qx6rasuo.html"
+            }
+          ]
+        },
+        {
+          "episode": 96,
+          "title": "الحلقة 96",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/wn41civd3nav36gpro25owo5qaq3ch36"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/uwlpn1v2ml1w"
+            }
+          ]
+        },
+        {
+          "episode": 98,
+          "title": "الحلقة 98",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/wsxdicwui23s8qckkzxlykmde6eybica"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ckn0bmair1do"
+            }
+          ]
+        },
+        {
+          "episode": 99,
+          "title": "الحلقة 99",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/m18ulvoqbahm5uyg4egvgx9h7fq80k5i"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/0jc3k3xw9sk6"
+            }
+          ]
+        },
+        {
+          "episode": 100,
+          "title": "الحلقة 100",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/nyltsikxyg9utk2lq1ylkabhk6fs9w17"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/re2ytm74o33y"
+            }
+          ]
+        },
+        {
+          "episode": 107,
+          "title": "الحلقة 107",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/i77sk5cy8ajkd5oaikgnbhs1ro6xlzwo"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ygnzgpopczoa"
+            }
+          ]
+        },
+        {
+          "episode": 108,
+          "title": "الحلقة 108",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/4yb3vtnk3ziwxr64j4fao9a8ifkdeo8j"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/igxuidkpo9my"
+            }
+          ]
+        },
+        {
+          "episode": 109,
+          "title": "الحلقة 109",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/fhmjtb9q5xbc4voty1x91ziwp1qw92xw"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/xir4tvdrorsb"
+            }
+          ]
+        },
+        {
+          "episode": 110,
+          "title": "الحلقة 110",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/qqeax5jy0bhm99jvgml6tpnt4jhxhbds"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/cf42oybtxhwp"
+            }
+          ]
+        },
+        {
+          "episode": 111,
+          "title": "الحلقة 111",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/ev738fk1x1y1psjzfoynrwq0nk0k13ix"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/3g7nndj6srdo"
+            }
+          ]
+        },
+        {
+          "episode": 112,
+          "title": "الحلقة 112",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/6gpfra1d8bmhbqlf1qfx4zc3h883mvob"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ae4npjh13jls"
+            }
+          ]
+        },
+        {
+          "episode": 113,
+          "title": "الحلقة 113",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/tdfb8unr4ogix2c7qy1zqt5he7f7p609"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/wnfmqvjej0z2"
+            }
+          ]
+        },
+        {
+          "episode": 114,
+          "title": "الحلقة 114",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/rfa3o2vrgaclj5pzqoch9fah5u3cnb3v"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ewcw8ejmwvnl"
+            }
+          ]
+        },
+        {
+          "episode": 115,
+          "title": "الحلقة 115",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/pg4sjqic1y5akf8bym8z44mmuhrmaxdo"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/kezr7h76ay8b"
+            }
+          ]
+        },
+        {
+          "episode": 116,
+          "title": "الحلقة 116",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/8iq01g7mjrr4pni47b40t1xmkv8qh4fy"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/guiqkb5whp4b"
+            }
+          ]
+        },
+        {
+          "episode": 117,
+          "title": "الحلقة 117",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/j5cgxkxxsarcc3vc4tz5dfezt5pfpgzr"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/dzu975ylsnwo"
+            }
+          ]
+        },
+        {
+          "episode": 118,
+          "title": "الحلقة 118",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/xdfhj29xi5qwvbpk0v1pq911iwavgx64"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hyblgi2th1ou"
+            }
+          ]
+        },
+        {
+          "episode": 119,
+          "title": "الحلقة 119",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/79wimm1n1zfdfci06zv3zqiwinbcqlg9"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/mhb9bwmsvvdu"
+            }
+          ]
+        },
+        {
+          "episode": 120,
+          "title": "الحلقة 120",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/2s6yy2tp9firdzdrqmt8binnwe6x3uo8"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/tfxeujmbat3d"
+            }
+          ]
+        },
+        {
+          "episode": 121,
+          "title": "الحلقة 121",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/k7cb2mtxdjnqcce3a356skhwxkrd6yez"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rvblgtdnduhp"
+            }
+          ]
+        },
+        {
+          "episode": 122,
+          "title": "الحلقة 122",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/u7f5drqsf6vqum78lcd0inhfq14p8o2w"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/3lhqyifjnbxa"
+            }
+          ]
+        },
+        {
+          "episode": 123,
+          "title": "الحلقة 123",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/dzmjsrvep1eguspc0pnbybmra6qumcvd"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/pme8ofwyqn6p"
+            }
+          ]
+        },
+        {
+          "episode": 124,
+          "title": "الحلقة 124",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/c4xntyr08wgio930ljwq86mv0jfw25fe"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/il6tsevgwpec"
+            }
+          ]
+        },
+        {
+          "episode": 125,
+          "title": "الحلقة 125",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/su05rqgwuk8ocq2mkkeum32o363ze1mv"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/bsbxllawmajm"
+            }
+          ]
+        },
+        {
+          "episode": 126,
+          "title": "الحلقة 126",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/8g1gd5hqf4qv233rmnmckfeg8u0bcps5"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/3rn85pemjcxh"
+            }
+          ]
+        },
+        {
+          "episode": 127,
+          "title": "الحلقة 127",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/g57hh8s79y4pqvgu238110qz4tcb3rkm"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/e24e9dob9a2k"
+            }
+          ]
+        },
+        {
+          "episode": 128,
+          "title": "الحلقة 128",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/twja35joyptc8hoi5sui92xrywa8tb81"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/y28dj9vekrzk"
+            }
+          ]
+        },
+        {
+          "episode": 129,
+          "title": "الحلقة 129",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/z98snw0sepzuwdkv64efxsyo45y26ao8"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ig717pviu2xt"
+            }
+          ]
+        },
+        {
+          "episode": 130,
+          "title": "الحلقة 130",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/n3n9ot821qudoq8kju8jikbi2yanspwz"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/jgfrirp07nrd"
+            }
+          ]
+        },
+        {
+          "episode": 131,
+          "title": "الحلقة 131",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/rk8iyb6r5g445r6u7x3e3ohen02m6lvi"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/gjyrlooxsb4v"
+            }
+          ]
+        },
+        {
+          "episode": 132,
+          "title": "الحلقة 132",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/vgk7ko8dmnb1d9bh0jdgah5r6eaju8qb"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/dvpv1jsqnkew"
+            }
+          ]
+        },
+        {
+          "episode": 133,
+          "title": "الحلقة 133",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/xywt95rutlp0i344uh75pyegquv7592h"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hbw92p1yjlaa"
+            }
+          ]
+        },
+        {
+          "episode": 134,
+          "title": "الحلقة 134",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/9o9dehyoruy25z7uoml51j18n9evetna"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/cv50iydqfpbq"
+            }
+          ]
+        },
+        {
+          "episode": 135,
+          "title": "الحلقة 135",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/a0osdqkzrkyyogr2k4aunnmra3wgz6ei"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rsnieqskvqf6"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "القرية المخفيّة في الورق هي موطن لأكثر النينجا خفّة وسريّة. لكن قبل اثنتي عشرة سنة، ظهر الثعلب الشيطان ذو التسعة ذيول وبعث الرعب في ساكنيها قبل أن يتمّ كبته وختم روحه في داخل جسد طفلٍ رضيع.",
+  "url": "/anime/naruto",
+  "story": "القرية المخفيّة في الورق هي موطن لأكثر النينجا خفّة وسريّة. لكن قبل اثنتي عشرة سنة، ظهر الثعلب الشيطان ذو التسعة ذيول وبعث الرعب في ساكنيها قبل أن يتمّ كبته وختم روحه في داخل جسد طفلٍ رضيع.",
+  "year": "2002",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Junko Takeuchi، Noriaki Sugiyama، Chie Nakamura، Kazuhiko Inoue، Hidekatsu Shibata، Koichi Tochika",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "-G9BqkgZXRA",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Naruto",
+    "mainDescription": "القرية المخفيّة في الورق هي موطن لأكثر النينجا خفّة وسريّة. لكن قبل اثنتي عشرة سنة، ظهر الثعلب الشيطان ذو التسعة ذيول وبعث الرعب في ساكنيها قبل أن يتمّ كبته وختم روحه في داخل جسد طفلٍ رضيع.",
+    "metaDescription": "Naruto أنمي 2002 | القرية المخفيّة في الورق هي موطن لأكثر النينجا خفّة وسريّة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Naruto من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/46260"
+    }
+  },
+  "tmdb_id": 46260,
+  "tmdb_url": "https://www.themoviedb.org/tv/46260",
+  "original_title": "ナルト"
+}

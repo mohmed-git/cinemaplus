@@ -1,0 +1,414 @@
+{
+  "slug": "re-monster",
+  "clean_title": "Re:Monster",
+  "raw_name": "انمي Re:Monster",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/re-monster.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QymhNiZDkmKeb2gq"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2THvASuj31I4ivcU"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/bafjpefxri2i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4980863,
+          "tmdb_still_path": "/AfHsEK0dB4rtMvTlaQ41r8wYaw0.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zEUCyIZgJx23tUCb"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JV2RMKl35GUdRKkj"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9q04b3971pyy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5250834,
+          "tmdb_still_path": "/txwjHeqyDJMaeabwtGjYbK84cvz.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CLk1UHrAmBuvqNqw"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Vg8vtnEJNhsZURAV"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2p67vl5gwk5b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5250835,
+          "tmdb_still_path": "/yvCq8vYCnu0KX2FtS57YprrLow2.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1A8YO0bJ9MV0GJzk"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hdvRo9Ce8KBoznhg"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8wdht0wypjvb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-26",
+          "runtime": 24,
+          "tmdb_episode_id": 5250836,
+          "tmdb_still_path": "/2S3fwaVKrG40nqgXFVeiK0ZmFqX.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HkwXub0sDOMhrEnN"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OmfseVAgw2eyRTo8"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3myhtprepj4n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5250837,
+          "tmdb_still_path": "/wn323VTjfVr04Mrc33JTubh1l5O.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KZJ2ENKgXGblsG6q"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=r61e0Q6FZ8zSIxq3"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vq7nlw42seoz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5250839,
+          "tmdb_still_path": "/nKd3TEFW3CQ6z6o4ueS4f9aUU8k.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CmrYRgmIYLTM1d9r"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MpS3jc36uK9IwUtd"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jmgsnzvhhyul"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5250840,
+          "tmdb_still_path": "/exRpg9IVnzM5XuFRXzdkauFaBF1.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=RjLrg8DFj5ElpfOS"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/guvgpi56pmnb"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/em7lmno2u8zg"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2PXo4XzeceGO9hPh"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swhoi.com/e/b95s7htp8wym"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5250841,
+          "tmdb_still_path": "/80Y4bJFFqj2gDtzHt1PK2hL1QhY.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=q0FXhgrOxPX1t7kW"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/j9p772d0obwj"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/11dyb1psn0gb"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pDjy0ehLjldOqm2E"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swhoi.com/e/wrxc31cw8ah5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5250842,
+          "tmdb_still_path": "/x8yJ3VPPCfaDBidTsXZUvlDzHHC.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xWjAQeveDluXnnNH"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/puwgdxndg3kk"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/2bbvczf6ad9k"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1Snha5soidIasFgJ"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/gificu5z1u15"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5250843,
+          "tmdb_still_path": "/sxw3afsGbEonbD934VDjfLHsB11.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UvdeoL5sX5Bacb5v"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/jid541ug5axp"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/7x5rsc6a7z74"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BiFYFBMtMDU1JPue"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/zpu5a7r2q2nh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5250844,
+          "tmdb_still_path": "/q0pfLEDKTUngjBad87nHh87sCRY.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BmPPlGdgiUmw6k9d"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/71tsbdgz3xp1"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/xyb5dfiew9lt"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9qZXm1v6XI7fdTCG"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/tv4nfzfmw71z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5250845,
+          "tmdb_still_path": "/g3cHivp2qLdDfTToFPsZr0JXfmJ.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Re:Monster ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. يعتمد Re:Monster على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/re-monster",
+  "story": "يدور أنمي Re:Monster ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. يعتمد Re:Monster على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Takuya Sato، Kenta Hosoda، Ai Kakuma، Kana Ueda، Aya Yamane، Nichika Omori",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "36m7E6pTNX8",
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Re:Monster",
+    "mainDescription": "يدور أنمي Re:Monster ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. يعتمد Re:Monster على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Re:Monster أنمي 2024 | يدور أنمي Re:Monster ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Re:Monster من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/235389"
+    }
+  },
+  "tmdb_id": 235389,
+  "tmdb_url": "https://www.themoviedb.org/tv/235389",
+  "original_title": "Re:Monster"
+}

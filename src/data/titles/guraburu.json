@@ -1,0 +1,329 @@
+{
+  "slug": "guraburu",
+  "clean_title": "Guraburu!",
+  "raw_name": "انمي Guraburu!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/guraburu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2011726481995"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1My7Buj0q0rWdUfX35APsKit9yNNsTi0k/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-e9311056dd6s.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-08",
+          "runtime": 3,
+          "tmdb_episode_id": 2383273,
+          "tmdb_still_path": "/oImQDwmVmqeKq3t1TlX4wsWQvGd.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2030347029067"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1yOXODwkwvnugleWZt8NzKo3EMxckCEZI/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-azs2laxa4e2m.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-15",
+          "runtime": 3,
+          "tmdb_episode_id": 2465465,
+          "tmdb_still_path": "/flWVdm7S5lZ2Ey5qqeXg41riDN8.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2036955679307"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1k60ngj0qlVKQ_dkKCq8eUilYzrVzBP0m/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-55950zin1ymy.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-22",
+          "runtime": 3,
+          "tmdb_episode_id": 2474346,
+          "tmdb_still_path": "/zctHA3humS2wiatnKYg4UEBZAlD.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2069461338699"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1nsmyEnS0NPU4e-WvbZx4xlZ9zl-Bilg-/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-u8joe3s0nl3p.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-29",
+          "runtime": 3,
+          "tmdb_episode_id": 2474359,
+          "tmdb_still_path": "/c89KGzc48ARAGqPRfp1hXabdJS7.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2069481851467"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1b035cosNWZqJweMuD-64NQh7l0v05fp5/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0pfr81zszlao.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-05",
+          "runtime": 3,
+          "tmdb_episode_id": 2505679,
+          "tmdb_still_path": "/rdUTO39fgfoq8a5QhyeMeBxIGP8.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2466689452619"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-gefmfw3ecc4z.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-12",
+          "runtime": 3,
+          "tmdb_episode_id": 2505680,
+          "tmdb_still_path": "/6KMQoVuMR4U7QZYXpXOu258ILIG.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2466691353163"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-2zq2n38m4tlb.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-19",
+          "runtime": 3,
+          "tmdb_episode_id": 2517643,
+          "tmdb_still_path": "/mfkUCgFcbEGXcVpZlPbl2ZWTkKS.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2466701511243"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-cw6bz21fdy0x.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-26",
+          "runtime": 3,
+          "tmdb_episode_id": 2530705,
+          "tmdb_still_path": "/tRpH8bCtgksgIBtMFVmIfjjhMMb.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2466704263755"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-az4cecc98qmg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-03",
+          "runtime": 3,
+          "tmdb_episode_id": 2542091,
+          "tmdb_still_path": "/hoJCkI1cKJN8INQBqGDmaEN52QD.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2466719271499"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7ook8o1aibgc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-10",
+          "runtime": 3,
+          "tmdb_episode_id": 2552746,
+          "tmdb_still_path": "/nNwCERj9ZOIuGd11bEOITRgJd8H.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2466724645451"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-v3ea5gki33n5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-17",
+          "runtime": 3,
+          "tmdb_episode_id": 2565348,
+          "tmdb_still_path": "/qZVypZpK3Sn5cjP6pojwY4nGtRe.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2466727004747"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zht6oc11u3xl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-24",
+          "runtime": 3,
+          "tmdb_episode_id": 2600608,
+          "tmdb_still_path": "/hXU5f7uwTNL9bU0kJhkpbYpI60X.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Guraburu! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Guraburu! حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، مغامرات، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/guraburu",
+  "story": "يدور أنمي Guraburu! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Guraburu! حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، مغامرات، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kenichi Suzumura، Aya Hisakawa، Hiroki Yasumoto، Kana Hanazawa، Yuki Ono، Yukari Tamura",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "5.2",
+  "imdb_rating": "5.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Guraburu!",
+    "mainDescription": "يدور أنمي Guraburu! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Guraburu! حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، مغامرات، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Guraburu! أنمي 2020 | يدور أنمي Guraburu | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Guraburu! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/107257"
+    }
+  },
+  "tmdb_id": 107257,
+  "tmdb_url": "https://www.themoviedb.org/tv/107257",
+  "original_title": "ぐらぶるっ！"
+}

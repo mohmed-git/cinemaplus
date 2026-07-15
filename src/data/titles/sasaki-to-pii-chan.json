@@ -1,0 +1,609 @@
+{
+  "slug": "sasaki-to-pii-chan",
+  "clean_title": "Sasaki to Pii-chan",
+  "raw_name": "انمي Sasaki to Pii-chan",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/sasaki-to-pii-chan.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6989318916683"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=y1CuOKwdTg1eU7QN"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8r7bb5"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6989335235147"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Ue1TTDJI#oMJShxB0cN73ILX2qHlSkSyys_e0HuoDvnimGkG0EEk"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6989341198923"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=v1jhkrKxEi1VJHuA"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8r7bq6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-05",
+          "runtime": 48,
+          "tmdb_episode_id": 3849553,
+          "tmdb_still_path": "/wieOzsGCLDaxZLJ3sIx1uLsmjj9.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7010303347275"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iqckwiXxykZCJcL1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8recv7"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7010317044299"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xztBWYAZ#iD8m_-F0nYW3wb1TTGq1lf_wBeZaOQfYVSAMCRItnVU"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7010322090571"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6R4xcloO4gNjGTvw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-12",
+          "runtime": 23,
+          "tmdb_episode_id": 4979172,
+          "tmdb_still_path": "/avld1DbKFy72Jl6roIyFJik49tH.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7035432733259"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lUZMzHtYOLOO9W4D"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rlnzy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7035450755659"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xPdxSagJ#KZsvQVUJkln9DD6Jmca_tAs5K5y8cCchooZqMgCI6nQ"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7035458488907"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dWUlkqLCpNnC2IEF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-19",
+          "runtime": 23,
+          "tmdb_episode_id": 4979173,
+          "tmdb_still_path": "/l7aERvSE6mI7VRQFlIUWOtASjPO.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7057348561483"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vDweyuISzPGz1duf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rt6i5"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7057366977099"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0fcwyArC#DoMydSCDuuXViRZbN9LW6ZLaTSS42ZhsdALKcCjFl_c"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7057376545355"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7Snf3ZUdlVZ0zjgi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-26",
+          "runtime": 23,
+          "tmdb_episode_id": 4979174,
+          "tmdb_still_path": "/vPhhlvFnzrfCUQxDQhlsjRbVgMV.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7079592200779"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3FOeiWSgH0ib0Nio"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8s1niy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7079603931723"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/E3kAyR5C#MQoM1P6fAeE2mzSRQEEBKzjo5WLjxN4oN3w-_NI0B3I"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7079609567819"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fIwbw2rCZ4z78G6F"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-02",
+          "runtime": 23,
+          "tmdb_episode_id": 4979175,
+          "tmdb_still_path": "/sgaoNxU0kJe5SJSFxjj7i9cwH5Y.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7101284092491"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rGnXgZex04IFr2t1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8sfj1w"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7101290842699"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Vv1DHaCB#sRBsYJBSXANC7whbqsKcEkANcTehmPDnBpPRGZrRjZ0"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7101296478795"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KiBL24tqi1hFszno"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-09",
+          "runtime": 23,
+          "tmdb_episode_id": 4979176,
+          "tmdb_still_path": "/egIOnR73uPhCv04xBnXTnGY48AP.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7122758863435"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=i69ygPtAKaatS09U"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8st4e4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7122774002251"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/tH1WXTZB#Ds1Sz8HfUhVRJtW92bTofbmVabvy6gqe5pXen8LqgUg"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7122780293707"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BC6f6eBreX4a6oJT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-13",
+          "runtime": 23,
+          "tmdb_episode_id": 4979177,
+          "tmdb_still_path": "/u4pGiIcVZN7OASkJSoFuQpwVVct.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7147106929227"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=k7hQreopK1IDe5pd"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8t70l4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7147119905355"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/QDc3AIAK#Ud5VMl8bCSOzHS-i6YfEHUnEkxqPHq16qY9PWqxMzuQ"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7147127835211"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RQNDoncJ0hL0Wqoe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-23",
+          "runtime": 23,
+          "tmdb_episode_id": 4979178,
+          "tmdb_still_path": "/vqhzxePHjF5EfQwsz7LF9W86gJF.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7167895013963"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yZuT7RXtQmQNP5JD"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8tog2c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7167904909899"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BO9wHQqQ#FsMzvSjG4id506o6vCgIu6QnUlbC7ZU5YPBVsiVe5MA"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7167909890635"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=G7uiTOyPgSu0l2Sg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-01",
+          "runtime": 23,
+          "tmdb_episode_id": 4979179,
+          "tmdb_still_path": "/q1rgkoSwN4epVcYk8kiD9vmO0ef.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7192421468747"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VbALCNcIZTDJkFTd"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8u2o2s"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7192431888971"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gucADBxZ#nq6dUTFcZp5sRy7wU0D4cbHYdyMQcL3dv2qYqIBiByc"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7192443685451"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=a8wXx8qM9r2L2JEj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-08",
+          "runtime": 23,
+          "tmdb_episode_id": 4979180,
+          "tmdb_still_path": "/jHyaKPU1QpgtpRw91x5KLMpwrc4.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7215833090635"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vpUebLtIeX60iXpE"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8uj67y"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7215842593355"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8qt0iBaD#gywEad4qBxbmoQEuqMTGc_AlNy9iiety9qEeFXsIaUM"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7215851375179"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=brG46BGRLzkXlrZq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-15",
+          "runtime": 23,
+          "tmdb_episode_id": 4996448,
+          "tmdb_still_path": "/cos0Y7VmhxYBoxauVljxhM5cDIU.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7238639225419"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jgu4Jps5CErBGd9u"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ve93s"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7238645844555"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ZG9W2KwA#5MlYrw6celao2c0na0uOZ6gv9o1e0sf6BPj5EZ-uCLg"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7238651021899"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ErgeQzMYlQhDC7zK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-22",
+          "runtime": 23,
+          "tmdb_episode_id": 4996451,
+          "tmdb_still_path": "/opnKolPR0aH83yKfa6AvC92FOb.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Sasaki to Pii-chan ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Sasaki to Pii-chan من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات مغامرات، خيال، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/sasaki-to-pii-chan",
+  "story": "يدور أنمي Sasaki to Pii-chan ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Sasaki to Pii-chan من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات مغامرات، خيال، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tomokazu Sugita، Aoi Yuuki، Rie Takahashi، Akari Kito، Miyu Tomita، Inori Minase",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "7gCKnadRxwk",
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Sasaki to Pii-chan",
+    "mainDescription": "يدور أنمي Sasaki to Pii-chan ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Sasaki to Pii-chan من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات مغامرات، خيال، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Sasaki to Pii-chan أنمي 2024 | يدور أنمي Sasaki to Pii-chan ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Sasaki to Pii-chan من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/206630"
+    }
+  },
+  "tmdb_id": 206630,
+  "tmdb_url": "https://www.themoviedb.org/tv/206630",
+  "original_title": "佐々木とピーちゃん"
+}

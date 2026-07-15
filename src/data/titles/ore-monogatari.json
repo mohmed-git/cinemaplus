@@ -1,0 +1,436 @@
+{
+  "slug": "ore-monogatari",
+  "clean_title": "Ore Monogatari!!",
+  "raw_name": "انمي Ore Monogatari!!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ore-monogatari.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619253975627"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1057795,
+          "tmdb_still_path": "/iJ8j4U5R2GKFtT1bwGJJxxjzoRJ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619352934987"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1060457,
+          "tmdb_still_path": "/erBajQasnxP5AWPEmUfjPjHTiqj.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619359619659"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1060458,
+          "tmdb_still_path": "/kfmxRjVNvOVFh4L8iwtwly98sfR.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619365780043"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1060459,
+          "tmdb_still_path": "/rThsiGSS3ZzMedEyzJhOWjjxBPw.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619374299723"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1060460,
+          "tmdb_still_path": "/1eGWVBEBUo9LAPfrDCXTGeB6HC1.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619380918859"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1077624,
+          "tmdb_still_path": "/xrx2jrojJY2Z7XqkQOfLj51HiwB.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619385965131"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1077625,
+          "tmdb_still_path": "/2gbDvi5hnRq1cdKfWI9rs7FRh4Y.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619392584267"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1077626,
+          "tmdb_still_path": "/gUcae5ATypjzfRo97YJYldY0udc.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619399531083"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1077627,
+          "tmdb_still_path": "/wSO5HPqqpTgyeV2dG8rOEIWxfrS.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619407788619"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1077628,
+          "tmdb_still_path": "/7wVEZKsINK06OwZEXbZsd9nL91W.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619413686859"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1104055,
+          "tmdb_still_path": "/rMpKH3p6aqhCc8fussrj3X3AfZz.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619421026891"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1104056,
+          "tmdb_still_path": "/3Vq1qe5oSLSa0ZurQddcUCBtoYK.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619426990667"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1104057,
+          "tmdb_still_path": "/dWRR9GoDTVQbtKcld6aY3ZHjzZA.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619433544267"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1104058,
+          "tmdb_still_path": "/zfcfCeEiGNumNbH127brCE0ZDGT.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619441736267"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1104059,
+          "tmdb_still_path": "/54ovY80ImhdhG3pbCFQFQIQlg1J.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619449141835"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1104060,
+          "tmdb_still_path": "/pbB63CZr1cOT5hKQt7dfie0UI3t.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619461462603"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1104061,
+          "tmdb_still_path": "/o6FYzAjjLCP6DKf0T7wWqmbX3gA.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619466836555"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1104062,
+          "tmdb_still_path": "/9TGEjhk6gWHvThe9ZGYeMUlYw9I.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619474111051"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1104063,
+          "tmdb_still_path": "/zRE1WgpMnRah0PVtKoAxLuuXsFl.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619481385547"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1104064,
+          "tmdb_still_path": "/tDQsGSaTx1YDoL5HStwm5CTI1vM.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619493575243"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1104065,
+          "tmdb_still_path": "/oD6xl7kw6p4fgJ7gwsCZ5h5ENeq.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619502881355"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1103782,
+          "tmdb_still_path": "/rPIdMfkM9zGWNWyU50nzAXYH4bp.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619510024779"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1104073,
+          "tmdb_still_path": "/AfcqjbtFsjV9cJZkfp1Z55sn1Z0.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4619515202123"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1106418,
+          "tmdb_still_path": "/1uezKHznUWqEzr3e3YhHCReq9Tc.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Ore Monogatari!! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Ore Monogatari!! على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ore Monogatari!! على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/ore-monogatari",
+  "story": "يدور أنمي Ore Monogatari!! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Ore Monogatari!! على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ore Monogatari!! على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2015",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Takuya Eguchi، Megumi Han، Nobunaga Shimazaki",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "AbqRrN8L63o",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ore Monogatari!!",
+    "mainDescription": "يدور أنمي Ore Monogatari!! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Ore Monogatari!! على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ore Monogatari!! على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Ore Monogatari!! أنمي 2015 | يدور أنمي Ore Monogatari | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ore Monogatari!! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/62565"
+    }
+  },
+  "tmdb_id": 62565,
+  "tmdb_url": "https://www.themoviedb.org/tv/62565",
+  "original_title": "俺物語!!"
+}

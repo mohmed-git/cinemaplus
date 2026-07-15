@@ -1,0 +1,244 @@
+{
+  "slug": "yurei-deco",
+  "clean_title": "Yurei Deco",
+  "raw_name": "انمي Yurei Deco",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/yurei-deco.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JFYVuNKxZAj9m314"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3516174,
+          "tmdb_still_path": "/2zOoA6I6bfyevnVm6dbny262k4c.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GzFiJM0kBU6fms69"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-10",
+          "runtime": 24,
+          "tmdb_episode_id": 3817147,
+          "tmdb_still_path": "/adHplpyAuCLFguyy8VRBtWM6PcD.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RPtfMivF1lYKnm0I"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-17",
+          "runtime": 24,
+          "tmdb_episode_id": 3827833,
+          "tmdb_still_path": "/jHIaGiSUOqQ0uqDgL5awq5Lud8R.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hwvHQd72IH6oM5Hk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-24",
+          "runtime": 24,
+          "tmdb_episode_id": 3833649,
+          "tmdb_still_path": "/s4fIci37yGdci4XOqeUNL4GFSWs.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VbMePPKDKYCZeZDs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-31",
+          "runtime": 24,
+          "tmdb_episode_id": 3838477,
+          "tmdb_still_path": "/o6RglTjlbpn7hN4X6wuhqhooNVm.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GJj06k9Qf8Woad5l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3838479,
+          "tmdb_still_path": "/3kQrpkpz10QSd3O7Wg0BF5YrYW2.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NM94JtSxkzEy0qOL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-14",
+          "runtime": 24,
+          "tmdb_episode_id": 3852782,
+          "tmdb_still_path": "/kFRP0ICTZLNaylSceEDriwGVkQm.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mWfdEJGt2Z2peNZG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-21",
+          "runtime": 24,
+          "tmdb_episode_id": 3852783,
+          "tmdb_still_path": "/noijC8OVzIxnxgfy0b382v0Rf68.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZcOI7b9nulxCDSg3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-28",
+          "runtime": 24,
+          "tmdb_episode_id": 3878554,
+          "tmdb_still_path": "/oRtFseWYgrqeMCOfTBP2uzrEqBx.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BlKhvouh5o1bvoTJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3878555,
+          "tmdb_still_path": "/dG9I2Spznm04CDwKh3E6sTjq8z8.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=s2cDMdMIlHwcweE1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3908551,
+          "tmdb_still_path": "/oppNCjtU03SODWcSzdHsV04Y5jp.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JEqkPXXpPkmawQ3v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3908552,
+          "tmdb_still_path": "/b77WpOpAeDHYq7u8zJuCgVGTrML.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Yurei Deco ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Yurei Deco من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف خيال علمي يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Yurei Deco على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/yurei-deco",
+  "story": "يدور أنمي Yurei Deco ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Yurei Deco من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف خيال علمي يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Yurei Deco على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Mira Kawakatsu، Anna Nagase، Miyu Irino، Setsuji Sato، Sayuri Sadaoka، Rie Kugimiya",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": "7zmib6hyua8",
+  "rating": "5.1",
+  "imdb_rating": "5.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Yurei Deco",
+    "mainDescription": "يدور أنمي Yurei Deco ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Yurei Deco من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف خيال علمي يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Yurei Deco على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Yurei Deco أنمي 2022 | يدور أنمي Yurei Deco ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Yurei Deco من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/158131"
+    }
+  },
+  "tmdb_id": 158131,
+  "tmdb_url": "https://www.themoviedb.org/tv/158131",
+  "original_title": "ユーレイデコ"
+}

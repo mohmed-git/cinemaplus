@@ -1,0 +1,390 @@
+{
+  "slug": "horimiya",
+  "clean_title": "Horimiya",
+  "raw_name": "انمي Horimiya",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/horimiya.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/tsdsuwqmrs75mi6/%5BWitanime.com%5D%20HO%20EP%2001%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/t4i2i3wn2hqh"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/5k8fqg62da3x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2429820,
+          "tmdb_still_path": "/cQj59g8z7qsRHGNgRXCQgPj75eu.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/kqildx0ot95jk1x/%5BWitanime.com%5D%20HO%20EP%2002%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/jjxh07hthtyk"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/byo3wgo1879k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2614466,
+          "tmdb_still_path": "/tDQeg0d0LLx25wa9maO0E8ACTmB.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/pr8enrlbyw88nma/%5BWitanime.com%5D%20HO%20EP%2003%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/m6itwtvdayei"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/pe9wcgpz2fwd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 2614467,
+          "tmdb_still_path": "/7pPxMUZ2QekyXXzlok9sjUA1YL2.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/9n8n6uti69gchli/%5BWitanime.com%5D%20HO%20EP%2004%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8zthy3any5py"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/x9wsrzq1f3v6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 2614468,
+          "tmdb_still_path": "/j6cAQmR2rXkzKWFMVi5rnI994cT.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/1ch7lpgmegn05er/%5BWitanime.com%5D%20HO%20EP%2005%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/szbrfz2p0cz5"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/17lwsvm015gz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2614469,
+          "tmdb_still_path": "/w2VvBglepsM1kzMEc9Jg7IEvRpp.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/tpdqpkoxptbevew/%5BWitanime.com%5D%20HO%20EP%2006%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ym91d28qizz2"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bkz087na22fj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2614470,
+          "tmdb_still_path": "/m95Ht21etRFa7gbbRtGOquZkcEN.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/u794t1m8m6khpt5/%5BWitanime.com%5D%20HO%20EP%2007%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/clkcwaangdok"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/16jyuh0e3aeu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2614471,
+          "tmdb_still_path": "/amOJrfWKHQrCAwulOWucNah352L.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/4o68v0wqbkqz4ce/%5BWitanime.com%5D%20HO%20EP%2008%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/3iou6bx1puvd"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/6pofnm64xxgb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2614472,
+          "tmdb_still_path": "/Gm9w8e7PBjokUc9xe3QsgSZLuH.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/mx04f7ebc5our8d/%5BWitanime.com%5D%20HO%20EP%2009%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5sahz3el2f0u"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ig03jbkovgrk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2614473,
+          "tmdb_still_path": "/uPQKGIo24CBiAe6a7iEP5RHJkUH.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/m0mq80otwbn4h4l/%5BWitanime.com%5D%20HO%20EP%2010%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kl9m4f4otk55"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/in71k9kf5udo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2614474,
+          "tmdb_still_path": "/jLDRjqmbli0s9yvwGMicXWQCGsr.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/ands8djc73jtesl/%5BWitanime.com%5D%20HO%20EP%2011%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/2krdowft6xed"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/9c3mzqjlgi20"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2614475,
+          "tmdb_still_path": "/fjNZZfiJSNeGPVUey7voBGoorQw.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/qnz2ujy8g11nx6r/%5BWitanime.com%5D%20HO%20EP%2012%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8cftzybenaqi"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ardirch20pi9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2614476,
+          "tmdb_still_path": "/1MIpg7s4hNQuIA69Gh7XXe1AQR3.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/ps4fuice3v3r918/%5BWitanime.com%5D%20HO%20EP%2013%20END%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/raxwg9pjjx7a"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/i9iz1pm91by2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2626146,
+          "tmdb_still_path": "/aj2h0cfsP5OM6yUeznvO43icvoo.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Horimiya ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Horimiya من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شريحة من الحياة، كوميدي، رومانسي، مدرسي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/horimiya",
+  "story": "يدور أنمي Horimiya ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Horimiya من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شريحة من الحياة، كوميدي، رومانسي، مدرسي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Haruka Tomatsu، Koki Uchiyama، Seiichiro Yamashita، Yurie Kozakai، Nobuhiko Okamoto، Mao Ichimichi",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "tryurXgGqkI",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Horimiya",
+    "mainDescription": "يدور أنمي Horimiya ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Horimiya من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شريحة من الحياة، كوميدي، رومانسي، مدرسي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Horimiya أنمي 2021 | يدور أنمي Horimiya ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Horimiya من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/110070"
+    }
+  },
+  "tmdb_id": 110070,
+  "tmdb_url": "https://www.themoviedb.org/tv/110070",
+  "original_title": "ホリミヤ"
+}

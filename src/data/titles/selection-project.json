@@ -1,0 +1,260 @@
+{
+  "slug": "selection-project",
+  "clean_title": "Selection Project",
+  "raw_name": "انمي Selection Project",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/selection-project.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-53u8tpw953zb.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2543518,
+          "tmdb_still_path": "/t7mPUTlsSxrzlRKOZhQ9iUqnwvi.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-q1xy1odo5l7n.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-08",
+          "runtime": 24,
+          "tmdb_episode_id": 3247763,
+          "tmdb_still_path": "/gsMh3wQD7KRojnVvOp9VigernWF.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ep0hcgwqbp0o.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-15",
+          "runtime": 24,
+          "tmdb_episode_id": 3247764,
+          "tmdb_still_path": "/6ohCdX3NFlqTOcE3lJJRACu6qaB.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-azqbsto6yxnn.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-22",
+          "runtime": 24,
+          "tmdb_episode_id": 3247765,
+          "tmdb_still_path": "/zsKBXt3My1h6GO4yY7xo5uvZl1G.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-w4d5oskksqh9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-29",
+          "runtime": 24,
+          "tmdb_episode_id": 3247767,
+          "tmdb_still_path": "/ecP1LIm1QEbICqESDSuTP9CA4uq.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-o6kum1lyug0t.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3247768,
+          "tmdb_still_path": "/gNiBcwXI347GEF6pzGAXOAMztW3.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-weqs5umedsm7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3247769,
+          "tmdb_still_path": "/8ETJBEDPsbFgzyhKA29nUzTXuSO.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-9vnvclwp2hi4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3247770,
+          "tmdb_still_path": "/dsHVWoMvDMb0V74XmXe9GK1pJ9A.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-q5ba4sj4k5uo.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-26",
+          "runtime": 24,
+          "tmdb_episode_id": 3247772,
+          "tmdb_still_path": "/iIG6fL2s4lf9TLD7GVJ17hwHX1d.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-uy7xhskrf0dg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3247773,
+          "tmdb_still_path": "/fejGbRyYK2REBK3aa1UlPKhZNlA.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-w33ysqvsr7cw.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-10",
+          "runtime": 24,
+          "tmdb_episode_id": 3247774,
+          "tmdb_still_path": "/Vtde1bKXL5ZvMUt8dsqMf8yQnC.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-djnzqm0i882f.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-17",
+          "runtime": 24,
+          "tmdb_episode_id": 3247775,
+          "tmdb_still_path": "/78JQJY2xxxcGqv0OMq9yk8TPGf4.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bybt0bd2xfvj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-24",
+          "runtime": 24,
+          "tmdb_episode_id": 3253004,
+          "tmdb_still_path": "/z6L31zptOJeWAQQUQPYirm6Sy6X.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Selection Project ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Selection Project من حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Selection Project على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "url": "/anime/selection-project",
+  "story": "يدور أنمي Selection Project ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Selection Project من حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Selection Project على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Hinaki Yano، Saku Mizuno، Nozomi Nagumi، Ruri Arai، Hina Youmiya، Yuka Iwahashi",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "8VMH0cNUL_s",
+  "rating": "6.4",
+  "imdb_rating": "6.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Selection Project",
+    "mainDescription": "يدور أنمي Selection Project ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Selection Project من حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Selection Project على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+    "metaDescription": "Selection Project أنمي 2021 | يدور أنمي Selection Project ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Selection Project من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/114202"
+    }
+  },
+  "tmdb_id": 114202,
+  "tmdb_url": "https://www.themoviedb.org/tv/114202",
+  "original_title": "SELECTION PROJECT"
+}

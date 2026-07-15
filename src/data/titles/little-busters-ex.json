@@ -1,0 +1,220 @@
+{
+  "slug": "little-busters-ex",
+  "clean_title": "Little Busters! EX",
+  "raw_name": "انمي Little Busters! EX",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/little-busters-ex.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6157898025547"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kJJPJReoam1Xp6Yq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-06",
+          "runtime": 24,
+          "tmdb_episode_id": 924509,
+          "tmdb_still_path": "/lFFY1R7ma9sKHWrp9gx0Xa9MvKX.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6157910084171"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Bg8s9s7YiNvqu5yu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 924506,
+          "tmdb_still_path": "/upiu4g3wUHVq37Y4s3ru4UEuxPd.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6157914737227"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZZCuEX0bBTwerH9H"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 924502,
+          "tmdb_still_path": "/sgyQuBZpxGdhFk5y6kk5ncXNDQT.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6157919324747"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CCT1mDfTPoR2oW22"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 924503,
+          "tmdb_still_path": "/5QAmZdJ9n36p6FcQAbhRu6dC24N.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6157923912267"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=F6DCfsbfNWP6p679"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 924504,
+          "tmdb_still_path": "/hgre5WT0IEtSrMtGICAhOFa7sFt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6157928630859"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bzsRP0cvz9Ka3Wjr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 924505,
+          "tmdb_still_path": "/zQwirPqLvlIiwWcBdiTSioO6tFX.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6157932563019"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3a1SKjvpMrw5asNe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 924500,
+          "tmdb_still_path": "/2hxvn7Rlmkc8hbmmdkIE4iezwYY.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6157936167499"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mU3FUzNIBnzFxwR1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-24",
+          "runtime": 24,
+          "tmdb_episode_id": 924501,
+          "tmdb_still_path": "/qpIJyHPEkCdokwpeARerqmkE87v.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Little Busters! EX ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و39 حلقة. يدور أنمي Little Busters! EX حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف مدرسي، دراما، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Little Busters! EX على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/little-busters-ex",
+  "story": "يدور أنمي Little Busters! EX ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و39 حلقة. يدور أنمي Little Busters! EX حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف مدرسي، دراما، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Little Busters! EX على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yui Horie، Tomoe Tamiyasu، Hikaru Midorikawa، Nobutoshi Canna، Yusei Oda، Natsumi Yanase",
+  "genre": "أنمي، كوميديا، رسوم متحركة",
+  "trailerId": "PyJilNDluYw",
+  "rating": "6.8",
+  "imdb_rating": "6.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Little Busters! EX",
+    "mainDescription": "يدور أنمي Little Busters! EX ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و39 حلقة. يدور أنمي Little Busters! EX حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف مدرسي، دراما، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Little Busters! EX على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Little Busters! EX أنمي 2012 | يدور أنمي Little Busters | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Little Busters! EX من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/53715"
+    }
+  },
+  "tmdb_id": 53715,
+  "tmdb_url": "https://www.themoviedb.org/tv/53715",
+  "original_title": "リトルバスターズ!"
+}

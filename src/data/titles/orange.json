@@ -1,0 +1,450 @@
+{
+  "slug": "orange",
+  "clean_title": "Orange",
+  "raw_name": "انمي Orange",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/orange.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7yzvr1"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1T6_oxVXxaxu10KJVD-3LIXw-CBNG1jBO/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/0qwy-il7k7jqyxy"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-kczju7hu00ou.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1203260,
+          "tmdb_still_path": "/15w34xI3zONjRiZonXCQp7zFEEc.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7yzw7z"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/10WrIqsPsY_pBh66mU5p4O8Co3bsewegP/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/0qwy-il7kn57dgp"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-hv97x0wfvb5f.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1212325,
+          "tmdb_still_path": "/4pZFRcXia3GtnwqRso0drY0Ri7X.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/WGJ20BjR#UE3jVXS94vXw6QQVCsf_mMFHvQdqwUb_u9_zv00sDjg"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1LeSmJ3-VEzo0GEM-xUSek2CVgNpFlk-L/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-k35rflute5o9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1212326,
+          "tmdb_still_path": "/1XGyXfsq2hPQhXnX4uFGjA1F3An.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7yzwbt"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1N46hTIG7gu2tVp3FLUdFmPl6AjCAYgeb/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/qmk41he8d3y-jxj"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-437joo0h9atr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1212327,
+          "tmdb_still_path": "/6Q7jZ6HbfbjKnm57JcbsZAQYiwg.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7z083f"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1VVg6DvxxGFR-2hTFAVZ_fOP84l8eZvW0/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/pz23ptm8dq8p2px"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qlfgl29r1ik4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1212328,
+          "tmdb_still_path": "/oAxDILvawLFiJE8braGDXsSd4Po.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7z0ga5"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1XR_rAwoklzTO-shP9ZnyMwqVFMT50dAC/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/-kw5ytpyx3e4-w6"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-l6k4ewmq5j41.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1212329,
+          "tmdb_still_path": "/nhE9Yyjj62YNWJiJMJVrdmQb8qh.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7z0gc0"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1xEiO388SpoyOXyV6uesH1Ei_OlcB-zfY/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/15wx-sjkye76wwj"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-88l7c9mqn090.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1212330,
+          "tmdb_still_path": "/nH15yeyko9pRiYw6QzUUwbiaImk.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7z0gd2"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/10RBGi1oYwsdWkwZvQg9G7Lwue3Fa1oQO/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/pz23ptm8d--lznk"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ih1fyp48btah.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1212331,
+          "tmdb_still_path": "/hn9OcOZ9xxgTNSQXj23mHhFGhfh.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7z0gfb"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1rBoxBaimI-efxhBFOsNrmMydo_UPwyd-/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/zn4zxaj1mz0mny6"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-b78ogcsghux8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1212332,
+          "tmdb_still_path": "/npu39TeIucXoQSI1bxDcslqQzli.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x7z0gi6"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/14rgHFYaSzSJXydfoLmRrQB84bJguftxc/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/8n7d-a8y-de68dp"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-uhdg1y4d7cnf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1212333,
+          "tmdb_still_path": "/jAs8o42ey2jk8S4JRr7WeZSRPKn.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x841oxl"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1EXWem3lTrig-sVGvJXcBwzUPYhDTTo9k/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/15wx-sjkyl0jjdn"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-3698ifjm1m3y.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1212334,
+          "tmdb_still_path": "/qgulPjUoU8fxd7Dbnbargn459fH.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x841oy2"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1VYuZYLns5GpP9YNSSwRt-XbG2FR_O9NJ/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/15wx-sjkyld5-gr"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-a7kar5ksvvsu.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1212335,
+          "tmdb_still_path": "/dyVHx21JvgyzMu7x9ZXQ8WKZPsr.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x841ozc"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1g2gObUifzEb7IksMj7fW1KkGrtE3PaDh/preview"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/yg3kycenrlwy0we"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-4lj5flayt5r9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-26",
+          "runtime": 38,
+          "tmdb_episode_id": 1212336,
+          "tmdb_still_path": "/nmFuz6mCETh0D3gmQYJFXNZATy1.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "ناهو تاكاميا فتاةٌ خجولة في السادسة عشر من عمرها، تستقبل رسالةً في يومٍ ما من نفسها المستقبليّة مُفصلةً تصرفاتٍ يجب عليها فعلها لتُجنّب كاكيرو ناروسي، التلميذ المنتقل الجديد، من الانغماس في الكآبة وقتل نفسه.",
+  "url": "/anime/orange",
+  "story": "ناهو تاكاميا فتاةٌ خجولة في السادسة عشر من عمرها، تستقبل رسالةً في يومٍ ما من نفسها المستقبليّة مُفصلةً تصرفاتٍ يجب عليها فعلها لتُجنّب كاكيرو ناروسي، التلميذ المنتقل الجديد، من الانغماس في الكآبة وقتل نفسه.",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kana Hanazawa، Seiichiro Yamashita، Makoto Furukawa، Natsumi Takamori، Kazuyuki Okitsu، Rika Kinugawa",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "G9CzaN3WyKs",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Orange",
+    "mainDescription": "ناهو تاكاميا فتاةٌ خجولة في السادسة عشر من عمرها، تستقبل رسالةً في يومٍ ما من نفسها المستقبليّة مُفصلةً تصرفاتٍ يجب عليها فعلها لتُجنّب كاكيرو ناروسي، التلميذ المنتقل الجديد، من الانغماس في الكآبة وقتل نفسه.",
+    "metaDescription": "Orange أنمي 2016 | ناهو تاكاميا فتاةٌ خجولة في السادسة عشر من عمرها | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Orange من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/66958"
+    }
+  },
+  "tmdb_id": 66958,
+  "tmdb_url": "https://www.themoviedb.org/tv/66958",
+  "original_title": "orange"
+}

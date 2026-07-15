@@ -1,0 +1,722 @@
+{
+  "slug": "digimon-adventure",
+  "clean_title": ":Digimon Adventure",
+  "raw_name": "انمي :Digimon Adventure",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/digimon-adventure.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 67,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 67,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "أزمة المدينة الرقمية",
+          "servers": [],
+          "overview": "أثناء التحضير للمعسكر المدرسة القادم، يزور شادي جاره \"أمجد\" عندما يكتشفان أن الأنظمة الإلكترونية في المدينة قد تعطلت، بما في ذلك القطارات في المدينة التي حُوصرت فيها شقيقة أمجد الأصغر هند ووالدته في أحد القطارات. يركض الشابان نحو المحطة القريبة حيث يُنقل أمجد فجأة إلى عالم آخر داخل الإنترنت، حيث يلتقي بوحش رقمي مصاب يُدعى ورد. عند تواصله مع ورد، يحصل أمجد على الأداة الرقمية بينما يتحول ورد إلى رعد. شادي، الذي حصل أيضًا على الأداة الرقمية الخاصة به، يتصل بأمجد ويخبره أن قطيعًا من الوحوش الرقمية يُدعى الفايروس السام هو المسؤول عن الفوضى، ويقاتل أمجد ورعد هؤلاء المخلوقات لإنقاذ عائلة أمجد. ومع تطور باقي الفايروس السام إلى أشكال أقوى قبل أن يتغلبوا عليهم، فإن إصرار أمجد ورعد يؤدي إلى تطور رعد إلى صنديد.",
+          "air_date": "2020-04-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2051689,
+          "tmdb_still_path": "/fP1j1ut04szf7Tgm4aiBk2nzTom.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "لعبة الوقت",
+          "servers": [],
+          "overview": "ينضم \"يامن\" إلى \"أمجد\" و\"شادي\" في مهمتهم لإيقاف \"الفيروس السام\" الذي يهاجم أنظمة الجيش. في طريقهم، يعلمون أن \"الفيروس السام\" اختطف غواصة عسكرية وهو على وشك إطلاق صاروخ . يتعاون \"صنديد\" و\"رماح\" لهزيمة \"الفيروس السام\" الذي يتطور إلى المستوى الثالث. ثم يأتي \"يامن\" بفكرة لهزيمة زعيم \"الفيروس السام\"، مما يعرض \"صنديد\" و\"رماح\" للخطر، لكن \"أمجد\" يقنعه بالمضي قدمًا بينما يشن رفيقاهما الرقميان هجمات مباشرة على زعيم \"الفيروس السام\". لكن زعيم \"الفيروس السام\" ينجو ويتطور إلى شكله النهائي بينما يتم إطلاق الصاروخ. يخبرهم \"شادي\" أن الصاروخ يستهدف مركز المدينة، وعندما يرفض \"أمجد\" و\"يامن\" الاستسلام، يندمج رفيقاهما الرقميان فجأة في \"كاسح\" عندما تلامست \"هند\" و\"وسيم\" شقيق \"يامن\" الأصغر ريش يتساقط من السماء.",
+          "air_date": "2020-04-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2218632,
+          "tmdb_still_path": "/8WPwmvH6d6smfEgzrUGyWedShbG.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "إلى عالم الديجيتال",
+          "servers": [],
+          "overview": "بعد اقتراب الصاورخ من  مركز المدينة وثوران  الوحش الرقمي السام الذي يقاتل أمجد ومن معه، يظهر وحش رقمي أبيض غامض",
+          "air_date": "2020-04-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2218633,
+          "tmdb_still_path": "/s7Umz0R80mLV4ClTPzG78PgKsT6.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "تحليق جارحة",
+          "servers": [],
+          "overview": "بعد بداية انتشار انقطاع التيار في العلم ينتقل أمجد فجأة إلى عالم بداخل الشبكة يسمى العالم الرقمي وهو مليء بالوحوش الرقمية وبعد أن التقى رعد هناك، يُفاجأ بوجود سمرأيضًا",
+          "air_date": "2020-06-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2218634,
+          "tmdb_still_path": "/umiSys9Wg6UtZ2r0D8APOctTfk8.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الوحش الرقمي المهيب",
+          "servers": [],
+          "overview": "يصل أمجد ومن معه إلى مكان أشبه الاثار وهناك يجدون مصدر الصوت الذي يخبرهم بقصة العالم الرقمي قبل وقت طويل",
+          "air_date": "2020-07-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2218635,
+          "tmdb_still_path": "/ztP73lyxw6nDO7oAH2Gh3sMH6xa.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الأرض المستهدفة",
+          "servers": [],
+          "overview": "بعد تمكنة مجموعة أمجد من الهرب من سرب الوحش الرقمية الذي هاجمهم، يحالون إيجاد البحر الذي عليهم قطعه للوصول إلى مكان  الوحش الرقمي المهيب، وأثناء ذلك يجدون مملكة غريبة",
+          "air_date": "2020-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2218636,
+          "tmdb_still_path": "/gKUQDKrhpsbaw5msr6K8z5kDEyB.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "لقاء زين",
+          "servers": [],
+          "overview": "بعد تغلب أمجد ورفاقه على الهجوم الذي تلقوه، يحاولون قطع البحر للوصول إلى القارة، لكنهم يتعرضون لهجوم من وحش رقمي بحري غامض",
+          "air_date": "2020-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2347129,
+          "tmdb_still_path": "/fddNo67ebbwZ7B3sY21krMXjh9E.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "حصار الأولاد",
+          "servers": [],
+          "overview": "يصل الأطفال إلى جزيرة بها منارة بحثًا عن الوحش المهيب  لكنهم يتعرضون للهجوم هناك وينقذهم شخص غامض",
+          "air_date": "2020-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2347130,
+          "tmdb_still_path": "/A64swirY8PqYCa4DKdQCv3z0n7D.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الوحش الرقمي صلدون",
+          "servers": [],
+          "overview": "بعد اختراق أمجد ورفاقه الحصن، يكتشفون رموزًا تتحدث عن الوحش المهيب. لكن وحش الظلام الرقمية مصممون على تدمير الأطفال المختارين",
+          "air_date": "2020-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2361327,
+          "tmdb_still_path": "/mUTAz8M3EhMDexH0nCzs8hbbkIw.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "التحول الفائق",
+          "servers": [],
+          "overview": "بعد فشل أمجد ورفاقه، ينسحبون ويختبئون لاستجماع قواهم، بينا يحاول شادي تحليل البيانات التالفة التي نقلها من الحصن",
+          "air_date": "2020-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2361331,
+          "tmdb_still_path": "/svFE3H5yhdU2hkzAAMuDsUzd5OS.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "ذئب الصحراء",
+          "servers": [],
+          "overview": "بعد هزيمة الوحش الرقمي المطلق ينفصل الأطفال إلى مجموعتين ويتخذون طريقين مخلتفين للبحث عن الوحش الرقمي المهيب",
+          "air_date": "2020-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2361335,
+          "tmdb_still_path": "/eSGk1tBCcA2mOF714Tqkeu5EAjG.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "ازدهار فراشة",
+          "servers": [],
+          "overview": "بعد انقسام الأطفال المختارين إلى مجموعتين وتمكن  رماح من التحول إلى رماح المدرع، تحاول مي العودة للسطح من حيث سقطت، ويحاول أمجد والبقية إعادتها بطريقة ما",
+          "air_date": "2020-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2382967,
+          "tmdb_still_path": "/fj6yOD0YV7mTHDcTXsjWRJ75AuS.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "عقاب ذو الأجنحة القرمزية",
+          "servers": [],
+          "overview": "بعد خروج فريق أمجد من الآثار، في تلك الأثناء، تحلق جارحة حاملة أفراد فريق يامن فوق غابة ضخمة. وفي الطريق يلتقون بوحش رقمي ضخم يطارد وحوش رقمية صغيرة أخرى، فيمسك هديل",
+          "air_date": "2020-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2382968,
+          "tmdb_still_path": "/3Uze67s60xU7GMUdeKVDm6dFOvY.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "صدام كبار الحشرات",
+          "servers": [],
+          "overview": "تصل مجموعة أمجد إلى متاهة طبيعية ضخمة، ولكن لوح شادي لا يعمل، فلا يمكن لهذا لايمكنهم  معرفة المكان وإيجاد الطريق للخروج. وفي تلك الأثناء تتعرض المجموعة للهجوم وينهض شادي و هادر للحماية اصدقائهم",
+          "air_date": "2020-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2382969,
+          "tmdb_still_path": "/vyPad1Eaqr8SE0hiwCjjZFemzVb.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "سندان وشرارة مطرقته",
+          "servers": [],
+          "overview": "تصل مجموعة ياتمن إلى مكان ثلجي حيث يواجهون وحش رقمي جديد. وفي مكان آخر تدخل مجموعة أمجد كهفًا غريبًا يخرجون منه إلى مكان صادم",
+          "air_date": "2020-09-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2415747,
+          "tmdb_still_path": "/9DdjfmLYmpuTXUAkiPTooAs4ECS.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "يعتدي ظل أسود على المدينة",
+          "servers": [],
+          "overview": "يتفاجأ أمجد ومن معه بوجودهم في المدينة بعد خروجهم من الكهف الطويل. لكن بعد أن قرروا الذهاب إلى منازلهم، سرعان ما اكتشفوا أنّ هناك خطبًا ما ولا يمكنهم مغادرة المحطة",
+          "air_date": "2020-09-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2425413,
+          "tmdb_still_path": "/bRLsbRDYxjR9xiPmlAlxG8Ca7ML.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "معركة الحسم في المدينة",
+          "servers": [],
+          "overview": "بعد تمكن أمجد ورفاقه من هزيمة دامس، يظهروحش رقمي جديد ضخم للغاية اسمه الأفعى ذات الرؤوس",
+          "air_date": "2020-09-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2433341,
+          "tmdb_still_path": "/x4u3Cfuux7JKTlwfiA3jD9Hnxqo.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "العد التنازلي",
+          "servers": [],
+          "overview": "بعد تمكن هزيمة أمجد ورفاقه من هزيمة الأفعى ذات الرؤوس، يظهر عدّ تنازلي غريب في العالمين الرقمي والحقيقي، ومع ظهور العدّ التنازلي، يظهر وحش رقمي جديد",
+          "air_date": "2020-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2443374,
+          "tmdb_still_path": "/pCXWJiv2SKv25jynlVz0SySULAb.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "قبضة حاكم الوحوش",
+          "servers": [],
+          "overview": "بعد هزيمة أمجد ورفاقه الوحش الرقمي الهائل الذي ظهر، تأتي عاصفة وتبلتع الجميع ويختفون ما عدا أمجد يامن ، وعندها يكتشف هذين الأخيرين أنّ البقية عادوا إلى العالم الحقيقي، ويقرران الاستمرار في البحث عن الوحش الرقمي المهيب",
+          "air_date": "2020-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2453606,
+          "tmdb_still_path": "/9dT7BAkdX2DA166StbWa5r6DbGS.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "صحوة السابع",
+          "servers": [],
+          "overview": "يتافجأ يامن بهوية الطفل المختار التي اتضح أنّه أخوه وسيم. في تلك الأثناء يظهر وحش رقمي ضخم قوي للغاية ويأخذ وسم أمام أعين يامن الذي يحاول إنقاذه",
+          "air_date": "2020-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2467287,
+          "tmdb_still_path": "/5UijWrgiaoPYcI5aj8aaOlJHukw.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "التحوّل المخالف",
+          "servers": [],
+          "overview": "بعدما شهد أمجد ويامن قوة الوحش الرقمي المهيب، يتحول  إلى بيضة رقمية، وفي اللحظة التي أوشك وسم على أخذها، يخطفها وحش رقمي مجهول",
+          "air_date": "2020-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2468832,
+          "tmdb_still_path": "/fUcJ7m1vlNoO2MMGECaOALoCvs2.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "قدرة رماح المدرع الجديدة",
+          "servers": [],
+          "overview": "يدخل أمجد ومن معه إلى قلعة الظلام للبحث عن البيضة الرقمة الخاصة بالوحش المهيب. وفي تلك الأثناء يحاول شادي ومن معه إيقاف الناقلات التي قد تصطدم بالمدينة",
+          "air_date": "2020-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2477179,
+          "tmdb_still_path": "/6R5NlW5ofRm0c6vEDCyRngTVs2P.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الخفاش مبعوث الشر",
+          "servers": [],
+          "overview": "في اللحظة التي تفقس فيها  البيضة الرقمية أمام وسم والبقية، يظهر الوطواط أخيرًا أمام أمجد يامن و وسيم. وفي تلك الأثناء، يحاول شادي ومن معه إيقاف الناقلات التي يسيطر عليها الوطواط والتي على وشك الاصطدام بالميناء",
+          "air_date": "2020-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2499429,
+          "tmdb_still_path": "/iGaGOPHX5ZDGzDbxxmaWSVYe2Yf.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "عنفوان",
+          "servers": [],
+          "overview": "رغم هزيمة الأطفال لتطورالوطواط ، إلّا أنّ يتطور مجدّدًا إلى وحش رقمي هائل ويواجه أمجد ومن معه مأزقًا حقيقيًّا هذه المرة",
+          "air_date": "2020-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2499430,
+          "tmdb_still_path": "/ieqeq5CZPlPxfPGfocW1i6ET0RP.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الغطس في المحيط المجاور",
+          "servers": [],
+          "overview": "يهدد تصادم الناقلات باندلاع حرب و يبسبب توتر عسكري ، ويحاول شادي إيجاد حل للمشكلة قبل حدوث الأسوأ. وفي العالم الرقمي، يجد أمجد والبقية أنفسهم وهم يسقطون من السماء",
+          "air_date": "2020-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2522445,
+          "tmdb_still_path": "/912oMMIqzJn151olBsSc5WNfiip.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "كسر حصار وحش البحر",
+          "servers": [],
+          "overview": null,
+          "air_date": "2020-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2522446,
+          "tmdb_still_path": "/qqe9FcPttiskXSRm49GGFxFt3Lk.jpg"
+        },
+        {
+          "episode": 27,
+          "title": "إلى المنطقة الجديدة",
+          "servers": [],
+          "overview": null,
+          "air_date": "2020-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2528724,
+          "tmdb_still_path": "/wAc5JOtJ4eAtduD7VCUxBHLVEPn.jpg"
+        },
+        {
+          "episode": 28,
+          "title": "صراع البقاء",
+          "servers": [],
+          "overview": null,
+          "air_date": "2020-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2556098,
+          "tmdb_still_path": "/bPuLoPlz5HDIIgHCosCI3jMLltS.jpg"
+        },
+        {
+          "episode": 29,
+          "title": "الهرب من الغابة المشتعلة",
+          "servers": [],
+          "overview": null,
+          "air_date": "2020-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2556099,
+          "tmdb_still_path": "/7wB40aqy2Dv4rrvAeChewzmoxfl.jpg"
+        },
+        {
+          "episode": 30,
+          "title": "الحلقة 30",
+          "servers": [],
+          "overview": null,
+          "air_date": "2020-12-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2556100,
+          "tmdb_still_path": "/zzDZAItZB9k148kjqf7Cg3DS4i.jpg"
+        },
+        {
+          "episode": 31,
+          "title": "المدمّر",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2560506,
+          "tmdb_still_path": "/yHdzSLmYtHBc4rVOUE1zZ8xd4FO.jpg"
+        },
+        {
+          "episode": 32,
+          "title": "الآمال المرتفعة",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2639476,
+          "tmdb_still_path": "/vo65JogUpMxiYSeogdX2c3I6UZE.jpg"
+        },
+        {
+          "episode": 33,
+          "title": "فجر النور هند",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 2639477,
+          "tmdb_still_path": "/p5L3yA4DtVpTlLdS9zgEntadC65.jpg"
+        },
+        {
+          "episode": 34,
+          "title": "هند وخرموشة",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 2639478,
+          "tmdb_still_path": "/m3zoHPTONrZe4i9FWgoh7lBhH2d.jpg"
+        },
+        {
+          "episode": 35,
+          "title": "غيثاء المتلألئة",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2639479,
+          "tmdb_still_path": "/aA4HYuUJtntNP89ttPOIKIJast.jpg"
+        },
+        {
+          "episode": 36,
+          "title": "قناص القمر الصناعي",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2712477,
+          "tmdb_still_path": "/5OYzF0dwRewxko2gyozg99WmJdH.jpg"
+        },
+        {
+          "episode": 37,
+          "title": "حروب مي",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2733195,
+          "tmdb_still_path": "/whlggUYF40vlF7Gwgfvl9VT10I9.jpg"
+        },
+        {
+          "episode": 38,
+          "title": "الصداقة المعقّدة",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2733196,
+          "tmdb_still_path": "/tLT0Kk5CLHyLTvStsnanWpD9SGx.jpg"
+        },
+        {
+          "episode": 39,
+          "title": "الركلة القاضية",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2733197,
+          "tmdb_still_path": "/6jaFzlAt5S6CdqpM2nCVrKDLEqi.jpg"
+        },
+        {
+          "episode": 40,
+          "title": "الحلقة 40",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2763172,
+          "tmdb_still_path": "/27KE6DGICFTqRF0EhXbOMwy63wP.jpg"
+        },
+        {
+          "episode": 41,
+          "title": "الحلقة 41",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2763173,
+          "tmdb_still_path": "/tN01tawrOVVLozHybiYd30Ol0tF.jpg"
+        },
+        {
+          "episode": 42,
+          "title": "الحلقة 42",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-04-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2763174,
+          "tmdb_still_path": "/eiDWc5xVF3eQVX4PA3P78DT6SAm.jpg"
+        },
+        {
+          "episode": 43,
+          "title": "الحلقة 43",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2855175,
+          "tmdb_still_path": "/urXUFFUckK8D8OU9njh3Lwq9p7O.jpg"
+        },
+        {
+          "episode": 44,
+          "title": "الحلقة 44",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2867222,
+          "tmdb_still_path": "/7Ry0rjTSvFU7kLeMl8BVHTrmUz7.jpg"
+        },
+        {
+          "episode": 45,
+          "title": "الحلقة 45",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2897096,
+          "tmdb_still_path": "/5XcSRMInVuQOBD17NxpHodE2R8l.jpg"
+        },
+        {
+          "episode": 46,
+          "title": "الحلقة 46",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2915785,
+          "tmdb_still_path": "/yRUsJItSaVTLOXUp7XeVHpz29CK.jpg"
+        },
+        {
+          "episode": 47,
+          "title": "الحلقة 47",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2936969,
+          "tmdb_still_path": "/q7opyjVd9sbFbPumVkuwXAbFX71.jpg"
+        },
+        {
+          "episode": 48,
+          "title": "الحلقة 48",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2944709,
+          "tmdb_still_path": "/3lGGwkKvYyzhIXQLFSiNoDggwYA.jpg"
+        },
+        {
+          "episode": 49,
+          "title": "الحلقة 49",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2948326,
+          "tmdb_still_path": "/f7jIuTkd7i4PCpjN78JGTdjZvWa.jpg"
+        },
+        {
+          "episode": 50,
+          "title": "الحلقة 50",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2948327,
+          "tmdb_still_path": "/jPfdoc3tRJDTMfubEkXptBKMRqk.jpg"
+        },
+        {
+          "episode": 51,
+          "title": "الحلقة 51",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2948328,
+          "tmdb_still_path": "/4na1urs4PxrNust5UQdqJLKEkmn.jpg"
+        },
+        {
+          "episode": 52,
+          "title": "الحلقة 52",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-06-14",
+          "runtime": 24,
+          "tmdb_episode_id": 3008715,
+          "tmdb_still_path": "/pcgRIJd5vu1El5VrBPATOBtzkhv.jpg"
+        },
+        {
+          "episode": 53,
+          "title": "الحلقة 53",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 3008716,
+          "tmdb_still_path": "/97q1Gec3F8ngUUPiVimDsQyf2pl.jpg"
+        },
+        {
+          "episode": 54,
+          "title": "الحلقة 54",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-06-27",
+          "runtime": 24,
+          "tmdb_episode_id": 3008717,
+          "tmdb_still_path": "/qWgReM5WRJAyvK81s5uzqk24WMw.jpg"
+        },
+        {
+          "episode": 55,
+          "title": "الحلقة 55",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3013287,
+          "tmdb_still_path": "/bVeoTA1YBlLKJCoPndF23OdYVA7.jpg"
+        },
+        {
+          "episode": 56,
+          "title": "الحلقة 56",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3054997,
+          "tmdb_still_path": "/cGBMwroRENO3Iq8i0eUKeEQbiFo.jpg"
+        },
+        {
+          "episode": 57,
+          "title": "الحلقة 57",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3067671,
+          "tmdb_still_path": "/rAlvS65AcP5qj5S3gSKuuXSbHc7.jpg"
+        },
+        {
+          "episode": 58,
+          "title": "الحلقة 58",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 3067743,
+          "tmdb_still_path": "/1rxXXOK0gBypKj8pcZkoeUBogwI.jpg"
+        },
+        {
+          "episode": 59,
+          "title": "الحلقة 59",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 3067744,
+          "tmdb_still_path": "/pYAOt3lWk0fHGBFbGVU6iU5PDH6.jpg"
+        },
+        {
+          "episode": 60,
+          "title": "الحلقة 60",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 3067745,
+          "tmdb_still_path": "/s615eS4vYEwc2r8Ev98LJHtmiht.jpg"
+        },
+        {
+          "episode": 61,
+          "title": "الحلقة 61",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 3114963,
+          "tmdb_still_path": "/wVPAEeNDofMOO71cAXGg2o2OUck.jpg"
+        },
+        {
+          "episode": 62,
+          "title": "الحلقة 62",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 3129273,
+          "tmdb_still_path": "/a5MMQMP425alwIuiRzlGS6qkBmP.jpg"
+        },
+        {
+          "episode": 63,
+          "title": "الحلقة 63",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 3133010,
+          "tmdb_still_path": "/bICq6oSSnKH18bR3tfdPpoNnuCq.jpg"
+        },
+        {
+          "episode": 64,
+          "title": "الحلقة 64",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3133011,
+          "tmdb_still_path": "/rI0NnZfJTNiKJNdWZQuzFtjD9NZ.jpg"
+        },
+        {
+          "episode": 65,
+          "title": "الحلقة 65",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3184611,
+          "tmdb_still_path": "/cAgaX6ZczUkB4isitSeIG1oVmcW.jpg"
+        },
+        {
+          "episode": 66,
+          "title": "الحلقة 66",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3187034,
+          "tmdb_still_path": "/ckJ85jAi5NhBzpP53WZg56LdOPY.jpg"
+        },
+        {
+          "episode": 67,
+          "title": "الحلقة 67",
+          "servers": [],
+          "overview": null,
+          "air_date": "2021-09-26",
+          "runtime": 24,
+          "tmdb_episode_id": 3228582,
+          "tmdb_still_path": "/s7wCQe1741K8e48VLH9OrycSvkq.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي :Digimon Adventure ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، أطفال، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و67 حلقة. تبدأ قصة :Digimon Adventure من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أطفال، مغامرات، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة :Digimon Adventure على CINMAPRO عبر 1 موسم و67 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/digimon-adventure",
+  "story": "يدور أنمي :Digimon Adventure ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، أطفال، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و67 حلقة. تبدأ قصة :Digimon Adventure من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أطفال، مغامرات، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة :Digimon Adventure على CINMAPRO عبر 1 موسم و67 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuko Sanpei، Chika Sakamoto، Daisuke Namikawa، Ryoko Shiraishi، Yumiko Kobayashi، Marika Kouno",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، أطفال",
+  "trailerId": "wEc50DYNM_w",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": ":Digimon Adventure",
+    "mainDescription": "يدور أنمي :Digimon Adventure ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، أطفال، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و67 حلقة. تبدأ قصة :Digimon Adventure من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أطفال، مغامرات، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة :Digimon Adventure على CINMAPRO عبر 1 موسم و67 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": ":Digimon Adventure أنمي 2020 | يدور أنمي :Digimon Adventure ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات :Digimon Adventure من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/98034"
+    }
+  },
+  "tmdb_id": 98034,
+  "tmdb_url": "https://www.themoviedb.org/tv/98034",
+  "original_title": "デジモンアドベンチャー："
+}

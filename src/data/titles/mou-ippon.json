@@ -1,0 +1,474 @@
+{
+  "slug": "mou-ippon",
+  "clean_title": "Mou Ippon!",
+  "raw_name": "انمي Mou Ippon!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mou-ippon.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4685624511051"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/d3pxsuzaokjt"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/yer78cm0kggt"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbhight.com/e/f1tq5aa7wbh8.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4685634996811"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gz4S1LID#u_CKVazZ3YIcEY_oWD5PA3InQ9VFWmclW66xWeQHGzc"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4685639846475"
+            },
+            {
+              "id": 8,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/1v3fhmwbplkk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-09",
+          "runtime": 24,
+          "tmdb_episode_id": 3062146,
+          "tmdb_still_path": "/em4UjZfz2QTGL0OQss0tdGvefTs.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4685721832011"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/vh5idgg0jrlv"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/t9c2opz1p3lv"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbhight.com/e/xe2k06byx9y0.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4685732383307"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0jggFSjB#Ky5HmQBcMZUVBrEHMoQ9nVe2HVBOkHga7a3mo3by4IA"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbhight.com/e/xtku8ds0026s.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4685734808139"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/piduixncvcdu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4115377,
+          "tmdb_still_path": "/iuFL3XNlp2kDy6iz1NoAABLWEBY.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4685774260811"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/sha4q0jhwneh"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/qc7062bfzuef"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbhight.com/e/0vefjhddjr1d.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4685838682699"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/VjoRDLaJ#KL0RFAmstEgJXc1pgY1BaO7riVbQoO8S8s8dhDZfVtU"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbhight.com/e/gce4hqy928yr.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4685841238603"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/5gyfaqy3cjsu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4115378,
+          "tmdb_still_path": "/yGi7vcs8Y6glrDHGUU3V7FX7nUT.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4821721811531"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=u0W7Dnin3oQNVLpv"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8iyv7u"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4821736491595"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/PrYjgbZJ#QBBQop9PysdhlXxoDcI7NUnTPug05tR6LNQL9n_wtxw"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4821744552523"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HdfRERG8zpoCZxGY"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8iyvec"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 4115379,
+          "tmdb_still_path": "/xE3iN9A2Jzank56Gb8zxGfx83PM.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4822706031179"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UpBWlR63OpVX1dtD"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8iyzcc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4822743321163"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/OrBkxDLK#Bhd5OsFJx5tg1q_3t5BdL3EQRUbF2Tv_oyQOHXC7KAM"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4822749481547"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=N1S6n5qPGnWON3Ob"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8iyzed"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4115380,
+          "tmdb_still_path": "/xdCm7tpyK7KWgR7qoQlaQKBMvLr.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4823012674123"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eLRAXFOrom0OWUbf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8izq33"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4823031941707"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Lq4xEbYQ#cYHvGpaHzJR-BfqF4hvmELfShLWR_5PNqTHijgyT8Ro"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4823040264779"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PGK0rc36DSjHbFAv"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8izq32"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4115381,
+          "tmdb_still_path": "/gFFYfjM4GDVIdldfY07Av0T9kgi.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3MqskfhuKwcOquhU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4115382,
+          "tmdb_still_path": "/31ATR3jsFXgYExl6EAwGDO1CQqp.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Uc34TFP6KjEHe5LM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4115383,
+          "tmdb_still_path": "/6LuvuGloAdXgRWgUSp4tJXJh1W6.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1ig9P5HAO37Rwv2m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4115384,
+          "tmdb_still_path": "/nSe37ptnmzfujTNZFMtBsfgy88S.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GkAf3AYvkDYVxbzn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4115385,
+          "tmdb_still_path": "/njSDvGW7cprqiCwOmQQqk6CV6jo.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=utCYnwJY5p4mXdzu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4115386,
+          "tmdb_still_path": "/ieOAd3lITBRGMnr9fNDBKd2Doxt.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7VAa1ACKoCzizCJc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4115387,
+          "tmdb_still_path": "/iKyTZhi96xFwhQUaZlHkli7mjAa.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [],
+          "overview": null,
+          "air_date": "2023-04-03",
+          "runtime": 24,
+          "tmdb_episode_id": 4149654,
+          "tmdb_still_path": "/mS4vTpVHBKtsB5rz9LZpakc3gXj.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Mou Ippon! ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Mou Ippon! على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف فنون قتالية، رياضي، شونين، شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mou Ippon! على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/mou-ippon",
+  "story": "يدور أنمي Mou Ippon! ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Mou Ippon! على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف فنون قتالية، رياضي، شونين، شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mou Ippon! على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ayasa Ito، Yukari Anzai، Chiyuki Miura، Nene Hieda، Anna Nagase، Yumi Uchiyama",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": null,
+  "rating": "6.6",
+  "imdb_rating": "6.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mou Ippon!",
+    "mainDescription": "يدور أنمي Mou Ippon! ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Mou Ippon! على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف فنون قتالية، رياضي، شونين، شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mou Ippon! على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Mou Ippon! أنمي 2023 | يدور أنمي Mou Ippon | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mou Ippon! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/128824"
+    }
+  },
+  "tmdb_id": 128824,
+  "tmdb_url": "https://www.themoviedb.org/tv/128824",
+  "original_title": "もういっぽん!"
+}

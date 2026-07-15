@@ -1,0 +1,244 @@
+{
+  "slug": "vlad-love",
+  "clean_title": "Vlad Love",
+  "raw_name": "انمي Vlad Love",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/vlad-love.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=n6ZtYMuXcXOtceiK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027739,
+          "tmdb_still_path": "/5Afb0dXEWuYx0PYDoeNGcEr2Bwt.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZF2MoJNrO4CLzvFx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027740,
+          "tmdb_still_path": "/2yMIpV7cmdltBB4kgjePfuulVDp.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KbPJ0NJeLvkH2aEz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027741,
+          "tmdb_still_path": "/hONMgVramBYCtERsFrXhAymn0we.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wgXNtXZffs73ryi9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027742,
+          "tmdb_still_path": "/gzX9jaK8mwuXRPQHi8QSPu5OPh1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=heFeQ7gtJHzyXF7x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027743,
+          "tmdb_still_path": "/yFHxgMr0gNCWvBGSpKnXxc2fPXP.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GoQTBM2vENdNaMhU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027744,
+          "tmdb_still_path": "/m6JFHjOq0t5fAGwSbJZKuXoEzfS.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Bjy1VgjKbHiRC7VI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027745,
+          "tmdb_still_path": "/2d26BD9DXLnnqbTQHuTUiChVK1x.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KHRsWXgVGEVmQN2T"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027746,
+          "tmdb_still_path": "/da9BNedon0AvD9qGaOomCStBAh2.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5upMUk4yMFX6t28X"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027747,
+          "tmdb_still_path": "/hQRVBxEWIfPN1EvdVjywJFdGPkG.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nYdvSpeG7Fzbj8v7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027748,
+          "tmdb_still_path": "/uUWHOu8QhSzE2jBKVc2LgatZso2.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0oE8MH4Nog522CFi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027749,
+          "tmdb_still_path": "/qpgB9WcgNgphpeNIWjHQSqMj7D4.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wPVf8n863hr9H5E1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2027750,
+          "tmdb_still_path": "/9wVQbNo6KaXmvtm9UKfgt4zKtcD.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Vlad Love ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Vlad Love من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، خارق للطبيعة، مدرسي، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/vlad-love",
+  "story": "يدور أنمي Vlad Love ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Vlad Love من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، خارق للطبيعة، مدرسي، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Mamoru Oshii",
+  "stars": "Ayane Sakura، Rina Hidaka، Romi Park، Saori Hayami، Yu Kobayashi، Kanako Takatsuki",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "Wauof3VwkSU",
+  "rating": "5.6",
+  "imdb_rating": "5.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Vlad Love",
+    "mainDescription": "يدور أنمي Vlad Love ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Vlad Love من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، خارق للطبيعة، مدرسي، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Vlad Love أنمي 2021 | يدور أنمي Vlad Love ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Vlad Love من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/95203"
+    }
+  },
+  "tmdb_id": 95203,
+  "tmdb_url": "https://www.themoviedb.org/tv/95203",
+  "original_title": "ぶらどらぶ"
+}

@@ -1,0 +1,662 @@
+{
+  "slug": "shadowverse",
+  "clean_title": "Shadowverse",
+  "raw_name": "انمي Shadowverse",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/shadowverse.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 39,
+          "title": "الحلقة 39",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2290220796491"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/jkk1a3cpujzouvpv4801f7izbiuflebr"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-hmnptm4r3p70.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/7g67-cg30-d17ge"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/GHTa7apRea"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1vbbRlCZ7jghiKuFXBdCaDf2Fahl32KIi/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-vl0j6n0uv21v.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-ylp612tfcjw5.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-2ysh6i8f278n.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2290234952267"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2618851,
+          "tmdb_still_path": "/rTC9ZSIAbpP4iTK9BhZmiFdYgQ0.jpg"
+        },
+        {
+          "episode": 40,
+          "title": "الحلقة 40",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2310594759243"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/louppuqmst6eg15ufj098r9g1od9oqsm"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-8a555qxi0gc0.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/8n7d-a8y5rj1r2p"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/1S4oa7lmiq"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1qvBPfpyS87v5MYX2IfXy74o-4wCkP_XN/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqoald",
+              "url": "https://uqload.com/embed-fu6d6eekrtx3.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-g7de9cgkpe9w.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-nnq6oo46lb6v.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2310622546507"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2618935,
+          "tmdb_still_path": "/wF8k0IdZWCyVnHTrfzpZlLXWQ79.jpg"
+        },
+        {
+          "episode": 41,
+          "title": "الحلقة 41",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2330748717643"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/zd4g1pehwqjhzo8rcpejyts38btu315v"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-pi0zagi566o0.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/yg3kycen08-w35r"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/LobXNeCLea"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1G7uPx-tRai_BS-pMF7LeYXdlUDMdugQd/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-3umu0ljyp6bp.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-uhjhp4b7wdzd.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-gwwjq5bwy4d2.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2330779191883"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2696170,
+          "tmdb_still_path": "/wpurYsQ1beoqILS6ANuSGdsbo7n.jpg"
+        },
+        {
+          "episode": 42,
+          "title": "الحلقة 42",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2348727667275"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/lzkqmvfkr9zbcjibzhxwps19h64ht3ai"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-sinfpz1ubqto.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/7g67-cgzy5j25zl"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/G_A0zBArea"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1nJo_VJEqVCnosZ5131LAY4hv3xh6Agw2/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-v01zrvynmvue.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-6pn7w5hci72n.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-6pk41e4ajanf.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2348742937163"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2696172,
+          "tmdb_still_path": "/zICMAFD10PiH9tagRBkCMxvRTzl.jpg"
+        },
+        {
+          "episode": 43,
+          "title": "الحلقة 43",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2364526692939"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/lk546z5nkf5ks4gh30tsbl7lsi7gs74b"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-vf0veksjx0q8.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/pz23ptm84rnpzld"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/Bdl-_9M6ea"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1gcByNJEVx9ulmRXvibsipwvvIA1LwRxk/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-5xxehc74ikl0.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-c6hw83saekk6.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ssjjzzrz2e2a.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2364562999883"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2696173,
+          "tmdb_still_path": "/rXZkeb2FJ8GekIf6uPB5DAqBxIv.jpg"
+        },
+        {
+          "episode": 44,
+          "title": "الحلقة 44",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2379045341771"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/e95v18d96a7b7bh28gnm2vppxd6zm75n"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-jioc3t4kv68s.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/x8y1ef5k14gge4g"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/4k5BxAnaea"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1IsB-3aFY6hh8e3QxqID05ULTuAdIMdlp/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-0jsmq3yqecgo.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-ma42ekg3zlo4.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0lvvadaioygb.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2379064281675"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2696175,
+          "tmdb_still_path": "/615l710VYL6gpRbjayuiFt31LP3.jpg"
+        },
+        {
+          "episode": 45,
+          "title": "الحلقة 45",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2391726950987"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/co0gefccfw1fs2e1039jz51wq5ogyaof"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-v3sdni1m4j5u.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/lrdy7une378w-2k"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/y7ofLEsdiq"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/10uMwpeEeaJ84LtjQTprTRK1UxKyQATr4/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-olec7ps2gtwm.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-70r1j4o9awrz.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-e7bx8jrn7ih0.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2391745628747"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2696176,
+          "tmdb_still_path": "/vB3gR9iG1X1MYFZT6UT3aalcDcM.jpg"
+        },
+        {
+          "episode": 46,
+          "title": "الحلقة 46",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2407034849867"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/a6ud67c7zqt64ondrrzeuyii9sm5lyje"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-jrnvl7w4p0pw.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/3ewg-hm3xw1n8zz"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/mWlfZVmwiq"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ta9cE-_zubC0f-q4M1gjczRLas9UX4MY/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-u4p448spnx3a.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-xpq9wsiphlpi.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-o0pev6z3zy6j.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2407050447435"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2696177,
+          "tmdb_still_path": "/fn4ApcNnvNE8hl0grQaxaKUVBla.jpg"
+        },
+        {
+          "episode": 47,
+          "title": "الحلقة 47",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2419138366027"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/fmiiiujunsc4nm9avq7lnuquzxfc0kzh"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-isfugqvza0yh.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/pz23ptm8pp0edwn"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/buxeL_wsiq"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/18xhjKup5CBQArwH510kixVzpkiRp_iwD/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-u0yoc3riq71h.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-2ks7630dyq3h.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-yohndmayf9ij.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2419154881099"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2696179,
+          "tmdb_still_path": "/h59ExRCJ6UN8LyfFo8yt9bSepeA.jpg"
+        },
+        {
+          "episode": 48,
+          "title": "الحلقة 48",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2434700937803"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/8xzv48r89dpca1twns2gjsa56un4r4pj"
+            },
+            {
+              "id": 3,
+              "label": "playtube",
+              "url": "https://playtube.ws/embed-pbmsow223i31.html"
+            },
+            {
+              "id": 4,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/5x34-hdel-qq4r5"
+            },
+            {
+              "id": 5,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/lTWmh6d6iq"
+            },
+            {
+              "id": 6,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1rk1P6Ls5xXgrk0kk2aIwaro5eUBkWBo6/preview"
+            },
+            {
+              "id": 7,
+              "label": "uqload",
+              "url": "https://uqload.com/embed-81jgtzsr4ono.html"
+            },
+            {
+              "id": 8,
+              "label": "vidbom",
+              "url": "https://vidbem.com/embed-fae8l7fjdhaz.html"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-neteloi7er0c.html"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434721909323"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2696180,
+          "tmdb_still_path": "/g0ztwa6yPwvNg93eeqJBc57MS8n.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Shadowverse ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و146 حلقة. في أنمي Shadowverse تتحرك الحكاية حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. ينتمي العمل إلى أجواء لعبة، خيال، لذلك يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و10 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/shadowverse",
+  "story": "يدور أنمي Shadowverse ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و146 حلقة. في أنمي Shadowverse تتحرك الحكاية حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. ينتمي العمل إلى أجواء لعبة، خيال، لذلك يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و10 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuto Uemura، Hibiku Yamamura، Kazuki Ura، Shiori Izawa، Showtaro Morikubo، Larissa Tago Takeda",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "eALzN-LK78k",
+  "rating": "5.3",
+  "imdb_rating": "5.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Shadowverse",
+    "mainDescription": "يدور أنمي Shadowverse ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و146 حلقة. في أنمي Shadowverse تتحرك الحكاية حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. ينتمي العمل إلى أجواء لعبة، خيال، لذلك يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و10 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Shadowverse أنمي 2020 | يدور أنمي Shadowverse ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Shadowverse من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/98823"
+    }
+  },
+  "tmdb_id": 98823,
+  "tmdb_url": "https://www.themoviedb.org/tv/98823",
+  "original_title": "シャドウバース"
+}

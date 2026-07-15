@@ -1,0 +1,740 @@
+{
+  "slug": "great-teacher-onizuka",
+  "clean_title": "Great Teacher Onizuka",
+  "raw_name": "انمي Great Teacher Onizuka",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/great-teacher-onizuka.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 43,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 43,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "جي.تي.أو - بداية الأسطورة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845822020171"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-06-30",
+          "runtime": 49,
+          "tmdb_episode_id": 957754,
+          "tmdb_still_path": "/9bU7ivyXQZd0iACLEdJIuY3kdvP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "دخول أوتشيامادا!",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845849152075"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-07-07",
+          "runtime": 26,
+          "tmdb_episode_id": 960072,
+          "tmdb_still_path": "/7toN7WHft8xsuwojt0V2ZUpLvDD.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الهبوط من السّطحِ في آخر الليل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845869206091"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-07-21",
+          "runtime": 26,
+          "tmdb_episode_id": 959630,
+          "tmdb_still_path": "/fFRLsvWNNxAplc6DzoO0a2adop5.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "حياة أونيزكا السرّية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845897255499"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-08-11",
+          "runtime": 26,
+          "tmdb_episode_id": 957755,
+          "tmdb_still_path": "/aWKuVfN8D1U0yi6bPHEEVlgki7C.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "العين بالعين، والمؤخرة بالمؤخرة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845908724299"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-08-18",
+          "runtime": 26,
+          "tmdb_episode_id": 957756,
+          "tmdb_still_path": "/mSgyySYZGDCBExVkJQQUKyZHuGs.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845925239371"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-08-25",
+          "runtime": 26,
+          "tmdb_episode_id": 959631,
+          "tmdb_still_path": "/uTmZ9vqThuwe8KAkCJVqLUkjyXG.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845940771403"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-09-01",
+          "runtime": 26,
+          "tmdb_episode_id": 959632,
+          "tmdb_still_path": "/il3O2mlsUY5cxsgFE7epGiwbfkG.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845954665035"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-09-08",
+          "runtime": 26,
+          "tmdb_episode_id": 959633,
+          "tmdb_still_path": "/c4zqJAsFPyjwIsIs5X8jzqWsyt4.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845970917963"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-09-22",
+          "runtime": 26,
+          "tmdb_episode_id": 959634,
+          "tmdb_still_path": "/820vG3Pm4Akw4ICFdCcfzxv2Y8m.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4845986843211"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-09-22",
+          "runtime": 26,
+          "tmdb_episode_id": 959635,
+          "tmdb_still_path": "/2d9H1Gh3rVibejuJxnOfxvbiDbz.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846093601355"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 959636,
+          "tmdb_still_path": "/7cNhfQYowT57t7WS8vkSrNuwtXG.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846120536651"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 959637,
+          "tmdb_still_path": "/d26FAAigDFAVdbFe7xU3w2rvkFd.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846135085643"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 959638,
+          "tmdb_still_path": "/sqhFwtN83ljE31x9YG379dy9lLK.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846148323915"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 959639,
+          "tmdb_still_path": "/5957yZa0WqNFmXNF0uvemvmlUwK.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846162610763"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 959640,
+          "tmdb_still_path": "/sLWCxPM7nX7NGOCMbCGaxiN8eLj.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846184368715"
+            }
+          ],
+          "overview": null,
+          "air_date": "1999-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 957757,
+          "tmdb_still_path": "/6N8LhlBMX2YfMxh74boDbLxPKeQ.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846197934667"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 959641,
+          "tmdb_still_path": "/5aB5VgbP62bO1MFb7Ks82TB0al8.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846214515275"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 960073,
+          "tmdb_still_path": "/wzx0IQ2t8zykNY4GmNeLucCQzs5.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846226049611"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 960074,
+          "tmdb_still_path": "/wKhdkKO6lJga7qb8aM83vzrq8Ac.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846239287883"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 960075,
+          "tmdb_still_path": "/uq00CdWnk2PIDw0r6ek4yNqMytE.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846814693963"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 960076,
+          "tmdb_still_path": "/f8QDUNwrwZ88JBxD78MB7mqKAg6.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846824524363"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 960077,
+          "tmdb_still_path": "/zt2prx12IHcHOEeHIBBVQ02Qiif.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846833044043"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 960078,
+          "tmdb_still_path": "/dKFmowBCzlUszC3IZpCpKZnQkA.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846840908363"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 959642,
+          "tmdb_still_path": "/7rkOuM4cIO4kKhhxuPa3elR3NYF.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846848379467"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 959643,
+          "tmdb_still_path": "/cpNElu9PPgFJmehaxIKDgCd4ocN.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846857554507"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 960079,
+          "tmdb_still_path": "/robKqYWNPqEt1PknbgMS4gK9zFr.jpg"
+        },
+        {
+          "episode": 27,
+          "title": "الحلقة 27",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846864566859"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 959644,
+          "tmdb_still_path": "/s0efmS88ZaRZauVTdG06Z0dJux.jpg"
+        },
+        {
+          "episode": 28,
+          "title": "الحلقة 28",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846871906891"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 957758,
+          "tmdb_still_path": "/pkdENCkZ46mEcxPN1OKnZXD0mWq.jpg"
+        },
+        {
+          "episode": 29,
+          "title": "الحلقة 29",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846879836747"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 959645,
+          "tmdb_still_path": "/hvoLSzDhrlPTFGqj6N4JOX7QWAp.jpg"
+        },
+        {
+          "episode": 30,
+          "title": "الحلقة 30",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846886783563"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 960080,
+          "tmdb_still_path": "/peq51gTFg8krxkpj8dRkMZEBfKy.jpg"
+        },
+        {
+          "episode": 31,
+          "title": "الحلقة 31",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846942947915"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 960081,
+          "tmdb_still_path": "/zAqNVfOcVVNzpLypCf78jViMPR7.jpg"
+        },
+        {
+          "episode": 32,
+          "title": "الحلقة 32",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846953302603"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 960082,
+          "tmdb_still_path": "/p0IbeydulSa0GhQ2kFlHRqWOJuc.jpg"
+        },
+        {
+          "episode": 33,
+          "title": "الحلقة 33",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846960183883"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-05-27",
+          "runtime": 24,
+          "tmdb_episode_id": 960083,
+          "tmdb_still_path": "/cQ9mBaxHDaYSi3IfRXcaVSinjB2.jpg"
+        },
+        {
+          "episode": 34,
+          "title": "الحلقة 34",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846966213195"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 960084,
+          "tmdb_still_path": "/q1FqOVZ4WLFYoT1czBa7QSSNyb.jpg"
+        },
+        {
+          "episode": 35,
+          "title": "الحلقة 35",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846973815371"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 960085,
+          "tmdb_still_path": "/3AwN4tfQ4qSb94dNWsJdaNGSSSh.jpg"
+        },
+        {
+          "episode": 36,
+          "title": "الحلقة 36",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4846981286475"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 960086,
+          "tmdb_still_path": "/jRPyEr6yLDqSyI2SbFPQZByU25A.jpg"
+        },
+        {
+          "episode": 37,
+          "title": "الحلقة 37",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4847115962955"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 960087,
+          "tmdb_still_path": "/klQ8Iw8p1dlUdgAo1MHek1xZZJa.jpg"
+        },
+        {
+          "episode": 38,
+          "title": "الحلقة 38",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4847124154955"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 960088,
+          "tmdb_still_path": "/pmd57AQMGzsr0F0xl2IJkO6TZAd.jpg"
+        },
+        {
+          "episode": 39,
+          "title": "الحلقة 39",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4847130839627"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 960089,
+          "tmdb_still_path": "/V5VCPSVeLLnNtKABkaPWPT8fZW.jpg"
+        },
+        {
+          "episode": 40,
+          "title": "الحلقة 40",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4847136344651"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 960090,
+          "tmdb_still_path": "/6jI4HvPm8JQmkjkamnnHvyP06At.jpg"
+        },
+        {
+          "episode": 41,
+          "title": "الحلقة 41",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4847143881291"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 960091,
+          "tmdb_still_path": "/whQxCECXc1fiJuMffy5pz6bjuAN.jpg"
+        },
+        {
+          "episode": 42,
+          "title": "الحلقة 42",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4847150828107"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 960092,
+          "tmdb_still_path": "/titGkHNEId5AH8ZEtwrmujBxGiT.jpg"
+        },
+        {
+          "episode": 43,
+          "title": "الحلقة 43",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4847157643851"
+            }
+          ],
+          "overview": null,
+          "air_date": "2000-09-17",
+          "runtime": 23,
+          "tmdb_episode_id": 957759,
+          "tmdb_still_path": "/46phNPxKSCK240wZkBJWbdKmRjX.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "إيكيتشي أونيزكا البالغ من العمر 22 عاماً هو متسابق درّاجات نارية سابق وبطل كاراتيه في الكلّية. أونيزكا رجل بذيء وسليط اللسان وذو مزاج متقلِّب وهدفه هو أن يكون أعظم أُستاذ مدرسة ثانوية في العالم! ولكن مع الأسف، الوظيفة الشاغرة الوحيدة المتوفِّرة هي في أكاديمية هولي فوريست ولا تشترط حمل شهادة علمية. من هنا يبدأ باستخدام ذكائه وتطبيق ما تعلّمه في الشوارع على زُملائه وتلاميذه على حدٍّ سواء.",
+  "url": "/anime/great-teacher-onizuka",
+  "story": "إيكيتشي أونيزكا البالغ من العمر 22 عاماً هو متسابق درّاجات نارية سابق وبطل كاراتيه في الكلّية. أونيزكا رجل بذيء وسليط اللسان وذو مزاج متقلِّب وهدفه هو أن يكون أعظم أُستاذ مدرسة ثانوية في العالم! ولكن مع الأسف، الوظيفة الشاغرة الوحيدة المتوفِّرة هي في أكاديمية هولي فوريست ولا تشترط حمل شهادة علمية. من هنا يبدأ باستخدام ذكائه وتطبيق ما تعلّمه في الشوارع على زُملائه وتلاميذه على حدٍّ سواء.",
+  "year": "1999",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Wataru Takagi، Junko Noda، Isshin Chiba، Junichi Suwabe، Kazuhiro Nakata، Fumiko Orikasa",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "dIPJ7aVb2BE",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Great Teacher Onizuka",
+    "mainDescription": "إيكيتشي أونيزكا البالغ من العمر 22 عاماً هو متسابق درّاجات نارية سابق وبطل كاراتيه في الكلّية. أونيزكا رجل بذيء وسليط اللسان وذو مزاج متقلِّب وهدفه هو أن يكون أعظم أُستاذ مدرسة ثانوية في العالم! ولكن مع الأسف، الوظيفة الشاغرة الوحيدة المتوفِّرة هي في أكاديمية هولي فوريست ولا تشترط حمل شهادة علمية. من هنا يبدأ باستخدام ذكائه وتطبيق ما تعلّمه في الشوارع على زُملائه وتلاميذه على حدٍّ سواء.",
+    "metaDescription": "Great Teacher Onizuka أنمي 1999 | إيكيتشي أونيزكا البالغ من العمر 22 عاماً هو متسابق درّاجات نارية سابق وبطل كاراتيه في الكلّية | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Great Teacher Onizuka من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/43017"
+    }
+  },
+  "tmdb_id": 43017,
+  "tmdb_url": "https://www.themoviedb.org/tv/43017",
+  "original_title": "グレート・ティーチャー・オニヅカ"
+}

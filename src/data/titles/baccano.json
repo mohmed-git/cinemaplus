@@ -1,0 +1,325 @@
+{
+  "slug": "baccano",
+  "clean_title": "Baccano!",
+  "raw_name": "انمي Baccano!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/baccano.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/n03s978atbxc"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3myxg3mln5bn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-07-27",
+          "runtime": 25,
+          "tmdb_episode_id": 782441,
+          "tmdb_still_path": "/i3QLl6YbCV3WB4bPrYtNwuBWOO.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/zoa8c6jnl7qa"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hrt115vl4h3l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-08-03",
+          "runtime": 25,
+          "tmdb_episode_id": 782442,
+          "tmdb_still_path": "/9roU7MY4HeNHlYT0NgIj5xYhrSB.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/7snb3newsxrh"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ujai0hj6kd9w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-08-10",
+          "runtime": 25,
+          "tmdb_episode_id": 782443,
+          "tmdb_still_path": "/d0DcQL5u885w811iHpOpqLq2Qc0.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/skfmeqd7oqrb"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3qgco8d3eph2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-08-17",
+          "runtime": 25,
+          "tmdb_episode_id": 782444,
+          "tmdb_still_path": "/6hIoAEZOz7I86ilOiBXP5ksjzar.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/6bvjeastp8h7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/833x28ghy9gx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-08-24",
+          "runtime": 25,
+          "tmdb_episode_id": 782445,
+          "tmdb_still_path": "/2askRMg6c0lmA7hF6On81pNXnsb.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/6mxnjgkdxzpb"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ruv43u45kwka"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-09-13",
+          "runtime": 25,
+          "tmdb_episode_id": 782446,
+          "tmdb_still_path": "/5sUhI9rs7yeFMhKUFQwW5wmbeK6.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vmew5cxfoo2l"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/uxku7634jpvf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-09-21",
+          "runtime": 25,
+          "tmdb_episode_id": 782447,
+          "tmdb_still_path": "/1Jy1fBqyGnBWPJUmllF5I3z2JMu.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/a4a6s7k47mzm"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/9h1tr763zg6g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-09-28",
+          "runtime": 25,
+          "tmdb_episode_id": 782448,
+          "tmdb_still_path": "/AlY82rq90rR8iXCqV6IQ2kihlBh.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/y0b20v50gcbj"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/zcqdbzqcf7yx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-10-05",
+          "runtime": 25,
+          "tmdb_episode_id": 782449,
+          "tmdb_still_path": "/dVNZEm3mAnRV06NlYlgazd0Gxdd.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vrda4cbq8me3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ro1wqvzgvn4y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-10-12",
+          "runtime": 25,
+          "tmdb_episode_id": 782450,
+          "tmdb_still_path": "/vek61uVk9gKimIpITWBwNvR3Rky.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/745m781zm162"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/arwx839c9nwe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-10-19",
+          "runtime": 25,
+          "tmdb_episode_id": 782451,
+          "tmdb_still_path": "/kYE4oulQf5x4z6DUqcjLHU0bSEw.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4g5v0df9ex7e"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/71r851ueukyv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-10-26",
+          "runtime": 25,
+          "tmdb_episode_id": 782452,
+          "tmdb_still_path": "/rxhDTK2PH0T4qQOpMogUYDcPIX4.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4ljnjkqtdi8g"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/brbtid0prgwd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-11-02",
+          "runtime": 25,
+          "tmdb_episode_id": 782453,
+          "tmdb_still_path": "/6J0CexOwDCMCSvkcUlbJg8BNVRL.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "في العام 1711 قام مجموعة من خيميائيي القرون الوسطى و الراغبون في البحث عن حياة أبدية بالتجمع على مركب بغية استدعاء الشيطان الذي يحمل السر , و باستدعاءه وافق على منحهم مبتغاهم “إكسير الحياة” , في الليلة التالية بدءوا بالاختفاء و أدرك الباقون فداحة الخطر المحدق بهم في حال اجتمعوا سويةً , لذلك قرروا أن يتبعثروا و ينتشروا في كافة أنحاء العالم. بعد عدة قرون و أثناء سنوات المنع التي اجتاحت الولايات المتحدة اجتمعوا سويةً مرة أخرى , فماذا سيحدث ؟ يشير تعبير المنع في الولايات المتحدة إلى الفترة من 1920 إلى 1933 و التي تم فيها منع بيع و صناعة و نقل الكحول رسمياً بموجب مادة ألحقت بالدستور .",
+  "url": "/anime/baccano",
+  "story": "في العام 1711 قام مجموعة من خيميائيي القرون الوسطى و الراغبون في البحث عن حياة أبدية بالتجمع على مركب بغية استدعاء الشيطان الذي يحمل السر , و باستدعاءه وافق على منحهم مبتغاهم “إكسير الحياة” , في الليلة التالية بدءوا بالاختفاء و أدرك الباقون فداحة الخطر المحدق بهم في حال اجتمعوا سويةً , لذلك قرروا أن يتبعثروا و ينتشروا في كافة أنحاء العالم. بعد عدة قرون و أثناء سنوات المنع التي اجتاحت الولايات المتحدة اجتمعوا سويةً مرة أخرى , فماذا سيحدث ؟ يشير تعبير المنع في الولايات المتحدة إلى الفترة من 1920 إلى 1933 و التي تم فيها منع بيع و صناعة و نقل الكحول رسمياً بموجب مادة ألحقت بالدستور .",
+  "year": "2007",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Masaya Onosaka، Sayaka Aoki، Daisuke Sakaguchi، Hiroyuki Yoshino، Kinryu Arimoto، Mitsuru Miyamoto",
+  "genre": "أنمي، كوميديا، حركة ومغامرة، رسوم متحركة، جريمة، غموض",
+  "trailerId": "MtuNdtfMlJ0",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Baccano!",
+    "mainDescription": "في العام 1711 قام مجموعة من خيميائيي القرون الوسطى و الراغبون في البحث عن حياة أبدية بالتجمع على مركب بغية استدعاء الشيطان الذي يحمل السر , و باستدعاءه وافق على منحهم مبتغاهم “إكسير الحياة” , في الليلة التالية بدءوا بالاختفاء و أدرك الباقون فداحة الخطر المحدق بهم في حال اجتمعوا سويةً , لذلك قرروا أن يتبعثروا و ينتشروا في كافة أنحاء العالم. بعد عدة قرون و أثناء سنوات المنع التي اجتاحت الولايات المتحدة اجتمعوا سويةً مرة أخرى , فماذا سيحدث ؟ يشير تعبير المنع في الولايات المتحدة إلى الفترة من 1920 إلى 1933 و التي تم فيها منع بيع و صناعة و نقل الكحول رسمياً بموجب مادة ألحقت بالدستور .",
+    "metaDescription": "Baccano! أنمي 2007 | في العام 1711 قام مجموعة من خيميائيي القرون الوسطى و الراغبون في البحث عن حياة أبدية بالتجمع على مركب بغية استدعاء الشيطان الذي…",
+    "highlights": "تم تحديث بيانات Baccano! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/34121"
+    }
+  },
+  "tmdb_id": 34121,
+  "tmdb_url": "https://www.themoviedb.org/tv/34121",
+  "original_title": "バッカーノ！"
+}

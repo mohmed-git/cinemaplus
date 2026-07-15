@@ -1,0 +1,424 @@
+{
+  "slug": "cats-eye",
+  "clean_title": "Cats Eye",
+  "raw_name": "انمي Cats Eye",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/cats-eye.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uQ1CmVnxAPhmur3j"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/8is33vf8432i"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/1w2o235gxmh4"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PHXs8T89xhpsrKzi"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/ataioux9gfs1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QGo9StxcWvgxDTLb"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/m4nv0vgpbfc9"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/8cytf2byhhl3"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zM1U8IbM5gqNZpVF"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/skqqbnc5qxc6"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4rQQmRTOW0HMxldj"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/kuogjl042wk7"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/4q865k6i7956"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sEFZvzxZPMUd1qeq"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/xgs8ug3eis3n"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SiQ8t1qgcifeQKpD"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/jetqu4jtfusy"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/4am796tya8km"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QQq9krnFpcJwQspq"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/jeomn6n4abji"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zgc9uk8GdbOBBKcz"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/0i34ykwz0h8x"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/gcjzi9ids6p0"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lJGPMqcprSRPHsJD"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/flnxvt8onkq5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TcJMh8cgShy4I40l"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/mj7rjlh5jfxp"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/ys2fuullqynf"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bW0mxIEaWnNhO2Fj"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/e8mgi69hmbhx"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=8QG02ds9F9aoIXd7"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/xxo8v5vezif1"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/9fvhjlvbtqwr"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2XeGNe27EzmXQi4V"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/ahz752mdmnjf"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=M5TR1qF6HKQNIwAa"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/jjy41qpyc1hb"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/3f70krxvvyvu"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qXkB0bJb5FR58HGm"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/4jaupmgjtc1a"
+            }
+          ]
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TcZVdJ3Q3RBo2TKw"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/sl4p2r27770h"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/ssikk58cjv50"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=L9crnFwVTiert8XL"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/hnn3uynvei8v"
+            }
+          ]
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HGQfsGboxwbpnKfq"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/znhdl12jzk5g"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/x40dz8ssgvwf"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Ri5zvBhSckMI4jIt"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/zz5u9f6849yk"
+            }
+          ]
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=T9IDbuokBT3EkaZ3"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/zrezfdzb06fn"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/upujllohp1wt"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ypnBjFPMoQcJDard"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/f6bprix7w2qm"
+            }
+          ]
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HOFwUHLV56PcxK7r"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/gpmuegyljjp5"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/yzjctzt0x3np"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5DiRaeWqVqv13Pa1"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/qqblii0hhcdi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Cats Eye ضمن أجواء غموض، شونين، مغامرات، أكشن، رومانسي، كوميدي، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Cats Eye حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، شونين، مغامرات، أكشن، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/cats-eye",
+  "story": "يدور أنمي Cats Eye ضمن أجواء غموض، شونين، مغامرات، أكشن، رومانسي، كوميدي، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Cats Eye حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، شونين، مغامرات، أكشن، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": null,
+  "quality": "FHD",
+  "duration": null,
+  "language": "الإنجليزية",
+  "country": "اليابان",
+  "director": null,
+  "stars": null,
+  "genre": "غموض، شونين، مغامرات، أكشن، رومانسي، كوميدي",
+  "trailerId": null,
+  "rating": "0.0",
+  "imdb_rating": "0.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Cats Eye",
+    "mainDescription": "يدور أنمي Cats Eye ضمن أجواء غموض، شونين، مغامرات، أكشن، رومانسي، كوميدي، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Cats Eye حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، شونين، مغامرات، أكشن، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Cats Eye أنمي | يدور أنمي Cats Eye ضمن أجواء غموض | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Cats Eye من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/32791"
+    }
+  },
+  "tmdb_id": 32791,
+  "tmdb_url": "https://www.themoviedb.org/tv/32791",
+  "original_title": "Cats' Eyes"
+}

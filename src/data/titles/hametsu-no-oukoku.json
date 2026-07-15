@@ -1,0 +1,634 @@
+{
+  "slug": "hametsu-no-oukoku",
+  "clean_title": "Hametsu no Oukoku",
+  "raw_name": "انمي Hametsu no Oukoku",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hametsu-no-oukoku.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6697602058827"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0NzhdkRQlVs6L4yB"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6697627880011"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/viR2gBbb#NUHv3XCMJlHY0hgtBxwrjrZfQ4DySkWFps434wjAMmo"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6697632860747"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ScHJnBDTM1vKK62N"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4208302,
+          "tmdb_still_path": "/iG2qtp6r5HFPakBAD17Kx5ysmT8.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6718792796747"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rkVyTvQDXbZcaGtJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ot2sp"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6718804855371"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/73wWnZZS#tLbPDt5fR4IcIbQaM2MxaCZDmyNokdoplZm3luDx0Uk"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6718814685771"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NPsVM8nxZPqNOP2T"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8ot2so"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4762215,
+          "tmdb_still_path": "/ax8ePIBGZCYhupvuGbtmqekuoo0.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6741329578571"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Vg94HgwdgG4cS22n"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6741353499211"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/iRcnlZDD#FDwz-5eJA-fIk06SnQTnR2xB4yBy9-nQCDr3oXzFyKE"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6741360380491"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3UtuDNdQ8wG8PJQB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4762216,
+          "tmdb_still_path": "/PqUL9Rlu0O6goZWkTj7HXXDUKf.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6764612094539"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=V46zW87DRJKabL7h"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p5edz"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6764639685195"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/kjdXHQIA#FMw0XLmY880v6WjWJcRUIdoULMSSxk1n2gtv3aVOoYc"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6764649318987"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eB4eXoXsqsdwQ2wd"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8p5ejz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4762217,
+          "tmdb_still_path": "/etT3EYdRyhVz9L7qr9bQfbvCtma.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6787070233163"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TcJxN4YZCoFVwSpW"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6787090614859"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UmFmXL7R#9-kozEVJR6HKTe9a9nqyXGuWhrVzaFpNcpgLScba0RQ"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6787096250955"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RNDkPitoblyHMvUH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4762218,
+          "tmdb_still_path": "/wgO4uACzLsWzPNoE4QyymE4vdtO.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6808968366667"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YnoK3Ij9djDAVIIm"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8piyns"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6809004214859"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/5iEF2KCB#UiJHNx0_quoRz5r38e3a1xLl95ZXSXey_WOZ5JNwC2E"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6809019353675"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oVqjWb1dRismmF54"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8piz3c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4762219,
+          "tmdb_still_path": "/wyHvVCL62lAGNBM4Uz7mkWxfXgq.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6830184991307"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UUg9wNx87wH8fuPP"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ppx1f"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6830207142475"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/hndhUbiB#aNOfcTr9ngl7Yln5IFHraiZ_8Bfc9guUFTe63d7Eqr8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6830215662155"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fGqOQug0dpaOPOqs"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8ppx6v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4762220,
+          "tmdb_still_path": "/a1N5RDvU8Qsf4nham7V1QCJRmBY.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6853750098507"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=teAeHbY4HmYNQYSR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pxehu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6853772708427"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/tmkm0YzS#2pUXvK2LdYTgSLArOy2Lsy8PCBR3dBIilmBTHdeiE8E"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6853777951307"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=H8jdni2kIQ7lJ5Kj"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8pxeq7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4762221,
+          "tmdb_still_path": "/uQGk9q9l6dHSXkjlCpBVc8CSY8e.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6875847002699"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ASQf287tN78N9FI5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q54p0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6875867646539"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/trdhDRyI#pPuIr1tgonWokw5C9jHx0FLcAUswO5HI1B9v48_N3sI"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6875872954955"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oFLn9TdxUk3sYoc8"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8q54vy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4762222,
+          "tmdb_still_path": "/re5hEDiBqA0qWR3tjf4dIc8MoIf.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6898460789323"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fnTQKz4X8Fw1RNy3"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qdbfb"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6898477959755"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/EK8UkaxR#T_Bi7-Ri_5zV4kdkwlroXR39Sy0AefOb8jk0vg9zQlw"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6898486086219"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2vVFgOta0UahBvWP"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8qdbqr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4762224,
+          "tmdb_still_path": "/vxmUBdP1P4Cce6pAuJ32x0DBLx6.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6919250577995"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XEbt3Em6p1IEeny2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qlra5"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6919267879499"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BSlHQLbR#raOIEiUjeR57EkyHtKtqMc0nb4g3RwHs05iD6_dZc60"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6919272139339"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SdgdcVVQlc0YygXx"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8qlrg7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4762225,
+          "tmdb_still_path": "/suojO5kZjAxX6j6uS0XbcdqSIL0.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6940608498251"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kaSNOfdU1uF6e0mT"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qt3dd"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6940637137483"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/YC1wULxb#ZKkDB2My1voKmPtt_TKOcOi-4xRqjiVcoC6qN5NmcrY"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6940648802891"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RFT7RBdh15ongZLw"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8qt3rn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4762226,
+          "tmdb_still_path": "/bJx10S8HnKdwYlGqgCCsx7p5F1t.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hametsu no Oukoku ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Hametsu no Oukoku من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف خيال علمي، شونين، مغامرات، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hametsu no Oukoku على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/hametsu-no-oukoku",
+  "story": "يدور أنمي Hametsu no Oukoku ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Hametsu no Oukoku من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف خيال علمي، شونين، مغامرات، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hametsu no Oukoku على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kaito Ishikawa، Azumi Waki، Ryoko Shiraishi، Satoshi Hino، Hikaru Tono، Kisho Taniyama",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "INM9nR2yVXA",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hametsu no Oukoku",
+    "mainDescription": "يدور أنمي Hametsu no Oukoku ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Hametsu no Oukoku من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف خيال علمي، شونين، مغامرات، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hametsu no Oukoku على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Hametsu no Oukoku أنمي 2023 | يدور أنمي Hametsu no Oukoku ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hametsu no Oukoku من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/219673"
+    }
+  },
+  "tmdb_id": 219673,
+  "tmdb_url": "https://www.themoviedb.org/tv/219673",
+  "original_title": "はめつのおうこく"
+}

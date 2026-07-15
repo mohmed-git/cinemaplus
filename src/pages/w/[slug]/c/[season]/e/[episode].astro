@@ -1,0 +1,88 @@
+---
+/**
+ * Standalone EPISODE page for a NEW (SSR) series/anime — /w/<slug>/c/<season>/e/<episode>.
+ *
+ * SSR (on-demand) — NOT prerendered. There are thousands of new episodic works;
+ * rendering per-episode on demand keeps the static file count tiny while giving
+ * every episode a real, indexable URL (same approach as the old /d episode page).
+ *
+ * The full work is loaded from its detail shard (loadNewWork) at request time;
+ * similar cards come from the slim sub-category index. Guards 404 for unknown
+ * slugs, movies, or bogus season/episode numbers so we never index junk URLs.
+ */
+export const prerender = false;
+
+import NewEpisodePage from '../../../../../../components/NewEpisodePage.astro';
+import { loadNewWork, loadSubcat, type SubcatCard } from '../../../../../../lib/newWorks';
+import { findEpisode, sortedSeasons } from '../../../../../../lib/episodeRoutes';
+import { newDetailRoute } from '../../../../../../lib/routes';
+
+const { slug, season, episode } = Astro.params;
+const seasonNumber = Number.parseInt(season ?? '', 10);
+const episodeNumber = Number.parseInt(episode ?? '', 10);
+
+const title = slug ? await loadNewWork(slug, Astro.url) : undefined;
+
+// Guard: unknown slug, movie (no episodes), or non-numeric params.
+const isEpisodic =
+  !!title &&
+  (title.category === 'series' || title.category === 'anime') &&
+  title.episodes_count > 1 &&
+  (title.seasons?.length || 0) > 0;
+
+if (!title || !isEpisodic || Number.isNaN(seasonNumber) || Number.isNaN(episodeNumber)) {
+  return new Response('Not found', { status: 404 });
+}
+
+// Resolve against real data; 404 if the episode genuinely does not exist.
+const { season: resolvedSeason, episode: resolvedEpisode } = findEpisode(
+  title,
+  seasonNumber,
+  episodeNumber
+);
+if (
+  !resolvedSeason ||
+  !resolvedEpisode ||
+  resolvedSeason.season !== seasonNumber ||
+  resolvedEpisode.episode !== episodeNumber
+) {
+  return new Response('Not found', { status: 404 });
+}
+
+const kind = title.category === 'anime' ? 'anime' : 'series';
+
+// Similar works from the same sub-category (slim cards → PosterCard shape).
+const sub = (title as any).subcategory as string | undefined;
+let similarCards: SubcatCard[] = [];
+if (sub) {
+  const list = await loadSubcat(sub, Astro.url);
+  similarCards = list.filter((e) => e.slug !== title.slug).slice(0, 12);
+}
+const similar = similarCards.map((e) => ({
+  slug: e.slug,
+  clean_title: e.clean_title,
+  category: e.category,
+  category_label: e.category_label,
+  poster: e.poster,
+  url: e.url ?? newDetailRoute(e.slug),
+  year: e.year,
+  rating: e.rating,
+  votes: e.votes,
+  episodes_count: e.episodes_count,
+  seasons_count: e.seasons_count,
+})) as any;
+
+// Edge-cache: 1h fresh + serve-stale-while-revalidate for a day.
+Astro.response.headers.set(
+  'Cache-Control',
+  'public, max-age=0, s-maxage=3600, stale-while-revalidate=86400'
+);
+---
+
+<NewEpisodePage
+  title={title}
+  kind={kind}
+  seasonNumber={seasonNumber}
+  episodeNumber={episodeNumber}
+  similar={similar}
+/>

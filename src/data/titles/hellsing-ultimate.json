@@ -1,0 +1,212 @@
+{
+  "slug": "hellsing-ultimate",
+  "clean_title": "Hellsing Ultimate",
+  "raw_name": "انمي Hellsing Ultimate",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hellsing-ultimate.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3cPm3WizgAoIz7pn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-02-10",
+          "runtime": 50,
+          "tmdb_episode_id": 1027532,
+          "tmdb_still_path": "/giZppT9dXESJQzr6iwePN6v3GxR.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Iekf2cCLwVXBgHwH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-08-25",
+          "runtime": 43,
+          "tmdb_episode_id": 1027536,
+          "tmdb_still_path": "/juqSJorKsKwwk2pIYtZsCCrVHR5.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1GJfxv4Ts5rx74Cc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-04-04",
+          "runtime": 47,
+          "tmdb_episode_id": 1027537,
+          "tmdb_still_path": "/zDeJw5WCIKXHN67xGTxv9s7r8ms.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qHNKQAn192u81u9e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-02-22",
+          "runtime": 56,
+          "tmdb_episode_id": 1027538,
+          "tmdb_still_path": "/kvCFYoy4NLwIbiSCmaUrRkn73R1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=h5UsStZevVwTq113"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-21",
+          "runtime": 44,
+          "tmdb_episode_id": 1027539,
+          "tmdb_still_path": "/g1L4aMEGC1PMlpLev8sWy76QEPM.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8WSh5kGQKWwyEZ1Y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-07-24",
+          "runtime": 42,
+          "tmdb_episode_id": 1027540,
+          "tmdb_still_path": "/Z1eEuf6W2WQLoxffuSlxwEILQh.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ysPf68MUDC6NvbUK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-12-23",
+          "runtime": 45,
+          "tmdb_episode_id": 1027541,
+          "tmdb_still_path": "/bfJ79XKkpj0SCV0kGH2funxH8PB.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iERqSZN7f7CPz0YI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-27",
+          "runtime": 49,
+          "tmdb_episode_id": 1027542,
+          "tmdb_still_path": "/7vGNxhM4NB3tpXSiofvVuPQGh0j.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6LfOSYDhJCcvJIuI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-02-15",
+          "runtime": 45,
+          "tmdb_episode_id": 1027543,
+          "tmdb_still_path": "/1n6j84akQfy6kNiuBTML4beTfEc.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zjlATtgGO1VInahi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-26",
+          "runtime": 68,
+          "tmdb_episode_id": 1027544,
+          "tmdb_still_path": "/9q0oA1q2MkW3NX6svqLKdJU7W6C.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "لأكثر من قرن من الزمان ، كانت منظمة هيلسنغ الغامضة تحمي سرًا الإمبراطورية البريطانية من \"النزوات\" التي لا تنتهي. عندما نجحت السير إنتغرا هيلسينج كرئيسة للمنظمة ، ورثت أيضًا السلاح النهائي ضد هؤلاء الأعداء الأحياء ، ألوكارد، مصاص دماء مارق يمتلك قوى غامضة ومخيفة. لكن الآن ، يجب أن يتعامل هيلسينج مع تهديد أكثر خطورة من مصاصي الدماء.  الألفية. منظمة لمصاصي الدماء النازيين من عصر ميت طويل. هل ستكون حربا شاملة أم حمام دم شامل؟",
+  "url": "/anime/hellsing-ultimate",
+  "story": "لأكثر من قرن من الزمان ، كانت منظمة هيلسنغ الغامضة تحمي سرًا الإمبراطورية البريطانية من \"النزوات\" التي لا تنتهي. عندما نجحت السير إنتغرا هيلسينج كرئيسة للمنظمة ، ورثت أيضًا السلاح النهائي ضد هؤلاء الأعداء الأحياء ، ألوكارد، مصاص دماء مارق يمتلك قوى غامضة ومخيفة. لكن الآن ، يجب أن يتعامل هيلسينج مع تهديد أكثر خطورة من مصاصي الدماء.  الألفية. منظمة لمصاصي الدماء النازيين من عصر ميت طويل. هل ستكون حربا شاملة أم حمام دم شامل؟",
+  "year": "2006",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Jouji Nakata، Fumiko Orikasa، Yoshiko Sakakibara، Nobuo Tobita",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "7CQKMDFAKMk",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hellsing Ultimate",
+    "mainDescription": "لأكثر من قرن من الزمان ، كانت منظمة هيلسنغ الغامضة تحمي سرًا الإمبراطورية البريطانية من \"النزوات\" التي لا تنتهي. عندما نجحت السير إنتغرا هيلسينج كرئيسة للمنظمة ، ورثت أيضًا السلاح النهائي ضد هؤلاء الأعداء الأحياء ، ألوكارد، مصاص دماء مارق يمتلك قوى غامضة ومخيفة. لكن الآن ، يجب أن يتعامل هيلسينج مع تهديد أكثر خطورة من مصاصي الدماء.  الألفية. منظمة لمصاصي الدماء النازيين من عصر ميت طويل. هل ستكون حربا شاملة أم حمام دم شامل؟",
+    "metaDescription": "Hellsing Ultimate أنمي 2006 | لأكثر من قرن من الزمان | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hellsing Ultimate من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61752"
+    }
+  },
+  "tmdb_id": 61752,
+  "tmdb_url": "https://www.themoviedb.org/tv/61752",
+  "original_title": "ヘルシング アルティメット"
+}

@@ -1,0 +1,468 @@
+{
+  "slug": "samurai-champloo",
+  "clean_title": "Samurai Champloo",
+  "raw_name": "انمي Samurai Champloo",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/samurai-champloo.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8cax8ntj13j8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-05-20",
+          "runtime": 24,
+          "tmdb_episode_id": 55652,
+          "tmdb_still_path": "/zTXGRMkIVwPNdHKaua72IBiANrV.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0kwan0vm3cwc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-06-03",
+          "runtime": 24,
+          "tmdb_episode_id": 55653,
+          "tmdb_still_path": "/8rpwrdAC1vbOcpGuMS28bTqxd6u.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pdz93d1b8aee"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-06-10",
+          "runtime": 24,
+          "tmdb_episode_id": 55654,
+          "tmdb_still_path": "/w7NBHw4MWHxJ5oJDalERkewzkCn.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/h5hhdss44i3q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-06-17",
+          "runtime": 24,
+          "tmdb_episode_id": 55655,
+          "tmdb_still_path": "/rgpjdQHq9eISjxpwvVOPtoKVHj9.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3stsysisexag"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-06-24",
+          "runtime": 24,
+          "tmdb_episode_id": 55656,
+          "tmdb_still_path": "/mUrGHmMSbRwuoCx2lfflzE2ehk8.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/nmm7dwp0ocgp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-07-01",
+          "runtime": 24,
+          "tmdb_episode_id": 55657,
+          "tmdb_still_path": "/w8vP7j9VENQECy5AfEtxVAPY6xA.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/oqmw0k6cx0mh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-07-08",
+          "runtime": 24,
+          "tmdb_episode_id": 55658,
+          "tmdb_still_path": "/tHlHRjlrFy2vgeVXwhUpYxo7jRq.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8mxhcq2lrgom"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-07-15",
+          "runtime": 24,
+          "tmdb_episode_id": 55659,
+          "tmdb_still_path": "/1DiH1ni6LAhYvEKPf9AVZiVIYFF.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/yb226tzz1h0n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-07-22",
+          "runtime": 24,
+          "tmdb_episode_id": 55660,
+          "tmdb_still_path": "/cJaPgeqibcZGhtTL7vbOje2BVmm.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/nykedadwb301"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-07-29",
+          "runtime": 24,
+          "tmdb_episode_id": 55661,
+          "tmdb_still_path": "/28eDJvjZBc0TzUbzlOZNOpHgkA7.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/u397qyfpt5ho"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-08-05",
+          "runtime": 24,
+          "tmdb_episode_id": 55662,
+          "tmdb_still_path": "/jWukPP6gJes8XIzGePnlCH6pYMr.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/n6cdlqyzeqnd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-08-12",
+          "runtime": 24,
+          "tmdb_episode_id": 55663,
+          "tmdb_still_path": "/q4jsGQneSh4zAHu4NZGTZ2GWekI.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/oc5zhw9b83u4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-08-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1028918,
+          "tmdb_still_path": "/r8JevaUKbSUklU5cgA9OjP1xFxe.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5ir48a42cfdh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-09-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1028920,
+          "tmdb_still_path": "/pHDv6HKG6ukkn0D1eFih6isXCvd.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ac6caf9ubc13"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-09-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1028922,
+          "tmdb_still_path": "/eLmbHB6Bq4yv37ZmELYcakxe9Nd.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/i2d8broeemdm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1028925,
+          "tmdb_still_path": "/63vf1Twu4IlRmZ4DrzyJkivBGRv.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/bog8iukphvpd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2004-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1028928,
+          "tmdb_still_path": "/rdZoExLMcXhCVvIkLINCMdw2h5t.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ky257apkr5hi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1028931,
+          "tmdb_still_path": "/tTszcnxUAl2tOiF6aFovbqcYJ8h.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vam9iwuvgb1c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1028932,
+          "tmdb_still_path": "/9xx5kzWVyMNPi1HN3mnHfsd41bY.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/w4t0hiw5q9se"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1028933,
+          "tmdb_still_path": "/fFtGVhCRf0qH9sUbKOuemL8yCEi.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cc95w6f98j31"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1028934,
+          "tmdb_still_path": "/ypnLg72hm7n0Xvwu1DvHML6RkvG.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/sji6y4spwe77"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1028935,
+          "tmdb_still_path": "/hpvFzrqIwiGXPFLrLUqAdyUB2q.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/gc2pcwellilp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1028936,
+          "tmdb_still_path": "/dYD8EroCe9fr9AG2hrcdnF7y4pN.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zpawexyssu06"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1028937,
+          "tmdb_still_path": "/wVQzAPaBUVcX1fzdXonOEi95fXV.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6srlpei9syfv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1028938,
+          "tmdb_still_path": "/w8wk3MKdG6BTSRSO6Y0Nnu867NP.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8fwixv6iz8su"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1028939,
+          "tmdb_still_path": "/r1YGcqzTcOhblxr9KyJONbbfcd0.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "موغن هو محارب شرس وحيواني بأسلوب قتالي مستوحى من رقص البريك. أما جين فهو رونين ساموراي الذي يتجول في الريف وحده. قد لا يكونون أصدقاء ، لكن مساراتهم تتقاطع باستمرار. وعندما التقوا بالنادلة فوو، وافقوا على الانضمام إليها في البحث عن \"الساموراي الذي تفوح منه رائحة عباد الشمس\".",
+  "url": "/anime/samurai-champloo",
+  "story": "موغن هو محارب شرس وحيواني بأسلوب قتالي مستوحى من رقص البريك. أما جين فهو رونين ساموراي الذي يتجول في الريف وحده. قد لا يكونون أصدقاء ، لكن مساراتهم تتقاطع باستمرار. وعندما التقوا بالنادلة فوو، وافقوا على الانضمام إليها في البحث عن \"الساموراي الذي تفوح منه رائحة عباد الشمس\".",
+  "year": "2004",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Shinichiro Watanabe",
+  "stars": "Ayako Kawasumi، Kazuya Nakai، Ginpei Sato، Akio Otsuka، Eiji Maruyama، Keiichi Nanba",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا",
+  "trailerId": "Un7P24YU8OE",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Samurai Champloo",
+    "mainDescription": "موغن هو محارب شرس وحيواني بأسلوب قتالي مستوحى من رقص البريك. أما جين فهو رونين ساموراي الذي يتجول في الريف وحده. قد لا يكونون أصدقاء ، لكن مساراتهم تتقاطع باستمرار. وعندما التقوا بالنادلة فوو، وافقوا على الانضمام إليها في البحث عن \"الساموراي الذي تفوح منه رائحة عباد الشمس\".",
+    "metaDescription": "Samurai Champloo أنمي 2004 | موغن هو محارب شرس وحيواني بأسلوب قتالي مستوحى من رقص البريك | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Samurai Champloo من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/1063"
+    }
+  },
+  "tmdb_id": 1063,
+  "tmdb_url": "https://www.themoviedb.org/tv/1063",
+  "original_title": "サムライチャンプルー"
+}

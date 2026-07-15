@@ -1,0 +1,244 @@
+{
+  "slug": "flying-witch",
+  "clean_title": "Flying Witch",
+  "raw_name": "انمي Flying Witch",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/flying-witch.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4972919261771"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-10",
+          "runtime": 23,
+          "tmdb_episode_id": 1176699,
+          "tmdb_still_path": "/mJNcieWHZVsj64ArbVSLV1ZQjYT.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4972996135499"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-17",
+          "runtime": 23,
+          "tmdb_episode_id": 1195633,
+          "tmdb_still_path": "/gyIb5cY6BwORXGLz7VIP0PRoCWS.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973012585035"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-24",
+          "runtime": 23,
+          "tmdb_episode_id": 1195634,
+          "tmdb_still_path": "/orrUDaTUMT0aYLFjf2a0G7gZQ2G.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973026675275"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-01",
+          "runtime": 23,
+          "tmdb_episode_id": 1195635,
+          "tmdb_still_path": "/2XPOTA8LXcC8mqEX0oM7Neyseda.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973042600523"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-08",
+          "runtime": 23,
+          "tmdb_episode_id": 1195636,
+          "tmdb_still_path": "/yffWFMQ1QYxU7bUkSJYGBtogPm0.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973056756299"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-15",
+          "runtime": 23,
+          "tmdb_episode_id": 1195637,
+          "tmdb_still_path": "/kDUc7ROWEPxDRi2u35M5EiqHlVJ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973076023883"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-22",
+          "runtime": 23,
+          "tmdb_episode_id": 1195638,
+          "tmdb_still_path": "/tPUL1ukjSoU9Q2ffF0XLXPbBGqo.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973094505035"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-29",
+          "runtime": 23,
+          "tmdb_episode_id": 1209684,
+          "tmdb_still_path": "/4dgftPaZNYlYzHPZ12zgdGJrqnv.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973115083339"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-05",
+          "runtime": 23,
+          "tmdb_episode_id": 1209685,
+          "tmdb_still_path": "/rF8JWptlsvho0xKlu6Kt9teTZK3.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973134350923"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-12",
+          "runtime": 23,
+          "tmdb_episode_id": 1209686,
+          "tmdb_still_path": "/pIAId8ffZJkI9rluyx3c6CGzEY7.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973149817419"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-19",
+          "runtime": 23,
+          "tmdb_episode_id": 1209687,
+          "tmdb_still_path": "/1BEqdblikUekv8kdodQnOADRXzP.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4973165546059"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-26",
+          "runtime": 23,
+          "tmdb_episode_id": 1209688,
+          "tmdb_still_path": "/uNqhbWhUuGVVWWN7PTLkScE9BjY.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Flying Witch ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Flying Witch حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، شونين، شريحة من الحياة، كوميدي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/flying-witch",
+  "story": "يدور أنمي Flying Witch ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Flying Witch حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، شونين، شريحة من الحياة، كوميدي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Minami Shinoda، Eri Suzuki، Shinsuke Sugawara، Shiori Mikami، Kana Aoi، Mari Hino",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "tlS3BXTq7wQ",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Flying Witch",
+    "mainDescription": "يدور أنمي Flying Witch ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Flying Witch حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، شونين، شريحة من الحياة، كوميدي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Flying Witch أنمي 2016 | يدور أنمي Flying Witch ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Flying Witch من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/65934"
+    }
+  },
+  "tmdb_id": 65934,
+  "tmdb_url": "https://www.themoviedb.org/tv/65934",
+  "original_title": "ふらいんぐうぃっち"
+}

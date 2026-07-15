@@ -1,0 +1,304 @@
+{
+  "slug": "kakushigoto",
+  "clean_title": "Kakushigoto",
+  "raw_name": "انمي Kakushigoto",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kakushigoto.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Rym6Kx1t63pavw9E"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xz26gjna0vuh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-02",
+          "runtime": 23,
+          "tmdb_episode_id": 1983536,
+          "tmdb_still_path": "/1dUffEJCxthKuAko9A52txPtH1q.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=X26ehDYFpoQapy2R"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-takc6vpkruwc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-09",
+          "runtime": 23,
+          "tmdb_episode_id": 2195031,
+          "tmdb_still_path": "/c7atj9cUFuXe5iEdkFZ10ryz9kV.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3vgMUgXxCTusj1DQ"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-m2mn3zfswpes.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-16",
+          "runtime": 23,
+          "tmdb_episode_id": 2195032,
+          "tmdb_still_path": "/kltU3M0zJyEK9M8TcX3bFBl1xFb.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oW6pWDIDsIixW2tK"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rrleg3z6yqa1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-23",
+          "runtime": 23,
+          "tmdb_episode_id": 2195033,
+          "tmdb_still_path": "/whzhHTZV0ezHFy40FXYdkizC3ly.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=j0YWFRcgFfk6krcy"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-50emmtuylcf5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-30",
+          "runtime": 23,
+          "tmdb_episode_id": 2195035,
+          "tmdb_still_path": "/talZ9Vac9q5uqPIGVXT8k73lisW.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BkiaU8c4VfiQVkHo"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-im75kcuu7w1v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-07",
+          "runtime": 23,
+          "tmdb_episode_id": 2195036,
+          "tmdb_still_path": "/hq4LuE67j8qLkPTlBUvfxME5ttY.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Garo2SOgCRSABZn3"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-gkpxjngq0t0g.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-14",
+          "runtime": 23,
+          "tmdb_episode_id": 2195037,
+          "tmdb_still_path": "/hVp9S4aYqhjZWn8u9quVuEBntaX.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=X7Hzhj2gJRIXKszT"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ehr63vticokr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-21",
+          "runtime": 23,
+          "tmdb_episode_id": 2195038,
+          "tmdb_still_path": "/wLpsiDJ5kbEGB1Bz7clI0JYcAlt.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=J0BjkbGkx0faqKkL"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xr2rcmq3r7iz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-28",
+          "runtime": 23,
+          "tmdb_episode_id": 2195039,
+          "tmdb_still_path": "/3gW9IX45N3GBEJof7bkHiypd845.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LPhL06OqRfq9foh5"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-n6m58ycd0fve.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-04",
+          "runtime": 23,
+          "tmdb_episode_id": 2195040,
+          "tmdb_still_path": "/yHzUQZJg8A0UG6HoAL4TuTqiUUn.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tPCKQJqkSgrVF5Oy"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-9xekbiwpypjk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-11",
+          "runtime": 23,
+          "tmdb_episode_id": 2195041,
+          "tmdb_still_path": "/sM5gLSHuApofWRnEtBNW4OXST0k.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MvmD5INUo0xXNNxg"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-2g41r2vx5ml9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-18",
+          "runtime": 23,
+          "tmdb_episode_id": 2195042,
+          "tmdb_still_path": "/3QXPGkOIIpOeRj37vAdHKM94yKx.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kakushigoto ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kakushigoto تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، شريحة من الحياة، كوميدي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/kakushigoto",
+  "story": "يدور أنمي Kakushigoto ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kakushigoto تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، شريحة من الحياة، كوميدي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Hiroshi Kamiya، Rie Takahashi، Natsuki Hanae، Taku Yashiro، Kiyono Yasuno، Ayane Sakura",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "UMYulAhno9k",
+  "rating": "7.8",
+  "imdb_rating": "7.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kakushigoto",
+    "mainDescription": "يدور أنمي Kakushigoto ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kakushigoto تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، شريحة من الحياة، كوميدي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Kakushigoto أنمي 2020 | يدور أنمي Kakushigoto ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kakushigoto من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/95433"
+    }
+  },
+  "tmdb_id": 95433,
+  "tmdb_url": "https://www.themoviedb.org/tv/95433",
+  "original_title": "かくしごと"
+}

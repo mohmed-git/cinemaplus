@@ -1,0 +1,304 @@
+{
+  "slug": "babylon",
+  "clean_title": "Babylon",
+  "raw_name": "انمي Babylon",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/babylon.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/zUhtWYvLBf3I2/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/q35q-se5l3jl3l5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1895857,
+          "tmdb_still_path": "/2ZLYQzIwY3vOYNXOmc2gKyPXJj1.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/DL3Veu5AGRgS9/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzdm7611rn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1947256,
+          "tmdb_still_path": "/t3KHaTmoIzu9jYH5p6bm8wUaLww.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/CnNZWIgvt0w4B/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpd3lk1lne"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1947257,
+          "tmdb_still_path": "/qbji2JXYg3MhKEpRktFto24Xdy4.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/XtOmIcdNR7AYL/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5jgpe-8d3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1948127,
+          "tmdb_still_path": "/bTVkMxuAr8ZH8xMytVxZnzuuWR1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/apE5GPiDx2SoO/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-un3er37dj2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1948128,
+          "tmdb_still_path": "/9QP8BuKRgBTN2DbXFh4bE2SYykm.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/MiDyC6qIZa7GP/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj4ez4p3e8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1948129,
+          "tmdb_still_path": "/72BYmLM7sn919VbV0qEOVRhdAyl.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/2gainCf5kIKov/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-87pkzr54"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1948130,
+          "tmdb_still_path": "/pHMTX2ParzARa2BreKrlUxy5P9z.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/TRfHJ5eWzuZSd/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-un3eryqym-"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1948131,
+          "tmdb_still_path": "/sxh7YuSK0y2gnI4NJr8CPQVpFdY.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Djc2o45GYnM3d/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5jgp7gjr1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1948132,
+          "tmdb_still_path": "/qVozlMtQqG7gE8ibGARMHqHR64x.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/SwkUrOiq0bBty/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzdm7my5n6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1948133,
+          "tmdb_still_path": "/38gzGL6dXOcj6czDX6xKWw0Fam7.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/C4lkpgzTeu7Qw/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/q35q-se5l3rydz6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1948134,
+          "tmdb_still_path": "/kXqnnU4ET1FyvALEz54TfcoFrAb.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/X4cGboHuWUweP/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5ud03x1mm7j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1948135,
+          "tmdb_still_path": "/jeTm9BbPBqK3Krp5RQ8RClvXwYb.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "القصة تدور حول المدعي العام زين سيزاكي من مكتب الإدعاء العام في منطقة طوكيو، أثناء التحقيق في أعمال غير قانونية من قبل شركة للأدوية تتعثر سيزاكي من خلال مؤامرة حول انتخابات “المنطقة الجديدة” المستقلة الواقعة في غرب طوكيو.",
+  "url": "/anime/babylon",
+  "story": "القصة تدور حول المدعي العام زين سيزاكي من مكتب الإدعاء العام في منطقة طوكيو، أثناء التحقيق في أعمال غير قانونية من قبل شركة للأدوية تتعثر سيزاكي من خلال مؤامرة حول انتخابات “المنطقة الجديدة” المستقلة الواقعة في غرب طوكيو.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuichi Nakamura، Satsuki Yukino، Takahiro Sakurai، Kensho Ono، Mao Ichimichi، Kenyu Horiuchi",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، غموض، جريمة",
+  "trailerId": null,
+  "rating": "6.0",
+  "imdb_rating": "6.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Babylon",
+    "mainDescription": "القصة تدور حول المدعي العام زين سيزاكي من مكتب الإدعاء العام في منطقة طوكيو، أثناء التحقيق في أعمال غير قانونية من قبل شركة للأدوية تتعثر سيزاكي من خلال مؤامرة حول انتخابات “المنطقة الجديدة” المستقلة الواقعة في غرب طوكيو.",
+    "metaDescription": "Babylon أنمي 2019 | القصة تدور حول المدعي العام زين سيزاكي من مكتب الإدعاء العام في منطقة طوكيو | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Babylon من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/92599"
+    }
+  },
+  "tmdb_id": 92599,
+  "tmdb_url": "https://www.themoviedb.org/tv/92599",
+  "original_title": "バビロン"
+}

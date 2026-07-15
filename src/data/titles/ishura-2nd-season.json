@@ -1,0 +1,324 @@
+{
+  "slug": "ishura-2nd-season",
+  "clean_title": "Ishura 2nd Season",
+  "raw_name": "انمي Ishura 2nd Season",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ishura-2nd-season.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AwipzgMx7D7na9S6"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9MLRMPaSw4UwkoyP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5229017,
+          "tmdb_still_path": "/9xjKW9ZPvdgoPfpIeuOkBhBqHEA.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=94xihcDygI100IZN"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yg4Mio29bRb4CHdw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5890370,
+          "tmdb_still_path": "/ufSICGsDdQDpKfQi6iKHW7PtgCl.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2sG4vV663Daq83WO"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eNTwsNrWTcey5VD5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5900782,
+          "tmdb_still_path": "/dohGP3NV9VK2ORcmyf4XufSC3Iw.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VBBzWORdWOcHAcv1"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MRP92KOYCizURR7T"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 5900783,
+          "tmdb_still_path": "/Atv7xZubnPzVeKx3gXtelg7TVsY.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=o7dcwdmrKMcBpLCw"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VMGFqhIE1Qz060ba"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5900785,
+          "tmdb_still_path": "/e9UDgxvrlhJ9X5KMBLa4Utk1ti0.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gHRlEXZ16tzjN29n"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4Iapfn3pBODClIcs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5900787,
+          "tmdb_still_path": "/qJHtsestA14l5jwG8jAhOvLq1Ci.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5ZFCuWWU3sROQjjG"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FwkLBhHrSeAFw7wZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5975731,
+          "tmdb_still_path": "/rDlJrvDZShkIlRPQ6oGQWRxvV8r.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=D9DVRtm6nIMcgdLe"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7M3V6tYhWNYpQmxE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 5992869,
+          "tmdb_still_path": "/oYklZ3zMdL15iKjRlTDoeVBEKfO.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=F8cxohDJF9fMzidm"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BkMmp1vzWPTMDu1e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 6007429,
+          "tmdb_still_path": "/9i0DctIBpgMK3KQluBWKBEXfzbV.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Oaq8DwoyOtBPUIF5"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=myyIoBAO3orWwJnG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 6029439,
+          "tmdb_still_path": "/tMSTwHtcOznV6zxAImgTB6uwAKs.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ElxMXvtoIjWh8cZY"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=U7VJQLbkxzZim6r8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 6029440,
+          "tmdb_still_path": "/ds1tHmBhufV65O3vgAoFtADmeWL.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4vpN8KuOiL9140em"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3xuIkDcEdL6JM0AE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 6029441,
+          "tmdb_still_path": "/p4F4nqLRb8r0Wn5dJV3TMtj1OLP.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Ishura 2nd Season ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Ishura 2nd Season حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/ishura-2nd-season",
+  "story": "يدور أنمي Ishura 2nd Season ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Ishura 2nd Season حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": null,
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "HMHTEIWo5zs",
+  "rating": "6.7",
+  "imdb_rating": "6.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ishura 2nd Season",
+    "mainDescription": "يدور أنمي Ishura 2nd Season ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Ishura 2nd Season حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Ishura 2nd Season أنمي 2024 | يدور أنمي Ishura 2nd Season ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ishura 2nd Season من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/220286"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "ishura",
+      "title": "Ishura",
+      "url": "/anime/ishura",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/ishura.jpg"
+    },
+    {
+      "slug": "ishura-2nd-season",
+      "title": "Ishura 2nd Season",
+      "url": "/anime/ishura-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/ishura-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 220286,
+  "tmdb_url": "https://www.themoviedb.org/tv/220286",
+  "original_title": "異修羅"
+}

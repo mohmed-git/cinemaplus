@@ -1,0 +1,731 @@
+{
+  "slug": "fruits-basket-1st-season",
+  "clean_title": "Fruits Basket 1st Season",
+  "raw_name": "انمي Fruits Basket 1st Season",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/fruits-basket-1st-season.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/vMcNwVlKYTJQP/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/vMcNwVlKYTJQP/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b81466rym1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1677072,
+          "tmdb_still_path": "/r7kYBL0xLxAvmuzf2Jp4fdQl0Ro.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/nfws1vA3F2mlD/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/nfws1vA3F2mlD/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp1yxe8xe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1732592,
+          "tmdb_still_path": "/f2S6aobf1QiEY5kA02QA4V2u9fv.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/69mLrUlCXM31H/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/69mLrUlCXM31H/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-ternjem6w0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1732593,
+          "tmdb_still_path": "/9gRzuJYN66ZG1CiynpHa96tTVxo.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/B8mtH4i0dMuzC/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/B8mtH4i0dMuzC/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj4762nqj3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1732594,
+          "tmdb_still_path": "/9Wm5gBW2WB97YejBU0Ojo11TL74.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/YIpfNlRuDV4zO/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/YIpfNlRuDV4zO/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp1yqmlrw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1732595,
+          "tmdb_still_path": "/bnhHvHeoelzIhl9tyPwNzrTJDUs.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/5iKvGMDceWSAH/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/5iKvGMDceWSAH/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpd8wjxe4p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1732596,
+          "tmdb_still_path": "/7Cp7UnSkbTzseTqeHaTmdcJancR.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/KuPVzm9r2A4JG/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/KuPVzm9r2A4JG/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpd8wjp7ye"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1732597,
+          "tmdb_still_path": "/uSUqp5c11Cs5xjlIFU8RxgH9A3F.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Zlrh6wjXxM9eE/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Zlrh6wjXxM9eE/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp1ywymxr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1732598,
+          "tmdb_still_path": "/bI1HSBRIpdLlWnIEzlrArsiMkob.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Rk85pvy6KnSDY/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Rk85pvy6KnSDY/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-7m0mqpk0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1732599,
+          "tmdb_still_path": "/l3xQtczmpBGOSruM4ptDKyvBZRh.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/eaw120LKboTBC/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/eaw120LKboTBC/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-un3y8xq5l4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1732600,
+          "tmdb_still_path": "/drSXhdvvmold6CY3FZgpcdTRHBm.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/j4qh9pgCdOTnV/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/j4qh9pgCdOTnV/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh32xzd8e25"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1732601,
+          "tmdb_still_path": "/77iCdjH8oVE4ly65OXc2YC31uMJ.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/iljygsGxfAeRC/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/iljygsGxfAeRC/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-854j2j30"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1732602,
+          "tmdb_still_path": "/Xdy78APHQYIRw2XSypod8MQPPq.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/WbhvUFmEGgyAX/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/WbhvUFmEGgyAX/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8tex86rnlrp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1839024,
+          "tmdb_still_path": "/tHiuZFeZQCE9YVDAN5gndOhLrrM.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/h7eJ0EGtOAwYk/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/h7eJ0EGtOAwYk/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/dz0egtxkzqym83l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1839025,
+          "tmdb_still_path": "/bNNncGFO8Vv7iPAU3GbqCyJZlGU.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/fdzsXCuyeHpYc/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/fdzsXCuyeHpYc/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh24n6kwzrr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1839026,
+          "tmdb_still_path": "/lQjfSOjt6uKj50nz1vnAQmtgbsQ.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/6rV94Ht80hJjg/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/6rV94Ht80hJjg/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/dz0egtxkzq03nkz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1839027,
+          "tmdb_still_path": "/iTR3xIFGfrXQg2YmMrX4yNyqlwy.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/bXZz4LIkr0sug/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/bXZz4LIkr0sug/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b814zek50m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1839028,
+          "tmdb_still_path": "/rxnCtjTmJ0TYFk36w7k6DM97TWS.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/oZmkQKF4qtjnE/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/oZmkQKF4qtjnE/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/3pdkxim7160pdzd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1839029,
+          "tmdb_still_path": "/A5nJCdnNPOWEBmIPSZPoIxkZNAK.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Pkw42hrZgF1eE/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Pkw42hrZgF1eE/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-7mqykxj3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1839089,
+          "tmdb_still_path": "/qCxcxHj3zF5qg4bvoXZpOBncicp.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/nNM81LxvYpJm2/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/nNM81LxvYpJm2/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpd82rl67r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1839090,
+          "tmdb_still_path": "/bUqQOqXrXMKytVA11E4qoXc7mQM.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/ueXAEIxyHGsVR/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/ueXAEIxyHGsVR/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-7mqrg-nr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1839091,
+          "tmdb_still_path": "/krlvkrmlFKOQFO7g3Xa11ZDOyTF.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/dDy95bj1vIzYt/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/dDy95bj1vIzYt/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmq64dr8ly"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1839092,
+          "tmdb_still_path": "/knYxbLGVDE6k1hN45ZEGuGP9car.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/0oupEGFkzAHlv/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/0oupEGFkzAHlv/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj47ndwn4g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1839093,
+          "tmdb_still_path": "/AvH8eGXLhCr4SfqcS1AyregvSTI.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/itxW8gIqnfZ3P/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/itxW8gIqnfZ3P/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-ternp3-exg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1839094,
+          "tmdb_still_path": "/6uWTSg6S5a3x76wKjv8tMOKBWx7.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/jqV0NhDYaKdnX/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/jqV0NhDYaKdnX/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-un3y7655j8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1928879,
+          "tmdb_still_path": "/aNgp8YOxSOl0xdbtn24ndklupsS.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Fruits Basket 1st Season ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 3 موسم و63 حلقة. يدور أنمي Fruits Basket 1st Season حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء كوميدي، دراما، رومانسي، شوجو، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/fruits-basket-1st-season",
+  "story": "يدور أنمي Fruits Basket 1st Season ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 3 موسم و63 حلقة. يدور أنمي Fruits Basket 1st Season حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء كوميدي، دراما، رومانسي، شوجو، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Manaka Iwami، Nobunaga Shimazaki، Yuma Uchida، Yuichi Nakamura، Rie Kugimiya، Megumi Han",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "Wz0P0mYYY0Q",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Fruits Basket 1st Season",
+    "mainDescription": "يدور أنمي Fruits Basket 1st Season ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 3 موسم و63 حلقة. يدور أنمي Fruits Basket 1st Season حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء كوميدي، دراما، رومانسي، شوجو، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Fruits Basket 1st Season أنمي 2019 | يدور أنمي Fruits Basket 1st Season ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Fruits Basket 1st Season من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/85991"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "fruits-basket-1st-season",
+      "title": "Fruits Basket 1st Season",
+      "url": "/anime/fruits-basket-1st-season",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 25,
+      "poster": "/images/anime/fruits-basket-1st-season.jpg"
+    },
+    {
+      "slug": "fruits-basket-the-final",
+      "title": "Fruits Basket: The Final",
+      "url": "/anime/fruits-basket-the-final",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/fruits-basket-the-final.jpg"
+    },
+    {
+      "slug": "fruits-basket-2nd-season",
+      "title": "Fruits Basket 2nd Season",
+      "url": "/anime/fruits-basket-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 25,
+      "poster": "/images/anime/fruits-basket-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 85991,
+  "tmdb_url": "https://www.themoviedb.org/tv/85991",
+  "original_title": "フルーツバスケット"
+}

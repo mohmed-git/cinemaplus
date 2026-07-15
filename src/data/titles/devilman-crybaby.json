@@ -1,0 +1,212 @@
+{
+  "slug": "devilman-crybaby",
+  "clean_title": "Devilman: Crybaby",
+  "raw_name": "انمي Devilman: Crybaby",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/devilman-crybaby.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dayjr5u2gbms"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 26,
+          "tmdb_episode_id": 1395753,
+          "tmdb_still_path": "/o2Htd8Vv3cHYOv5UiqDA5DwidHa.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ivf3uvfeflrv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1415479,
+          "tmdb_still_path": "/waPMynmWdIZEeA7m24C9AteZlyM.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jd808qdj32vq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1415487,
+          "tmdb_still_path": "/565bwQB9HUYsTsak3cgH8tpgE6Y.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4p982lkdx0pq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1415480,
+          "tmdb_still_path": "/q7zsi0TYPLomrsUbnzdOOBaXW4R.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mldarhgc097o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1415484,
+          "tmdb_still_path": "/qQ8K6ayudYXLGCqnHzHFhalppVZ.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/yusgqdgv9nrm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1415481,
+          "tmdb_still_path": "/a4VCCPs9ldAtKUMBCWulVoSK72l.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0mo85kbmmzd4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1415485,
+          "tmdb_still_path": "/hfyRQEzMLRjHMuFSSNoqluXt77p.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/038doqezbxu2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1415482,
+          "tmdb_still_path": "/6kiF7dcCGniq99Nlb3aqSTeJhxD.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9uqhfb2rwfy7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 28,
+          "tmdb_episode_id": 1415483,
+          "tmdb_still_path": "/aZ9MDXuUAvKkkOKrgArRuuq7Ncg.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cwmvlb2xb17l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1415486,
+          "tmdb_still_path": "/vkuvHjPelJegMv22AeNT2npB5qC.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Devilman: Crybaby ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. في أنمي Devilman: Crybaby تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات رعب، خارق للطبيعة، أكشن العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/devilman-crybaby",
+  "story": "يدور أنمي Devilman: Crybaby ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. في أنمي Devilman: Crybaby تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات رعب، خارق للطبيعة، أكشن العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Go Nagai",
+  "stars": "Koki Uchiyama، Ayumu Murase، Megumi Han، Ami Koshimizu، KEN THE 390، Subaru Kimura",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "ww06yGPM7Kc",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Devilman: Crybaby",
+    "mainDescription": "يدور أنمي Devilman: Crybaby ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. في أنمي Devilman: Crybaby تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات رعب، خارق للطبيعة، أكشن العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Devilman: Crybaby أنمي 2018 | يدور أنمي Devilman: Crybaby ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Devilman: Crybaby من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/75208"
+    }
+  },
+  "tmdb_id": 75208,
+  "tmdb_url": "https://www.themoviedb.org/tv/75208",
+  "original_title": "DEVILMAN crybaby"
+}

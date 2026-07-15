@@ -1,0 +1,436 @@
+{
+  "slug": "akame-ga-kill",
+  "clean_title": "Akame ga Kill!",
+  "raw_name": "انمي Akame ga Kill!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/akame-ga-kill.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/wrqwntnd34znwjn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1004671,
+          "tmdb_still_path": "/IqFfcllc7Jsu3IoABjA8Mo0qq3.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/q3lznte85q8261l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1005009,
+          "tmdb_still_path": "/4UYsbmh0qIsBaj6YfKhQNOkopKj.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/g5kl1f-e8kpzjy8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1005011,
+          "tmdb_still_path": "/s65sBWCcqB0lVvBoT6wObwvruWD.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/2r3d2t236x0y7l1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1005012,
+          "tmdb_still_path": "/sQWCVqKkhpK2gik8e2XhqFPh9Mx.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-4r86hpyded4rgn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1005017,
+          "tmdb_still_path": "/oPeza1oYMcUVV8hwNF94XfFKUwN.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/2r3d2t236xxgrpl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1005018,
+          "tmdb_still_path": "/c7rkSCCKyBx8u7tilb7gM4yjjv6.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/2r3d2t236xx0mr5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1005019,
+          "tmdb_still_path": "/AKdeCcOz6ZD5F0tDEulTPMlFKu.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-4r86hpyde8gx00"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1005020,
+          "tmdb_still_path": "/ul4hedz67Z9gKboSB1mpP5M2LJC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/zkqdpuj14yzn75z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1005620,
+          "tmdb_still_path": "/pOWYgJPsI8e3vOu3748QcGT7UI7.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/xpq3xb5kjl012rm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1005621,
+          "tmdb_still_path": "/Aj1qnyHBRUryTlZdFsD6E7uIfCl.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/4261nuzndr01ey4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1005622,
+          "tmdb_still_path": "/uSpslsenk5vzhHUXQGDyTd3rQS.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/10z6rtjk470zy0w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1005623,
+          "tmdb_still_path": "/20UDBkHAdLmMJAdJbe0eRIvS5wq.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/mgl6za56wgyx34q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1010177,
+          "tmdb_still_path": "/uB283N1E07xLxSYvXsh1jGaAzEy.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/3p4r1bm371kp20x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1010178,
+          "tmdb_still_path": "/j93rBAIUyHek7rcao0MVCFEgmV5.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/kxlw4f352xljdqq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1019684,
+          "tmdb_still_path": "/xmva2YjhYdHvkNB67jOutVH0S4k.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/7m0lwcgzp12wj--"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1019685,
+          "tmdb_still_path": "/tXhA7LzxpleRghledn05DUw8ZcW.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/4261nuzndqg5wg3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1019686,
+          "tmdb_still_path": "/3UZFMhDHBGH8BmUVejWrTTFNnnS.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/y1q6ruenx8-k40q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1019687,
+          "tmdb_still_path": "/ApqeZUbVVtlb6LRaaXGDrL2rfZ6.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/5k7znude0l7j5zq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1019688,
+          "tmdb_still_path": "/m1KP3PmYzoFPMm5pZGLHwo5yCeI.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/3p4r1bm371wy75z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1019689,
+          "tmdb_still_path": "/j6r3fmcGMU6snqh2TNOyOt5sBgu.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/wrqwntnd3e6m6wj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1019690,
+          "tmdb_still_path": "/4ZqkCh9gRAfQDY4psr6vEmpleKe.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/y1q6ruenx86jlrp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1019780,
+          "tmdb_still_path": "/acSjEIBZawfcamRhIxVbHJb8XUr.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/10z6rtjk47-582j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1022179,
+          "tmdb_still_path": "/dOM1SYcI8GT732VQJkw5B3Zsi5L.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/8qrylt8y14mwlez"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1026844,
+          "tmdb_still_path": "/3wI49NRQB3P8PvGmvuXjjrhuAAm.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تتحَدث القِصة عن المُقـاتل [ تاتسومي ] الذي سـافر للعـاصمة لـأجل جمع المال من أجل مساعدة قريتِه الفقيرة . عند وصوله للعاصمة يتعرض للسرقة ويخسر كل ماله ، عندهـا تساعده فتاة من عائِلة نبيلة وتسمح له بالبقاء في منزلها . يتعرض منزل الفتاة للهجوم من قِبل قتلة يسمون أنفسهم [ الغارة الليلية ] ومن هنـا تبدأ أحدآث القِصـة .",
+  "url": "/anime/akame-ga-kill",
+  "story": "تتحَدث القِصة عن المُقـاتل [ تاتسومي ] الذي سـافر للعـاصمة لـأجل جمع المال من أجل مساعدة قريتِه الفقيرة . عند وصوله للعاصمة يتعرض للسرقة ويخسر كل ماله ، عندهـا تساعده فتاة من عائِلة نبيلة وتسمح له بالبقاء في منزلها . يتعرض منزل الفتاة للهجوم من قِبل قتلة يسمون أنفسهم [ الغارة الليلية ] ومن هنـا تبدأ أحدآث القِصـة .",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Soma Saito، Sora Amamiya، Yukari Tamura، Yuu Asakawa، Anri Katsu، Ayaka Ohashi",
+  "genre": "أنمي، رسوم متحركة، دراما، حركة ومغامرة",
+  "trailerId": "sCGWxQuSoDU",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Akame ga Kill!",
+    "mainDescription": "تتحَدث القِصة عن المُقـاتل [ تاتسومي ] الذي سـافر للعـاصمة لـأجل جمع المال من أجل مساعدة قريتِه الفقيرة . عند وصوله للعاصمة يتعرض للسرقة ويخسر كل ماله ، عندهـا تساعده فتاة من عائِلة نبيلة وتسمح له بالبقاء في منزلها . يتعرض منزل الفتاة للهجوم من قِبل قتلة يسمون أنفسهم [ الغارة الليلية ] ومن هنـا تبدأ أحدآث القِصـة .",
+    "metaDescription": "Akame ga Kill! أنمي 2014 | تتحَدث القِصة عن المُقـاتل [ تاتسومي ] الذي سـافر للعـاصمة لـأجل جمع المال من أجل مساعدة قريتِه الفقيرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Akame ga Kill! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61223"
+    }
+  },
+  "tmdb_id": 61223,
+  "tmdb_url": "https://www.themoviedb.org/tv/61223",
+  "original_title": "アカメが斬る！"
+}

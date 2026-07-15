@@ -1,0 +1,260 @@
+{
+  "slug": "gintama-porori-hen",
+  "clean_title": "Gintama.: Porori-hen",
+  "raw_name": "انمي Gintama.: Porori-hen",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/gintama-porori-hen.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "يا شباب!! هل لديكم جينتاما أصلاً؟! (1)",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538314459723"
+            }
+          ],
+          "overview": "يتلقى جينتوكي وشينباتشي وكاجورا طلبًا من رجل يريد منهم أن يجعله أقوى.",
+          "air_date": "2006-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 940325,
+          "tmdb_still_path": "/y5pEdY5ywTf0wgYw3S2ddRVgxoW.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "يا شباب!! هل لديكم جينتاما أصلاً؟! (2)",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538319440459"
+            }
+          ],
+          "overview": "تذهب مجموعة جينتوكي لاستعادة منزل لرجل تم الاحتيال عليه.",
+          "air_date": "2006-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 940324,
+          "tmdb_still_path": "/bR53sRiY6R7FzPwROAQE4gqRrX1.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "لا يمكن لأحد ذو الشعر المموج بشكل طبيعي أن يكون سيئًا إلى هذه الدرجة!",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538327435851"
+            }
+          ],
+          "overview": "يلتقي ساكاتا جينتوكي بشيمورا شينباتشي. وينقذان شقيقة شينباتشي الكبرى من نادٍ ترفيهي.",
+          "air_date": "2006-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 940277,
+          "tmdb_still_path": "/jqCVkj1CpL1TL2MHGgsX21oaTyO.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538334317131"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 940278,
+          "tmdb_still_path": "/gOqkarhmFfHA2hBXJU59Slcc9HE.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538346375755"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 940279,
+          "tmdb_still_path": "/qaIGUEnFJZIJ2WbFPx1pmxQF4NG.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538356664907"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 940280,
+          "tmdb_still_path": "/9mTV6RyZiqe3auH11b6EgGHjB4Q.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538366102091"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 940281,
+          "tmdb_still_path": "/m7Ka4IbmtWM9DfSitR6tJLA3HN0.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538374425163"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 940282,
+          "tmdb_still_path": "/pEiMPxUJxPnBpFzVRNN2emO7XOr.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538382289483"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 940283,
+          "tmdb_still_path": "/oMvc4K1LFRdGlZss4skd0chiRUZ.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538412960331"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 940284,
+          "tmdb_still_path": "/ApzluOGUxYmzP0lohqeVgoMEvvD.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538428426827"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 940285,
+          "tmdb_still_path": "/jYbW0hC08KtfqomRiVSwVh9lpkw.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538439699019"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 940286,
+          "tmdb_still_path": "/oaKLAjNhVIIp3nBBnVeLQV0E0L5.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4538448939595"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 940287,
+          "tmdb_still_path": "/5hbenFqqclMhGiYQBbeHNmJO91J.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تجري احداث هذه القصة في ايدو المعروفة حاليا بطوكيو عندما تحتل مجموعة من  الفضائين يعرفون بالامانتو  الأرض في نهاية عصر الايدو  ويحاول  الساموراي التصدي لهم لكنهم يفشلون بذلك، فيصدرون الامانتو قانون يمنع  الساموراي من حمل سيوفهم في الأماكن العامة. القصة تركز على ساموراي رصاصي  (فضي) الشعر يدعى ساكاتا جينتوكي مساعديه شينباتشي والفتاة الفضائية كاجورا  الذين يقومون باعمال حرة لكسب المال لتسديد ايجار منزلهم ولكن ينتهي بهم  الأمر دائما إلى عدم كسب أي شيء.",
+  "url": "/anime/gintama-porori-hen",
+  "story": "تجري احداث هذه القصة في ايدو المعروفة حاليا بطوكيو عندما تحتل مجموعة من  الفضائين يعرفون بالامانتو  الأرض في نهاية عصر الايدو  ويحاول  الساموراي التصدي لهم لكنهم يفشلون بذلك، فيصدرون الامانتو قانون يمنع  الساموراي من حمل سيوفهم في الأماكن العامة. القصة تركز على ساموراي رصاصي  (فضي) الشعر يدعى ساكاتا جينتوكي مساعديه شينباتشي والفتاة الفضائية كاجورا  الذين يقومون باعمال حرة لكسب المال لتسديد ايجار منزلهم ولكن ينتهي بهم  الأمر دائما إلى عدم كسب أي شيء.",
+  "year": "2006",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tomokazu Sugita، Rie Kugimiya، Daisuke Sakaguchi، Akira Ishida، Fumihiko Tachiki، Kazuya Nakai",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "5IFAvOQIGsg",
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Gintama.: Porori-hen",
+    "mainDescription": "تجري احداث هذه القصة في ايدو المعروفة حاليا بطوكيو عندما تحتل مجموعة من  الفضائين يعرفون بالامانتو  الأرض في نهاية عصر الايدو  ويحاول  الساموراي التصدي لهم لكنهم يفشلون بذلك، فيصدرون الامانتو قانون يمنع  الساموراي من حمل سيوفهم في الأماكن العامة. القصة تركز على ساموراي رصاصي  (فضي) الشعر يدعى ساكاتا جينتوكي مساعديه شينباتشي والفتاة الفضائية كاجورا  الذين يقومون باعمال حرة لكسب المال لتسديد ايجار منزلهم ولكن ينتهي بهم  الأمر دائما إلى عدم كسب أي شيء.",
+    "metaDescription": "Gintama.: Porori-hen أنمي 2006 | تجري احداث هذه القصة في ايدو المعروفة حاليا بطوكيو عندما تحتل مجموعة من الفضائين يعرفون بالامانتو الأرض في نهاية عصر…",
+    "highlights": "تم تحديث بيانات Gintama.: Porori-hen من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/57041"
+    }
+  },
+  "tmdb_id": 57041,
+  "tmdb_url": "https://www.themoviedb.org/tv/57041",
+  "original_title": "銀魂"
+}

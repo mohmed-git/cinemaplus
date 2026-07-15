@@ -1,0 +1,38 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../lib/site';
+
+const title = 'شروط الاستخدام';
+const description = `شروط استخدام ${SITE.name}: إرشادات التصفح، حدود المسؤولية، وطريقة التعامل مع روابط المشاهدة الخارجية.`;
+---
+
+<Base title={title} description={description} section="home">
+  <section class="container-app py-16 md:py-24">
+    <article class="glass-panel mx-auto max-w-4xl p-6 leading-8 text-gray-300 md:p-10">
+      <p class="mb-3 text-sm font-semibold text-brand-300">صفحة قانونية</p>
+      <h1 class="font-display text-3xl font-extrabold text-white md:text-4xl">شروط الاستخدام</h1>
+      <p class="mt-5 text-gray-400">
+        باستخدامك لموقع {SITE.name} فأنت توافق على هذه الشروط العامة. هدف الصفحة توضيح طبيعة الخدمة وحدود المسؤولية بطريقة مباشرة وشفافة.
+      </p>
+
+      <div class="mt-8 space-y-7">
+        <section>
+          <h2 class="text-xl font-bold text-white">طبيعة الخدمة</h2>
+          <p class="mt-2">{SITE.name} منصة فهرسة وتنظيم لمعلومات الأفلام والمسلسلات والأنمي وروابط مشاهدة خارجية. لا نستضيف ملفات الفيديو على خوادمنا، وقد تتغير جودة أو توفر الروابط وفقاً للمصدر الخارجي.</p>
+        </section>
+        <section>
+          <h2 class="text-xl font-bold text-white">الاستخدام المقبول</h2>
+          <p class="mt-2">يُمنع استخدام الموقع في أي نشاط يضر بالخدمة أو بالمستخدمين، مثل محاولات الاختراق، إغراق الطلبات، نسخ البيانات آلياً بشكل مكثف، أو إعادة نشر المحتوى بطريقة مخالفة للقوانين المحلية.</p>
+        </section>
+        <section>
+          <h2 class="text-xl font-bold text-white">الروابط الخارجية</h2>
+          <p class="mt-2">قد تحتوي صفحات المشاهدة على روابط أو مشغلات تابعة لأطراف ثالثة. لسنا مسؤولين عن محتوى أو سياسات هذه الأطراف، وننصح المستخدم بمراجعة الروابط بحذر.</p>
+        </section>
+        <section>
+          <h2 class="text-xl font-bold text-white">تعديلات الشروط</h2>
+          <p class="mt-2">قد يتم تحديث هذه الشروط عند الحاجة لتحسين الشفافية أو الامتثال. استمرار استخدام الموقع بعد التحديث يعني قبول النسخة الأحدث.</p>
+        </section>
+      </div>
+    </article>
+  </section>
+</Base>

@@ -1,0 +1,244 @@
+{
+  "slug": "majo-no-tabitabi",
+  "clean_title": "Majo no Tabitabi",
+  "raw_name": "انمي Majo no Tabitabi",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/majo-no-tabitabi.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الساحرة المتدربة إيلاينا",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ojx8wLmNOHAL4921"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1957891,
+          "tmdb_still_path": "/sZwM0KBJ6EPGULosCn483QpCD8H.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "أرض الساحرات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DWJDdu13txrMp7iR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-09",
+          "runtime": 23,
+          "tmdb_episode_id": 2447985,
+          "tmdb_still_path": "/z4hnEG3eka7c5OyHR4RZd4ULvj8.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الفتاة الجميلة كجمال الزهرة / قارورة السعادة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YfLjECBSXfN4Iuz8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-16",
+          "runtime": 23,
+          "tmdb_episode_id": 2447987,
+          "tmdb_still_path": "/zodIkyw3VErK2s0MT05xr1rm7pF.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UM3ob5b1dnquVkgy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2447988,
+          "tmdb_still_path": "/a8f483QLMzuwev22WGrNJbev1Fb.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NdNGEUn55rE6Sak1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-30",
+          "runtime": 23,
+          "tmdb_episode_id": 2447990,
+          "tmdb_still_path": "/svJ5p9RunRVxS5BSRYYUdbVTzq1.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CTbemFg2NNZFWfxa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-06",
+          "runtime": 23,
+          "tmdb_episode_id": 2447991,
+          "tmdb_still_path": "/8DHiT4cTaUdopvSGyWrSItkvPIV.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الجدار المنقوش من الرحالة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rs5bF4ulSVMKgxCf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2447993,
+          "tmdb_still_path": "/ApqWPaM3Rjnz4eEUslrPuUldQvt.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tRaIvoD6L4hsiw6U"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-20",
+          "runtime": 23,
+          "tmdb_episode_id": 2447994,
+          "tmdb_still_path": "/rICmf393RDnYOh8kVLjOe6npYVk.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4VX5Uj89WC8ObZZT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-27",
+          "runtime": 23,
+          "tmdb_episode_id": 2447996,
+          "tmdb_still_path": "/oJ5VYSoziiXHLsMQnXZAHhiTCBy.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kwFxZ0AWAET9j5SY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2447997,
+          "tmdb_still_path": "/jq0ftB5c5EBwylVAsQSgJAFsg2h.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=626sCxANehAk3BwJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2447998,
+          "tmdb_still_path": "/f73YEkJaY7xm2lvraxqYah5EPnS.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=S5eGB7VDEhFASIFF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2448000,
+          "tmdb_still_path": "/8L8umxAHgIKQsetN2nnl6CB4NAG.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "بطلة القصة هي إيلاينا، الساحرة الصغيرة التي تنطلق في رحلة تجوب بها العالم، وتقابل الناس من مختلف الأطياف، فتارة تجد نفسها في دولة مليئة بالساحرات، وأخرى ترى فيها عمالقة مغرمين بعضلاتهم، ويكون لـ إيلاينا دور صغير في حكاياتهم، في الوقت الذي يتسع فيه عالمها.",
+  "url": "/anime/majo-no-tabitabi",
+  "story": "بطلة القصة هي إيلاينا، الساحرة الصغيرة التي تنطلق في رحلة تجوب بها العالم، وتقابل الناس من مختلف الأطياف، فتارة تجد نفسها في دولة مليئة بالساحرات، وأخرى ترى فيها عمالقة مغرمين بعضلاتهم، ويكون لـ إيلاينا دور صغير في حكاياتهم، في الوقت الذي يتسع فيه عالمها.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kaede Hondo، Kana Hanazawa، Tomoyo Kurosawa، Miho Okasaki، Konomi Kohara، Yoko Hikasa",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، كوميديا",
+  "trailerId": "4c-3EfP68R4",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Majo no Tabitabi",
+    "mainDescription": "بطلة القصة هي إيلاينا، الساحرة الصغيرة التي تنطلق في رحلة تجوب بها العالم، وتقابل الناس من مختلف الأطياف، فتارة تجد نفسها في دولة مليئة بالساحرات، وأخرى ترى فيها عمالقة مغرمين بعضلاتهم، ويكون لـ إيلاينا دور صغير في حكاياتهم، في الوقت الذي يتسع فيه عالمها.",
+    "metaDescription": "Majo no Tabitabi أنمي 2020 | بطلة القصة هي إيلاينا | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Majo no Tabitabi من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/94693"
+    }
+  },
+  "tmdb_id": 94693,
+  "tmdb_url": "https://www.themoviedb.org/tv/94693",
+  "original_title": "魔女の旅々"
+}

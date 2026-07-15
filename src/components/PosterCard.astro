@@ -1,0 +1,88 @@
+---
+import type { TitleIndexEntry } from '../lib/types';
+
+interface Props {
+  entry: TitleIndexEntry;
+  priority?: boolean;
+  size?: 'default' | 'large';
+}
+
+const { entry, priority = false } = Astro.props;
+const hasPoster = !!entry.poster;
+const rating = Number((entry as any).rating) || 0;
+// Hide the TMDB badge for low-vote works (< 30 votes) so an obscure title's
+// 1-vote "10/10" never appears as a fabricated-looking score. When the votes
+// field is absent (older index entries), keep the badge to avoid regressions.
+const ratingVotes = (entry as any).votes;
+const showRating = rating > 0 && (ratingVotes === undefined || Number(ratingVotes) >= 30);
+
+const qualityFromHash = (() => {
+  let h = 0;
+  for (let i = 0; i < entry.slug.length; i++) h = (h * 17 + entry.slug.charCodeAt(i)) >>> 0;
+  return (h % 5 === 0) ? '4K' : 'HD';
+})();
+---
+
+<a href={entry.url} class="group poster-card animate-fade-in block aspect-[2/3] w-full" aria-label={`${entry.category_label}: ${entry.clean_title}`}>
+  <div class="relative h-full w-full overflow-hidden">
+    {hasPoster ? (
+      <img
+        src={entry.poster!}
+        alt={entry.clean_title}
+        loading={priority ? 'eager' : 'lazy'}
+        decoding="async"
+        referrerpolicy="no-referrer"
+        class="h-full w-full object-cover transition-transform duration-700 ease-out"
+      />
+    ) : (
+      <div class="flex h-full w-full items-center justify-center bg-gradient-to-br from-surface-3 to-surface-5 text-center text-sm text-gray-400">
+        <div class="flex flex-col items-center gap-3 p-4">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="h-12 w-12 opacity-40">
+            <path d="M15.6 11.6L22 7v10l-6.4-4.5v-1zM2 5a2 2 0 012-2h12a2 2 0 012 2v14a2 2 0 01-2 2H4a2 2 0 01-2-2V5z"/>
+          </svg>
+          <span class="line-clamp-2 text-xs px-2">{entry.clean_title}</span>
+        </div>
+      </div>
+    )}
+
+    <!-- الشارات العلوية -->
+    <div class="absolute top-0 right-0 left-0 flex items-start justify-between p-2 z-10">
+      <span class="badge-category">{entry.category_label}</span>
+      <span class="badge-hd">{qualityFromHash}</span>
+    </div>
+
+    <!-- تقييم TMDB (مصدر مرئي حتى لا يُعتبر نصاً مخادعاً) -->
+    {showRating && (
+      <div class="absolute bottom-[4.2rem] right-2 z-10 flex items-center gap-1 rounded-md bg-black/70 px-1.5 py-0.5 text-[10px] font-bold text-amber-300 backdrop-blur-sm" title="التقييم من TMDB">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3 w-3"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+        {rating.toFixed(1)}
+        <span class="text-[8px] font-semibold text-gray-300/80">TMDB</span>
+      </div>
+    )}
+
+    <!-- تدرج سفلي -->
+    <div class="absolute inset-0 bg-gradient-to-t from-surface-0 via-surface-0/40 to-transparent opacity-90 transition-opacity duration-500 group-hover:opacity-95"></div>
+
+    <!-- زر التشغيل عند المرور -->
+    <div class="absolute inset-0 flex items-center justify-center opacity-0 transition-all duration-500 group-hover:opacity-100">
+      <div class="flex h-16 w-16 items-center justify-center rounded-full text-[#04070a] scale-75 group-hover:scale-100 transition-transform duration-500" style="background: var(--gradient-primary); box-shadow: var(--glow);">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-7 w-7 mr-[-2px]">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+      </div>
+    </div>
+
+    <!-- معلومات سفلية -->
+    <div class="absolute inset-x-0 bottom-0 p-3 z-10">
+      <h3 class="line-clamp-2 text-[13px] sm:text-sm font-bold text-white drop-shadow-lg leading-tight">{entry.clean_title}</h3>
+      <div class="mt-1.5 flex items-center gap-1.5 text-[10px] sm:text-[11px] text-gray-300/90">
+        <span class="flex items-center gap-1">
+          <span class="h-1 w-1 rounded-full" style="background: var(--brand-400);"></span>
+          {entry.category_label}
+        </span>
+        {entry.year && (<><span class="text-gray-500">·</span><span>{entry.year}</span></>)}
+        {entry.episodes_count > 1 && (<><span class="text-gray-500">·</span><span>{entry.episodes_count} حلقة</span></>)}
+      </div>
+    </div>
+  </div>
+</a>

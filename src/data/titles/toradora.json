@@ -1,0 +1,702 @@
+{
+  "slug": "toradora",
+  "clean_title": "Toradora!",
+  "raw_name": "انمي Toradora!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/toradora.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/AQU3GoWHtJv8S/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/AQU3GoWHtJv8S/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adzqd21jrn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-02",
+          "runtime": 24,
+          "tmdb_episode_id": 883614,
+          "tmdb_still_path": "/iFN4nTalN1pNvls0oOncUdSAMvq.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/gdyl1jNYt7V50/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/gdyl1jNYt7V50/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5w4jqn4j7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-09",
+          "runtime": 24,
+          "tmdb_episode_id": 883615,
+          "tmdb_still_path": "/qQT9ghmi9UgVIWM6MG5E65WL89g.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/3skb9q1HxZz7e/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/3skb9q1HxZz7e/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5w4jdrq1e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-16",
+          "runtime": 24,
+          "tmdb_episode_id": 883617,
+          "tmdb_still_path": "/yUHFQpPrSVQgB6d9CnNeq6DJXbf.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/JYAH86FnZO17v/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/JYAH86FnZO17v/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5ud0nm1kd14"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 883616,
+          "tmdb_still_path": "/gdoaYuezn30Rkv2Vx5lRiIfZZze.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/pGJBm6jg8ZClI/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/pGJBm6jg8ZClI/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh24r0wqzqm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 883618,
+          "tmdb_still_path": "/uRIkfp4h6ExCq34K5IkxHGjC3lS.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/oULh1b7kqr4y9/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/oULh1b7kqr4y9/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmq4pj-xqq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 883620,
+          "tmdb_still_path": "/sHoBFxYMIeXz8c76Ty4QvTRQXyX.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/NC98FzsyGT2Ya/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/NC98FzsyGT2Ya/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-terpr7m577"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 883619,
+          "tmdb_still_path": "/qOxUH0OPWw1hZH9gA66ywmRpStR.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/HLWg8BTvslMOC/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/HLWg8BTvslMOC/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-7q7dj4jy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 883621,
+          "tmdb_still_path": "/x14tyv9nlRTWXcMkoWFpkxT50ix.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/9PMT1NJd4mbEi/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/9PMT1NJd4mbEi/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-7q7y7x-m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 883622,
+          "tmdb_still_path": "/7XVUIsc60jMixJOvGiVn8ZNvTAR.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/qWYJItOi9bEjo/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/qWYJItOi9bEjo/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh32j2yzxxp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 883623,
+          "tmdb_still_path": "/yvBU6zVhtrSKyTCsjIjet1uS3k.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/yHSMi30pEQ9Vs/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/yHSMi30pEQ9Vs/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmq4qd-763"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 883624,
+          "tmdb_still_path": "/zSME4O3Uqs2384Z3bhHuY4ETbMn.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/NZAsDSGcIqKB8/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/NZAsDSGcIqKB8/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-un373wn7ln"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 883625,
+          "tmdb_still_path": "/6C8U4AYXHoejMIBjkpsnYSQAfEp.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/k5TjILANgRfEs/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/k5TjILANgRfEs/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yuj4245zxr1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-25",
+          "runtime": 24,
+          "tmdb_episode_id": 883626,
+          "tmdb_still_path": "/29xSktiidMys2t70ZJ5yLgVRdVs.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/2N4BkDjJyFI6x/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/2N4BkDjJyFI6x/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzdwdgx7de"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 883627,
+          "tmdb_still_path": "/qVGGHRad2gbPm5GM717jZh37LVK.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/qr87uXvOf1ieB/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/qr87uXvOf1ieB/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/3pdkxim767w4885"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 883628,
+          "tmdb_still_path": "/pKd7PkHijo1a8BVuM1mOXXRjBbk.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/qwC78PB0JkTFp/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/qwC78PB0JkTFp/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj4n48lr71"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 883629,
+          "tmdb_still_path": "/7exOVabvRWC7r2o5KVxrmiPQQ0z.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/wZWXaF5Sy2UAH/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/wZWXaF5Sy2UAH/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adzqz1dyly"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 883630,
+          "tmdb_still_path": "/iXGt8QfALjCVJBkIgG7mFa0VVjI.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/J1icyv76swWuV/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/J1icyv76swWuV/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b81w1z5l4x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 883631,
+          "tmdb_still_path": "/9JcojFwR3p2FQl5H6mXHce8AM5q.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/7sjHlarQmAhWC/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/7sjHlarQmAhWC/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzdwdpxyr3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 883632,
+          "tmdb_still_path": "/xQgaC0yjdbfiOn1XwcbkCEZyUlj.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/otmMyZSJEO3c8/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/otmMyZSJEO3c8/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b81w1w-wyj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 883633,
+          "tmdb_still_path": "/gJSQ5SpXG52ycDzOswv4gbYlZcZ.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/zcAUKjNP5Frua/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/zcAUKjNP5Frua/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adzqzq524d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 883634,
+          "tmdb_still_path": "/vHxiMA1eoQCaNEKQiORRaydjFag.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/ZfJubvKFTPWqc/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/ZfJubvKFTPWqc/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-terprm8p18"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 883635,
+          "tmdb_still_path": "/4c5R5MvrUQ8n5R8ucAYEpUCgVIZ.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/R0H7boEVQ1COK/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/R0H7boEVQ1COK/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh24r42dm8n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 883636,
+          "tmdb_still_path": "/hmzBV9Hs4Wk13NtjkYItBOgbZet.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/9PSwKxo1yUmrI/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/9PSwKxo1yUmrI/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmq4qmyd2n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 883638,
+          "tmdb_still_path": "/p9Uh5x2xOkuG3yZup090j70ScVg.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/GAd2kODv4xWU7/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/GAd2kODv4xWU7/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn6z65xjln"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 883637,
+          "tmdb_still_path": "/7NyvI22K1LQEs6EBe2Cmu0N4Sa4.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "الانطباع الأول للشخص قد يمنحنا حكماً خاطئاً بعيداً كل البعد عن الحقيقة لذا ليس علينا أن نحكم على الشخص بمجرد اللقاء الأول أو المظهر الخارجي . عيون حادة تنم عن الغضب والشر معاً هذه هي عينا بطل قصتنا “تاكاسو” الذي جعلت منه عيناه الحادتين شخصاً غير مرغوباً فيه لأن الجميع أعتبره شخصاً شريراً يتسارعون للحصول على رضاه…فرصة الحصول على صديقة ضئيلة جداً وكذلك فرصة الحصول على أصدقاء بمثل هذا الوضع , كان يومه الأول في المدرسة محفوفاً بقليل من القلق ولكنه بدا سعيداً كون صديقه الوحيد “كيتامورا” يدرس معه في نفس الشعبة وكذلك محبوبته التي لا أحد يعلم عنها شيء “كوشيدا مينوري”, “أيساكا” أو كما يلقبها الجميع النمر الصغير فبنيتها الصغيرة جعلتها تبدو كالأطفال على الرغم من أنها بسن الجميع , تقوم “أيساكا” بمواجهة “تاكاسو” في بداية الأمر ولكن كل شيء يتغير بعد أن يعرف كلاً منهما سر الأخر فما نوع تلك الأسرار؟ .",
+  "url": "/anime/toradora",
+  "story": "الانطباع الأول للشخص قد يمنحنا حكماً خاطئاً بعيداً كل البعد عن الحقيقة لذا ليس علينا أن نحكم على الشخص بمجرد اللقاء الأول أو المظهر الخارجي . عيون حادة تنم عن الغضب والشر معاً هذه هي عينا بطل قصتنا “تاكاسو” الذي جعلت منه عيناه الحادتين شخصاً غير مرغوباً فيه لأن الجميع أعتبره شخصاً شريراً يتسارعون للحصول على رضاه…فرصة الحصول على صديقة ضئيلة جداً وكذلك فرصة الحصول على أصدقاء بمثل هذا الوضع , كان يومه الأول في المدرسة محفوفاً بقليل من القلق ولكنه بدا سعيداً كون صديقه الوحيد “كيتامورا” يدرس معه في نفس الشعبة وكذلك محبوبته التي لا أحد يعلم عنها شيء “كوشيدا مينوري”, “أيساكا” أو كما يلقبها الجميع النمر الصغير فبنيتها الصغيرة جعلتها تبدو كالأطفال على الرغم من أنها بسن الجميع , تقوم “أيساكا” بمواجهة “تاكاسو” في بداية الأمر ولكن كل شيء يتغير بعد أن يعرف كلاً منهما سر الأخر فما نوع تلك الأسرار؟ .",
+  "year": "2008",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Rie Kugimiya، Junji Majima، Yui Horie، Eri Kitamura، Hirofumi Nojima",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "ya570uUgQNc",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Toradora!",
+    "mainDescription": "الانطباع الأول للشخص قد يمنحنا حكماً خاطئاً بعيداً كل البعد عن الحقيقة لذا ليس علينا أن نحكم على الشخص بمجرد اللقاء الأول أو المظهر الخارجي . عيون حادة تنم عن الغضب والشر معاً هذه هي عينا بطل قصتنا “تاكاسو” الذي جعلت منه عيناه الحادتين شخصاً غير مرغوباً فيه لأن الجميع أعتبره شخصاً شريراً يتسارعون للحصول على رضاه…فرصة الحصول على صديقة ضئيلة جداً وكذلك فرصة الحصول على أصدقاء بمثل هذا الوضع , كان يومه الأول في المدرسة محفوفاً بقليل من القلق ولكنه بدا سعيداً كون صديقه الوحيد “كيتامورا” يدرس معه في نفس الشعبة وكذلك محبوبته التي لا أحد يعلم عنها شيء “كوشيدا مينوري”, “أيساكا” أو كما يلقبها الجميع النمر الصغير فبنيتها الصغيرة جعلتها تبدو كالأطفال على الرغم من أنها بسن الجميع , تقوم “أيساكا” بمواجهة “تاكاسو” في بداية الأمر ولكن كل شيء يتغير بعد أن يعرف كلاً منهما سر الأخر فما نوع تلك الأسرار؟ .",
+    "metaDescription": "Toradora! أنمي 2008 | الانطباع الأول للشخص قد يمنحنا حكماً خاطئاً بعيداً كل البعد عن الحقيقة لذا ليس علينا أن نحكم على الشخص بمجرد اللقاء الأول أو…",
+    "highlights": "تم تحديث بيانات Toradora! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/42916"
+    }
+  },
+  "tmdb_id": 42916,
+  "tmdb_url": "https://www.themoviedb.org/tv/42916",
+  "original_title": "とらドラ！"
+}

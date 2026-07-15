@@ -1,0 +1,325 @@
+{
+  "slug": "berserk-ougon-jidai-hen-memorial-edition",
+  "clean_title": "Berserk: Ougon Jidai-hen - Memorial Edition",
+  "raw_name": "انمي Berserk: Ougon Jidai-hen - Memorial Edition",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/berserk-ougon-jidai-hen-memorial-edition.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0itbza3v1sby"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/wq3g99cq7tb1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-02",
+          "runtime": 25,
+          "tmdb_episode_id": 3975994,
+          "tmdb_still_path": "/dQgjed2B1TW99AgXAV5NnuyHF5G.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8ij8obyay31c"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xnz30uwb3r51"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-09",
+          "runtime": 25,
+          "tmdb_episode_id": 3985022,
+          "tmdb_still_path": "/xwA6fZ6Myv6eGZo9wnd06gDOCmL.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/w9lm2ez08498"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ftzcmiczsjfh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-16",
+          "runtime": 25,
+          "tmdb_episode_id": 3985024,
+          "tmdb_still_path": "/kyynoaoXUUzZazaT8FQk0CKji5B.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nwo90754upr3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/y2c9es7q2buf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-23",
+          "runtime": 25,
+          "tmdb_episode_id": 3985026,
+          "tmdb_still_path": "/fk06eNt1rYbDnQ9clJHvIdTUFLq.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/u1nfj6847i0y"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/zw5ihe5tx6bq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-30",
+          "runtime": 25,
+          "tmdb_episode_id": 3985028,
+          "tmdb_still_path": "/e4dfmW9iawDLER8LoZmHEBrcu6N.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/589qems93fx2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/y6mh26zavawe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-06",
+          "runtime": 25,
+          "tmdb_episode_id": 3985030,
+          "tmdb_still_path": "/eeVvdVXDQyeRDTFw1d1pyVpAF8.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/714e8qpt4ln0"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/og1plv8fznhr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-13",
+          "runtime": 25,
+          "tmdb_episode_id": 3985032,
+          "tmdb_still_path": "/k87AYQ0SIwEhKEY0ykjXPmIG3Mv.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/61tmi9knv33o"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hfyqaf6nxhjy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-20",
+          "runtime": 25,
+          "tmdb_episode_id": 3985034,
+          "tmdb_still_path": "/nyC7EqseGlTQkr1MV8zzl8EovNl.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/bug4zo2l07zt"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/d00fkxiukpxo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-27",
+          "runtime": 25,
+          "tmdb_episode_id": 3985035,
+          "tmdb_still_path": "/afpM0ZxqmwXDOePdCKog7Ln7LFk.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/hzffrxa1s110"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hwr3nwz2m2y7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-04",
+          "runtime": 25,
+          "tmdb_episode_id": 3985037,
+          "tmdb_still_path": "/us4cv3oR4TOVXr4Skbh2OWNE98h.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/dn0ldwx40xip"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/i6xfp0hh80j1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-11",
+          "runtime": 25,
+          "tmdb_episode_id": 3985039,
+          "tmdb_still_path": "/5nSP4ICBOiecfjF31Gd296OzM4H.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/l3n3gubrx03p"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/z6cgrj0ss8ne"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-18",
+          "runtime": 25,
+          "tmdb_episode_id": 3985041,
+          "tmdb_still_path": "/j7C8bXEAPWrbc6ajIADYO6sKqNy.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/44j2bpeufjpm"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/f9ijssuxj82u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-25",
+          "runtime": 25,
+          "tmdb_episode_id": 3985042,
+          "tmdb_still_path": "/y48KGln9cTw7i4JEpTVsOsWbYXm.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Berserk: Ougon Jidai-hen - Memorial Edition ضمن أجواء حركة ومغامرة، دراما، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Berserk: Ougon Jidai-hen - Memorial Edition حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات شياطين، عسكري، خارق للطبيعة، مغامرات العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/berserk-ougon-jidai-hen-memorial-edition",
+  "story": "يدور أنمي Berserk: Ougon Jidai-hen - Memorial Edition ضمن أجواء حركة ومغامرة، دراما، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Berserk: Ougon Jidai-hen - Memorial Edition حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات شياطين، عسكري، خارق للطبيعة، مغامرات العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Hiroaki Iwanaga، Takahiro Sakurai، Toa Yukinari، Kendo Kobayashi، Minako Kotobuki، Takahiro Fujiwara",
+  "genre": "أنمي، حركة ومغامرة، دراما، رسوم متحركة",
+  "trailerId": "H6dkuEdzaFY",
+  "rating": "8.7",
+  "imdb_rating": "8.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Berserk: Ougon Jidai-hen - Memorial Edition",
+    "mainDescription": "يدور أنمي Berserk: Ougon Jidai-hen - Memorial Edition ضمن أجواء حركة ومغامرة، دراما، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Berserk: Ougon Jidai-hen - Memorial Edition حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات شياطين، عسكري، خارق للطبيعة، مغامرات العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Berserk: Ougon Jidai-hen - Memorial Edition أنمي 2022 | يدور أنمي Berserk: Ougon Jidai-hen - Memorial Edition ضمن أجواء حركة ومغامرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Berserk: Ougon Jidai-hen - Memorial Edition من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/211057"
+    }
+  },
+  "tmdb_id": 211057,
+  "tmdb_url": "https://www.themoviedb.org/tv/211057",
+  "original_title": "ベルセルク 黄金時代篇 MEMORIAL EDITION"
+}

@@ -1,0 +1,544 @@
+{
+  "slug": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii",
+  "clean_title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+  "raw_name": "انمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7586006567499"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AZl3P6MVZyYJ5wDo"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91w6is"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7586016135755"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7586023606859"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6uV8o0hKXBVLAhdb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2227343,
+          "tmdb_still_path": "/76VAJhXMLpZiPSgrTSReCJ2JGd4.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7607450995275"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UqzuIXt09305yIvZ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92cc2w"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7607457024587"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7607468886603"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=W09aJeyr2oqbmt0p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2457426,
+          "tmdb_still_path": "/i7yEw393EW2xLO7RqyWQUlQXC7p.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7630762150475"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lZnWf4bPGr1NyMwu"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92tbbq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7630768573003"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7630772832843"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vvJET2qGpwsQOjNP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2465130,
+          "tmdb_still_path": "/eMqMnh8xDlNHtI2BwKr8pQuljxM.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7651601943115"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SqKSzUNlzAn8oydG"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x939qlw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7651609610827"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7651613477451"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1nAYQHhH6gjEMCoC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2473656,
+          "tmdb_still_path": "/7jKdBmVPNCXqmw2de7w50ptFLXo.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9465612602054"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bV6RUfqOmtGdqh4N"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9j61qe"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9465619548870"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9465623546566"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=o0sE24exqeQlKfqg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2474159,
+          "tmdb_still_path": "/n4SWOyqdyzjm6IkMJFtI7hwGRag.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9487365180102"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IONEa0woy4aw5Xbz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jkc1s"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9487369439942"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9487376452294"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UFZ68IiNaG5nltT4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2474160,
+          "tmdb_still_path": "/evPBLAosVlYlxfxbj8TqRptFUGp.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9506385758918"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=b1rbHkBen1lY7AwS"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jyjyo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9506390674118"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9506398276294"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=v08Fj3tbBER0vXUw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2474161,
+          "tmdb_still_path": "/dXcWdkqo545kYXXYe7Hdwh7Ijtv.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9525536623302"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NqjDz38UHhOQ45x6"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9kfvza"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9525541407430"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9525543504582"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XPfKFCHGBSMpIqeZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2474162,
+          "tmdb_still_path": "/tOqlNflvpOjI9Y3unK2g6dgqeO3.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9543798229702"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3oK1OHhCVqnzY6RC"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9kuhrs"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9543805831878"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9543812451014"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RkuON4utB7amxPtJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2474163,
+          "tmdb_still_path": "/wunjDKVp92NhbqLO5pyTqwfGziP.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9562957089478"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=y4a07VB7ToMPtgZP"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9l90ew"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9562964298438"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9562971507398"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wwD6iiJDM60Mg1A1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2474164,
+          "tmdb_still_path": "/9IBf9BcWS82S6ormrE1TnS6woz8.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9581190384326"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VY1oxlsrVwgl9KoH"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9llmsi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9581197331142"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9581200214726"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dgi32mf0dsikxWG8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2474165,
+          "tmdb_still_path": "/m3vBv92PrYsJ4Gl65hXtEgTXCXd.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9600303041222"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mJ5Fp3c4tAHfOYvd"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9lxolg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9600307956422"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9600311495366"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jANdr49aMXtcnLfR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2474166,
+          "tmdb_still_path": "/Z8dboK9s6jJ7OzAruv2oRqMmv2.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، حرب وسياسة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف عسكري، أكشن، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii",
+  "story": "يدور أنمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، حرب وسياسة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف عسكري، أكشن، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yusuke Kobayashi، Sora Amamiya، Kaori Ishihara، Nao Shiraki، Shunichi Toki، Yumiri Hanamori",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، حرب وسياسة",
+  "trailerId": "JptZ_jglOM0",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+    "mainDescription": "يدور أنمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، حرب وسياسة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف عسكري، أكشن، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II أنمي 2020 | يدور أنمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga…",
+    "highlights": "تم تحديث بيانات Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/101972"
+    }
+  },
+  "tmdb_id": 101972,
+  "tmdb_url": "https://www.themoviedb.org/tv/101972",
+  "original_title": "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
+}

@@ -1,0 +1,304 @@
+{
+  "slug": "boku-wa-tomodachi-ga-sukunai",
+  "clean_title": "Boku wa Tomodachi ga Sukunai",
+  "raw_name": "انمي Boku wa Tomodachi ga Sukunai",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/boku-wa-tomodachi-ga-sukunai.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "http://ok.ru/videoembed/3782292277835"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-4imn995jyuko.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 976806,
+          "tmdb_still_path": "/gfHXYadyONKYtCuLv2RHJKzEE5d.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782296144459"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-asco5w7om1zy.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 976807,
+          "tmdb_still_path": "/y5voYIEWR6oyat4DaxH7gqXy1yc.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782304991819"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-4nlv6u7iypqo.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 976808,
+          "tmdb_still_path": "/i1VkE8YYk9omPgfvL72ovrxANXu.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782315936331"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-045v229215ei.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 976809,
+          "tmdb_still_path": "/8AVnCTa3bFemOOCzrSq6KQL6j0j.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782323472971"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-i4rtz15lbsnp.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 976810,
+          "tmdb_still_path": "/jFwiynwpZEb4ZrqNI8tRsRSOXn3.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782339398219"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-mw5y99qwqyz0.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 976811,
+          "tmdb_still_path": "/gPprdqFVPpN1S2FZVEPFXbMmUrJ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782349621835"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-hp7xr91iddum.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 976812,
+          "tmdb_still_path": "/uksGzFRycdLYYKoWpmxCaNs5ZEN.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782366792267"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-h6zvm7bg9v6a.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 976813,
+          "tmdb_still_path": "/yfRiVFKIbKjpIZjsdlbqKjupgFk.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782380030539"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xadak2sm0tcs.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-02",
+          "runtime": 24,
+          "tmdb_episode_id": 976814,
+          "tmdb_still_path": "/b66hnorg8XO7GNULajGGetr2Vfe.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782386977355"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xt0rhmxihfz5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 976815,
+          "tmdb_still_path": "/m37RKliBoMookRsB6soUTMjOLNd.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782394186315"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-t1ciw1mym1iq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 976816,
+          "tmdb_still_path": "/hwGte3gb2iaVGtHzpZ1xzMvXf8r.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3782406572619"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-m5b5ey8ozt46.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 976817,
+          "tmdb_still_path": "/7t92GWLv3kDTEPxFz7rYnoJY8IE.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Boku wa Tomodachi ga Sukunai ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي Boku wa Tomodachi ga Sukunai تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات ايتشي، مدرسي، رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/boku-wa-tomodachi-ga-sukunai",
+  "story": "يدور أنمي Boku wa Tomodachi ga Sukunai ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي Boku wa Tomodachi ga Sukunai تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات ايتشي، مدرسي، رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ryohei Kimura، Kanae Itou، Marina Inoue، Kana Hanazawa، Yuka Iguchi، Emiri Kato",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "-9o6JQGVSWg",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Boku wa Tomodachi ga Sukunai",
+    "mainDescription": "يدور أنمي Boku wa Tomodachi ga Sukunai ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي Boku wa Tomodachi ga Sukunai تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات ايتشي، مدرسي، رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Boku wa Tomodachi ga Sukunai أنمي 2011 | يدور أنمي Boku wa Tomodachi ga Sukunai ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Boku wa Tomodachi ga Sukunai من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/60730"
+    }
+  },
+  "tmdb_id": 60730,
+  "tmdb_url": "https://www.themoviedb.org/tv/60730",
+  "original_title": "僕は友達が少ない"
+}

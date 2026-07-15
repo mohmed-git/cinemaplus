@@ -1,0 +1,535 @@
+{
+  "slug": "steins-gate-0",
+  "clean_title": "Steins;Gate 0",
+  "raw_name": "انمي Steins;Gate 0",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/steins-gate-0.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 23,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 23,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/3FrvJDQaSYkxA/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b8147qp61g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1455462,
+          "tmdb_still_path": "/xHkTdFpdTePArIOr0th8MT5zi7K.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/CJc4jzIuBT8WD/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yuj4qknw40y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1472856,
+          "tmdb_still_path": "/q5EnGAITegtisGCGdhaQtJr0DCp.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/SuwIjh4rx6WgC/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj47zq483e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1477754,
+          "tmdb_still_path": "/gR6CgJDBMmm97nlJO8vEwnaYcPq.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/JWrBOG4SdLpmh/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adzy5qjnd8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1479502,
+          "tmdb_still_path": "/50v3q6WGwKQstuU4X4YQVnXmRbu.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/3eVPk2YyoDOZ1/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp165-e8j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1483572,
+          "tmdb_still_path": "/foAx1isxo9puGjknujypr2HGgtC.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/LRWr3kJCV96TP/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-tern4m4321"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1485150,
+          "tmdb_still_path": "/4Itq8KBhRZMXPdl9tcf8INu6grM.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/iwm0Qy5j49Hzv/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/2r7pyu26mj22dlr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1485151,
+          "tmdb_still_path": "/yfwNouLYH7a77TBG6S9geHq0P5W.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/IjbO3xXaEW2Yh/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpd8l-xyj2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1485152,
+          "tmdb_still_path": "/okZ3veQ5LQQrwVchIoUAkwxFQUU.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/QSLlyMA59Ej7c/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b8147pd2dm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1498633,
+          "tmdb_still_path": "/s3fakS6tW2z3CyDT7Z0kygrN6Ov.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/ep8LSFW9BNzv5/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt0r24k33e0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1500380,
+          "tmdb_still_path": "/tBQ2mWt1WB8OG3ZlwbkQkUmNmAK.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/0zGrYpIml528T/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp163764n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1505700,
+          "tmdb_still_path": "/bzvjrOyNfuqHPxaLImnXYWA8GsM.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/1Lb2JOsTF0nfg/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzdq7ng855"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1505701,
+          "tmdb_still_path": "/juA1OzM9uuoLlPnPdNhY7IM0N61.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/zSVaIlyrJ3YMi/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmq6yy3mjr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1515486,
+          "tmdb_still_path": "/8N6iXmVuYRifw8efvbSLQ9XvmDt.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/AO3CxHn9KzLYj/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yuj4qkklgg7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1519883,
+          "tmdb_still_path": "/pHOARY4I17H2VToUNS4sEGvgNte.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/xItEbTmlJfkLB/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/q35q-se573gxm4n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1529276,
+          "tmdb_still_path": "/7PxxBLPv1teToLGajIbxwv3YKu6.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/2W0kvG9tEBwOP/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt0r24wllk7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1535232,
+          "tmdb_still_path": "/AtU5hGozo4P3GyiVHFdvXDY7Ci8.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/lnsWjQCTJcwuY/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntl23nqzyrm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1536996,
+          "tmdb_still_path": "/wdAzdeRMqGdBmM69LfJkkpWAKIo.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/cSm74KOU9i3nL/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp16p6pdw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1536997,
+          "tmdb_still_path": "/dkRTlWDrxP2jhHt5OhpqjatEJYw.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/4rCLdU6AeZcXK/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmq6y656d5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1536998,
+          "tmdb_still_path": "/asQwAITmCpCXGHodollNMj4M20V.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/71H0WQcaUSCMs/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh32x17yy3q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1536999,
+          "tmdb_still_path": "/mQvdOmMIqdXfAEOqJGdEkeA3XMb.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/520gHYUXGrewI/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/q35q-se573-zzrk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1537000,
+          "tmdb_still_path": "/mn2PrCyZwUENWckLpsjHjVsVMhN.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/p01LIiUn4Eq67/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj47zpyg11"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1554235,
+          "tmdb_still_path": "/6I0xNNgEOZJRSo0zsxIj2UOJkSl.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/tuN5eP1JAxVrG/mirror"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-tern4xgn-6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1554236,
+          "tmdb_still_path": "/m5qBHFbRw5tC34EnjOrfu0jp2Gw.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Steins;Gate 0 ضمن أجواء خيال علمي وفانتازيا، رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و23 حلقة. يدور أنمي Steins;Gate 0 حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خيال علمي، إثارة، نفسي، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Steins;Gate 0 على CINMAPRO عبر 1 موسم و23 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/steins-gate-0",
+  "story": "يدور أنمي Steins;Gate 0 ضمن أجواء خيال علمي وفانتازيا، رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و23 حلقة. يدور أنمي Steins;Gate 0 حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خيال علمي، إثارة، نفسي، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Steins;Gate 0 على CINMAPRO عبر 1 موسم و23 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Mamoru Miyano، Sayuri Yahagi، Asami Imai، Kana Hanazawa، Tomokazu Seki، Yukari Tamura",
+  "genre": "أنمي، خيال علمي وفانتازيا، رسوم متحركة، دراما",
+  "trailerId": "407c85UqF3A",
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Steins;Gate 0",
+    "mainDescription": "يدور أنمي Steins;Gate 0 ضمن أجواء خيال علمي وفانتازيا، رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و23 حلقة. يدور أنمي Steins;Gate 0 حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خيال علمي، إثارة، نفسي، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Steins;Gate 0 على CINMAPRO عبر 1 موسم و23 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Steins;Gate 0 أنمي 2018 | يدور أنمي Steins;Gate 0 ضمن أجواء خيال علمي وفانتازيا | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Steins;Gate 0 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/78102"
+    }
+  },
+  "tmdb_id": 78102,
+  "tmdb_url": "https://www.themoviedb.org/tv/78102",
+  "original_title": "シュタインズ・ゲート ゼロ"
+}

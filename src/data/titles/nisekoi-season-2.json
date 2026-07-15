@@ -1,0 +1,324 @@
+{
+  "slug": "nisekoi-season-2",
+  "clean_title": "Nisekoi Season 2",
+  "raw_name": "انمي Nisekoi Season 2",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/nisekoi-season-2.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/n6w1w7v56hdf"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/j12iq1dzyjqc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1225977,
+          "tmdb_still_path": "/qm6PhYGbvtt57q29Y9OJUJJ6HW7.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/3nebpbfbdui3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/sp2emllu7stf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-04-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1225978,
+          "tmdb_still_path": "/owk3d2OgCnhY2Lb0PUNXrBY4n5o.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/tojx75crxdzu"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ugw25e17rwka"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-04-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1225979,
+          "tmdb_still_path": "/fGtrzr9dp66DI0ktqT9GXC2a7cx.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/t8i7kq7tq4ix"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/pif8pm2svv8k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1225980,
+          "tmdb_still_path": "/o2T29YxvjhfbMRCMiJZlFZvzKer.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ocba0d92kjx1"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hhuux84u4844"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1225981,
+          "tmdb_still_path": "/uPhQx9tOoNVW3yc6dvInnN1XnWW.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nshvlrhxdv9d"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ecca9n8nos8x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1225982,
+          "tmdb_still_path": "/nTFLrAqIMxfyT0oMgMdwmd0CwHc.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/mt9u3m1wsmjy"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hcrcybhqrs29"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1225983,
+          "tmdb_still_path": "/sM2R4gQ3tVlfW9x7wPMmZDFhnLM.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/owv14hwukpv0"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/08pyrhuy5sq6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-05-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1225984,
+          "tmdb_still_path": "/m44ewjoj6H5uQtDCstEXlu5XTFe.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/yjh6fatjgs33"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/u9n67on9524y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-06-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1225985,
+          "tmdb_still_path": "/d8cLZHrAYuFuyyIq1GLBQqjJ4Rb.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/eoyqmlofifjm"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3ug6quo6c5w3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-06-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1225986,
+          "tmdb_still_path": "/r3onruNlKcCbWzmB4qqcFMpWkwJ.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/npci0x6qztwb"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ilc71dd6mzyo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-06-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1225987,
+          "tmdb_still_path": "/hRWFfMiHJOBvKRLdS6zGHHRRa2z.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xmj8iwn92udg"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/f9rs6dsc7v7j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-06-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1225988,
+          "tmdb_still_path": "/gzYBN60TrmeGdyhOLE2LRu4WHLK.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Nisekoi Season 2 ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و32 حلقة. في أنمي Nisekoi Season 2 تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، شونين، مدرسي، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/nisekoi-season-2",
+  "story": "يدور أنمي Nisekoi Season 2 ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و32 حلقة. في أنمي Nisekoi Season 2 تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، شونين، مدرسي، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Koki Uchiyama، Nao Toyama، Kana Hanazawa، Takehito Koyasu، Manami Numakura، Kotori Koiwai",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "dPBBNxl_nKE",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Nisekoi Season 2",
+    "mainDescription": "يدور أنمي Nisekoi Season 2 ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و32 حلقة. في أنمي Nisekoi Season 2 تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، شونين، مدرسي، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Nisekoi Season 2 أنمي 2014 | يدور أنمي Nisekoi Season 2 ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Nisekoi Season 2 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/62640"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "nisekoi",
+      "title": "Nisekoi",
+      "url": "/anime/nisekoi",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 20,
+      "poster": "/images/anime/nisekoi.jpg"
+    },
+    {
+      "slug": "nisekoi-season-2",
+      "title": "Nisekoi Season 2",
+      "url": "/anime/nisekoi-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/nisekoi-season-2.jpg"
+    }
+  ],
+  "tmdb_id": 62640,
+  "tmdb_url": "https://www.themoviedb.org/tv/62640",
+  "original_title": "ニセコイ"
+}

@@ -1,0 +1,303 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { getAllTitles } from '../lib/titles';
+import { SITE } from '../lib/site';
+
+// The full search corpus (old static catalogue + new SSR works) is built at
+// build time into /static/search-index.json and fetched on demand. Inlining
+// >10k titles into this page bloated the HTML to several MB and caused newly
+// added works to appear "missing"; the static JSON guarantees EVERY public
+// work (movie / series / anime, old + new) is searchable.
+const corpusCount = getAllTitles().length;
+
+// Trending search suggestions (deterministic picks)
+function pickStable<T>(arr: T[], n: number): T[] {
+  return [...arr]
+    .map((t, i) => ({ t, k: (i * 2654435761) >>> 0 }))
+    .sort((a, b) => a.k - b.k)
+    .slice(0, n)
+    .map(x => x.t);
+}
+const trendingPicks = pickStable(getAllTitles().filter(t => t.poster), 8);
+---
+
+<Base
+  title="البحث"
+  description={`ابحث في مكتبة ${SITE.name} عن أفلامك ومسلسلاتك وأعمال الأنمي المفضلة بسرعة فائقة.`}
+  section="home"
+  noindex
+>
+  <!-- Cinematic page header -->
+  <section class="relative overflow-hidden border-b border-white/[0.04] -mt-16 lg:-mt-[72px] pt-16 lg:pt-[72px]">
+    <div class="absolute inset-0 -z-10 bg-aurora opacity-70"></div>
+    <div class="orb h-72 w-72 -top-10 right-10 bg-brand-600"></div>
+    <div class="orb h-80 w-80 top-20 -left-20 bg-neon-fuchsia"></div>
+
+    <div class="container-app relative pt-8 pb-10 md:pt-12 md:pb-14">
+      <Breadcrumbs items={[{ label: 'الرئيسية', href: '/' }, { label: 'بحث' }]} />
+
+      <div class="mt-6 max-w-3xl mx-auto text-center animate-slide-up">
+        <div class="flex items-center justify-center gap-2 text-xs font-bold uppercase tracking-[0.25em] text-brand-400 mb-3">
+          <span class="h-px w-10 bg-gradient-to-l from-brand-400 to-transparent"></span>
+          SEARCH
+          <span class="h-px w-10 bg-gradient-to-r from-brand-400 to-transparent"></span>
+        </div>
+        <h1 class="font-display text-3xl md:text-5xl font-extrabold leading-tight">
+          <span class="gradient-text neon-glow">ابحث</span> عما تشاء
+        </h1>
+        <p class="mt-3 text-sm md:text-base text-gray-300/90">
+          أكثر من <strong class="text-white">{corpusCount}</strong> عمل في انتظارك
+        </p>
+
+        <!-- Search box -->
+        <div class="mt-7 relative">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="pointer-events-none absolute right-5 top-1/2 h-5 w-5 -translate-y-1/2 text-gray-400 z-10">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="اكتب اسم الفيلم أو المسلسل أو الأنمي…"
+            class="input-neon w-full !py-4 !text-base pr-14 pl-5 shadow-[0_8px_32px_-8px_rgba(168,85,247,0.35)]"
+            autocomplete="off"
+            inputmode="search"
+          />
+          <div class="absolute inset-0 -z-10 rounded-xl bg-gradient-to-l from-brand-600/20 via-neon-violet/20 to-neon-fuchsia/20 blur-2xl scale-95"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="container-app py-8">
+    <!-- Filter pills -->
+    <div class="mb-6 flex flex-wrap items-center gap-3">
+      <span class="text-sm text-gray-400">فلترة:</span>
+      <div class="flex flex-wrap gap-2" id="category-filters">
+        <button type="button" data-cat="all" class="cat-btn tab tab-active text-xs">الكل</button>
+        <button type="button" data-cat="movie" class="cat-btn tab tab-inactive text-xs">أفلام</button>
+        <button type="button" data-cat="series" class="cat-btn tab tab-inactive text-xs">مسلسلات</button>
+        <button type="button" data-cat="anime" class="cat-btn tab tab-inactive text-xs">أنمي</button>
+      </div>
+      <div class="flex-1"></div>
+      <span class="text-sm text-gray-400">النتائج: <strong id="result-count" class="text-brand-300 font-bold">0</strong></span>
+    </div>
+
+    <!-- Empty / suggestions state -->
+    <div id="empty-msg" class="space-y-10">
+      <div class="flex flex-col items-center gap-3 py-8 text-center text-gray-400">
+        <div class="flex h-20 w-20 items-center justify-center rounded-full bg-brand-500/10 border border-brand-500/20">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="h-10 w-10 text-brand-400">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+        </div>
+        <p class="text-base md:text-lg">ابدأ الكتابة لتظهر النتائج فوراً</p>
+        <p class="text-xs text-gray-500">يدعم البحث الجزئي والضبابي</p>
+      </div>
+
+      <!-- Trending suggestions -->
+      <div>
+        <h2 class="mb-4 flex items-center gap-2 text-sm font-bold text-white uppercase tracking-wider">
+          <span class="flex h-5 w-1 rounded-full bg-gradient-to-b from-brand-400 to-neon-fuchsia"></span>
+          مقترحات شائعة
+        </h2>
+        <div class="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 md:grid-cols-4 lg:grid-cols-4">
+          {trendingPicks.map((t) => (
+            <a href={t.url} class="group poster-card animate-fade-in" aria-label={t.clean_title}>
+              <div class="relative aspect-[2/3] w-full overflow-hidden rounded-2xl bg-surface-3">
+                {t.poster ? (
+                  <img src={t.poster} alt={t.clean_title} loading="lazy" referrerpolicy="no-referrer" class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110" />
+                ) : (
+                  <div class="flex h-full w-full items-center justify-center bg-surface-4 p-3 text-xs text-gray-500 text-center">{t.clean_title}</div>
+                )}
+                <div class="absolute top-2 right-2"><span class="badge-category">{t.category_label}</span></div>
+                <div class="absolute inset-0 bg-gradient-to-t from-surface-0 via-transparent to-transparent"></div>
+                <div class="absolute inset-x-0 bottom-0 p-3">
+                  <h3 class="line-clamp-2 text-sm font-bold text-white drop-shadow-lg">{t.clean_title}</h3>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- Results grid -->
+    <div id="results-grid" class="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6"></div>
+  </section>
+
+  <script>
+    import Fuse from 'fuse.js';
+
+    // Compact entry shape served by /static/search-index.json
+    type RawEntry = {
+      s: string;   // slug
+      t: string;   // clean_title
+      r: string;   // raw_name
+      c: string;   // category
+      cl: string;  // category_label
+      p: string | null; // poster
+      u: string;   // url
+      y: number | null; // year
+      e: number;   // episodes_count
+      sc: number;  // seasons_count
+      rt: number;  // rating
+    };
+    type Entry = {
+      slug: string;
+      clean_title: string;
+      raw_name: string;
+      category: string;
+      category_label: string;
+      poster: string | null;
+      seasons_count: number;
+      episodes_count: number;
+      url: string;
+      has_multiple_seasons: boolean;
+    };
+
+    const input = document.getElementById('search-input') as HTMLInputElement;
+    const grid = document.getElementById('results-grid') as HTMLElement;
+    const empty = document.getElementById('empty-msg') as HTMLElement;
+    const countEl = document.getElementById('result-count') as HTMLElement;
+    const catBtns = document.querySelectorAll<HTMLButtonElement>('.cat-btn');
+
+    let activeCat: 'all' | 'movie' | 'series' | 'anime' = 'all';
+    let data: Entry[] = [];
+    let fuse: Fuse<Entry> | null = null;
+    let pendingQuery = false;
+
+    // Load the FULL corpus (old static catalogue + new SSR works) from the
+    // build-time static index so every public work is searchable.
+    fetch('/static/search-index.json', { cache: 'force-cache' })
+      .then((r) => (r.ok ? r.json() : []))
+      .then((rows: RawEntry[]) => {
+        data = rows.map((e) => ({
+          slug: e.s,
+          clean_title: e.t,
+          raw_name: e.r,
+          category: e.c,
+          category_label: e.cl,
+          poster: e.p,
+          seasons_count: e.sc,
+          episodes_count: e.e,
+          url: e.u,
+          has_multiple_seasons: e.sc > 1,
+        }));
+        fuse = new Fuse(data, {
+          keys: [
+            { name: 'clean_title', weight: 0.7 },
+            { name: 'raw_name', weight: 0.2 },
+            { name: 'category_label', weight: 0.1 },
+          ],
+          threshold: 0.35,
+          ignoreLocation: true,
+          minMatchCharLength: 2,
+        });
+        if (pendingQuery || input.value.trim()) search();
+      })
+      .catch(() => {});
+
+    function escapeHtml(s: string): string {
+      return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    function fakeQuality(slug: string): string {
+      let h = 0;
+      for (let i = 0; i < slug.length; i++) h = (h * 17 + slug.charCodeAt(i)) >>> 0;
+      return (h % 5 === 0) ? '4K' : 'HD';
+    }
+
+    function renderCard(e: Entry): string {
+      const title = escapeHtml(e.clean_title);
+      const quality = fakeQuality(e.slug);
+      const posterBlock = e.poster
+        ? `<img src="${escapeHtml(e.poster)}" alt="${title}" loading="lazy" decoding="async" referrerpolicy="no-referrer" class="h-full w-full object-cover transition-transform duration-700 ease-out" />`
+        : `<div class="flex h-full w-full items-center justify-center bg-gradient-to-br from-surface-3 to-surface-5 p-3 text-center text-xs text-gray-400">${title}</div>`;
+      return `
+        <a href="${escapeHtml(e.url)}" class="group poster-card animate-fade-in">
+          <div class="relative aspect-[2/3] w-full overflow-hidden rounded-2xl bg-surface-3">
+            ${posterBlock}
+            <div class="absolute top-0 right-0 left-0 flex items-start justify-between p-2 z-10">
+              <span class="badge-category">${escapeHtml(e.category_label)}</span>
+              <span class="badge-hd shadow-[0_4px_12px_-4px_rgba(168,85,247,0.6)]">${quality}</span>
+            </div>
+            <div class="absolute inset-0 bg-gradient-to-t from-surface-0 via-surface-0/40 to-transparent opacity-90"></div>
+            <div class="absolute inset-x-0 bottom-0 p-3 z-10">
+              <h3 class="line-clamp-2 text-[13px] sm:text-sm font-bold text-white drop-shadow-lg leading-tight">${title}</h3>
+            </div>
+          </div>
+        </a>`;
+    }
+
+    function search() {
+      const q = input.value.trim();
+      // Corpus still loading → remember the intent and bail; the fetch handler
+      // will re-run search() once the index is ready.
+      if (q.length > 0 && !fuse) {
+        pendingQuery = true;
+        countEl.textContent = '…';
+        return;
+      }
+      let results: Entry[];
+      if (q.length === 0 || !fuse) {
+        results = [];
+      } else {
+        const raw = fuse.search(q, { limit: 200 });
+        results = raw.map((r) => r.item);
+      }
+      if (activeCat !== 'all') {
+        results = results.filter((r) => r.category === activeCat);
+      }
+      countEl.textContent = String(results.length);
+      if (q.length === 0) {
+        empty.classList.remove('hidden');
+        grid.innerHTML = '';
+      } else if (results.length === 0) {
+        empty.innerHTML = `
+          <div class="flex flex-col items-center gap-3 py-16 text-center text-gray-400">
+            <div class="flex h-20 w-20 items-center justify-center rounded-full bg-neon-fuchsia/10 border border-neon-fuchsia/20">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="h-10 w-10 text-neon-fuchsia">
+                <path d="M9.172 9.172a4 4 0 015.656 0M15 9h.01M9 9h.01"/>
+                <circle cx="12" cy="12" r="10"/>
+              </svg>
+            </div>
+            <p class="text-base md:text-lg">لا توجد نتائج مطابقة</p>
+            <p class="text-xs text-gray-500">جرّب كلمات مختلفة أو تصفّح الأقسام</p>
+          </div>`;
+        empty.classList.remove('hidden');
+        grid.innerHTML = '';
+      } else {
+        empty.classList.add('hidden');
+        grid.innerHTML = results.slice(0, 120).map(renderCard).join('');
+      }
+    }
+
+    let t: number | undefined;
+    input.addEventListener('input', () => {
+      clearTimeout(t);
+      t = window.setTimeout(search, 120);
+    });
+
+    catBtns.forEach((b) => {
+      b.addEventListener('click', () => {
+        activeCat = (b.dataset.cat as typeof activeCat) || 'all';
+        catBtns.forEach((x) => {
+          const active = x.dataset.cat === activeCat;
+          x.classList.toggle('tab-active', active);
+          x.classList.toggle('tab-inactive', !active);
+        });
+        search();
+      });
+    });
+
+    // prefill from ?q= query
+    const qsRaw = new URLSearchParams(location.search).get('q');
+    if (qsRaw) {
+      input.value = qsRaw;
+      search();
+    }
+    setTimeout(() => input.focus(), 50);
+  </script>
+</Base>

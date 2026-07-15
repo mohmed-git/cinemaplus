@@ -1,0 +1,312 @@
+{
+  "slug": "baki",
+  "clean_title": "Baki",
+  "raw_name": "انمي Baki",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/baki.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-06-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1515678,
+          "tmdb_still_path": "/l6WddxxlqumbwL6NiEBfKYs6iSq.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-07-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1515679,
+          "tmdb_still_path": "/dUFkV1kpyB7IM74vNHG1AwKjHtN.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-07-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1517574,
+          "tmdb_still_path": "/uRillQqO7CuaKVs4ROGtG1x3fK8.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1525103,
+          "tmdb_still_path": "/tjkY1weiJfyvuz81b5OonwoTdNA.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-07-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1529476,
+          "tmdb_still_path": "/R9xvNrEsX2uckv7eSnu5Vrxb5.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1535290,
+          "tmdb_still_path": "/7ZZqPKK7kXujcs9qUlbublCNbvl.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1542764,
+          "tmdb_still_path": "/eiJYoc1sln6P9Xf0fNWeul1pZes.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1546853,
+          "tmdb_still_path": "/mlZ3rF7h7bugd0UhMqKqpvN6R2U.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1546854,
+          "tmdb_still_path": "/uFizeI9GiqNakuRmbT84IBY5HSU.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1546855,
+          "tmdb_still_path": "/8fxOpv6uGtg8yK4KbV0ChYp370O.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1546856,
+          "tmdb_still_path": "/5yLS5jJn5hMiQ1v4JX6wvZ46BLW.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1559352,
+          "tmdb_still_path": "/md18dgS1waYOn3lwDvPs3yk0pbs.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-09-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1559353,
+          "tmdb_still_path": "/wWtvvbW1wo1RHwTL7mRjfvwnsR1.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-09-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1559354,
+          "tmdb_still_path": "/j4wGL2ST2xRN6ZGWo0z1gB0GQDP.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-10-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1559355,
+          "tmdb_still_path": "/rwS27SpPnirNoBVcCGwcXQPrG6S.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-10-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1559356,
+          "tmdb_still_path": "/er4Rj3zSKyrK0Gu1MJX04NB3r9z.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-10-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1559357,
+          "tmdb_still_path": "/4L1dZx7izEK4fJI2e1evVjwshxh.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-10-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1559358,
+          "tmdb_still_path": "/4wByu0B9r7TD5d5bb4us5waethS.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-10-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1559359,
+          "tmdb_still_path": "/z9A7QkGr1cHmOePMgXSFbNfUsi4.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-11-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1559360,
+          "tmdb_still_path": "/807uYl8KsrDVHPAl7ikyPgav9Bc.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-11-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1559361,
+          "tmdb_still_path": "/ugKCv7gV5YPdlzP94dXAXjU5Xog.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-11-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1559362,
+          "tmdb_still_path": "/digqiX9YSm1mpiHTMNzLcoVGA3y.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-11-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1559363,
+          "tmdb_still_path": "/8CH6qFVKMImUgIhhHnAhPI7Dfha.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-12-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1559364,
+          "tmdb_still_path": "/iQtv4LUT3e9VgYWg9PdbYsKBOU4.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-12-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1559365,
+          "tmdb_still_path": "/rWp9aXWI3mKcWYlcM8cffYsHLtC.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [],
+          "overview": null,
+          "air_date": "2018-12-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1559366,
+          "tmdb_still_path": "/3699oIPV4zvjNiEd1GMPQjz0Xst.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "في حين أن بطل فنون الدفاع عن النفس باكي هانما يتدرب بجد لتجاوز والده الأسطوري ، فإن خمسة سجناء عنيفين ينتظرون تنفيذ حكم الإعدام ينزلون إلى طوكيو لمواجهته.",
+  "url": "/anime/baki",
+  "story": "في حين أن بطل فنون الدفاع عن النفس باكي هانما يتدرب بجد لتجاوز والده الأسطوري ، فإن خمسة سجناء عنيفين ينتظرون تنفيذ حكم الإعدام ينزلون إلى طوكيو لمواجهته.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Nobunaga Shimazaki، Kenjiro Tsuda، Takehito Koyasu، Issei Futamata، Banjo Ginga، Chafurin",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، جريمة، دراما",
+  "trailerId": "1fSp8NJEw34",
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Baki",
+    "mainDescription": "في حين أن بطل فنون الدفاع عن النفس باكي هانما يتدرب بجد لتجاوز والده الأسطوري ، فإن خمسة سجناء عنيفين ينتظرون تنفيذ حكم الإعدام ينزلون إلى طوكيو لمواجهته.",
+    "metaDescription": "Baki أنمي 2018 | في حين أن بطل فنون الدفاع عن النفس باكي هانما يتدرب بجد لتجاوز والده الأسطوري | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Baki من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/80623"
+    }
+  },
+  "tmdb_id": 80623,
+  "tmdb_url": "https://www.themoviedb.org/tv/80623",
+  "original_title": "バキ"
+}

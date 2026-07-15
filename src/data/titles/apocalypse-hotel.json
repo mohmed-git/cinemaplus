@@ -1,0 +1,544 @@
+{
+  "slug": "apocalypse-hotel",
+  "clean_title": "Apocalypse Hotel",
+  "raw_name": "انمي Apocalypse Hotel",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/apocalypse-hotel.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NGBunPKKGKcMG52d"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/4utq9eg8w75t"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hkpio"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/sr7fiz3xwb9i"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zjY1Ba5fH8glaxIA"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/3r6jo5lzyaz2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-09",
+          "runtime": 23,
+          "tmdb_episode_id": 5554946,
+          "tmdb_still_path": "/l7DLGU6zR2Cw3ukg12Eh1123mxu.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=izxV2PDpKDwXpdYu"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/3gxhedvnztz2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hyt7o"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/g2zpzsdcd1uv"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=p7a8hlLcAQArMsVm"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/ugzkl1d6vp6f"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-16",
+          "runtime": 23,
+          "tmdb_episode_id": 6112612,
+          "tmdb_still_path": "/mPDeRSxHZL18gTBUN0Wv2iCTOB2.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=RmLSc7skFUqYVJQo"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/z1pbw692ym66"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ibu20"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/tve6tlijeeye"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tNt5OWIGS28ArePa"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/3q79xo8n8mnh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-23",
+          "runtime": 23,
+          "tmdb_episode_id": 6112613,
+          "tmdb_still_path": "/u22dUxB8W2ZcUjDfZeE6F9FhmBy.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7SFPoO856lv2tK6i"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/cgp384bu3alc"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9iq7jk"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/7z5mpyifkvfn"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0ctTxfuA8WDstT5e"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/kcg31d7b2lfs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-30",
+          "runtime": 23,
+          "tmdb_episode_id": 6112614,
+          "tmdb_still_path": "/8QLthMfDzeM5xNE2oZBDNGFEAzY.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NY2930TWYoOeX9uL"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/ipqsfrk48ruj"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9j366k"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/6u5ol1wrntbt"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cFjEqCag8XpBoeCe"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/6doijp76ov93"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-07",
+          "runtime": 23,
+          "tmdb_episode_id": 6117673,
+          "tmdb_still_path": "/7VmISa0dZCsqngqYbf890DJmf1g.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6YpQrYGFqWEyHiah"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/96o8q69ej627"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jgium"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/byxqjfpue3n6"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UmHLTM1cisqm1nsQ"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/vol69eox03l4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-14",
+          "runtime": 23,
+          "tmdb_episode_id": 6117674,
+          "tmdb_still_path": "/hQamjDZqRw3K4CZG0YgY7z2rBI0.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2eHcmgAJdWETHYyQ"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/dp80zyqwyu73"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9juyx8"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/guiou6j94y45"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=c66DlKqjSOBatdFF"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/7mnsi3qt4sgd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-21",
+          "runtime": 23,
+          "tmdb_episode_id": 6117675,
+          "tmdb_still_path": "/cwUgoHM0bwtHoctawx77wUYbG35.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=unLhJSxZyjfZ1dsE"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/iz99tfxv51jo"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9kbkai"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/tj0waf9cydfl"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QRAYPCIo9rDBi4YZ"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/gzp1gdrj59xv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-28",
+          "runtime": 23,
+          "tmdb_episode_id": 6117676,
+          "tmdb_still_path": "/n4gRYmlEFwLLHnHr0R2Af8GS4e2.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FCubakbkDtXnUIu5"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/lufj9m0h7kbe"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9kqvja"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/1y9bbm88fh9j"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=56eT0StTkZU2da4g"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/fqieu9dh3arw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-04",
+          "runtime": 23,
+          "tmdb_episode_id": 6117677,
+          "tmdb_still_path": "/rOkp3m7SYjGmLi6zBN4SvW4SD2Y.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SiVJ3lkSo22V8Loa"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/k417fueqv0kg"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9l5lxo"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/r8w0fbn2j9gu"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jt2RZj6fQHYInaUU"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/1ktd1118hrp6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-11",
+          "runtime": 23,
+          "tmdb_episode_id": 6117680,
+          "tmdb_still_path": "/i15CFF8KP5PK4oChao9LDuNVFII.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZzgDZtPzLkBQwePL"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/zhtv03ntv9l6"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9livrg"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/151m10gw6wxr"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ibXmC65Nue9tetMx"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/kg7pse6kfnxs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-18",
+          "runtime": 23,
+          "tmdb_episode_id": 6117681,
+          "tmdb_still_path": "/peslsYQ4yuZMwx2g4X3zPJrcATF.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ejtpqwYYRNUovd3c"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/0clx81rdc8tn"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9luco4"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/un6m5xs13qh1"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=H5qTmYCJXqDrv602"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/d2efulbz4b0d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-25",
+          "runtime": 23,
+          "tmdb_episode_id": 6117682,
+          "tmdb_still_path": "/zrxiWiNrv94211bBoY8Q0qPhQ3.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Apocalypse Hotel ضمن أجواء رسوم متحركة، كوميديا، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Apocalypse Hotel من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال علمي العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/apocalypse-hotel",
+  "story": "يدور أنمي Apocalypse Hotel ضمن أجواء رسوم متحركة، كوميديا، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Apocalypse Hotel من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال علمي العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Saho Shirasu، Sumire Morohoshi، Hiroki Touchi، Shin-ichiro Miki، Hiroyuki Kinoshita، Cho",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما، خيال علمي وفانتازيا",
+  "trailerId": "epz8n8a2Zik",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Apocalypse Hotel",
+    "mainDescription": "يدور أنمي Apocalypse Hotel ضمن أجواء رسوم متحركة، كوميديا، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Apocalypse Hotel من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال علمي العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Apocalypse Hotel أنمي 2025 | يدور أنمي Apocalypse Hotel ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Apocalypse Hotel من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/262929"
+    }
+  },
+  "tmdb_id": 262929,
+  "tmdb_url": "https://www.themoviedb.org/tv/262929",
+  "original_title": "アポカリプスホテル"
+}

@@ -1,0 +1,384 @@
+{
+  "slug": "mashle",
+  "clean_title": "Mashle",
+  "raw_name": "انمي Mashle",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mashle.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/5xb4f6h07fjm"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/3po4s4e1ifoe"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/05x8acssoof1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-08",
+          "runtime": 23,
+          "tmdb_episode_id": 3806213,
+          "tmdb_still_path": "/sNuDaeRpJeAN68nkicHXhUspgyn.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/gqgdkup0t7ce"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/nw7qd57eweaq"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/uzvi8y24wghf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-15",
+          "runtime": 24,
+          "tmdb_episode_id": 4349469,
+          "tmdb_still_path": "/wRhVcJOzPORex4f5MleMiBE0a8N.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4os81qiir9f8"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/2kcj0nxtixv7"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/zg8zrw0q3cy8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-22",
+          "runtime": 24,
+          "tmdb_episode_id": 4349470,
+          "tmdb_still_path": "/nUWfraG7hbtVIZ2VaZv2QNqMgsZ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/sngiiqnrtiho"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/vua911z43hkg"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/t0u589n7r1jj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-29",
+          "runtime": 24,
+          "tmdb_episode_id": 4349471,
+          "tmdb_still_path": "/yCkSMesQxSlUSl0bAwEA2QbShpk.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/zeijeqtl2jvn"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/urgx3fzbxq71"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/0yn9wmgwgrw1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4350294,
+          "tmdb_still_path": "/kGWzULYc0GgdQaKFIMFNmM7COFq.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/deeb2xdmkzwp"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/006b0uyoc6s7"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/1teb8op0f2tk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4350295,
+          "tmdb_still_path": "/AiSJOokpu1cBDUlMtth7SLj10iu.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0615xxx8qpu9"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/e1jq6f75y39y"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/aq53b4p9f0qq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4350297,
+          "tmdb_still_path": "/sFu8YYzAFayt6rkv73fOeRUEwAR.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/azedy8ahshy9"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/7u6a3x1a9ygv"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/okfbr4fuq0hg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-03",
+          "runtime": 24,
+          "tmdb_episode_id": 4350298,
+          "tmdb_still_path": "/94Jx029j907EIqxZXbslIDcW07X.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/lu2dxuadujuk"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/r2tf1wbwi2mr"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/o4zm0wlja3kr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-10",
+          "runtime": 24,
+          "tmdb_episode_id": 4350299,
+          "tmdb_still_path": "/cWu9sSqfrd3YoSOzOHuk6F5qYbl.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/yqv37jlp4be0"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/ehvb0o7p1gmd"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/ipsavoraqtvw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4350300,
+          "tmdb_still_path": "/8kxD7JcC2Re1u4TNQ67s9IjGHLg.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ogg5uq6oh3ir"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/uk5f1a3asxef"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/bwvw3n4rvxyg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-24",
+          "runtime": 24,
+          "tmdb_episode_id": 4350301,
+          "tmdb_still_path": "/6bL1AUjhnUJjLhAoWkJ4SksPW3L.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/77h2pl7dnzg5"
+            },
+            {
+              "id": 2,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/tdc8xqfwt9tb"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/x6lkjd59ccfe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-07-01",
+          "runtime": 24,
+          "tmdb_episode_id": 4350302,
+          "tmdb_still_path": "/71iETgbXw6FragBF5GoNyRqQWkN.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Mashle ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Mashle على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف ساخر، خارق للطبيعة، سحر، شونين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mashle على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/mashle",
+  "story": "يدور أنمي Mashle ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Mashle على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف ساخر، خارق للطبيعة، سحر، شونين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mashle على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chiaki Kobayashi، Reiji Kawashima، Kaito Ishikawa، Takuya Eguchi، Reina Ueda، Hiroaki Hirata",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "hxnl9nYl67k",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mashle",
+    "mainDescription": "يدور أنمي Mashle ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Mashle على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف ساخر، خارق للطبيعة، سحر، شونين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Mashle على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Mashle أنمي 2023 | يدور أنمي Mashle ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mashle من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/204832"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "mashle",
+      "title": "Mashle",
+      "url": "/anime/mashle",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/mashle.png"
+    },
+    {
+      "slug": "mashle-part-2",
+      "title": "Mashle Part 2",
+      "url": "/anime/mashle-part-2",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/mashle-part-2.jpg"
+    }
+  ],
+  "tmdb_id": 204832,
+  "tmdb_url": "https://www.themoviedb.org/tv/204832",
+  "original_title": "マッシュル-MASHLE-"
+}

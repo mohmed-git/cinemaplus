@@ -1,0 +1,29 @@
+---
+import type { TitleIndexEntry } from '../lib/types';
+import PosterCard from './PosterCard.astro';
+
+interface Props {
+  items: TitleIndexEntry[];
+  priorityCount?: number;
+  columns?: 'default' | 'dense';
+}
+const { items, priorityCount = 0, columns = 'default' } = Astro.props;
+const gridClass = columns === 'dense'
+  ? 'grid grid-cols-3 gap-3 sm:grid-cols-4 sm:gap-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7'
+  : 'grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6';
+---
+
+{items.length === 0 ? (
+  <div class="col-span-full flex flex-col items-center gap-4 py-20 text-center text-gray-400">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="h-16 w-16 opacity-30">
+      <path d="M15.6 11.6L22 7v10l-6.4-4.5v-1zM2 5a2 2 0 012-2h12a2 2 0 012 2v14a2 2 0 01-2 2H4a2 2 0 01-2-2V5z"/>
+    </svg>
+    <p class="text-lg">لا توجد نتائج.</p>
+  </div>
+) : (
+  <div class={gridClass}>
+    {items.map((item, i) => (
+      <PosterCard entry={item} priority={i < priorityCount} />
+    ))}
+  </div>
+)}

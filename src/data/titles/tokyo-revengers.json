@@ -1,0 +1,556 @@
+{
+  "slug": "tokyo-revengers",
+  "clean_title": "Tokyo Revengers",
+  "raw_name": "انمي Tokyo Revengers",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tokyo-revengers.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/P3rE6uMb4mSiF/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/2u7NHF52boLF"
+            }
+          ],
+          "overview": "هاناغاكي تاكيميتشي هو عامل لا قيمة له بدوام جزئي وهو في مقالب القمامة. يُصدم \" تاكيميتشي \" من أنباء مقتل صديقته السابقة ، لكنه يمضي في حياته اليومية عندما يُدفع فجأة على خطوط السكك الحديدية.",
+          "air_date": "2021-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2313424,
+          "tmdb_still_path": "/6FcmZTXklg6ONMC11H0sqiMBpZ7.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/HUqNkhrKs0egO/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/7rrhp25D5r38"
+            }
+          ],
+          "overview": "يعود تاكيميتشي إلى الحاضر بعد مصافحة ناوتو ويتم لم شمله مع ناوتو الذي أصبح الآن ضابط شرطة. ناوتو يطلب من تاكيميتشي العودة في الوقت المناسب ومنع زعيمي طوكيو مانجي جانج من الاجتماع.",
+          "air_date": "2021-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2817853,
+          "tmdb_still_path": "/f0ZhZ7fc7kWafyugqHbX7CoWhfO.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Yl17eV0mILCu3/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/Do871624caXJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2817854,
+          "tmdb_still_path": "/3egxb6LOeuuxOmtFJijFr9Va5h.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/1ETKvMhJwtIOi/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/r46c7JY3hn6J"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2817855,
+          "tmdb_still_path": "/bJAhezqKrwaL14vnxZxISHR5ptk.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/yjLC7YRhTDcex/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/emDQUkW61XmY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2817856,
+          "tmdb_still_path": "/mR9h9yI9jr5n10QRpGw4deQStnD.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/l0QrBfcowUAxC/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/iYhrVyb7a1B8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2817857,
+          "tmdb_still_path": "/6vC4aDuRfpHiyoNdqhW4KCWRYpz.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/rQpnozYRAP1LG/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/6b2epK078c0e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2817858,
+          "tmdb_still_path": "/w0Ivwpsw4kc0kIhy9D23DTVqUSK.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/VUHSNv6FAjrWk/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/W2iODuv0wwQY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2817859,
+          "tmdb_still_path": "/qNkYATNFMbApgvATdk2fU4w3zYa.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/aULemJodEPGA8/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/tjSbHFB5q5FE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2817860,
+          "tmdb_still_path": "/4WYP6vds19yH7CqGvsLUhy51QfJ.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Ko9Hc3It6hmQP/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/IVsVl6HN5Tr1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2817861,
+          "tmdb_still_path": "/n6vwasg7CIjbAvtLIBwaMdSi7Dc.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/G8wys7OMAm2Db/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/rH8wP23k581d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2817862,
+          "tmdb_still_path": "/1X0VRPm7hCzFxqD2r9X0owXNmtu.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/NG6sZRdJ0lkQ1/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/J44wc2BHlj6r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2817863,
+          "tmdb_still_path": "/5JjriIqwqK5i3BhGlyFDSOWA0EE.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/iSgVQEFdDOoUX/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/vq5x4K764X64"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3048320,
+          "tmdb_still_path": "/r7IfbXvxQ8NGmNdhJXquYtCqnje.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/fDMuW492xCBPp/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/JX6I83qhvkqy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3057335,
+          "tmdb_still_path": "/vsELfbgRw3Ez7MvdjIEFAdvpJgb.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/tZ768ixdFNQuU/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/ciSVPOG43Lxr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3057374,
+          "tmdb_still_path": "/vhjIqpf7K75fAGIpH9PJVI8YKyP.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/tLRBFz6Yb3j9I/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/GARk4h2G5R3d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 3057375,
+          "tmdb_still_path": "/pQFZAaNPfOuEqMFdwzCJTFSDZ0l.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/P6RUx70SOwByN/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/M41lCGWx6B73"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 3057378,
+          "tmdb_still_path": "/7xJjcQDAXp02UYtbqPaoDAWTxPJ.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/pgMsF6HjSfrt7/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/I6TVP05O47Sn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 3057379,
+          "tmdb_still_path": "/wVdKa97ErBzEa2FbBuFpF6i2EUz.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/80QuDJl6xarnS/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/5TQ3yy2ALK2e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 3057381,
+          "tmdb_still_path": "/zvzHveT5QouqOUCCRmw6FcmgIzV.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/pTKxMJEjCw0RY/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/QkYm31A1Xmq0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 3057384,
+          "tmdb_still_path": "/1BwUPV4RHuxUVeQC1ZzOLuYMs5C.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/BvALF3trWcJ05/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/7ixDSog8K3fB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 3057386,
+          "tmdb_still_path": "/AnrF7wDI5CvLXxQuFEH8CUfDCo0.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/INhRnSimxYl8w/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/iG6VTex6AyN0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3057387,
+          "tmdb_still_path": "/qK25ayIJZKY0HTmBXGbHnbdJcCZ.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/YINfzU2bLpymw/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/FYX6876Wr2T2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3057388,
+          "tmdb_still_path": "/41Ocdf3HTe0iPAoR320PvKcW0EY.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/jdl1WvPKsRIym/"
+            },
+            {
+              "id": 2,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/hy83sEKCF1Sm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3057389,
+          "tmdb_still_path": "/bQH23udylJmaQByLhUo7RMejQzX.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "هاناغاكي تاكيميتشي موظف حرّ وصل لأسوأ فترة في حياته. اكتشف أنّ عشيقته الوحيدة التي حظي بها في حياته والتي واعدها في الإعدادية، تاتشيبانا هيناتا قبل قُتلت من طرف عصابة طوكيو مانجي. في اليوم الذي يلي يوم سماعه لخبر موتها، كان يقف على رصيف المحطة ودُفع إلى السكة من طرف حشد من الناس. أغلق عينيه متوقعًا موته، لكن عندما فتحهما، وجد نفسه قد عاد بالزمن 12 سنة. بعد أن عاد ليعيش أفضل أيام حياته، يقرر تاكيميتشي الانتقام من حياته بإنقاذ عشيقته وتغيير نفسه التي كان يهرب منها.",
+  "url": "/anime/tokyo-revengers",
+  "story": "هاناغاكي تاكيميتشي موظف حرّ وصل لأسوأ فترة في حياته. اكتشف أنّ عشيقته الوحيدة التي حظي بها في حياته والتي واعدها في الإعدادية، تاتشيبانا هيناتا قبل قُتلت من طرف عصابة طوكيو مانجي. في اليوم الذي يلي يوم سماعه لخبر موتها، كان يقف على رصيف المحطة ودُفع إلى السكة من طرف حشد من الناس. أغلق عينيه متوقعًا موته، لكن عندما فتحهما، وجد نفسه قد عاد بالزمن 12 سنة. بعد أن عاد ليعيش أفضل أيام حياته، يقرر تاكيميتشي الانتقام من حياته بإنقاذ عشيقته وتغيير نفسه التي كان يهرب منها.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuuki Shin، Azumi Waki، Ryota Osaka، Yuu Hayashi، Tatsuhisa Suzuki، Takuma Terashima",
+  "genre": "أنمي، دراما، رسوم متحركة، حركة ومغامرة، جريمة",
+  "trailerId": "idlLFNNpZiI",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tokyo Revengers",
+    "mainDescription": "هاناغاكي تاكيميتشي موظف حرّ وصل لأسوأ فترة في حياته. اكتشف أنّ عشيقته الوحيدة التي حظي بها في حياته والتي واعدها في الإعدادية، تاتشيبانا هيناتا قبل قُتلت من طرف عصابة طوكيو مانجي. في اليوم الذي يلي يوم سماعه لخبر موتها، كان يقف على رصيف المحطة ودُفع إلى السكة من طرف حشد من الناس. أغلق عينيه متوقعًا موته، لكن عندما فتحهما، وجد نفسه قد عاد بالزمن 12 سنة. بعد أن عاد ليعيش أفضل أيام حياته، يقرر تاكيميتشي الانتقام من حياته بإنقاذ عشيقته وتغيير نفسه التي كان يهرب منها.",
+    "metaDescription": "Tokyo Revengers أنمي 2021 | هاناغاكي تاكيميتشي موظف حرّ وصل لأسوأ فترة في حياته | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tokyo Revengers من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/105009"
+    }
+  },
+  "tmdb_id": 105009,
+  "tmdb_url": "https://www.themoviedb.org/tv/105009",
+  "original_title": "東京リベンジャーズ"
+}

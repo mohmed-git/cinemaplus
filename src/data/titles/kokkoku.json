@@ -1,0 +1,304 @@
+{
+  "slug": "kokkoku",
+  "clean_title": "Kokkoku",
+  "raw_name": "انمي Kokkoku",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kokkoku.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857770416715"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-zue8x30nu5m4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1415206,
+          "tmdb_still_path": "/6CTHjerk3v1Vv5jxZYnlVFqmUSa.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857780116043"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-t3o2b7s86jqz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1419309,
+          "tmdb_still_path": "/zBGjOcYcj7RHNGHGGklsilzxfUO.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857786145355"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7pbpa8f77xuk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1422142,
+          "tmdb_still_path": "/qUq134absMGosjOYIqWP4VzvOtn.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857791388235"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ugqoj0nnng9e.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1425086,
+          "tmdb_still_path": "/7V2m7IkX271XFDdnNOdMyycGULX.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857797810763"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-c8umd2zxxh4x.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1428448,
+          "tmdb_still_path": "/mhCmCDQoCbrchAkX88nXpnWsqxy.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857802201675"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-pprp9b8y2vbs.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1431382,
+          "tmdb_still_path": "/yTFLHp1jS80ZS3TFJFTSoftYA5F.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857805544011"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fzw0ddjpxuiu.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1434668,
+          "tmdb_still_path": "/1Z8DoSj2nWje3y3MH4rUheFZ9j6.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857809476171"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0mozmbe9g045.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1434669,
+          "tmdb_still_path": "/9ILyK1RGBQLjXY3TFI4p7W5zrvL.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857812752971"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-h34668vw95ql.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1434670,
+          "tmdb_still_path": "/8VykZYAImiNR6CmwETuzFDZLjdn.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857816750667"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-h5qx6gtwt18v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1452247,
+          "tmdb_still_path": "/6sugaxTUrSW6XxIRh4SOxuPsN4.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857819044427"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-56hk9jn73o8z.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1456546,
+          "tmdb_still_path": "/9cy4oQlXHbtsHyoekDSF3649Ckv.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3857822779979"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-wdjleya9h3i3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1456547,
+          "tmdb_still_path": "/h9YZLVEpH6PPlBaGfrzNMtHUhWU.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kokkoku ضمن أجواء رسوم متحركة، دراما، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kokkoku تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، غموض، سينين، نفسي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/kokkoku",
+  "story": "يدور أنمي Kokkoku ضمن أجواء رسوم متحركة، دراما، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kokkoku تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، غموض، سينين، نفسي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chika Anzai، Kazuhiro Yamaji، Ryuto Iwata، Koji Tsujitani، Hirofumi Nojima، Asami Seto",
+  "genre": "أنمي، رسوم متحركة، دراما، غموض، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "7.0",
+  "imdb_rating": "7.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kokkoku",
+    "mainDescription": "يدور أنمي Kokkoku ضمن أجواء رسوم متحركة، دراما، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kokkoku تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، غموض، سينين، نفسي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Kokkoku أنمي 2018 | يدور أنمي Kokkoku ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kokkoku من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/76131"
+    }
+  },
+  "tmdb_id": 76131,
+  "tmdb_url": "https://www.themoviedb.org/tv/76131",
+  "original_title": "刻刻"
+}

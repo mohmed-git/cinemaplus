@@ -1,0 +1,472 @@
+{
+  "slug": "baby-steps",
+  "clean_title": "Baby Steps",
+  "raw_name": "انمي Baby Steps",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/baby-steps.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0qadmjljjq91"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-06",
+          "runtime": 25,
+          "tmdb_episode_id": 985516,
+          "tmdb_still_path": "/k0SkjCN6xNTNZvYOVEuJYZGMwaz.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tue0ged9d6rp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-13",
+          "runtime": 25,
+          "tmdb_episode_id": 1005944,
+          "tmdb_still_path": "/39l8SXZISRpSVBraHNI0BqSbC4J.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/if2bjx4xcurj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-20",
+          "runtime": 25,
+          "tmdb_episode_id": 1029587,
+          "tmdb_still_path": "/aIsd7WaWEiz0zv2tQuUYv07zkHt.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/kbhleevxsab9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-27",
+          "runtime": 25,
+          "tmdb_episode_id": 1029588,
+          "tmdb_still_path": "/hRO5HInkvbVrvcDkyhRFTxJrF5s.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tboayxet50bb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-04",
+          "runtime": 25,
+          "tmdb_episode_id": 1393292,
+          "tmdb_still_path": "/921wbyvRkir6SyojXNU3su8kZmt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xj67w8c438ln"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-11",
+          "runtime": 25,
+          "tmdb_episode_id": 1393293,
+          "tmdb_still_path": "/nM3XVQVQLMApCIVsZ1U1EEb5QjE.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vvjd15u4r78n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-18",
+          "runtime": 25,
+          "tmdb_episode_id": 1393294,
+          "tmdb_still_path": "/n6D1Iv8wT5quy56UqVOxHUCHw0R.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/x5u2oiuvyn4y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-25",
+          "runtime": 25,
+          "tmdb_episode_id": 1393295,
+          "tmdb_still_path": "/gzbEZftKpLX5WAiKGE8e9lzvcEC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vuwz6t2z1x0b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-01",
+          "runtime": 25,
+          "tmdb_episode_id": 1393296,
+          "tmdb_still_path": "/egM7YadGHTmEoxXsqVEVkmeSxGf.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7t4rqhmn0t1i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-08",
+          "runtime": 25,
+          "tmdb_episode_id": 1393297,
+          "tmdb_still_path": "/cVjkEjpDg6pQTWlGrvd7UidxRKS.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qziskol2a61x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-15",
+          "runtime": 25,
+          "tmdb_episode_id": 1393298,
+          "tmdb_still_path": "/Rr6BpX47cDhvTmK76SlVjDcuMb.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4qo7znysd15b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-22",
+          "runtime": 25,
+          "tmdb_episode_id": 1393299,
+          "tmdb_still_path": "/rLgxyyyfAsuq7u2bvAxgFVV5vg6.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/z6aq4ue94b56"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-29",
+          "runtime": 25,
+          "tmdb_episode_id": 1393300,
+          "tmdb_still_path": "/ds9thqsXIhJCRfcgblB0ebLOtTm.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0la7ql4ova6d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-06",
+          "runtime": 25,
+          "tmdb_episode_id": 1393301,
+          "tmdb_still_path": "/lHC0ZcsCFmm92XdkgCYJkSTVJTh.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/gskyc54m8qqz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-13",
+          "runtime": 25,
+          "tmdb_episode_id": 1393302,
+          "tmdb_still_path": "/5IJqxm15MSpFK5b86NEfc0gfbpp.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/73glo7ztl4b8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-20",
+          "runtime": 25,
+          "tmdb_episode_id": 1393303,
+          "tmdb_still_path": "/jlvD7XSD64QIIlm1jn0b027epLs.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cxr5oqyhufni"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-27",
+          "runtime": 25,
+          "tmdb_episode_id": 1393304,
+          "tmdb_still_path": "/p07V2ccoT1CH8gETjfI0D0hSFd9.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zr4zwzva8svx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-03",
+          "runtime": 25,
+          "tmdb_episode_id": 1393305,
+          "tmdb_still_path": "/ndQFyBLrRIkU9bRbvINoCEXHat6.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/r2yk1d6gh02b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-10",
+          "runtime": 25,
+          "tmdb_episode_id": 1393306,
+          "tmdb_still_path": "/6Y6D1zqnGJfrEuYhkF8CgpHwcpO.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4gjsbpj1mh5f"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-17",
+          "runtime": 25,
+          "tmdb_episode_id": 1393307,
+          "tmdb_still_path": "/1cMEPzsQ4lISM3zbXjIAW35sHvz.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/38h8yf4psqyi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-24",
+          "runtime": 25,
+          "tmdb_episode_id": 1393308,
+          "tmdb_still_path": "/9uEV03SCRIbOvnylp2MPmCdxuMG.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zsmk6lc2irb7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-31",
+          "runtime": 25,
+          "tmdb_episode_id": 1393309,
+          "tmdb_still_path": "/6cSeBKfKCaGAEp0m374uTyiOQPU.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/gy1hs1yxis0b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-07",
+          "runtime": 25,
+          "tmdb_episode_id": 1393310,
+          "tmdb_still_path": "/j1QpRw7iVkyCMBVGSGnd3B2tS67.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/94xare4kxtb3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-14",
+          "runtime": 25,
+          "tmdb_episode_id": 1393311,
+          "tmdb_still_path": "/3vxNEtBnakKXOWP4Et32wBqGX1a.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/sdazx5m8m7fo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-21",
+          "runtime": 25,
+          "tmdb_episode_id": 1393312,
+          "tmdb_still_path": "/ghsbSUigd6FFuHRfa01JwlEV8Ym.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Baby Steps ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و50 حلقة. يعتمد Baby Steps على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات رياضي، شونين، مدرسي، رومانسي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و25 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/baby-steps",
+  "story": "يدور أنمي Baby Steps ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و50 حلقة. يعتمد Baby Steps على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات رياضي، شونين، مدرسي، رومانسي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و25 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Taishi Murata، Minako Kotobuki، Daisuke Namikawa، Asami Seto، Hiro Shimono، Taiten Kusunoki",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "Qu7FMzQXhdI",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Baby Steps",
+    "mainDescription": "يدور أنمي Baby Steps ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 2 موسم و50 حلقة. يعتمد Baby Steps على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات رياضي، شونين، مدرسي، رومانسي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و25 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Baby Steps أنمي 2014 | يدور أنمي Baby Steps ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Baby Steps من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/60844"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "baby-steps",
+      "title": "Baby Steps",
+      "url": "/anime/baby-steps",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 25,
+      "poster": "/images/anime/baby-steps.jpg"
+    },
+    {
+      "slug": "baby-steps-2nd-season",
+      "title": "Baby Steps 2nd Season",
+      "url": "/anime/baby-steps-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 25,
+      "poster": "/images/anime/baby-steps-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 60844,
+  "tmdb_url": "https://www.themoviedb.org/tv/60844",
+  "original_title": "ベイビーステップ"
+}

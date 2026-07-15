@@ -1,0 +1,399 @@
+{
+  "slug": "fate-stay-night-unlimited-blade-works",
+  "clean_title": "Fate/stay night: Unlimited Blade Works",
+  "raw_name": "انمي Fate/stay night: Unlimited Blade Works",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/fate-stay-night-unlimited-blade-works.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/pus6ddk5902j"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/khez5rxv4bbj"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/0sijhpa137gs"
+            },
+            {
+              "id": 4,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/7jb314jytbva"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/0qtsvkdi7lis"
+            },
+            {
+              "id": 6,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/25j18vlbpx6c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-12",
+          "runtime": 48,
+          "tmdb_episode_id": 1019180,
+          "tmdb_still_path": "/sJjRDmMTmRQp0evKiFsg0pwbSVQ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/z8rf86ueytvx"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/foss3yuu3v39"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/q9oi4vn5m8p0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-19",
+          "runtime": 26,
+          "tmdb_episode_id": 1019181,
+          "tmdb_still_path": "/psEHF7O1Vp153KHgjGQjUYtibN3.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/htbao5fusumk"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hqe11s4xwzci"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/wz01k3vs11h9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-10-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1019182,
+          "tmdb_still_path": "/qTEAxfGguN9EvMOqceHj73FCGBm.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kom3iy5l9v4q"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ii7wy2shnc5h"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/8a68gyc7fy5y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1019183,
+          "tmdb_still_path": "/i1GodRqx65CTFIAh8ihj05r13tG.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0qkjc2yfs6h4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/49aro8v2nd4y"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/e3rfjeyr5ugq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1019184,
+          "tmdb_still_path": "/3TwbXmVy3wvMQDddfQWLN8ySuqs.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/2nfuv55tzdq8"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ojf635nky4hh"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/g8c9dcptzy7a"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1026838,
+          "tmdb_still_path": "/80EtdEwxJXn1c2DXqoh338Jnck8.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5paren4bzs7l"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/tr9l730ndfi8"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/1jlz81g7d949"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1026839,
+          "tmdb_still_path": "/pcEMvxoKv9Ia4zmEfvPSZlaRW5U.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/3uf2w1oa43i2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/nzmasguepzcx"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/c97gv0zxb7hz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-11-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1026840,
+          "tmdb_still_path": "/kJEtAbbHqlnwkEKU7qOmdSg9cdy.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/t2fj8wdcxfdv"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/s60trizev042"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/974dvzgco6dh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1026841,
+          "tmdb_still_path": "/b47jJxQbCFPRxuKnCVLq64lSYfL.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4qogt0nr7gse"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/2nephku2zpph"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/f32bqi8zvbmr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-14",
+          "runtime": 25,
+          "tmdb_episode_id": 1026842,
+          "tmdb_still_path": "/lvdmOhZpAs37L8qz7DhaJUMMDfV.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/owph2zrm3ct2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/0rptsat1uyci"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/d66wn1qd072v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1027875,
+          "tmdb_still_path": "/gD64ugp56V74RAoILmxnzQIgV6o.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/3nca8ln4m0pa"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/1vjnu1vn8jp4"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/8l2j2a4se5so"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-12-28",
+          "runtime": 48,
+          "tmdb_episode_id": 1027876,
+          "tmdb_still_path": "/6EPXA0MZCvm0ZAzIAkZ0pY2i5LL.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "الفيلم يتكلم عن حرب الكأس المقدسة حيث يستدعي سبعة من السحرة سبعة أبطال روحيين\n\nبطل قصتنـا هو شيرو الذي يفاجأ بأنه قد استدعى بطل روحي وهي سايبر\n\nثم يدخل شيرو في معمعة الحرب المقدسة .",
+  "url": "/anime/fate-stay-night-unlimited-blade-works",
+  "story": "الفيلم يتكلم عن حرب الكأس المقدسة حيث يستدعي سبعة من السحرة سبعة أبطال روحيين\n\nبطل قصتنـا هو شيرو الذي يفاجأ بأنه قد استدعى بطل روحي وهي سايبر\n\nثم يدخل شيرو في معمعة الحرب المقدسة .",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Noriaki Sugiyama، Kana Ueda، Junichi Suwabe، Ayako Kawasumi",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "61RuoLIlCUM",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Fate/stay night: Unlimited Blade Works",
+    "mainDescription": "الفيلم يتكلم عن حرب الكأس المقدسة حيث يستدعي سبعة من السحرة سبعة أبطال روحيين\n\nبطل قصتنـا هو شيرو الذي يفاجأ بأنه قد استدعى بطل روحي وهي سايبر\n\nثم يدخل شيرو في معمعة الحرب المقدسة .",
+    "metaDescription": "Fate/stay night: Unlimited Blade Works أنمي 2014 | الفيلم يتكلم عن حرب الكأس المقدسة حيث يستدعي سبعة من السحرة سبعة أبطال روحيين بطل قصتنـا هو شيرو…",
+    "highlights": "تم تحديث بيانات Fate/stay night: Unlimited Blade Works من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61415"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "fate-stay-night-unlimited-blade-works",
+      "title": "Fate/stay night: Unlimited Blade Works",
+      "url": "/anime/fate-stay-night-unlimited-blade-works",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/fate-stay-night-unlimited-blade-works.jpg"
+    },
+    {
+      "slug": "fate-stay-night-unlimited-blade-works-2nd-season",
+      "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+      "url": "/anime/fate-stay-night-unlimited-blade-works-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 13,
+      "poster": "/images/anime/fate-stay-night-unlimited-blade-works-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 61415,
+  "tmdb_url": "https://www.themoviedb.org/tv/61415",
+  "original_title": "Fate/stay night [Unlimited Blade Works]"
+}

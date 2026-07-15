@@ -1,0 +1,325 @@
+{
+  "slug": "lycoris-recoil",
+  "clean_title": "Lycoris Recoil",
+  "raw_name": "انمي Lycoris Recoil",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/lycoris-recoil.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/n756iekeq2j6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/d29icl2oowks"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-02",
+          "runtime": 24,
+          "tmdb_episode_id": 3420679,
+          "tmdb_still_path": "/iauquKZXghgLhPBL2zESoNWhsqN.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/jag1ec98ox4q"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xc7haaumz2nh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-09",
+          "runtime": 24,
+          "tmdb_episode_id": 3815859,
+          "tmdb_still_path": "/rEeiYfRuUZCcfxIGdokF4Itzpjg.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/2iyxuw85c8sd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/yyonstfnr33a"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3815860,
+          "tmdb_still_path": "/lkRbBRT6FFMPMTDtE8eRrb2DYvQ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5wpdl1mk5u7v"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ohzgvosajn7x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3815861,
+          "tmdb_still_path": "/7ic4g6NQoiawBVzTFXusGLl0XuY.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5sw9u12sqxyf"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/q775kjnvfq73"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 3815862,
+          "tmdb_still_path": "/oUdCd4rqNsRObv45FNvA6bsil6M.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vffl7u0zjmj3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/q3t88go9sngi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 3815863,
+          "tmdb_still_path": "/mFOT8g8xVsDB0IzDb19qKdt06ao.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/m96odd65m2fn"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/et9kpos8qrnp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 3815864,
+          "tmdb_still_path": "/cVyWZHaKQQ4Ex0Z4q5EoKzkK2EV.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/oe85dbtreww5"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/eaxl37y65lnb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 3815865,
+          "tmdb_still_path": "/x5pvnNkF1y7yUEBdq7N0kyddN2.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0n86vwjfinl2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/lidzxgp8ws4y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 3815915,
+          "tmdb_still_path": "/8ElzWAOVcHOG81yzEY75BkU7rnb.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/jpxob0gn3d5z"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/n8ubwda6e7v0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3815916,
+          "tmdb_still_path": "/hexq93q1fSacTRI6VrjXdRSbIYo.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/owz1tcp2m85y"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ns5tmb3htjbe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 3815917,
+          "tmdb_still_path": "/3K3eoIbOvU7Yeads7mFH4NU90xx.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/45c6vcet7ayq"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/onjb7rgp96mf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-17",
+          "runtime": 24,
+          "tmdb_episode_id": 3815918,
+          "tmdb_still_path": "/15Vl9CEm5Od97tcFm9lQ35S3n6I.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/2bthsz2tczwu"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/1q6c29yoye7u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-24",
+          "runtime": 24,
+          "tmdb_episode_id": 3815919,
+          "tmdb_still_path": "/n19LJPswIzi8d1aAktw9ai4Vyh0.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Lycoris Recoil ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Lycoris Recoil على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/lycoris-recoil",
+  "story": "يدور أنمي Lycoris Recoil ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Lycoris Recoil على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chika Anzai، Shion Wakayama، Ami Koshimizu، Misaki Kuno، Kosuke Sakaki",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا",
+  "trailerId": "F5DMjhg3A6c",
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Lycoris Recoil",
+    "mainDescription": "يدور أنمي Lycoris Recoil ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Lycoris Recoil على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Lycoris Recoil أنمي 2022 | يدور أنمي Lycoris Recoil ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Lycoris Recoil من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/154494"
+    }
+  },
+  "tmdb_id": 154494,
+  "tmdb_url": "https://www.themoviedb.org/tv/154494",
+  "original_title": "リコリス・リコイル"
+}

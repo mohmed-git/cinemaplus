@@ -1,0 +1,468 @@
+{
+  "slug": "jojo-no-kimyou-na-bouken",
+  "clean_title": "JoJo no Kimyou na Bouken",
+  "raw_name": "انمي JoJo no Kimyou na Bouken",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/jojo-no-kimyou-na-bouken.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "ديو المعتدي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/v73qw60j3w7j"
+            }
+          ],
+          "overview": "حين ينضمّ \"ديو براندو\" إلى عائلة أرستقراطية بعد وفاة والده، يضمر في نفسه قسَمًا قاطعًا بالاستيلاء على كل ما يملكه وريث العائلة \"جوناثان جوستار\" الملقب بـ\"جوجو\".",
+          "air_date": "2012-10-06",
+          "runtime": 24,
+          "tmdb_episode_id": 904520,
+          "tmdb_still_path": "/kiqwzS6w9rL4h4yYiZ9gyTlg0qC.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "رسالة من الماضي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/iz5kt2u5tijh"
+            }
+          ],
+          "overview": "يلتقي \"جوجو\" بزعيم إحدى عصابات الشوارع يُدعى \"سبيدواغون\" حين يذهب إلى \"لندن\" للتحقيق في اشتباه تعرّض والده للتسمّم على يد \"ديو\".",
+          "air_date": "2012-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 904517,
+          "tmdb_still_path": "/tGAWqP45ZjkoIH1eUtsYQrQwDKo.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "فترة شبابي مع ديو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ysjgdkuy0f2j"
+            }
+          ],
+          "overview": "أثناء مواجهة \"جوجو\" لـ\"ديو\" بعدما يعطي والده الترياق، يهمّ \"ديو\" بمهاجمة \"جوجو\" بسكين ويضع على وجهه القناع الحجري الملطّخ بالدماء.",
+          "air_date": "2012-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 904518,
+          "tmdb_still_path": "/hizMKHp69STEV4kodk4ASUmc9xO.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الطاقة المضاعفة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cwrwtxpw1ogh"
+            }
+          ],
+          "overview": "يجتمع شمل \"جوجو\" بحبّه الأول \"إرينا\". ويستعرض رجل يُدعى \"ويل إيه زيبلي\" قواه الغريبة، ويخبر \"جوجو\" بضرورة تحطيم القناع الحجري.",
+          "air_date": "2012-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 904515,
+          "tmdb_still_path": "/yS2cIgNCIuYt0YNsKulLBXBDryi.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "فارسا الظلام",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/w5moonyfwela"
+            }
+          ],
+          "overview": "يقع \"جوجو\" والصحبة المرافقة له في فخّ نصبه لهم \"ديو\" وحشود من وحوش الزومبي بعدما يستدرجهم فتًى يُدعى \"بوكو\" إلى المقابر.",
+          "air_date": "2012-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 904516,
+          "tmdb_still_path": "/haJRk3SMHuuemXQGYPjfTrMJNLH.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "شجاعة الغد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wrv5zwt4f4jj"
+            }
+          ],
+          "overview": "يستعيد الفارس الأسطوري \"بلوفورد\"، العائد إلى الحياة، روحه البشرية ويعهد بسيفه إلى \"جوجو\". أمّا \"تاركوس\"، فيهاجم \"جوجو\" مستعينًا بقوّته الهائلة الساحقة.",
+          "air_date": "2012-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 904514,
+          "tmdb_still_path": "/3MFnoOuLi2XDJOv07JqXQjIZ0Ir.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الوريث الحزين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xq3yb5h7t39o"
+            }
+          ],
+          "overview": "يهمّ \"زيبلي\" بمواجهة \"تاركوس\" رغم علمه بمصيره المروع. وقبل أن يلقى قدره المحتوم، يستعين بما تبقّى له من رَمق لينقل قواه إلى خليفته \"جوجو\".",
+          "air_date": "2012-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 904521,
+          "tmdb_still_path": "/2siQRWUBiDJptmBA0JuIBFTaJrg.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "قتال دموي! جوجو وديو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zbnq93i6kmdb"
+            }
+          ],
+          "overview": "ينقذ \"جوجو\" شقيقة \"بوكو\"، لكن \"ديو\" يمحو \"داير\" صديق \"زيبلي\" من الوجود تمامًا. وتتجدّد المواجهة بين \"ديو\" و\"جوجو\" الذي يحمل سيف \"بلوفورد\" في يده.",
+          "air_date": "2012-11-24",
+          "runtime": 24,
+          "tmdb_episode_id": 986250,
+          "tmdb_still_path": "/LzSUjDo8qoNySPF5Yyfu11QJ4g.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الموجة الأخيرة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7zhbr5fvf0r0"
+            }
+          ],
+          "overview": "ينطلق \"جوجو\" و\"إرينا\" في رحلة بحرية لقضاء شهر العسل بعد حفل زفافهما، لكن \"جوجو\" يصاب بصدمة عارمة حين يظهر على متن السفينة أحد أعوان \"ديو\".",
+          "air_date": "2012-12-01",
+          "runtime": 24,
+          "tmdb_episode_id": 904519,
+          "tmdb_still_path": "/dkKVrQZl55QazoySIXMPA2wPfKU.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "جوجو في نيويورك",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mev6dxz8gxaq"
+            }
+          ],
+          "overview": "تُكتشف أقنعة حجرية كثيرة وسط أطلال مكسيكية عام 1938. وفي الوقت نفسه، يهمّ \"جوزيف\" حفيد \"جوجو\" في \"نيويورك\" بنجدة شابّ يافع يُدعى \"سموكي\".",
+          "air_date": "2012-12-08",
+          "runtime": 24,
+          "tmdb_episode_id": 904513,
+          "tmdb_still_path": "/yjg2iTRgFaJpjOO8Ofkfk2NfzeV.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "سيّد اللعبة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7jezh3ckmu0a"
+            }
+          ],
+          "overview": "يتصدّى \"جوزيف\" لـ\"سترايتسو\" الذي أصبح مصّاص دماء بعد خيانته لصديقه \"سبيدواغون\". وبعد المعركة، يحذّر \"سترايتسو\" من كيان \"الرجل العمود\".",
+          "air_date": "2012-12-15",
+          "runtime": 24,
+          "tmdb_episode_id": 904525,
+          "tmdb_still_path": "/3daivEmX75UfB76yXaWeVQnRgLP.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "رجل العمود",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/y8abcjqyt1hn"
+            }
+          ],
+          "overview": "يتعرّض \"جوزيف\" للهجوم من قِبل أحد رجالات \"شتروهايم\" بعد وصوله إلى \"المكسيك\". وفي غضون ذلك، يحاول \"شتروهايم\" إيقاظ الرجل العمود \"سانتفينتو\".",
+          "air_date": "2012-12-22",
+          "runtime": 24,
+          "tmdb_episode_id": 904512,
+          "tmdb_still_path": "/wcOjVIOEzb5Y0RX3fQjR9r9QROH.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "جوجو في مواجهة مخلوق جبّار",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rs6oehn451gu"
+            }
+          ],
+          "overview": "يستعين \"جوزيف\" بقوة الموجة كي يلوذ بالفرار بعدما يمتصّه جسد \"سانتفينتو\". وحين لا يجدي الأمر نفعًا، يجرّب تعريض \"سانتفينتو\" لضوء الشمس.",
+          "air_date": "2013-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 904503,
+          "tmdb_still_path": "/uI6BRy2weamun8NpvHri4vW7nIJ.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "محاربون مثاليون من قديم الأزل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5h2kehn82oms"
+            }
+          ],
+          "overview": "يلتقي \"جوزيف\" و\"سبيدواغون\" بـ\"سيزر\" حفيد \"زيبلي\" عند وصولهما إلى \"روما\" بعد معرفتهما بوجود المزيد من رجال الأعمدة.",
+          "air_date": "2013-01-12",
+          "runtime": 24,
+          "tmdb_episode_id": 904504,
+          "tmdb_still_path": "/m39kBMOulcDWzj7kmWb6DdJtuRy.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "إثبات البطولة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ec3lrmx61eq3"
+            }
+          ],
+          "overview": "يبطل الرجل العمود \"وامو\" وبكل سهولة مفعول هجمة قاذفة الفقاقيع التي يشنّها \"سيزر زيبلي\" ويصيبه، فيما يستعرض \"جوزيف\" تقنيته السرّية المطورة حديثًا.",
+          "air_date": "2013-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 904522,
+          "tmdb_still_path": "/2amKo6qHPILzrzooFDzjKJjBMMH.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "ليزا ليزا مدرّبة الهامون",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vfk359z9lba4"
+            }
+          ],
+          "overview": "يصطحب \"سيزر\" صديقه \"جوزيف\" إلى مدينة \"البندقية\" ويقدّمه إلى معلّمته \"ليزا ليزا\" التي تبدأ وبكل صرامة في تدريبه على التحكّم في قواه الموجية.",
+          "air_date": "2013-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 904502,
+          "tmdb_still_path": "/u77DNcSXAeGIURVkHNGrrREdEGo.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الخطة الأعمق",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/le042ng2hosy"
+            }
+          ],
+          "overview": "تكشف \"ليزا ليزا\" أمام \"جوزيف\" بأنّ الجوهرة المعروفة باسم حجر \"إيجا\" الخارق ضرورية لتدمير رجال الأعمدة. ويضطلع \"جوزيف\" و\"سيزر\" بمواجهة سيّدَين آخرَين من سادات طاقة الموج.",
+          "air_date": "2013-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 904501,
+          "tmdb_still_path": "/5HWdIVR8TA5qqIr6M3H1WFzSZjh.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "انتقام فون شتروهايم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zb02fdy5iju0"
+            }
+          ],
+          "overview": "تتّحد قوى \"جوزيف\" و\"سيزر\" الموجية لمجابهة الرجل العمود الذي يستحوذ على جسد \"سوزي كيو\" لسرقة حجر \"إيجا\" الأحمر.",
+          "air_date": "2013-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 904510,
+          "tmdb_still_path": "/jiNmwMUqX0AKaP20tyQ626E4dMK.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "تنافس نحو الهاوية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/yglar78kpq4n"
+            }
+          ],
+          "overview": "يشرع \"شتروهايم\" في قتال \"كارز\" المحصّن بجسد آليّ جديد، بينما يتهاوى \"جوزيف\" و\"كارز\" من على الجرف خلال محاولتهما الإمساك بالحجر الأحمر.",
+          "air_date": "2013-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 904511,
+          "tmdb_still_path": "/pU27dEESLs2WqOq8iuzB8q82bS4.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "سيزر في صغره",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/90mit71uxpmw"
+            }
+          ],
+          "overview": "يصل \"سيزر\" إلى مخبأ العدوّ وفي جعبته حركة جديدة للهجوم، فيما تبوح \"ليزا ليزا\" بماضيه لـ\"جوزيف\".",
+          "air_date": "2013-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 904508,
+          "tmdb_still_path": "/nKENXHCZPBmjLCx54xHC1aFOkiR.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "مئة في مواجهة اثنين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9g5j4519rom6"
+            }
+          ],
+          "overview": "تتوصل \"ليزا ليزا\" إلى خطة ذكية عندما تجد هي و\"جوزيف\" أنّ \"وامو\" و\"كارز\" ينتظراهما في الفندق ومعهما مائة من مصاصي الدماء التابعين لهما.",
+          "air_date": "2013-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 904509,
+          "tmdb_still_path": "/dFwk5GFZ0znKMP5EkI7GjmrqwEa.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "محارب حقيقي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/98dl4mlq2sfa"
+            }
+          ],
+          "overview": "ينطلق \"جوزيف\" و\"وامو\" في سباقهما المميت بعربتيهما عند ساحة قديمة، ويجد \"جوزيف\" نفسه في موقف خطير رغم أنّه أمسك السلاح أولًا.",
+          "air_date": "2013-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 904523,
+          "tmdb_still_path": "/tlaWFTAuCVr9Fjq4HsHRcCPozQk.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "محارب الرياح",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/j6owatn1bd7x"
+            }
+          ],
+          "overview": "يتصدّى \"جوزيف\" لهجوم \"وامو\" الأخير برباط \"سيزر\" المشتعل. أمّا \"ليزا ليزا\"، فتتحدّى \"كارز\" في مواجهة فردية تُقام عند أنقاض المعبد.",
+          "air_date": "2013-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 904507,
+          "tmdb_still_path": "/tE3JdcRBT6LurWwSJv3p77JEfKe.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "أواصر جوجو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cdaldnrn6mb2"
+            }
+          ],
+          "overview": "يجاهد \"جوزيف\" لمنع \"ليزا ليزا\" من السقوط نحو مصرعها. وفي أعقاب ذلك، يكشف \"سبيدواغون\" عن بعض التفاصيل من ماضي \"ليزا ليزا\".",
+          "air_date": "2013-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 904505,
+          "tmdb_still_path": "/rXZcKRYzNoNQ4r67jM4Nlwb9iFa.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "ولادة الكائن الخارق",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0nniaij7f5ay"
+            }
+          ],
+          "overview": "يصبح \"كارز\" منيعًا فعليًا بفضل الحجر الأحمر. ويتّجه \"جوزيف\" على متن طائرة نحو بركان ليستدرج \"كارز\" إلى هلاكه في قلب الحمم.",
+          "air_date": "2013-03-30",
+          "runtime": 24,
+          "tmdb_episode_id": 904506,
+          "tmdb_still_path": "/8vrQgzGpFcfMEo2DOkhhRKFLIai.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الصاعد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/a3ykv22voc7p"
+            }
+          ],
+          "overview": "يظهر \"كارز\" من وسط الحمم السائلة ويقطع ذراع \"جوزيف\"، الذي يحمل بشكل غريزي الحجر الأحمر رافعًا إياه فيتلقّى الضربة القاضية من \"كارز\".",
+          "air_date": "2013-04-06",
+          "runtime": 23,
+          "tmdb_episode_id": 904524,
+          "tmdb_still_path": "/hj5zHiMl8eQsVhtXTwRhIS8U4pX.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تواجه أجيال عديدة من عائلة \"جوستار\"، يحمل جميع أفرادها اللقب نفسه، أشرارًا قواهم خارقة للطبيعة على فترات من الزمن.",
+  "url": "/anime/jojo-no-kimyou-na-bouken",
+  "story": "تواجه أجيال عديدة من عائلة \"جوستار\"، يحمل جميع أفرادها اللقب نفسه، أشرارًا قواهم خارقة للطبيعة على فترات من الزمن.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shogo Sakata، Yohei Azakami، Kaito Ishikawa، Rie Takahashi، Kenta Miyake",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "fOvrr5izejw",
+  "rating": "8.6",
+  "imdb_rating": "8.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "JoJo no Kimyou na Bouken",
+    "mainDescription": "تواجه أجيال عديدة من عائلة \"جوستار\"، يحمل جميع أفرادها اللقب نفسه، أشرارًا قواهم خارقة للطبيعة على فترات من الزمن.",
+    "metaDescription": "JoJo no Kimyou na Bouken أنمي 2012 | تواجه أجيال عديدة من عائلة \"جوستار\" | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات JoJo no Kimyou na Bouken من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45790"
+    }
+  },
+  "tmdb_id": 45790,
+  "tmdb_url": "https://www.themoviedb.org/tv/45790",
+  "original_title": "ジョジョの奇妙な冒険"
+}

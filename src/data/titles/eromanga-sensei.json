@@ -1,0 +1,304 @@
+{
+  "slug": "eromanga-sensei",
+  "clean_title": "Eromanga-sensei",
+  "raw_name": "انمي Eromanga-sensei",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/eromanga-sensei.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/w6dxak5qnkqb"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/flaq79dw1pyk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-09",
+          "runtime": 23,
+          "tmdb_episode_id": 1292219,
+          "tmdb_still_path": "/oFIbkpRrmJPWJMsvD29KcLD6i3k.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xtkls0nmx2fs"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/dfzysqpqjmtc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-16",
+          "runtime": 23,
+          "tmdb_episode_id": 1303706,
+          "tmdb_still_path": "/dUwYE0VsNTEMehJCK3kXFODA7GY.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/bvio01ngkx6x"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bjw8nlsm00xh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-23",
+          "runtime": 23,
+          "tmdb_episode_id": 1306523,
+          "tmdb_still_path": "/6d2yUTOvHew31PM6RE9ZAfPgdZT.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/w4d45jb2b58z"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/38dzhh6eu3g7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-30",
+          "runtime": 23,
+          "tmdb_episode_id": 1310139,
+          "tmdb_still_path": "/jqgZQEHjHq44pfMHmfENRhRlFDT.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/abqcfqgqqkzj"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/y7ind7gjrjqk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-07",
+          "runtime": 23,
+          "tmdb_episode_id": 1311933,
+          "tmdb_still_path": "/vcObPhMHzQFb25eMCEv1P0XR2N.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/bjhh2j2s17l3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/yf07bzlf5ft1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-14",
+          "runtime": 23,
+          "tmdb_episode_id": 1316683,
+          "tmdb_still_path": "/uDL7FVb5WgIT2aSa1BEJ4Pl4tZs.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/bgvrpixc75kn"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7tn3sifk27m6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-21",
+          "runtime": 23,
+          "tmdb_episode_id": 1318832,
+          "tmdb_still_path": "/3WoyMWkGg6I336FIL55UOHgWTcd.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/99m4hn2lx97c"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4anoya25z2y3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-28",
+          "runtime": 23,
+          "tmdb_episode_id": 1321453,
+          "tmdb_still_path": "/ju1lVFb3C4jeQAS53ueHSQMD8Uy.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kg0tcf2hp7xt"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3vmt1idnqdr3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-04",
+          "runtime": 23,
+          "tmdb_episode_id": 1323810,
+          "tmdb_still_path": "/t47tMvXFfu1NgzxuLv6YscQdSAF.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/p17ml49ynegh"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bzv8uuod69ws"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-11",
+          "runtime": 23,
+          "tmdb_episode_id": 1325300,
+          "tmdb_still_path": "/4uv8ZYxRCke3UuCPZrsbn2pMYRk.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/3tmsk2cunhy6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/n6msuabxpjun"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-18",
+          "runtime": 23,
+          "tmdb_episode_id": 1329821,
+          "tmdb_still_path": "/vNDVNP3EfIhDwa6DDZ8KvUBlHYo.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/lb07ou94dwgq"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/og0qidibktra"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-25",
+          "runtime": 23,
+          "tmdb_episode_id": 1331558,
+          "tmdb_still_path": "/yqZMZkLgY9Qwnu68Qu9ecPr80xM.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور القصة حول أخ وأخته. الأخ هو طالب في الثانوية ومؤلف روايات خفيفة يُدعى (ماساموني) والأخت هي فتاة جليسة البيت تدعى (ساغيري)، لم تطئ قدميها الشارع منذ عام وتعيش منعزلة عن العالم الخارجي، كأي كاتب روايات خفيفة لابد أن تكون هناك رسومات مرفقة في الروايات والرسام المسؤول عن هذا العمل في روايات (ماساموني) غير معروف ولكن من رسوماته أستنتج (ماساموني) أنه شخص منحرف ولكن ينصدم لاحقاً من هوية الرسام.",
+  "url": "/anime/eromanga-sensei",
+  "story": "تدور القصة حول أخ وأخته. الأخ هو طالب في الثانوية ومؤلف روايات خفيفة يُدعى (ماساموني) والأخت هي فتاة جليسة البيت تدعى (ساغيري)، لم تطئ قدميها الشارع منذ عام وتعيش منعزلة عن العالم الخارجي، كأي كاتب روايات خفيفة لابد أن تكون هناك رسومات مرفقة في الروايات والرسام المسؤول عن هذا العمل في روايات (ماساموني) غير معروف ولكن من رسوماته أستنتج (ماساموني) أنه شخص منحرف ولكن ينصدم لاحقاً من هوية الرسام.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoshitsugu Matsuoka، Akane Fujita، Minami Takahashi، Saori Onishi، Ibuki Kido، Yui Ishikawa",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "mpMhVcgwOQY",
+  "rating": "5.9",
+  "imdb_rating": "5.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Eromanga-sensei",
+    "mainDescription": "تدور القصة حول أخ وأخته. الأخ هو طالب في الثانوية ومؤلف روايات خفيفة يُدعى (ماساموني) والأخت هي فتاة جليسة البيت تدعى (ساغيري)، لم تطئ قدميها الشارع منذ عام وتعيش منعزلة عن العالم الخارجي، كأي كاتب روايات خفيفة لابد أن تكون هناك رسومات مرفقة في الروايات والرسام المسؤول عن هذا العمل في روايات (ماساموني) غير معروف ولكن من رسوماته أستنتج (ماساموني) أنه شخص منحرف ولكن ينصدم لاحقاً من هوية الرسام.",
+    "metaDescription": "Eromanga-sensei أنمي 2017 | تدور القصة حول أخ وأخته | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Eromanga-sensei من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/70878"
+    }
+  },
+  "tmdb_id": 70878,
+  "tmdb_url": "https://www.themoviedb.org/tv/70878",
+  "original_title": "エロマンガ先生"
+}

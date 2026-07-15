@@ -1,0 +1,325 @@
+{
+  "slug": "odd-taxi",
+  "clean_title": "Odd Taxi",
+  "raw_name": "انمي Odd Taxi",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/odd-taxi.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910946982475"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rlddtcfph0el"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2642098,
+          "tmdb_still_path": "/g2e8OFNFyawDELLKPljErjjHONY.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910947965515"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ejnttnflxxyb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2853371,
+          "tmdb_still_path": "/rnXvfRwoDCuCm7Ca8fxyvpi3MdA.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910949014091"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/l1gc2r7h1zpf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2866608,
+          "tmdb_still_path": "/hg53RhNQ40zJFqK7eH8e7WdBU6O.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910950193739"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/p4vhvh8mst5k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2866609,
+          "tmdb_still_path": "/5HuUFxTOs6LubYfhfrqvukkAmbk.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910951766603"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/stguzxpmspbf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2870916,
+          "tmdb_still_path": "/j7UDar1gU6CCGQ9ALl0PJ5xvtpX.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910953208395"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/yloeok7foed4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2870917,
+          "tmdb_still_path": "/vc3fFnDjod29SYYvwf9inlcuWEN.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910954453579"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/0k8v0lioehxk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2870918,
+          "tmdb_still_path": "/yIdmjYDx3SlSpf3QS6zmAxxn1hB.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910957271627"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/2t5vah8yofvg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2870919,
+          "tmdb_still_path": "/bPZhjpEvd5eQrXJ1xdAWj9eqC4D.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910959237707"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/2lyjusbiljv7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2870920,
+          "tmdb_still_path": "/8GVTUrIsCJYrCFWZA67tXbiV0If.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910960810571"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/qa8mve9c4d55"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2870921,
+          "tmdb_still_path": "/i6gA7xpbeft6Uvp3iDuUKsTlSaA.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910961924683"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/jdyjsa6axld1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2870922,
+          "tmdb_still_path": "/minllFBfBd1SRwYb3D8OKBWEDqE.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910962842187"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/drljmhxdtp6i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2870924,
+          "tmdb_still_path": "/plkE9s3HYA0lCaZNbMP9CXCTWu4.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910964152907"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/y8z4dytkywml"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2870926,
+          "tmdb_still_path": "/2TGvYNjXhuCVK0NTlrcnvNGnZGc.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Odd Taxi ضمن أجواء رسوم متحركة، كوميديا، غموض، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Odd Taxi من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/odd-taxi",
+  "story": "يدور أنمي Odd Taxi ضمن أجواء رسوم متحركة، كوميديا، غموض، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Odd Taxi من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Baku Kinoshita",
+  "stars": "Natsuki Hanae، Ryohei Kimura، Riho Iida، Takashi، Kappei Yamaguchi، Kenji Hamada",
+  "genre": "أنمي، رسوم متحركة، كوميديا، غموض، جريمة",
+  "trailerId": "u2h_--ng8rk",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Odd Taxi",
+    "mainDescription": "يدور أنمي Odd Taxi ضمن أجواء رسوم متحركة، كوميديا، غموض، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Odd Taxi من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Odd Taxi أنمي 2021 | يدور أنمي Odd Taxi ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Odd Taxi من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/116727"
+    }
+  },
+  "tmdb_id": 116727,
+  "tmdb_url": "https://www.themoviedb.org/tv/116727",
+  "original_title": "オッドタクシー"
+}

@@ -1,0 +1,544 @@
+{
+  "slug": "kizetsu-yuusha-to-ansatsu-hime",
+  "clean_title": "Kizetsu Yuusha to Ansatsu Hime",
+  "raw_name": "انمي Kizetsu Yuusha to Ansatsu Hime",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kizetsu-yuusha-to-ansatsu-hime.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9632667732678"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DGDFknMj7sLNbpYv"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mjmfk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9632673893062"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9632678480582"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hczLXmTblwJ2k3mN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5967378,
+          "tmdb_still_path": "/a4yGYbyCKkM8gaGKL5OU0nmlAuq.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9644781603526"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QIwM9GlOYzdz5vQ2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mupde"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9644785208006"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9644787501766"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GlRM5Adcvu3ttFvK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 6360533,
+          "tmdb_still_path": "/76BPc1XanShTUM4h1VbFurSlLlF.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9664461081286"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=s0UKyEZhsHM1N8CX"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9na7gi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9664464161478"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9664466127558"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dB75P4auzz7UG6VV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 6375997,
+          "tmdb_still_path": "/x37Tq1FWr0OEkJQ34gWPQpIHhzo.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9689879481030"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=L9WX40xMCq76EDDZ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nuvui"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9689885838022"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9689888524998"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ALPfYyDo9L9PaAsV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 6383664,
+          "tmdb_still_path": "/9VI4cTWV9nYuUDaPOE0ZyKUoZCz.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9703105366726"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Npc7IcwuomW9l4kS"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9o57x0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9703111723718"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9703117621958"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "http://videa.hu/player?v=2cHkLr6Ey8zaYmId"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 6383665,
+          "tmdb_still_path": "/zUYNqRjaLOzvkhfzj9edaEkXdWz.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9906163288774"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kQXIqdCwjdpOcwrO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9rgu8k"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9906164337350"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9906165648070"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mWSLIJI9lSnxjYjs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 6383666,
+          "tmdb_still_path": "/3mNPN2Y91CjjOzSxgnXfoxXBBD3.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9906181966534"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=16PCj6gHfXEqzzTj"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9rgutq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9906183736006"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9906185636550"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QeZ4jGnq8BOKM8ZW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 6436835,
+          "tmdb_still_path": "/vkNVkUe6RShYyF1VuSr61LbwBkQ.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9906197695174"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1l0r5k29jchSw15j"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9rgvb8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9906199988934"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9906207460038"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7a8Fqy7Or3woUN3Y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 6436836,
+          "tmdb_still_path": "/tUO2OPBOXwzVP1oCWfl4ZJVPb4j.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9906214603462"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XBIzbMoVO4oDeL4Y"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9rgvr0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9906215914182"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9906223647430"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dyiTHgDLvuvbmQ0F"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 6436837,
+          "tmdb_still_path": "/lkfl7xeWqx2CwTJs0txJFdz8BhF.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9906243832518"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=H131CgZyxwnYKleF"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9rgwcw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9906247043782"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9906250123974"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2CA81tWrvcUSeJ3I"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-13",
+          "runtime": 24,
+          "tmdb_episode_id": 6436839,
+          "tmdb_still_path": "/liX6XnDghbCFaCj4RbFmYlDjjik.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9906267294406"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Rdoz50RdM53OMu29"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9rgx4i"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9906268998342"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9906272340678"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UtrGVHRq8H8rL2gF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-20",
+          "runtime": 24,
+          "tmdb_episode_id": 6436840,
+          "tmdb_still_path": "/hDplsedizPuhg1QjxAIJ1BMu5Dq.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9923495201478"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sMs6ejzOAhUA6bHf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ro7ra"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9923503459014"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9923509422790"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AZVm5l6qoipWHlav"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-27",
+          "runtime": 24,
+          "tmdb_episode_id": 6436841,
+          "tmdb_still_path": "/uZIeI45sIGaUXuM6QcGl1gbBMs0.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kizetsu Yuusha to Ansatsu Hime ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kizetsu Yuusha to Ansatsu Hime تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/kizetsu-yuusha-to-ansatsu-hime",
+  "story": "يدور أنمي Kizetsu Yuusha to Ansatsu Hime ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kizetsu Yuusha to Ansatsu Hime تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shunsuke Takeuchi، Iori Saeki، Hitomi Ueda، Haruka Shiraishi",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "xn1Uc6kTFw4",
+  "rating": "6.5",
+  "imdb_rating": "6.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kizetsu Yuusha to Ansatsu Hime",
+    "mainDescription": "يدور أنمي Kizetsu Yuusha to Ansatsu Hime ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Kizetsu Yuusha to Ansatsu Hime تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Kizetsu Yuusha to Ansatsu Hime أنمي 2025 | يدور أنمي Kizetsu Yuusha to Ansatsu Hime ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kizetsu Yuusha to Ansatsu Hime من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/283705"
+    }
+  },
+  "tmdb_id": 283705,
+  "tmdb_url": "https://www.themoviedb.org/tv/283705",
+  "original_title": "気絶勇者と暗殺姫"
+}

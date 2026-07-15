@@ -1,0 +1,575 @@
+{
+  "slug": "kamisama-hajimemashita",
+  "clean_title": "Kamisama Hajimemashita",
+  "raw_name": "انمي Kamisama Hajimemashita",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kamisama-hajimemashita.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/z0l5yeecgpin"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/2r7pyu26zqlpzjm"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/8Tgq6OkBrsJ7y/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/8Tgq6OkBrsJ7y/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/q35q-se5rkkr0mq"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-387f0xwobwer.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1065123,
+          "tmdb_still_path": "/4g40WqUrlL1zr4u5R8r25YeItv2.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/bc6eva4gz7ag"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5ud01np0868"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/dx34N7pCu2fHQ/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/dx34N7pCu2fHQ/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh327z8gxzk"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0t5m5tide9gt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1065127,
+          "tmdb_still_path": "/sY4MQYSJOspcgBIUGYD53aIqUia.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/18kqdu8i09kb"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adz8ql--k7"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/HRNfncQS1ebP5/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/HRNfncQS1ebP5/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b813zpeklp"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-wbscybot25z8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1065128,
+          "tmdb_still_path": "/xmR5QXAh63mCGAD9XQC6k2FmV4.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/cf7anadpfei1"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp05-lwg4"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/hV7wg2opqLxzR/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/hV7wg2opqLxzR/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yuj40-l65zq"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-n1dh5b9cfdth.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1065129,
+          "tmdb_still_path": "/ztWdWxnRmgPEv3FsAvFY1lEuYad.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/8vzwxj5vyfbc"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5j6300w4j"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Ba1ixCKsOnLXk/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Ba1ixCKsOnLXk/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yuj40-dk1w0"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-jkh95yivwmmh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1065130,
+          "tmdb_still_path": "/5bpCswCssPhkCGd2ZMjDyTMZuPu.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/35j3bb8epnu8"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5j6rx-d74"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/TawhyCJYg09Vc/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/TawhyCJYg09Vc/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adz8j5p0k6"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-hz2kbnf9dwzi.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1065163,
+          "tmdb_still_path": "/f0X68Sm2MzonlUU4DtOgjymEhoP.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ztfnqz5ugtj9"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-un3k-68-64"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/nWDcJAvofiEIx/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/nWDcJAvofiEIx/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn6g2jkpe5"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-o7g8a0twrols.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1065199,
+          "tmdb_still_path": "/Aq79xtr6sZiQ2EI6GfLNrvtIs3W.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/yrvtjkzinakr"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmqz0klrz-"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/q72RyMm4Vr68n/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/q72RyMm4Vr68n/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpdnm1enyg"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-5q3uyv36lhf8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1065222,
+          "tmdb_still_path": "/ch4EgC3cr2ZlGvajhVYSoioQQ6b.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/okzubyjlgmuy"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp0x32073"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/LOXa6kbdjJPnN/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/LOXa6kbdjJPnN/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-ter5wkk878"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6o4kr9uij6wd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1065244,
+          "tmdb_still_path": "/xyhxlfOEkoby1sVVOew2hOzg9Sr.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/vbgswxmzbyrv"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn6gd38der"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/83HpJVWbL60eK/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/83HpJVWbL60eK/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpdnmdl1jz"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qle43o30ou39.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1065287,
+          "tmdb_still_path": "/rMc8FBK9LfU3EsNEEpec6zB26wv.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/tuujwbozqvuj"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj4l-k-eq-"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/DWI7dqcwXLC8B/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/DWI7dqcwXLC8B/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh327zkzgx6"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bw2cevcb00po.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1065323,
+          "tmdb_still_path": "/hEg2HWF4S9744xcxeMMkFcsk36P.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/wqpvm18efnqj"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-7p14zeyq"
+            },
+            {
+              "id": 3,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/A2y0RH8kWclQ7/mirror"
+            },
+            {
+              "id": 4,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/A2y0RH8kWclQ7/"
+            },
+            {
+              "id": 5,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh2486n-gql"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ox0a8gj0hsel.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1065342,
+          "tmdb_still_path": "/es3fdI3KRary119MWLeKPjh4QJE.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/zLw89kdY4JNgb/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/zLw89kdY4JNgb/"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/dz0egtxkgqz70rl"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-l0tctxtvk44v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1065348,
+          "tmdb_still_path": "/owQKPmiFUspYin4qFKJH5zfDVGn.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kamisama Hajimemashita ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. يعتمد Kamisama Hajimemashita على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء شياطين، شوجو، خارق للطبيعة، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/kamisama-hajimemashita",
+  "story": "يدور أنمي Kamisama Hajimemashita ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. يعتمد Kamisama Hajimemashita على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء شياطين، شوجو، خارق للطبيعة، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yui Horie، Suzuko Mimori، Daisuke Namikawa، Daisuke Kishio، Satomi Sato، Vanilla Yamazaki",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "FiT74QILpkg",
+  "rating": "8.6",
+  "imdb_rating": "8.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kamisama Hajimemashita",
+    "mainDescription": "يدور أنمي Kamisama Hajimemashita ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. يعتمد Kamisama Hajimemashita على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء شياطين، شوجو، خارق للطبيعة، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Kamisama Hajimemashita أنمي 2012 | يدور أنمي Kamisama Hajimemashita ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kamisama Hajimemashita من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/62741"
+    }
+  },
+  "tmdb_id": 62741,
+  "tmdb_url": "https://www.themoviedb.org/tv/62741",
+  "original_title": "神様はじめました"
+}

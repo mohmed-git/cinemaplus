@@ -1,0 +1,484 @@
+{
+  "slug": "unnamed-memory",
+  "clean_title": "Unnamed Memory",
+  "raw_name": "انمي Unnamed Memory",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/unnamed-memory.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7295682546251"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZO4jWGWdXdY9P0pX"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7295691131467"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7295694801483"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WZOKuaJA1kOjiNYp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4102406,
+          "tmdb_still_path": "/f8XRQAvYXIHDIOwmlGqeihABXGP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7315374672459"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=APPT1AgqcpVm9y3v"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7315386796619"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7315401869899"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ff9vgjueVt7gU3QN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 5258103,
+          "tmdb_still_path": "/33T4pe82JeLKj5ijhUAm5ADOFV5.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7335615793739"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CF99PQalBRFG0zOZ"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7335623068235"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7335627262539"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=amGyJZBADm0dwMPn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 5258106,
+          "tmdb_still_path": "/2ugYvuq4wVybRSGJedNo9d6bTdA.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7356702657099"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2FGjO2BrxXWFSRO3"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7356711307851"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7356717730379"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nbTCI8C31TfKTr62"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 5258107,
+          "tmdb_still_path": "/c3wUDuRtvH8bR8vhy1xSiOZte5x.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7379332041291"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xi518g0hoedLUuvg"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7379340429899"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7379344427595"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vw2vSWhmWOddCMth"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5258108,
+          "tmdb_still_path": "/mdxiZBra1d7m6dX2bghreyfb4kd.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7403204708939"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OzLdHlbv5Ws8Gn3G"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7403213490763"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7403217226315"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AUNDErTqZ4ZuoPS3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5258110,
+          "tmdb_still_path": "/aKTewR6bs4mUSwHlILT64SOxlPM.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7426033322571"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6OT44Rz2TR50jFGl"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7426043087435"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7426046364235"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qi0vsJVBrzGZwPAX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5258111,
+          "tmdb_still_path": "/fRaFMvZOZ9YCcCd6BZ2baAE24ut.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7446568045131"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=y8hOEItXnOWboJoM"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7446578530891"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7446588754507"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eS8WC1FNOofmvgfP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5258112,
+          "tmdb_still_path": "/hgRSIewmkZfrr3qXLh4YCDYT4jr.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7469618760267"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Z3O0ohXoShoi0QOm"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7469627083339"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7469631015499"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wckplmLc9r1iN3r9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 5258113,
+          "tmdb_still_path": "/7jjodA6biA9AkTPBlwtyUbTP6XK.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7493140613707"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VjC5QfKotJupwsUH"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7493145659979"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7493148084811"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aXV9EA4Nqbk6pXHO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 5258114,
+          "tmdb_still_path": "/2xi4GSgD9Gh0zEuyA3MwLCcbypN.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7514780207691"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=cGLLZJTsO1N4dbGu"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7514793249355"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7514795543115"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XiO95BC6xF94ZiIc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 5258116,
+          "tmdb_still_path": "/3bSD3H5ISX1Otmc6cb9BfFy6bmC.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7541816756811"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UBSs5Gd2wYcB0MHC"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7541818001995"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7541819443787"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=F3FuJp9AYYd3Yw8L"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 5258117,
+          "tmdb_still_path": "/9sBke7uHdvpWViB4V5efDOvAl83.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Unnamed Memory ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. تبدأ قصة Unnamed Memory من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Unnamed Memory على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/unnamed-memory",
+  "story": "يدور أنمي Unnamed Memory ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. تبدأ قصة Unnamed Memory من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Unnamed Memory على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoshiki Nakajima، Atsumi Tanezaki",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "s-PhW75-6Hs",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Unnamed Memory",
+    "mainDescription": "يدور أنمي Unnamed Memory ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. تبدأ قصة Unnamed Memory من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Unnamed Memory على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Unnamed Memory أنمي 2024 | يدور أنمي Unnamed Memory ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Unnamed Memory من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/216272"
+    }
+  },
+  "tmdb_id": 216272,
+  "tmdb_url": "https://www.themoviedb.org/tv/216272",
+  "original_title": "Unnamed Memory"
+}

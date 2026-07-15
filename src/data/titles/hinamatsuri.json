@@ -1,0 +1,244 @@
+{
+  "slug": "hinamatsuri",
+  "clean_title": "Hinamatsuri",
+  "raw_name": "انمي Hinamatsuri",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hinamatsuri.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429367282251"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1426236,
+          "tmdb_still_path": "/g6E1uUyXazy7ug1nCtYByrAkL49.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429396445771"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1470330,
+          "tmdb_still_path": "/qVYvLaFkkfSpgSsbt9ONnXwAhlc.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429411060299"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1473712,
+          "tmdb_still_path": "/1M7iOkYY6ppyTeSWrVD6YDSR0Gl.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429419186763"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1478715,
+          "tmdb_still_path": "/fFKriXzL59l4pR84wptuCVShtdp.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429427771979"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1478716,
+          "tmdb_still_path": "/pj6AY1DW6kqSWDoThZPq8rKDzvG.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429437471307"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1478717,
+          "tmdb_still_path": "/qWgcbjLHrsVnejr6Ve0v1Fucv0c.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429447105099"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1478718,
+          "tmdb_still_path": "/aqP9Sk4ZKlWUZgZjOrhWkFxT2uP.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429454838347"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1478719,
+          "tmdb_still_path": "/x1AfFntd1ounvoGw0DpKfTZ4jzo.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429464734283"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1478720,
+          "tmdb_still_path": "/937cMadqUFK9lTgwEewAEwRR7wj.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429475809867"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1478721,
+          "tmdb_still_path": "/cKcoMFgSdmgNXGDhdU5ZE1a3n7s.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429486099019"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1478722,
+          "tmdb_still_path": "/owCSVywvyQQXAyvGINIpKCbxX9Z.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4429504973387"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1478723,
+          "tmdb_still_path": "/AeSPYxFrUMYae7IX5vhuaWBsinf.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hinamatsuri ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Hinamatsuri تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، سينين، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/hinamatsuri",
+  "story": "يدور أنمي Hinamatsuri ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Hinamatsuri تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، سينين، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Takako Tanaka، Yoshiki Nakajima، Rie Murakawa، Kaede Hondo، Ari Ozawa، Tsuyoshi Koyama",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "s4ODGwk3-xs",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hinamatsuri",
+    "mainDescription": "يدور أنمي Hinamatsuri ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Hinamatsuri تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، سينين، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Hinamatsuri أنمي 2018 | يدور أنمي Hinamatsuri ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hinamatsuri من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/76758"
+    }
+  },
+  "tmdb_id": 76758,
+  "tmdb_url": "https://www.themoviedb.org/tv/76758",
+  "original_title": "ヒナまつり"
+}

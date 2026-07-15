@@ -1,0 +1,479 @@
+{
+  "slug": "build-divide-code-black",
+  "clean_title": "Build Divide: Code Black",
+  "raw_name": "انمي Build Divide: Code Black",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/build-divide-code-black.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/qdzyFfa68wNUQ/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/qdzyFfa68wNUQ/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/FDPFrcyomWE0"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/tv8glyzcao63"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/xw5sjk3u2ruh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2887374,
+          "tmdb_still_path": "/uLeKpNPxQrP3hTk84a0prmJU4yX.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/3oURP2jAFXWBL/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/3oURP2jAFXWBL/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/G7e1In35FnJ3"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/935dn8nblw1m"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/y1fdamxityii"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 3273129,
+          "tmdb_still_path": "/itclMxOnKArNdRpyaF4GqEywMs.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/rs6eiyESDBvWG/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/rs6eiyESDBvWG/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/m4C1R77545RR"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/glsbcjoqobr4"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/nesl5ggl5ffv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 3273130,
+          "tmdb_still_path": "/8l9bFEpyv3Fq8jW6tCWJCiD0SoQ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/LZmTYw738AnCD/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/LZmTYw738AnCD/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/suXgq68ds6v3"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/iuewl1ylzk57"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/h5widw3wphcn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 3273131,
+          "tmdb_still_path": "/yPAPdE1l3Ua0Kv4R7gX1qA5ohXM.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/QX5MVJlaC2Rjg/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/QX5MVJlaC2Rjg/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/F2nXLAS87crP"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/zgms82p4dhla"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/sxcorobhfeuj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3273133,
+          "tmdb_still_path": "/rITWcsaRVH7sjxP3gJFfwRNwt0p.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/7u9jCd4pq81B2/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/7u9jCd4pq81B2/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/F6bNrFx38071"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/7nx5yxgnu5jy"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/u605ijv6kjbd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 3273134,
+          "tmdb_still_path": "/7pMNC2hnk1silKQLe4CRJMhlMEs.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/RHYm8w3OQn6Zv/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/RHYm8w3OQn6Zv/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/15Sn56G7ej3D"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/xr55gemree9h"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/vdr8n0afk9zc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 3274858,
+          "tmdb_still_path": "/9KbVTiRUMYSktpk0nEPi5Hl4u4H.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/DP2c1XazsEM4I/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/DP2c1XazsEM4I/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/S8wQkb26r631"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/8t25w2o7zwlx"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/zjj6d3hnsczl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 3274859,
+          "tmdb_still_path": "/y7LFNvC52i2xMlHlNrKKKCVkkV3.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/5dyjNitKaMbkS/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/5dyjNitKaMbkS/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/J4Ss514kPMJs"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/mc0y1tdw1emp"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/dqouelrgtul4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3274860,
+          "tmdb_still_path": "/AgDYp6VqvCTdlkvcfdck6M0afBw.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/tDyMWq0YrpVe3/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/tDyMWq0YrpVe3/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/v6DWn4f6Y82D"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/zr2335td4uhd"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/zaz45dww6zok"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3274861,
+          "tmdb_still_path": "/65EjjniCzdQr65eYFSaWjc3lRVd.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/D2lS1Rt8F7TgY/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/D2lS1Rt8F7TgY/mirror"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/6T55M2funB1N"
+            },
+            {
+              "id": 4,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/d4mj0rmdrmoq"
+            },
+            {
+              "id": 5,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/zu8lyxuakfd3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3274862,
+          "tmdb_still_path": "/wmHkkULRz8pBzSD5QoZQDGtuNRD.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay",
+              "url": "https://soraplay.xyz/embed/ZnuHcCP86UjqX/"
+            },
+            {
+              "id": 2,
+              "label": "multi server",
+              "url": "https://soraplay.xyz/embed/ZnuHcCP86UjqX/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/jojaykcmdtwf"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo",
+              "url": "https://luluvdo.com/e/vo1si2gnj4pq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-26",
+          "runtime": 24,
+          "tmdb_episode_id": 3274863,
+          "tmdb_still_path": "/nHSbTPQDptfmrPudgUkf8X9EeJq.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Build Divide: Code Black ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. تبدأ قصة Build Divide: Code Black من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. ينتمي العمل إلى أجواء خيال، لعبة، لذلك يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/build-divide-code-black",
+  "story": "يدور أنمي Build Divide: Code Black ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. تبدأ قصة Build Divide: Code Black من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. ينتمي العمل إلى أجواء خيال، لعبة، لذلك يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yu Serizawa، Aoi Koga، Yuto Uemura، Sayumi Watabe، Atsushi Tamaru",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "EQIKHWXMyuI",
+  "rating": "6.8",
+  "imdb_rating": "6.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Build Divide: Code Black",
+    "mainDescription": "يدور أنمي Build Divide: Code Black ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. تبدأ قصة Build Divide: Code Black من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. ينتمي العمل إلى أجواء خيال، لعبة، لذلك يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Build Divide: Code Black أنمي 2021 | يدور أنمي Build Divide: Code Black ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Build Divide: Code Black من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/123670"
+    }
+  },
+  "tmdb_id": 123670,
+  "tmdb_url": "https://www.themoviedb.org/tv/123670",
+  "original_title": "ビルディバイド コードブラック"
+}

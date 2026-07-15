@@ -1,0 +1,520 @@
+{
+  "slug": "working",
+  "clean_title": "Working!!",
+  "raw_name": "انمي Working!!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/working.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-unrdl7pg65"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rmp245shbpwr.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1ZKXdjr8jo1RQ4mqYQLm6AUDnJBimGEM5/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-te4z-2qw73"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-zcyoe01622k4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 907580,
+          "tmdb_still_path": "/9L26Ln4sdKjmVGlojs2AaaDhMv9.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5l6j8l54e"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-5vz8ggfpr631.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1Vb1T8TK0ZYJUTem81c4QNUFjNwGkHfFK/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-pzy6lpm0"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-cmzoae63zcj3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 907575,
+          "tmdb_still_path": "/eis6AczrbB8bLTJ11iql853W2LN.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-4x2-k4ny"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-byptu0o5nty3.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1S5x4nK1HVuHbKxz22BLq7aIgIIGx9BON/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-unrzjqdk0z"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qhpnl6cr0aex.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 907577,
+          "tmdb_still_path": "/8UKLK6Ucnm7s9Hi8YLENUyeZfFk.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-4x28mzgm"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-v1ukgqgwb1vt.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1l-0IapQq9UXF5oLt-XKR2VdFS0fRjX-K/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sjzm5n3dj8"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0incyln00yii.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 907583,
+          "tmdb_still_path": "/aODjhLH93gDTnMVwvL9K4NoHN0n.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8te1ngqmm34"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-v6bux0s01b1g.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1POmS6FQHlbCovoTidvuJDTA7pCDgIku4/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh2x1m-w845"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-vqx0pycxo4b1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 907579,
+          "tmdb_still_path": "/5r3TOvWJTA77cyMaMPbjgfsy4f.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-pe2zw1xj"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-cju1xqnqb01f.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1PxOvhYPP25vDaZx5ZTH5sucXmI4QxFR5/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh31e43pl36"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bcpf01e9fn1c.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 907573,
+          "tmdb_still_path": "/egVaF2Mclc1rZUfQhUeoWb431AS.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh31565xyn0"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rfebjv06p7r5.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/14V2gYZZQcKqmqBaAmmAFSA7C_jwWPpBm/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5lm3ee-ww"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-cktxn7hcackq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 907581,
+          "tmdb_still_path": "/zzPo2Qbdeubz24JeAOh1ZfGEQC5.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/3pdkxim83q886y5"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-d0q9skquiav8.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1wiNHVrPgv0M90UeeRG2TZgjvJTvUI9_y/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/dz0egtxde580e-4"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7k9c221xlb2c.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 907584,
+          "tmdb_still_path": "/kCJk56Aww1hROevOP9zO8UiBDMP.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmy8qng4w-"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-u6zm81320nd1.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1f1Qx648iG38LvdjBa-u8zBz0Ey-G3f-k/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/3pdkxim8geg7e-r"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bj818wfu4gzl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 907578,
+          "tmdb_still_path": "/fKatiooV366pEZVrhhLTHjlfiml.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-pe81jyxz"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-mb90o9g7lqy5.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1yIIOGZlnYcpcQcOBeBFrQBxNmmjje4xg/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt04814mzgm"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qlffonvu9wum.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 907582,
+          "tmdb_still_path": "/zzkWxDbcIaRNjombgniXmRJyhtG.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0ad52z0g-wx"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-02ecr2qid654.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/19gSa6T_d9v8S7Nc0PaOntGLEiS8oG2qq/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-te4z--m5j7"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-jbeowrhj10ck.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 907574,
+          "tmdb_still_path": "/msGs1DPXycR8NXxznkTyP1r8jKg.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yujk1452l8q"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bnmxui5akzeg.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/12jiIaEQA3FwvuyV7IO6CAK9Nu201KKwk/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yujkd66qdj8"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rpj41zp975o2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 907572,
+          "tmdb_still_path": "/eUnrJT4F4QVEP04Jo5IrW64toWl.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh3152lx4dw"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-lp02ontjm60u.html"
+            },
+            {
+              "id": 3,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1yy7h4-ev5BvYIf9MKEDPZ1mnAILxrfiN/preview"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/2r7pyu2j1lwp4rk"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-66t0wpn85wp5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-27",
+          "runtime": 24,
+          "tmdb_episode_id": 907576,
+          "tmdb_still_path": "/4S77l5Toy3cNz62zDwuJ0fie9F7.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "دور أحداث هذا المسلسل داخل مطعم واجناريا العائلي حول موظف جديد يدعى تاكاناشي سوتا يعمل بوظيفة جزئية حيث يلتقى بالعديد من الموظفين الغرباء وتدور حولهم العديد من المواقف الكوميدية والمثيرة.",
+  "url": "/anime/working",
+  "story": "دور أحداث هذا المسلسل داخل مطعم واجناريا العائلي حول موظف جديد يدعى تاكاناشي سوتا يعمل بوظيفة جزئية حيث يلتقى بالعديد من الموظفين الغرباء وتدور حولهم العديد من المواقف الكوميدية والمثيرة.",
+  "year": "2010",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Jun Fukuyama، Kana Asumi، Saki Fujita، Daisuke Ono، Eri Kitamura، Hiroshi Kamiya",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "mp-uVtk7AQ4",
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Working!!",
+    "mainDescription": "دور أحداث هذا المسلسل داخل مطعم واجناريا العائلي حول موظف جديد يدعى تاكاناشي سوتا يعمل بوظيفة جزئية حيث يلتقى بالعديد من الموظفين الغرباء وتدور حولهم العديد من المواقف الكوميدية والمثيرة.",
+    "metaDescription": "Working!! أنمي 2010 | دور أحداث هذا المسلسل داخل مطعم واجناريا العائلي حول موظف جديد يدعى تاكاناشي سوتا يعمل بوظيفة جزئية حيث يلتقى بالعديد من الموظفين…",
+    "highlights": "تم تحديث بيانات Working!! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/46153"
+    }
+  },
+  "tmdb_id": 46153,
+  "tmdb_url": "https://www.themoviedb.org/tv/46153",
+  "original_title": "WORKING!!"
+}

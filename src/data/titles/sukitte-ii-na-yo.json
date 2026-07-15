@@ -1,0 +1,325 @@
+{
+  "slug": "sukitte-ii-na-yo",
+  "clean_title": "Sukitte Ii na yo.",
+  "raw_name": "انمي Sukitte Ii na yo.",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/sukitte-ii-na-yo.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787763944011"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-d8it7j74o96v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 922133,
+          "tmdb_still_path": "/tSDEsDKmssXci8CTyRuB7bzyKbA.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787776592459"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bk582e19rcr9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 922130,
+          "tmdb_still_path": "/6H7lwyKID1Ty0bZ24O1jR8eMr3N.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787783604811"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-drljws35nbbu.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 922131,
+          "tmdb_still_path": "/2XVl40TMMWM0Dyk4PHmWSVNbX5H.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787789830731"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-w83rut0fd2o3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 922132,
+          "tmdb_still_path": "/o1AT71COdcSB0eqxNXvPhy8ZYSY.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787796515403"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-3umwa5frhepp.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 922134,
+          "tmdb_still_path": "/ft4Mv8TzgHQJJelJn8kXccfiYNA.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787813096011"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-8ipvqqbunbpt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 922135,
+          "tmdb_still_path": "/7OW8a6GIT2BaOkpIe0cNrSJ3BHF.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787821746763"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-b05hlk7nltre.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 922129,
+          "tmdb_still_path": "/AagETOWpV8bJadeeRPc1pPzFN87.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787827055179"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0pl3ztk3npcb.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 922136,
+          "tmdb_still_path": "/y6gxzRvMt47VfLCAC1q9icjd15U.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787833281099"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-9g8ysh5qejny.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-03",
+          "runtime": 24,
+          "tmdb_episode_id": 922137,
+          "tmdb_still_path": "/iCr9x6jc7ly51MChW5jSCUWYryM.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787838982731"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-dipb84dvq9x2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 922138,
+          "tmdb_still_path": "/oSN8mDZ3nUgcGLh6Fv2t271MYQo.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787850320459"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rrt4dzg5mms6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 922139,
+          "tmdb_still_path": "/a2CTPmWGi9LT4G7R7miDmWCQTju.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787859167819"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-65b0zgp6zp0z.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 922140,
+          "tmdb_still_path": "/niJm3G2YUCngyekgvQbYZaghfAZ.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3787866245707"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0eu9udnns4vh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-30",
+          "runtime": 24,
+          "tmdb_episode_id": 922141,
+          "tmdb_still_path": "/3ho7xp8ufjblp5IC2zVSGYzwIwe.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Sukitte Ii na yo. ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Sukitte Ii na yo. حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء شوجو، مدرسي، دراما، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/sukitte-ii-na-yo",
+  "story": "يدور أنمي Sukitte Ii na yo. ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Sukitte Ii na yo. حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء شوجو، مدرسي، دراما، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ai Kayano، Takahiro Sakurai، Risa Taneda، Nobunaga Shimazaki، Yumi Uchiyama، Minako Kotobuki",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "-RoSoU_h5SY",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Sukitte Ii na yo.",
+    "mainDescription": "يدور أنمي Sukitte Ii na yo. ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Sukitte Ii na yo. حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء شوجو، مدرسي، دراما، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Sukitte Ii na yo. أنمي 2012 | يدور أنمي Sukitte Ii na yo | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Sukitte Ii na yo. من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/52878"
+    }
+  },
+  "tmdb_id": 52878,
+  "tmdb_url": "https://www.themoviedb.org/tv/52878",
+  "original_title": "好きっていいなよ。"
+}

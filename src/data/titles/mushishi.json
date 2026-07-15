@@ -1,0 +1,728 @@
+{
+  "slug": "mushishi",
+  "clean_title": "Mushishi",
+  "raw_name": "انمي Mushishi",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mushishi.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wQ9O79ArnoRdmyFX"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1qtj1ntyhs8n"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/p343di0ka4m1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 677650,
+          "tmdb_still_path": "/CnJlK033C4ipsWnxgq5NDC9pfx.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=G5fHYj0M6aJgJ74B"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/y7cqfl7h1eh4"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/he9kui6jynen"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 677651,
+          "tmdb_still_path": "/9p2plnvuyOTZz7qmxqcQcTGxiR6.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NGO2wTWQWfwAnzla"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/krqw36wmugcv"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/pvmpgljzir8g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 677652,
+          "tmdb_still_path": "/z52RTOZvTWQ81TezyiFrSHZ2Ygv.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3vwbZqoeJiNIBA2W"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4xlwn8o2o2ee"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/zy6gzlqs6rxs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 677653,
+          "tmdb_still_path": "/9mLFX99hO4KQT5cxwifbwW2Acs1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uHv7i28D5FHjPvkN"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/yvzhpa68mxp3"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/t1cq7uyrts3n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 677654,
+          "tmdb_still_path": "/9kcxm5f7aWknWbRKE2UbHg1Jfxy.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PuozFMzGHXGzYtOx"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/hxpulkcsjesx"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/rgn4v2aueg11"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 677655,
+          "tmdb_still_path": "/8oPtnNKUZX2hGxBiIroE9j60coW.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8444zSusk7Nzj7xE"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/hx6fuyqixl8v"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/rqfsstefwuok"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 677656,
+          "tmdb_still_path": "/q2uZgG85nMT2CUxxganVkruG3BZ.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LoxmEDYGgUMIVdl9"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5mlx8d31uoka"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7yy413j1wutz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 677657,
+          "tmdb_still_path": "/bkyKaMnaH0VWiVYLibPbfVBkmG1.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=toONoJKTBFe3mfhA"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/89mpz5sh1s6w"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/gg1w4t6mn3ao"
+            }
+          ],
+          "overview": null,
+          "air_date": "2005-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 677658,
+          "tmdb_still_path": "/8QI8ZsYfHexfS0dVLj0nDLfcaTv.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KczS4JaWXMAZyzbU"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/wcue1d8350ta"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7ydgwcm393jm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 677659,
+          "tmdb_still_path": "/8EKOzQSFSnGTigCoKYowRvuJ8Wf.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TfLgHlF4GlsJRye7"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/rvdesk61jnuo"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3jlo8248m4g3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 677660,
+          "tmdb_still_path": "/mXUpkAeboJ4Bl7VR9b6XYXL5LO9.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Zg2gpTNZEpUIdSH0"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/38ew9fhqinoe"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/onyp58btm2sv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 677661,
+          "tmdb_still_path": "/oH0YSSSf3c8O8n8FEuzvkRplsz0.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jX3jeelwjLlthbx1"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/cnbcjve9ik8n"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/1b3smjqcvo6w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 677662,
+          "tmdb_still_path": "/xaJQ1Bw8VEGwZ11tyHcPv4sXGga.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=C12xR7mGQJ9hAZ59"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/587appdn6m3x"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/clvmfvsjw1qj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 677663,
+          "tmdb_still_path": "/AvSVWh27RE7KvMTRQo4xpQEfTY6.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GmA92WvPb4DSGDPN"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8y29mmypxpo9"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/eef83aqklu0c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 677664,
+          "tmdb_still_path": "/k9Y2rRLNj68I5ErdLXghpuABkzc.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vmEMXlWlcJulfNIr"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/traytkc0gohu"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bv1h5w9kto5j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 677665,
+          "tmdb_still_path": "/aKTgK0hZ8mcHapXXh0lSVvIbpqT.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hLOGQar28iKmNlBe"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8e3rs1ck0czz"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/05k1p7dp74cn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 677666,
+          "tmdb_still_path": "/oXiZ61BgZly8ux2Z91HhLs3Q9qv.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iZKxGkypXTG3nPRe"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/57nvou6q5wqg"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/wlo4q9ij45ry"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 677667,
+          "tmdb_still_path": "/aTHMSsw29k5OP4TlgYs5fENfvrU.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5SLcADl5Vodbv23e"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/olq8ryi9dyc7"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/wvmdfqwfo9cl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 677668,
+          "tmdb_still_path": "/pedIX3rQJKBT4r6mVkLbWqWn8oc.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WfDXmd9GfwdTXkXq"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/wwly9otqmnph"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/zd08w375idm8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 677669,
+          "tmdb_still_path": "/g8ft68nOORnIOCeXlT73Nze04A7.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=utz6uA0idHTgUkMY"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/x9svo7or6wb8"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ld9mjgrt0q00"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 677670,
+          "tmdb_still_path": "/g5UeGOjp6W9n41knY1OpuaAMYyl.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VEZYUhiuydWJ4ntX"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ut180xy8a0pb"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3dlini8bpxgs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 677671,
+          "tmdb_still_path": "/5vvT4ikRvyBS1LP2rgNLpgc9qlv.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rAYd6OUy6BZYx4XB"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/gp5ac8z81sjc"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/c9toyplfqu2j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 677672,
+          "tmdb_still_path": "/nli0jz1ikK96BbqUuOJ8cFiFPn9.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=p8zclasJ2dzd8cW6"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/z0hhrcbsq0nx"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/6shbyk4slmec"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 677673,
+          "tmdb_still_path": "/qQPwKCzgqgJosB8FascM1hqMu3B.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R6ibwghlrD1xldTX"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/gsw541h8r62j"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/jyx67tsbt95i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 677674,
+          "tmdb_still_path": "/iZqX408iaQTmPZ7OCEyTFIID2Pe.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=g3K2uy4QQYjU9QG3"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vypoo7i88bc3"
+            },
+            {
+              "id": 3,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/blf9jsozx949"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 677675,
+          "tmdb_still_path": "/mEOOLxl9dwabBGY2XtR2UxRS5Zu.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تتكلم القصة عن مخلوقات واسعة الإنتشار تظهر عادة كمخلوقات خارقة للطبيعة تدعى الموشي. ويشار إليها إنها أقل الكائنات بدائية. ونظرا لطبيعتها فإن معظم البشر لا يستطيعون رؤيتها أو معرفة وجودها، لكن يوجد القليل جدا من البشر الذين يستطيعون رؤيتها والتفاعل معها. أحد هؤلاء هو جينكو بطل السلسلة.",
+  "url": "/anime/mushishi",
+  "story": "تتكلم القصة عن مخلوقات واسعة الإنتشار تظهر عادة كمخلوقات خارقة للطبيعة تدعى الموشي. ويشار إليها إنها أقل الكائنات بدائية. ونظرا لطبيعتها فإن معظم البشر لا يستطيعون رؤيتها أو معرفة وجودها، لكن يوجد القليل جدا من البشر الذين يستطيعون رؤيتها والتفاعل معها. أحد هؤلاء هو جينكو بطل السلسلة.",
+  "year": "2005",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuto Nakano، Mika Doi، Ai Kobayashi، Miyu Tsuzurahara، Yuji Ueda",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "Fj8x64uCrO0",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mushishi",
+    "mainDescription": "تتكلم القصة عن مخلوقات واسعة الإنتشار تظهر عادة كمخلوقات خارقة للطبيعة تدعى الموشي. ويشار إليها إنها أقل الكائنات بدائية. ونظرا لطبيعتها فإن معظم البشر لا يستطيعون رؤيتها أو معرفة وجودها، لكن يوجد القليل جدا من البشر الذين يستطيعون رؤيتها والتفاعل معها. أحد هؤلاء هو جينكو بطل السلسلة.",
+    "metaDescription": "Mushishi أنمي 2005 | تتكلم القصة عن مخلوقات واسعة الإنتشار تظهر عادة كمخلوقات خارقة للطبيعة تدعى الموشي | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mushishi من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/26867"
+    }
+  },
+  "tmdb_id": 26867,
+  "tmdb_url": "https://www.themoviedb.org/tv/26867",
+  "original_title": "蟲師"
+}

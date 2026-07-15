@@ -1,0 +1,304 @@
+{
+  "slug": "bocchi-the-rock",
+  "clean_title": "Bocchi the Rock!",
+  "raw_name": "انمي Bocchi the Rock!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/bocchi-the-rock.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/eq766elwu9pi"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/sj4759qxojuw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2739157,
+          "tmdb_still_path": "/svwWmmG7pzDKm3DUdgUEvk3h0ZM.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4ywz2w0i08wk"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ffsbj7lwf81j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3989993,
+          "tmdb_still_path": "/cI5fIuAqxZuzSEvwIPuZC4UiYqA.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/zaga4y1fpql8"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/s4u6wnzcwigd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3989994,
+          "tmdb_still_path": "/rrPaFc6urB9cBNJfCrgNyTocnRj.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/86txecwnd1i9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ak7lwvbzi0h1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 3989995,
+          "tmdb_still_path": "/j2wgQD6aKKJJPCQq7Q2hrVyHYcv.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nrmhtz9289ka"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/d84zc6jn5yjc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 3989996,
+          "tmdb_still_path": "/zPGwda7qVnEjkKJ542tXaWHtg1h.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/qomptn7glyak"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/u55jq4zf8jvc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 3989997,
+          "tmdb_still_path": "/1iCTbCd7aPNuhxK6MImUP0lcGRK.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/e9ncj1e2yp5j"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/o548aqioetjs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 3989998,
+          "tmdb_still_path": "/d4HtnohyUi16bDNYc9KSfYS6Nie.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/hwi3okxum4e8"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hw6bn5n4sgv7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 3989999,
+          "tmdb_still_path": "/oDaDrtdD5x8Y436JqZDLaPEdd9b.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kklpr1tvv38l"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/94txtmqdwis6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3990000,
+          "tmdb_still_path": "/baaLPQ8H0fmn8manNreFNJk909w.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/czpz39035rq4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4jx3hq02nbcu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3990001,
+          "tmdb_still_path": "/sjq5mF0VltXYsWVuFDv7Ua43jBS.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/a547hsdiexe2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qrmpbedzfde5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3990003,
+          "tmdb_still_path": "/4IhuRiskwbCSUd7oncZpMVUmwTW.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ca5175fmd9v6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/af7m8s7jdfzv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-25",
+          "runtime": 24,
+          "tmdb_episode_id": 3990004,
+          "tmdb_still_path": "/lNROIsWepnKfgLhNrQXyaqi29dO.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Bocchi the Rock! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Bocchi the Rock! من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء موسيقى، شريحة من الحياة، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/bocchi-the-rock",
+  "story": "يدور أنمي Bocchi the Rock! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Bocchi the Rock! من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء موسيقى، شريحة من الحياة، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoshino Aoyama، Sayumi Suzushiro، Saku Mizuno، Ikumi Hasegawa",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "BRj3oDEMUAw",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Bocchi the Rock!",
+    "mainDescription": "يدور أنمي Bocchi the Rock! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Bocchi the Rock! من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء موسيقى، شريحة من الحياة، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Bocchi the Rock! أنمي 2022 | يدور أنمي Bocchi the Rock | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Bocchi the Rock! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/119100"
+    }
+  },
+  "tmdb_id": 119100,
+  "tmdb_url": "https://www.themoviedb.org/tv/119100",
+  "original_title": "ぼっち・ざ・ろっく！"
+}

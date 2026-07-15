@@ -1,0 +1,436 @@
+{
+  "slug": "mugen-no-juunin-immortal",
+  "clean_title": "Mugen no Juunin: Immortal",
+  "raw_name": "انمي Mugen no Juunin: Immortal",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mugen-no-juunin-immortal.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "اللقاء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/x57pbuuimfcp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1878996,
+          "tmdb_still_path": "/xpXSTZGGpd45TaJ5AsltW8za5dz.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "التأسيس",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9fgzod2yzq11"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1949616,
+          "tmdb_still_path": "/dtFjQDz7UBqtfCq9V130F8QVt0M.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "مخاض الأحلام",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fxk57qbd3vf4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1954399,
+          "tmdb_still_path": "/xgCrPKDPQpiiGyrHMANFoPh2IA9.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "رين في تعارضات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/la7qsirdgwe5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1962024,
+          "tmdb_still_path": "/bxL0KrOP1tQfl8xOfuJZ0oHeCl5.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "أغنية الحشرات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1tqaolgtdtc3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1971448,
+          "tmdb_still_path": "/12jtcNpDfTUkSkyHUrNany96ACv.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "أصول الأجنحة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/z5al5gtqa8so"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1977488,
+          "tmdb_still_path": "/kC7nRWKAWg7jklru3E7lbh0vRHv.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "ظل الشر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qp4bcgpv6w4w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1982929,
+          "tmdb_still_path": "/w1br62MlgliXNTuBaqjp0IsnVdu.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الموغاي-ريو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2hy4dzm9du3t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1990240,
+          "tmdb_still_path": "/bbSkGEJ6bDjBpr8kBTSKrk8hxFc.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "اجتماع",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/da1l7sdhm6if"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1997578,
+          "tmdb_still_path": "/ajCbCqqIL4Kq8vlHglDU0y5gzxX.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "وحوش",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/52a8peep3xlq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2006017,
+          "tmdb_still_path": "/cb2CQH1DS3FLp19jgjbccTMF4ym.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "صقيع الخريف",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/koeehzmhlii9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2011995,
+          "tmdb_still_path": "/51gkYNOHFm0QH0tpzrONFTZ1RyU.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "دماء الغائيّة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rw0hyomd0y90"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2021805,
+          "tmdb_still_path": "/a7PQYm0FJ9OlftcmVc24xPv02RD.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "غسق",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2s514ycwtp13"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2028104,
+          "tmdb_still_path": "/sfvOVggKg7laWm65e9LcCg1UYRx.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "تعديلات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pty4n1khgjzd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2034522,
+          "tmdb_still_path": "/yi4wTN2qqZdSaKtXnRgJyMjqlpc.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "اكتساب الشجاعة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/nly6tpifo81l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2050459,
+          "tmdb_still_path": "/i5TI8IBOsmi4mLDv1QyIj2QP7Do.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "أطراف معدلة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/lh9qospce7if"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2051534,
+          "tmdb_still_path": "/osfHVy1NUBMYWQbChO8tHlqe7CI.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "رابطة شعائرية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4xlqnvsbvqpa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2051535,
+          "tmdb_still_path": "/ntYiKcHsCq8RZzlkN8Q3LKMQg2q.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "صرخات الشؤم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/823wn05o5psm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2051536,
+          "tmdb_still_path": "/u9rOxVG7QS6GXIkNjipZp4EBKOX.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "مجزرة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/asqg9idgpvxe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2051537,
+          "tmdb_still_path": "/oEW76heLx4CLHbSgpcn8ehhYgIf.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "أبدي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hjnnnkq3f7bo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2051538,
+          "tmdb_still_path": "/9YNxDU0vuBFFynBJ6O3Ruixfea3.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "كمين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/c3w8rc5h47j3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2183137,
+          "tmdb_still_path": "/a3HSRUR9N2TnkleiPZt5akDh4uC.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "عشر دفعات نهائية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/s6jz0qkr55hq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2183138,
+          "tmdb_still_path": "/sREqViUjOxzY9akiD4B9p6LqV95.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "مئة رقصة مبهرة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fd7f1mw9s9qa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2195780,
+          "tmdb_still_path": "/kO1AcYdlROLQKu12gwrOPkYHy3a.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "قاطن الأبدية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/21l2volfaeh0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2195781,
+          "tmdb_still_path": "/myvhz36mYkqftjWzTVv5rVmNqKQ.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "خلال فترة إيدو في اليابان، عاش رجل قتل وأزهق مئات الأرواح اسمه مانجي، أصيب مانجي بلعنة في جسده، لعنة تجعله بجسد يتعافى من معظم الأضرار، ولكن رغم تعافي جسده إلا أنه يشعر بكل ألم كل مرة يتأذى فيها، يقابل مانجي الفتاة رين التي تحاول الانتقام لوالديها من جماعة سيافين يدعون أنفسهم إيتو ريو.",
+  "url": "/anime/mugen-no-juunin-immortal",
+  "story": "خلال فترة إيدو في اليابان، عاش رجل قتل وأزهق مئات الأرواح اسمه مانجي، أصيب مانجي بلعنة في جسده، لعنة تجعله بجسد يتعافى من معظم الأضرار، ولكن رغم تعافي جسده إلا أنه يشعر بكل ألم كل مرة يتأذى فيها، يقابل مانجي الفتاة رين التي تحاول الانتقام لوالديها من جماعة سيافين يدعون أنفسهم إيتو ريو.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Houko Kuwashima، Ayane Sakura، Kenjiro Tsuda، Ako Mayama، Nozomu Sasaki، Shinya Fukumatsu",
+  "genre": "أنمي، رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "9r9BYkKfRe8",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mugen no Juunin: Immortal",
+    "mainDescription": "خلال فترة إيدو في اليابان، عاش رجل قتل وأزهق مئات الأرواح اسمه مانجي، أصيب مانجي بلعنة في جسده، لعنة تجعله بجسد يتعافى من معظم الأضرار، ولكن رغم تعافي جسده إلا أنه يشعر بكل ألم كل مرة يتأذى فيها، يقابل مانجي الفتاة رين التي تحاول الانتقام لوالديها من جماعة سيافين يدعون أنفسهم إيتو ريو.",
+    "metaDescription": "Mugen no Juunin: Immortal أنمي 2019 | خلال فترة إيدو في اليابان | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mugen no Juunin: Immortal من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/92090"
+    }
+  },
+  "tmdb_id": 92090,
+  "tmdb_url": "https://www.themoviedb.org/tv/92090",
+  "original_title": "無限の住人-IMMORTAL-"
+}

@@ -1,0 +1,494 @@
+{
+  "slug": "boushoku-no-berserk",
+  "clean_title": "Boushoku no Berserk",
+  "raw_name": "انمي Boushoku no Berserk",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/boushoku-no-berserk.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6681931090507"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KehK83tByxFkfF1u"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8oghul"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6681939741259"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/I7UwwbKD#QXRTEDkqN5f-nYB9iOo6airiFVrgjikboWdXsQ1ZRKU"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6681946163787"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AM3yV6sp8hB8suwK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-05",
+          "runtime": 23,
+          "tmdb_episode_id": 4029125,
+          "tmdb_still_path": "/dJ6vx6nTi91h4I4G51P9BFOEowq.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6703337835083"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ilcmUVGyZwIjDGJ3"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8oo6e2"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6703352187467"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/3yBGGZgJ#4J4D9RodiVmGXzzP1Wm2Q7COJC50EutHZvnXFF1cuZQ"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6703362607691"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NOHZgUlZGNGlLfAg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-12",
+          "runtime": 23,
+          "tmdb_episode_id": 4777810,
+          "tmdb_still_path": "/xQjGf1Oei7s7Il0UigtRZc8njRR.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6724960979531"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GpXyw0Mge7thMWWj"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ougta"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6724972055115"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/YycXQIIC#xP5EHcwOB051TG0oFAh78MMx6QUSwnMm_u_1AG5NZDM"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6724980312651"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HM1xuX6kon08yJGB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-19",
+          "runtime": 23,
+          "tmdb_episode_id": 4777811,
+          "tmdb_still_path": "/a122Q3Tm9y01DXkc78fANJunn0P.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6748101806667"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YB8bDehJFBNbmdgM"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6748122647115"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Lc5R2DJR#qtFGTyGTFczsMudGvCZ5aKS8ApctV0Fj0UissFw0kfU"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6748131560011"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Ss72d7FBmO0IPfnf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-26",
+          "runtime": 24,
+          "tmdb_episode_id": 4777813,
+          "tmdb_still_path": "/1T60TjzPmFuVxcb3AtFeG5A4fnZ.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6770807343691"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=V4vYeYiXcZQgPsJJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p6tcb"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6770818222667"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/rFwFSCbB#DpMp6AkfczF3Bne-UfgFaeoQTytb1zOYiweu-LaZZx4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6770825038411"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wDWvb1ttC1oDoL11"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4777814,
+          "tmdb_still_path": "/fiOUwbN6nNSPNqG4ICKIpWY9Q4Q.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TQpGbAv8KjpBx0DQ"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pdat9"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/JDljSaIK#qIxns27Y7mWz1qagXsn810tnlApZCiwNNqvyRIu7N3I"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9kjNR8i6oIA9U2XJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4777815,
+          "tmdb_still_path": "/3zCR7yG8DkAxwuAzrvfa7R4kOs2.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YrHHOrQXoXMZa9f8"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pkosp"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/dWtDFbIZ#DnCO5jbrjz64UXDsiV-N91TR-KnMwuQmCYoN9J8klqg"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eEBvmGOJ8HpVirDD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4777817,
+          "tmdb_still_path": "/sq8rNCJnXgaQVjyd3ER9RJhtjor.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QCJsdjNIoZCnca5H"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8prpn1"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/PcchgZab#UNVRHs04CG63EKdiCbaHN5eDNnAC6YqGquOSuWKdyik"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FbR64WWItKOKf1RX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4777818,
+          "tmdb_still_path": "/vojWlwsbZUaTnSp5ZALrY53bU9m.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=r1wHiERo7DUWXmQs"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pzar9"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/pzs2zICY#TCkAV9BoyNEpYlecFbSa1PADRNNJQBXAoJU7IQd9URo"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=j7qsIi8uUU1jXuFp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-30",
+          "runtime": 24,
+          "tmdb_episode_id": 4777819,
+          "tmdb_still_path": "/16XdDoazrAIbRXr03ZltvAfK01l.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ej0EyTwx49L0hLB6"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q73f8"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/EutHWRBa#Iw1G3jUIOhH96WfH_5Q_9G0QApQVdMsV0L4q-MPLmJ4"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CqTRzAGPngDYcBwh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4777820,
+          "tmdb_still_path": "/pOFIbq5j5ZScXNrSxNahq5f0P27.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rzwkvPGHg0OKtPQ3"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qfas0"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BOMF3bYb#HBDvkhZEIzHpXN9DHoE82AkAd6QGwmTUvfX0TlSOlZw"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=o82CjhWDtgXmAabR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4777821,
+          "tmdb_still_path": "/jyDYYAqFd56174Pd7JdEq1Nffez.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aydjMWwQCHTjFhyy"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qnn0o"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ESEA0LiQ#Tyc-VqiHSPMDi3-ZeK0_NeTAuN3Wp6VZMJmSwE4vvgA"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uLKBceHFYLqoDhF7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4777822,
+          "tmdb_still_path": "/4budUpSVygZqcxvioyGLlCnr51W.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Boushoku no Berserk ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. في أنمي Boushoku no Berserk تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Boushoku no Berserk على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/boushoku-no-berserk",
+  "story": "يدور أنمي Boushoku no Berserk ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. في أنمي Boushoku no Berserk تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Boushoku no Berserk على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ryota Osaka، Tomokazu Seki، Hisako Tojo، Hitomi Sekine، Misato Matsuoka",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا",
+  "trailerId": "fDHLSymOkh4",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Boushoku no Berserk",
+    "mainDescription": "يدور أنمي Boushoku no Berserk ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. في أنمي Boushoku no Berserk تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Boushoku no Berserk على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Boushoku no Berserk أنمي 2023 | يدور أنمي Boushoku no Berserk ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Boushoku no Berserk من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/213331"
+    }
+  },
+  "tmdb_id": 213331,
+  "tmdb_url": "https://www.themoviedb.org/tv/213331",
+  "original_title": "暴食のベルセルク"
+}

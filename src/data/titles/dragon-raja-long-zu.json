@@ -1,0 +1,653 @@
+{
+  "slug": "dragon-raja-long-zu",
+  "clean_title": "Dragon Raja (Long Zu)",
+  "raw_name": "انمي Dragon Raja (Long Zu)",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dragon-raja-long-zu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 16,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 16,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7307183721035"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MuYHLrGlwZC3eJPP"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7307189488203"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7307192568395"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BPdfAfePcUVBrzqH"
+            },
+            {
+              "id": 6,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9mZOdNeNDmfNXPKO"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8wfkf0"
+            },
+            {
+              "id": 8,
+              "label": "streamwish",
+              "url": "https://jodwish.com/e/j2cckjkud3m3"
+            },
+            {
+              "id": 9,
+              "label": "streamwish - SD",
+              "url": "https://jodwish.com/e/4x3iaslqty6t"
+            },
+            {
+              "id": 10,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HSFE1067095kEUZH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-19",
+          "runtime": 23,
+          "tmdb_episode_id": 2383266,
+          "tmdb_still_path": "/v3ChwMfZcprW4qoDJ3ebPySox4y.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7307250698827"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=W8yVfHoHHpaEKuGD"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7307256924747"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7307260725835"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eyvdptUMNVd8mI1s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-19",
+          "runtime": 23,
+          "tmdb_episode_id": 3903887,
+          "tmdb_still_path": "/akpBHWE8j9TkHUwwmrfzXFanB1l.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7327746099787"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=24NcsVEkOgcYMmTV"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7327749048907"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7327754685003"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=txmOOzmL8C3Gxeyq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-26",
+          "runtime": 23,
+          "tmdb_episode_id": 3914471,
+          "tmdb_still_path": "/iBFRC9koR9GWNwqvz2JF6wu0uaZ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7328965790283"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9sSvy3YR2eo9ygGA"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7328969722443"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7328971819595"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Y3edGQJ6R4yWbscc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-02",
+          "runtime": 23,
+          "tmdb_episode_id": 3913919,
+          "tmdb_still_path": "/ims5c5U9jkTBnvbQslJVCRv5dy7.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7347883805259"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=And22FDqA2LDi7to"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7347889834571"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7347895601739"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BoETzKyrwDPVJqrQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-09",
+          "runtime": 23,
+          "tmdb_episode_id": 3929077,
+          "tmdb_still_path": "/rK6PyFwRBOsUAhK0ZLsDkS0udmu.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7347931122251"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=K3ufWDdECoDGBa6L"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7347936496203"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7347939248715"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NKASEer9l6BoilpP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-16",
+          "runtime": 23,
+          "tmdb_episode_id": 3929078,
+          "tmdb_still_path": "/zoNn9JA5tG3zuc5UCUgMmI7y8HC.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7369587034699"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rmNKnRnWleQl9kTw"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7369592867403"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7369602107979"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=McPnifD5tIAZpx0L"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-23",
+          "runtime": 23,
+          "tmdb_episode_id": 3929085,
+          "tmdb_still_path": "/bDVdcSraUKNYnTLY0Lejug50Je3.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7369927690827"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HegxJVsYOJJhQOOB"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7369931688523"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7369934899787"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3I8aqDI9Uq9vWPWb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-30",
+          "runtime": 23,
+          "tmdb_episode_id": 3993016,
+          "tmdb_still_path": "/jXMij5fmaKBxGzd945Ssbbbgmd0.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7392813189707"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=i5JxHDsvbYj2HeMH"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7392819219019"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7392823413323"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FcNTJSvwQVPoZGyT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-07",
+          "runtime": 23,
+          "tmdb_episode_id": 4004411,
+          "tmdb_still_path": "/ejvyb4kKaeeIrxuwfPYkuYtMh20.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7392857033291"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5f8ORIMsbZm9eBgD"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7392861882955"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7392865356363"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Vc52cnWutpHO2SXm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-14",
+          "runtime": 23,
+          "tmdb_episode_id": 4004412,
+          "tmdb_still_path": "/yFbYI9uR7TLZMzZCmOzahvgObBl.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7438624361035"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HXd0201AjQo9J7v9"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7438627834443"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7438630062667"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=N7QV3wI0cLItPgRs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-21",
+          "runtime": 23,
+          "tmdb_episode_id": 4004413,
+          "tmdb_still_path": "/k0OjukPJQM2EMBv4faazjMj0zvy.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7459634350667"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=q768IpqF9hEGcqFl"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7459639200331"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7459645033035"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Ylqfs5PDjlpNZkQI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-28",
+          "runtime": 23,
+          "tmdb_episode_id": 4004414,
+          "tmdb_still_path": "/v4k724W5mwL6VGhxj9yojRITDfn.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7482026953291"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mxABzuLM0NtVVzBR"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7482033900107"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7482037439051"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iOP5zgWB2P7MV3ig"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-04",
+          "runtime": 23,
+          "tmdb_episode_id": 4004415,
+          "tmdb_still_path": "/sEHIR3ujh5KzHJC3fiaeKeXGqX3.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7506191452747"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=so3zZz0Tz6CaBwbY"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7506202856011"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7506206067275"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Q2tYmUnbPrL6Hu9S"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-11",
+          "runtime": 23,
+          "tmdb_episode_id": 4004416,
+          "tmdb_still_path": "/whvbNyXLZpoZfFqeeMJMBRcm3qg.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7532242602571"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UnHx760qZG1FfOrj"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7532245551691"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7532249418315"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QzCOtkFJSsGh47Ld"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-18",
+          "runtime": 23,
+          "tmdb_episode_id": 4004417,
+          "tmdb_still_path": "/uQfdAW1tAs75c5AMGLGlvps5m7T.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7553276971595"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=p8cwaLKy6t73d7kV"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7553283197515"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7553290406475"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IHkV7bFZHOi6XM4x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-25",
+          "runtime": 23,
+          "tmdb_episode_id": 4291089,
+          "tmdb_still_path": "/6V1U8SG1E9eBGuTcmj8JMV0UJ98.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Dragon Raja (Long Zu) ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 3 موسم و40 حلقة. يدور أنمي Dragon Raja (Long Zu) حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مغامرات، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Dragon Raja (Long Zu) على CINMAPRO عبر 1 موسم و16 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/dragon-raja-long-zu",
+  "story": "يدور أنمي Dragon Raja (Long Zu) ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 3 موسم و40 حلقة. يدور أنمي Dragon Raja (Long Zu) حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مغامرات، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Dragon Raja (Long Zu) على CINMAPRO عبر 1 موسم و16 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "الصينية",
+  "country": "الصين",
+  "director": null,
+  "stars": "Jinwen Chen، Xiangning Zhou، He Wenxiao، Yun Wei Yi، Ye Zhiqiu، Shuxin Wan",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "j3azzxRVU0k",
+  "rating": "7.4",
+  "imdb_rating": "7.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dragon Raja (Long Zu)",
+    "mainDescription": "يدور أنمي Dragon Raja (Long Zu) ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 3 موسم و40 حلقة. يدور أنمي Dragon Raja (Long Zu) حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مغامرات، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Dragon Raja (Long Zu) على CINMAPRO عبر 1 موسم و16 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Dragon Raja (Long Zu) أنمي 2022 | يدور أنمي Dragon Raja (Long Zu) ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dragon Raja (Long Zu) من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/107255"
+    }
+  },
+  "tmdb_id": 107255,
+  "tmdb_url": "https://www.themoviedb.org/tv/107255",
+  "original_title": "龙族"
+}

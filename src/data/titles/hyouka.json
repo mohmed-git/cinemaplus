@@ -1,0 +1,404 @@
+{
+  "slug": "hyouka",
+  "clean_title": "Hyouka",
+  "raw_name": "انمي Hyouka",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hyouka.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 22,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 22,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950682765899"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-04-23",
+          "runtime": 26,
+          "tmdb_episode_id": 1158885,
+          "tmdb_still_path": "/t0oYYGrH4kElTbmKfl3jn5T8weG.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950706948683"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-04-30",
+          "runtime": 26,
+          "tmdb_episode_id": 1158886,
+          "tmdb_still_path": "/dwMtCqgdVEQfJGRQsp4N1ryj0We.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950720907851"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-05-07",
+          "runtime": 26,
+          "tmdb_episode_id": 1158903,
+          "tmdb_still_path": "/oZnIaHwXtLEPI2gGXAphp5Jp0kc.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950734211659"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-05-14",
+          "runtime": 26,
+          "tmdb_episode_id": 1158904,
+          "tmdb_still_path": "/uF54xIrj0nUr6itZkb8fWwy7Q3v.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950748564043"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-05-21",
+          "runtime": 26,
+          "tmdb_episode_id": 1158905,
+          "tmdb_still_path": "/6WWJA5QR4thy7t0lpiW0JExDN3q.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950763375179"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-05-28",
+          "runtime": 26,
+          "tmdb_episode_id": 1158906,
+          "tmdb_still_path": "/ddfERi3kye6OxkpRHyZaDGM6ZO0.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950776351307"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-04",
+          "runtime": 26,
+          "tmdb_episode_id": 1158907,
+          "tmdb_still_path": "/iG5srL366oRVtKtERlYrPBoHem0.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950792407627"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-11",
+          "runtime": 26,
+          "tmdb_episode_id": 1158908,
+          "tmdb_still_path": "/62R0LkaVzAUb9VmhaFedq7BmIuv.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950817376843"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-18",
+          "runtime": 26,
+          "tmdb_episode_id": 1158909,
+          "tmdb_still_path": "/uOuLmWacwrKgUaHJb8u8vqsqlin.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950830221899"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-25",
+          "runtime": 26,
+          "tmdb_episode_id": 1158910,
+          "tmdb_still_path": "/gD4NcuVf7CvHWLH7RLnq932FEBK.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950845164107"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-02",
+          "runtime": 26,
+          "tmdb_episode_id": 1158911,
+          "tmdb_still_path": "/sLzTu3R7WU6k2JhPkmWsJ6tjGFa.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950857222731"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-09",
+          "runtime": 26,
+          "tmdb_episode_id": 1158913,
+          "tmdb_still_path": "/lHCF4rCsFENbUWA2FFmafvLTCCn.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950871116363"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-16",
+          "runtime": 26,
+          "tmdb_episode_id": 1158914,
+          "tmdb_still_path": "/n4zXbFg61awo93jcjxjpmEbTuLc.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950885075531"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-23",
+          "runtime": 26,
+          "tmdb_episode_id": 1158916,
+          "tmdb_still_path": "/nunpZRdMTwPG2ehkW0maLTxHKV1.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950898379339"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-30",
+          "runtime": 26,
+          "tmdb_episode_id": 1158919,
+          "tmdb_still_path": "/8kbT28DXCfF1ImfkGqa3YE1Azt2.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950919547467"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-06",
+          "runtime": 26,
+          "tmdb_episode_id": 1158921,
+          "tmdb_still_path": "/h4x87zw1ORrVurYhBalSkLyjz5D.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950937373259"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-13",
+          "runtime": 26,
+          "tmdb_episode_id": 1158923,
+          "tmdb_still_path": "/4NoJYatigJRiOZiPoHDuk1X8JvS.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950948252235"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-20",
+          "runtime": 26,
+          "tmdb_episode_id": 1158925,
+          "tmdb_still_path": "/b0MLnFQ6hvvztb9CUqWQkvB1xHH.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950962145867"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-27",
+          "runtime": 26,
+          "tmdb_episode_id": 1158927,
+          "tmdb_still_path": "/hBHKD7EuQou5H8XD1MdJHR4ydl7.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950975515211"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-03",
+          "runtime": 26,
+          "tmdb_episode_id": 1158928,
+          "tmdb_still_path": "/kVeUhp6TocQwhn7PkfHDgXAd4KR.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950989998667"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-10",
+          "runtime": 26,
+          "tmdb_episode_id": 1158930,
+          "tmdb_still_path": "/eqbrMGjgyWD5zlmLDkzUdg6oWdw.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4950999894603"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-17",
+          "runtime": 26,
+          "tmdb_episode_id": 1158931,
+          "tmdb_still_path": "/cxd2WbPg01dVPOD0C3pYCgAGq85.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hyouka ضمن أجواء رسوم متحركة، غموض، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. في أنمي Hyouka تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، مدرسي، شريحة من الحياة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و22 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/hyouka",
+  "story": "يدور أنمي Hyouka ضمن أجواء رسوم متحركة، غموض، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. في أنمي Hyouka تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، مدرسي، شريحة من الحياة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و22 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuichi Nakamura، Satomi Sato، Daisuke Sakaguchi، Ai Kayano",
+  "genre": "أنمي، رسوم متحركة، غموض، كوميديا",
+  "trailerId": "KbIUra_o2wc",
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hyouka",
+    "mainDescription": "يدور أنمي Hyouka ضمن أجواء رسوم متحركة، غموض، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. في أنمي Hyouka تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، مدرسي، شريحة من الحياة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و22 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Hyouka أنمي 2012 | يدور أنمي Hyouka ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hyouka من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/65329"
+    }
+  },
+  "tmdb_id": 65329,
+  "tmdb_url": "https://www.themoviedb.org/tv/65329",
+  "original_title": "氷菓"
+}

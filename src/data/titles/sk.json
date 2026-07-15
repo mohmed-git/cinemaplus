@@ -1,0 +1,364 @@
+{
+  "slug": "sk",
+  "clean_title": "SK∞",
+  "raw_name": "انمي SK∞",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/sk.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/yU4bNQnv6qX3"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/jkydphnv1zep"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-7l7kyr2k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2433788,
+          "tmdb_still_path": "/5uF1RVOhMvF8QtT6MYToLcg7xRQ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/G5LYJVSBWIeX"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/picziizaj1mg"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5jwj20506"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2631137,
+          "tmdb_still_path": "/Acco7HChgjGGWZ4A5uBFvagEzcA.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/0l3r11cF8xmY"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/jwtfronm8iko"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/3pdkxim7e7gj6yx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 2631162,
+          "tmdb_still_path": "/6lK3CvPaBPpm2LiZadDHgkC2UbF.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/GJ6cJJ4055cb"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/jicdskvs7oxx"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpdkdyxzgd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 2631163,
+          "tmdb_still_path": "/upSxyxZiMNLrsEhsKC13yAuCH5g.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/b5O4Rw0id1S0"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/tegosblhi1nv"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8texmxn3rjm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2631164,
+          "tmdb_still_path": "/mmyxBrWD82EFIfEs5wfq5qL3CXf.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/6bOI343tgkW7"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/gtakybc45svs"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yuj464k167r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2631165,
+          "tmdb_still_path": "/rgWTLIY1u87rqmMqj78k7CU7fDv.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/xl36MNPdaLJr"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/3tobqb35u6mf"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8texmx3wd4d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2631166,
+          "tmdb_still_path": "/7CWOVPRKzNclVbiDU0w7bzC52pG.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/oafuFTF5b68V"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/dvb8lksljmtq"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntl2q2qldlq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2631167,
+          "tmdb_still_path": "/6Nj8ipIL77ACvks6leNZAc8wp3U.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/23h7hHqen0nh"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/vlcco6bhifvr"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh32424ewnj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2631168,
+          "tmdb_still_path": "/3ie6kKeh4pjFWIXZoI50bbjWxuR.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/7WA77R8FR1D6"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/kut6mcm76phm"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntl2q2zy8-3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2631169,
+          "tmdb_still_path": "/ddSArV8pvPz6Ppxg3YEj6Xs4rOy.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/7QQo6Y4jTy3N"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/idfeiog2iokn"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5ud0y0mmqer"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2631170,
+          "tmdb_still_path": "/6opysLMozokWO6NW8kBz7WPvU3B.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/17W0dKM3us04"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/3vugcjlax15u"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yuj4644ygke"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2631171,
+          "tmdb_still_path": "/sRCNtT7CyEGIZhQKmogUxZhWEQv.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي SK∞ ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد SK∞ على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "url": "/anime/sk",
+  "story": "يدور أنمي SK∞ ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد SK∞ على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chiaki Kobayashi، Tasuku Hatanaka، Takehito Koyasu، Hikaru Midorikawa، Takuma Nagatsuka، Yasunori Matsumoto",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة",
+  "trailerId": "PcS3QIc6ma8",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "SK∞",
+    "mainDescription": "يدور أنمي SK∞ ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد SK∞ على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+    "metaDescription": "SK∞ أنمي 2021 | يدور أنمي SK∞ ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات SK∞ من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/110309"
+    }
+  },
+  "tmdb_id": 110309,
+  "tmdb_url": "https://www.themoviedb.org/tv/110309",
+  "original_title": "SK∞ エスケーエイト"
+}

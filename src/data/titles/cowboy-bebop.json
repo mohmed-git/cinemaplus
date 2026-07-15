@@ -1,0 +1,468 @@
+{
+  "slug": "cowboy-bebop",
+  "clean_title": "Cowboy Bebop",
+  "raw_name": "انمي Cowboy Bebop",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/cowboy-bebop.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "تبختر الكلب الضال",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cm12r4z5p2"
+            }
+          ],
+          "overview": "يذهب \"سبايك\" و\"جيت\" إلى المرّيخ حيث يطاردان لصًا سرق كلبًا من نوع \"ويلش كورغي\". وبينما هما يحاولان الإيقاع بسارق الكلاب، يحظيان بصديق جديد.",
+          "air_date": "1998-04-03",
+          "runtime": 25,
+          "tmdb_episode_id": 750947,
+          "tmdb_still_path": "/iVrdlxroQAPcMzTQl9IoTJM55Dz.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "تبختر الكلب الضال",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzy4rnq6qk"
+            }
+          ],
+          "overview": "لقلّة ما في أيديهما من مال نقديّ، يذهب \"سبايك\" و\"جيت\" إلى كازينو محطّة الفضاء، ويلتقيان بحسناء مطاردة تلوذ بالفرار معهما لإنقاذ نفسها.",
+          "air_date": "1998-04-10",
+          "runtime": 25,
+          "tmdb_episode_id": 750951,
+          "tmdb_still_path": "/gx9Ycnma0FN4Vr0k8iO8nP7ExVe.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "مركبة هيفي ميتال كوين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh34qxyzrl6"
+            }
+          ],
+          "overview": "يقتفي الفريق أثر مفجّر خطير، ويلتقي \"سبايك\" بسيّدة تعمل في مجال نقل البضائع جوًّا فيصبحان صديقين على الرغم من بغضها لصائدي الجوائز.",
+          "air_date": "1998-04-17",
+          "runtime": 25,
+          "tmdb_episode_id": 750953,
+          "tmdb_still_path": "/5lu1vDChATiQ4PFReP2gGenGRxS.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الانطلاق نحو الزهرة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cm1263emzw"
+            }
+          ],
+          "overview": "يبحث الفريق عن فرد عصابة على كوكب الزهرة، ويلتقي \"سبايك\" أثناء هروبه من أحد رجال العصابات بفتًى مرح يطلب منه أن يعلّمه القتال.",
+          "air_date": "1998-04-24",
+          "runtime": 25,
+          "tmdb_episode_id": 750960,
+          "tmdb_still_path": "/pVCVK0lJindZFyR7rdiysRfIyyx.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "التشويش على إدوارد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8tem-861rxg"
+            }
+          ],
+          "overview": "عندما ينضمّ أحد أفضل قراصنة الحاسوب لفريق البحث عن مُخرّب يُشوّه سطح الأرض، يُذهل الجميع لإحساس آلة الذكاء الاصطناعي بمشاعر حقيقيّة.",
+          "air_date": "1998-05-01",
+          "runtime": 25,
+          "tmdb_episode_id": 750956,
+          "tmdb_still_path": "/bDCw4k8qMF23is16JFPCHji0mxf.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "مرثاة غانيميد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udy7lnze11"
+            }
+          ],
+          "overview": "يُخبر صديق قديم لـ\"جيت\" من شرطة النظام الشمسيّ بمكان صديقته السابقة، ممّا يزيد من رغبة \"جيت\" في معرفة سبب هجرها له.",
+          "air_date": "1998-05-08",
+          "runtime": 25,
+          "tmdb_episode_id": 750955,
+          "tmdb_still_path": "/r9Wl116aj37Pb5xWy5F12BWx7a1.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "ألعاب في العليّة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt0162edy-m"
+            }
+          ],
+          "overview": "بينما تبحر سفينة \"بيبوب\" بهدوء نحو حزام الكويكبات، يهاجم كائن غامض يشبه الفقاعة المركبة بشكل مفاجئ ويصيب أغلب أعضاء الفريق بالعدوى.",
+          "air_date": "1998-05-15",
+          "runtime": 25,
+          "tmdb_episode_id": 750959,
+          "tmdb_still_path": "/cXLBevX1X3lGh82fGLKRrQyw7vn.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "جاز المشتري (الجزء 1)",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt0162kmr43"
+            }
+          ],
+          "overview": "تُفرغ \"فاي\" خزانة الفريق وتفر هاربة إلى كوكب \"كاليستو\"، فيتبعها \"جيت\". كما يذهب \"سبايك\" في إثر \"جوليا\"، فيجد نفسه في مواجهة مع \"فيشس\".",
+          "air_date": "1998-05-22",
+          "runtime": 25,
+          "tmdb_episode_id": 750957,
+          "tmdb_still_path": "/hJB0k0Xc8yVAfryumu7stzMKZfV.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "جاز المشتري (الجزء 2)",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8tem-8qx6q0"
+            }
+          ],
+          "overview": "تتلقّى \"فاي\" مساعدة من رجل غدر به \"فيشس\". وعندما يعثر هذا الرجل و\"سبايك\" على مخبأ عدوهما في ذات اللحظة، تدور بينهم معركة.",
+          "air_date": "1998-05-29",
+          "runtime": 25,
+          "tmdb_episode_id": 750958,
+          "tmdb_still_path": "/zRUnbSWILPZzJdXZ4aErnN174vt.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "بوهيميان رابسودي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpk08yr10g"
+            }
+          ],
+          "overview": "بينما يحاول \"سبايك\" وفريقه إلقاء القبض على العقل المدبّر وراء سلسلة من السرقات الفضائية، يقتربون من حقيقة تدمير الكرة الأرضيّة.",
+          "air_date": "1998-06-05",
+          "runtime": 25,
+          "tmdb_episode_id": 750954,
+          "tmdb_still_path": "/2l6yiD2xcyD62XNjfkMcMbI9acM.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "آنستي فالنتين المرحة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzy4q6l6yg"
+            }
+          ],
+          "overview": "تستغرق \"فاي\" في ذكريات ماضيها في لحظة سوداويّة، ثم تواجه الرجل الذي يعلم حقيقة ماضيها والدّين الذي يثقل كاهلها.",
+          "air_date": "1998-06-12",
+          "runtime": 25,
+          "tmdb_episode_id": 750961,
+          "tmdb_still_path": "/cjt9U5dHnDuwVZroTU2Nqr1PK16.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "التحدث كالأطفال",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzy4qyeg1p"
+            }
+          ],
+          "overview": "بينما تُقامر \"فاي\" بأموالها فى سباق الخيول، يصلها طرد خاصّ على السفينة، فيفتحه \"سبايك \" و\"جيت\" ليجدا في داخله شريط فيديو.",
+          "air_date": "1998-06-19",
+          "runtime": 25,
+          "tmdb_episode_id": 750965,
+          "tmdb_still_path": "/mlJbgAmIC5IZeqcdvSSwlmSsTth.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "بلوز الكويكب",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5w4drznky"
+            }
+          ],
+          "overview": "يحصل \"سبايك سبيغل\" وشريكه \"جيت بلاك\" على أكثر ممّا تفاوضا عليه عندما يسافران عبر الفضاء لتعقّب أحد أباطرة المخدّرات وصديقته.",
+          "air_date": "1998-10-24",
+          "runtime": 25,
+          "tmdb_episode_id": 750948,
+          "tmdb_still_path": "/b6VsJjejz2DCKF48D5sCMjBhRd0.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "موسيقى البوابة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzyl3zqzrj"
+            }
+          ],
+          "overview": "يحاول \"سبايك\" و\"جيت\" إلقاء القبض على رئيس عصابة من إرهابيي البيئة، وتعثر \"فاي\" على حقيبة غامضة وسط حطام سفينة فضائيّة مهجورة.",
+          "air_date": "1998-11-14",
+          "runtime": 25,
+          "tmdb_episode_id": 750950,
+          "tmdb_still_path": "/wMq8L7z5XNu2mSKid19acaaMxlx.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "قصيدة الملائكة المنفيّين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0ade1p6m100"
+            }
+          ],
+          "overview": "بينما يسعى\"سبايك\" للحصول على الجائزة المخصّصة للإيقاع بعضوٍ رفيع المستوى من منظمة \"التنين الأحمر\"، يجد نفسه في مواجهة عدوّ قديم.",
+          "air_date": "1998-11-21",
+          "runtime": 25,
+          "tmdb_episode_id": 750949,
+          "tmdb_still_path": "/5IJ3Ui8NAdnmKKIptgXStm5DhGW.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "تعاطف مع الشيطان",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5w4d2x1rj"
+            }
+          ],
+          "overview": "يبحث \"سبايك\" و\"جيت\" عن مجرم متّهم بسرقة قطعة حجر نيزك من المعمل... إنه وغد يبدو كطفل صغير على الرغم من كِبر سنّه.",
+          "air_date": "1998-11-28",
+          "runtime": 25,
+          "tmdb_episode_id": 750952,
+          "tmdb_still_path": "/uu7Hw0SooEs3FkcsBIV2MNtM8IQ.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "لحن الكلب الأسود",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h532rx0zx5"
+            }
+          ],
+          "overview": "عندما يستولي مساجين على سفينة نقل، يُستدعى \"جيت\" للمساعدة، ليتقابل وجهًا لوجه مع ذلك القاتل المأجور من المنظمة الذي أفقده ذراعه.",
+          "air_date": "1999-02-13",
+          "runtime": 25,
+          "tmdb_episode_id": 750962,
+          "tmdb_still_path": "/954eMQCU0sop9dzbvzoZ7KvXZUJ.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "سامبا الفطر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cgqy2zy25z"
+            }
+          ],
+          "overview": "عندما تنفد المؤن من السفينة \"بيبوب\"، تخرج \"إد\" مع \"إن\" للبحث عن أي شيء يصلح للأكل، فلا يجدان سوى بعض نباتات الفطر التي تسبّب الهلوسة.",
+          "air_date": "1999-02-20",
+          "runtime": 25,
+          "tmdb_episode_id": 750963,
+          "tmdb_still_path": "/3rxmccsRybsZolyxMOJp6HpSusP.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "خيول برية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh2mqep5w33"
+            }
+          ],
+          "overview": "بعدما تتضرّر مركبته أثناء مهمّة له، يتوجّه \"سبايك\" إلى كوكب الأرض ليتولّى مُصمّم المركبة إصلاحها، وينشب قتال بين \"جيت\" و\"فاي\" وبين قراصنة.",
+          "air_date": "1999-03-06",
+          "runtime": 25,
+          "tmdb_episode_id": 750964,
+          "tmdb_still_path": "/vHh5fXfYDb6Y1BKfhFC3XIY8Vas.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "بييروت المجنون",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h532rlle-8"
+            }
+          ],
+          "overview": "يشهد \"سبايك\" جريمة قتل، ويصبح هدفًا لقاتل متسلسل مختلّ نفسيًّا يحثه على تصفية الأمر بينهما داخل مدينة ملاهٍ في الفضاء.",
+          "air_date": "1999-03-13",
+          "runtime": 25,
+          "tmdb_episode_id": 750966,
+          "tmdb_still_path": "/gBoB751W2aORIqZ25T7j7bAZG0a.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "فينغ شوي بوجي ووجي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udyg6yg5kn"
+            }
+          ],
+          "overview": "تدفع رسالة مشفّرة \"جيت\" إلى درب يكتشف فيه قبر صديقه، ويقابل ابنته التى تنشد مساعدته فى حلّ لغز اختفاء والدها.",
+          "air_date": "1999-03-20",
+          "runtime": 25,
+          "tmdb_episode_id": 750969,
+          "tmdb_still_path": "/7CUd3Ms1vkn3SnFc2rMulthyjCK.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "ذعر راعي البقر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-l0w2-4yz"
+            }
+          ],
+          "overview": "يحاول \"سبايك\" عرقلة إرهابيّ يُخفي متفجّرات داخل دمى أطفال، ولكنه يصطدم مع صائد جوائز مثله وينزعج من التشابه الكبير بينهما.",
+          "air_date": "1999-03-27",
+          "runtime": 25,
+          "tmdb_episode_id": 750968,
+          "tmdb_still_path": "/v7B5HQXyuyKbgZ3yA0C8NG49IsA.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "حك الدماغ",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpkw7dxwqq"
+            }
+          ],
+          "overview": "تتخفّى \"فاي\" للتسلل إلى صفوف طائفة تعتقد أنّه يمكن تحقيق الخلود بتحويل الروح إلى بيانات رقميّة وتحميلها على الإنترنت.",
+          "air_date": "1999-04-03",
+          "runtime": 25,
+          "tmdb_episode_id": 750970,
+          "tmdb_still_path": "/hpeITuE5yHvv46ZAuVu9kXVSQn1.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "امرأة سيئة الحظ",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-unj8w4kn3r"
+            }
+          ],
+          "overview": "حين يدفع شريط فيديو قديم \"فاي\" للتقصّي عن ماضيها، تُقاد هي و\"إد\" إلى ما يبدو أنه دار للأيتام، ويتوقّع كلّ من \"جيت\" و\"سبايك\" يوم احتفال بهيج.",
+          "air_date": "1999-04-10",
+          "runtime": 25,
+          "tmdb_episode_id": 750971,
+          "tmdb_still_path": "/wsNWFPXs5rLRY4tuxluSCnMSrZa.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "البلوز التقليدي الحقيقي (الجزء 1)",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b8l6nd6yr0"
+            }
+          ],
+          "overview": "يحاول \"جيت\" و\"سبايك \" التغلّب على أحزانهما باحتساء الخمر، وهما غافلان عن إصدار قادة منظمة \"التنين الأحمر\" لأوامر بقتل جميع الأعضاء السابقين.",
+          "air_date": "1999-04-17",
+          "runtime": 25,
+          "tmdb_episode_id": 750967,
+          "tmdb_still_path": "/dGCVTk5yzo736awEs2906wVBFdP.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "البلوز التقليدي الحقيقي (الجزء 2)",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udyg633rgl"
+            }
+          ],
+          "overview": "يجتمع \"سبايك \" مع \"جوليا \"ويخطط لهروبهما من \"التنين الأحمر\" الخاضعة الآن لسيطرة \" فيشس\"، ولكنّ القدر قد اختار بالفعل لـ\"سبايك \" دربًا آخر.",
+          "air_date": "1999-04-24",
+          "runtime": 25,
+          "tmdb_episode_id": 750972,
+          "tmdb_still_path": "/2VDelPMrnp3MaNvJMZ0vfwyUNOq.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "فريق متنوّع، مكوّن من قاتل محترف تائب وشرطي سابق ومحتالة وقرصانة إلكترونية يافعة وكلب بيانات، يجوب الفضاء بحثًا عن المكافآت كمصدر للعيش.",
+  "url": "/anime/cowboy-bebop",
+  "story": "فريق متنوّع، مكوّن من قاتل محترف تائب وشرطي سابق ومحتالة وقرصانة إلكترونية يافعة وكلب بيانات، يجوب الفضاء بحثًا عن المكافآت كمصدر للعيش.",
+  "year": "1998",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Koichi Yamadera، Unsho Ishizuka، Megumi Hayashibara، Aoi Tada",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، غربي",
+  "trailerId": "QCaEJZqLeTU",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Cowboy Bebop",
+    "mainDescription": "فريق متنوّع، مكوّن من قاتل محترف تائب وشرطي سابق ومحتالة وقرصانة إلكترونية يافعة وكلب بيانات، يجوب الفضاء بحثًا عن المكافآت كمصدر للعيش.",
+    "metaDescription": "Cowboy Bebop أنمي 1998 | فريق متنوّع | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Cowboy Bebop من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/30991"
+    }
+  },
+  "tmdb_id": 30991,
+  "tmdb_url": "https://www.themoviedb.org/tv/30991",
+  "original_title": "カウボーイビバップ"
+}

@@ -1,0 +1,484 @@
+{
+  "slug": "astro-note",
+  "clean_title": "Astro Note",
+  "raw_name": "انمي Astro Note",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/astro-note.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7279653816907"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6FHxaMnqBqoP5FfF"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7279662271051"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7279666989643"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=M91vBxW4zah6EU4Y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4963487,
+          "tmdb_still_path": "/pVTzRpTJ6ddeDE1WHhCqp8r6bcA.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7303911180875"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bwgtYv4NPIycYmsV"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7303919045195"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7303927106123"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cd5kOasqzOUsuzZB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5250847,
+          "tmdb_still_path": "/bJnWoz1nd0nYdrM1LTaSG2RvQOC.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7323732675147"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zsn34SGJEmJ5W7zw"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7323752270411"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7323771275851"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zlSvyb1rXsqGICZe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5250848,
+          "tmdb_still_path": "/1PKbBzIguswt3Q7RiXUJBfmgNjN.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7344500771403"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TaM2pLmnvPCBXD4n"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7344505883211"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7344511191627"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OtnHo93X8THh2rim"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-26",
+          "runtime": 24,
+          "tmdb_episode_id": 5250849,
+          "tmdb_still_path": "/734wt8xKSe6ytVTCwXy9ThpiP8H.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7366227659339"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZAOjsVCGpjXnH54H"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7366233360971"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7366237751883"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OoZRiRtZic2lYphk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5250850,
+          "tmdb_still_path": "/sxxEuCLALqNG7TBhGgkQ28aiCPv.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7389551790667"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7Ni2e43EKplyKJoY"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7389559130699"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7389564504651"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OE0fh2GXb3fCNj8t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5250851,
+          "tmdb_still_path": "/s0Ephgn9yUeJTAHFqtPWbR91iOi.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7411563366987"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=LpBuq9DYJFe7jdM0"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7411570444875"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7411574770251"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=b2hJp7vLNq4ROfjs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5250853,
+          "tmdb_still_path": "/GjmczHI0wvSVWR23gm9V49mrtK.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7434553330251"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tA1rs81JiU0FU6gi"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7434562308683"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7434567092811"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wCo5jX6Bx7WBtSM2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5250854,
+          "tmdb_still_path": "/7iIXxvpDObAnIS1Ahpd5MfBrbhp.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7455925602891"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=crB729isr19GplIX"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7455944346187"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7455948081739"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Unvn9Dl7sCzJp7dX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5250855,
+          "tmdb_still_path": "/hyLpLoP7dgGeGKJKJ2jvcJkGPTd.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7478817458763"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=O2RSx17pFhBVrqPd"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7478838561355"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7478846556747"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=msiXNolHkuHtkFLq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5250856,
+          "tmdb_still_path": "/7tlZVmwmXvkC0gRbGw38HhKOmmx.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7503015512651"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=S9CgnYcBBuAlxJfB"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7503022852683"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7503027833419"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rAe0LpKzIa54ohh2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5250857,
+          "tmdb_still_path": "/xbv4GOB1dVmhSL9igh6RvRujZwW.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7527572245067"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ULH2hw1QRfOgu1BL"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7527577946699"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7527582009931"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Fze5N0f4s9bpFcnv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5250859,
+          "tmdb_still_path": "/beoyw9JOheL9CCQ32Y78qjCnWJ7.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Astro Note ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Astro Note على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف خيال علمي، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Astro Note على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/astro-note",
+  "story": "يدور أنمي Astro Note ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Astro Note على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف خيال علمي، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Astro Note على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Maaya Uchida، Soma Saito، Rie Kugimiya، Tomokazu Sugita، Shin-ichiro Miki، Ai Furihata",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "5AG73Z-lENI",
+  "rating": "6.5",
+  "imdb_rating": "6.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Astro Note",
+    "mainDescription": "يدور أنمي Astro Note ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Astro Note على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف خيال علمي، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Astro Note على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Astro Note أنمي 2024 | يدور أنمي Astro Note ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Astro Note من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/240682"
+    }
+  },
+  "tmdb_id": 240682,
+  "tmdb_url": "https://www.themoviedb.org/tv/240682",
+  "original_title": "アストロノオト"
+}

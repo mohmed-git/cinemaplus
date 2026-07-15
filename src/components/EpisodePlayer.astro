@@ -1,0 +1,76 @@
+---
+import type { Server } from '../lib/types';
+
+interface Props {
+  title: string;
+  servers: Server[];
+}
+
+const { title, servers } = Astro.props;
+const firstServer = servers[0] ?? null;
+---
+
+<section class="glass-panel overflow-hidden">
+  <div class="aspect-video w-full bg-black">
+    {firstServer ? (
+      <iframe
+        id="episode-player"
+        src={firstServer.url}
+        title={title}
+        allowfullscreen
+        loading="lazy"
+        referrerpolicy="no-referrer"
+        class="h-full w-full border-0"
+      ></iframe>
+    ) : (
+      <div class="flex h-full w-full items-center justify-center p-6 text-center text-sm text-gray-400">
+        لا توجد سيرفرات متاحة لهذه الحلقة حالياً.
+      </div>
+    )}
+  </div>
+
+  {servers.length > 0 && (
+    <div class="border-t border-white/[0.06] p-4">
+      <div class="mb-3 flex items-center justify-between gap-3">
+        <h2 class="text-base font-bold text-white">سيرفرات المشاهدة</h2>
+        <span class="chip-surface text-[11px]">{servers.length} سيرفر</span>
+      </div>
+      <div class="flex flex-wrap gap-2" data-server-list>
+        {servers.map((server, index) => (
+          <button
+            type="button"
+            data-server-url={server.url}
+            class={`server-switch rounded-xl border px-4 py-2 text-xs font-bold transition-all ${
+              index === 0
+                ? 'border-brand-400/60 bg-brand-500/20 text-brand-100'
+                : 'border-white/[0.06] bg-white/[0.04] text-gray-300 hover:border-brand-400/40 hover:text-white'
+            }`}
+          >
+            {server.label || `سيرفر ${index + 1}`}
+          </button>
+        ))}
+      </div>
+    </div>
+  )}
+</section>
+
+<script>
+  const player = document.querySelector<HTMLIFrameElement>('#episode-player');
+  const buttons = document.querySelectorAll<HTMLButtonElement>('.server-switch');
+
+  buttons.forEach((button) => {
+    button.addEventListener('click', () => {
+      if (!player || !button.dataset.serverUrl) return;
+      player.src = button.dataset.serverUrl;
+      buttons.forEach((item) => {
+        const active = item === button;
+        item.classList.toggle('border-brand-400/60', active);
+        item.classList.toggle('bg-brand-500/20', active);
+        item.classList.toggle('text-brand-100', active);
+        item.classList.toggle('border-white/[0.06]', !active);
+        item.classList.toggle('bg-white/[0.04]', !active);
+        item.classList.toggle('text-gray-300', !active);
+      });
+    });
+  });
+</script>

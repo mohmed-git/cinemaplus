@@ -1,0 +1,484 @@
+{
+  "slug": "ramen-akaneko",
+  "clean_title": "Ramen Akaneko",
+  "raw_name": "انمي Ramen Akaneko",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ramen-akaneko.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7568217213515"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bvQ4tznA1c1iHWeE"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7568225667659"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7568228026955"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SlIPISHzlTjT7ATV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-04",
+          "runtime": 23,
+          "tmdb_episode_id": 5001237,
+          "tmdb_still_path": "/e3wFBMGZdvkNXIHCUI4tLQt7eiV.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7589096262219"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Wjnviw8um1I5L7EU"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7589101963851"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7589106354763"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sSa7jPc5PCsfLLEr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-11",
+          "runtime": 23,
+          "tmdb_episode_id": 5234177,
+          "tmdb_still_path": "/1lZ26cR7BFJXggPJ1wgPHeyiJH8.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7610392775243"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7DXEw1cEIqc3c0Ds"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7610400377419"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7610407914059"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wsMolHQbXSCkg5TV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-18",
+          "runtime": 23,
+          "tmdb_episode_id": 5234178,
+          "tmdb_still_path": "/sKzyVKxcchvB5E4OMCGDYbo0vMv.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7633869474379"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jCueR27EScVLgUSd"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7633873603147"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7633890314827"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=raXRKwvOSmehAAhl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-25",
+          "runtime": 23,
+          "tmdb_episode_id": 5234179,
+          "tmdb_still_path": "/3Yhjc0tZH3BUnsYPrmmZcER4PhL.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7655025805899"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7g9x2u8ygWQppXw0"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7655031638603"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7655040813643"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eQUSWpe2UI9mbF9Y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-01",
+          "runtime": 23,
+          "tmdb_episode_id": 5234180,
+          "tmdb_still_path": "/nuLqHPeK8l0IqGCTWX7DVzzbl2h.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7683130264139"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=T3YN2MIoLKG1ujud"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7683134327371"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7683137276491"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8AzCtgsrJVcYkMlR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-08",
+          "runtime": 23,
+          "tmdb_episode_id": 5234181,
+          "tmdb_still_path": "/qrwKJ8vWqAAv2wtix11HYHM7mmF.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7709469575755"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JcEEqvM4g37JtFRL"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7709480585803"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7709482289739"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GjhWctUBCbSHelru"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-15",
+          "runtime": 23,
+          "tmdb_episode_id": 5234182,
+          "tmdb_still_path": "/u58MBrGU7So4BaGs44Dg5a8Y1mY.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7729395141195"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3ZcILWRW2zFTq25Z"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7729400121931"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7729402612299"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Qg9vIdPu3N4zXZKW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-22",
+          "runtime": 23,
+          "tmdb_episode_id": 5234183,
+          "tmdb_still_path": "/xnRZXc4y4pwuS4fKqRGhNCIHLJN.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7751238552139"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XG0gzj7lCPg01Gj2"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7751243926091"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7751252445771"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fapvWSvAR3WiGNwx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-29",
+          "runtime": 23,
+          "tmdb_episode_id": 5234184,
+          "tmdb_still_path": "/zgBLwgPkpBpISjU2esOSZzWacGY.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7771430783563"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=f76W0CHtNi22R97B"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7771436812875"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7771443890763"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HaH7yhZ1Vcc7RuEi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-05",
+          "runtime": 23,
+          "tmdb_episode_id": 5234185,
+          "tmdb_still_path": "/kWPXTCCV87iLQi4G9eSV6iLpUo0.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7794949687883"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QlPpA3a4v1XOrkWc"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7794953357899"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7794955520587"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OLrVsYZolLAG5uf6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-12",
+          "runtime": 23,
+          "tmdb_episode_id": 5234186,
+          "tmdb_still_path": "/cDvhWE5a7HrxWQyxWSs2YKGYDHm.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7814867716683"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ySaK4eip3X86JNjX"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7814872697419"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7814879775307"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Q9ArxwPwBAjfRbv3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-19",
+          "runtime": 23,
+          "tmdb_episode_id": 5234187,
+          "tmdb_still_path": "/z6JIN9BtysV1Rf86OkNCEussSK9.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Ramen Akaneko ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Ramen Akaneko من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شونين، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ramen Akaneko على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/ramen-akaneko",
+  "story": "يدور أنمي Ramen Akaneko ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Ramen Akaneko من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شونين، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ramen Akaneko على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kenjiro Tsuda، Kurumi Orihara، Noriaki Sugiyama، Michiyo Murase، Rie Kugimiya، Saori Hayami",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "pXAek70Aou8",
+  "rating": "5.8",
+  "imdb_rating": "5.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ramen Akaneko",
+    "mainDescription": "يدور أنمي Ramen Akaneko ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و12 حلقة. تبدأ قصة Ramen Akaneko من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شونين، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ramen Akaneko على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Ramen Akaneko أنمي 2024 | يدور أنمي Ramen Akaneko ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ramen Akaneko من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/241628"
+    }
+  },
+  "tmdb_id": 241628,
+  "tmdb_url": "https://www.themoviedb.org/tv/241628",
+  "original_title": "ラーメン赤猫"
+}

@@ -1,0 +1,585 @@
+{
+  "slug": "your-forma",
+  "clean_title": "Your Forma",
+  "raw_name": "انمي Your Forma",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/your-forma.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354484189894"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=n9yeclB6RTxXJtKm"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9h92a2"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354492381894"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354495527622"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uqcz6XWyOldV407i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5840684,
+          "tmdb_still_path": "/9lyiykRCPdU6UZiW53LGQReNk4O.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9377375455942"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=8KdtjWAI9dXcnKpv"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hp2ri"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9377385810630"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9377387317958"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8mqFyIsYzoaagqgC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 6078977,
+          "tmdb_still_path": "/15Y4WuW4mL5LqSZbQacK93jbKh4.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9396499712710"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=K46WQm1Hdl1Yni0A"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9i0juw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9396506266310"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9396510526150"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MyxcL4BzCtLt8UxO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 6078978,
+          "tmdb_still_path": "/hhODX00Pwka3BpO5QTGGUye9miC.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9419399760582"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=D1ApgDfvobb7lMsu"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9idzd8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9419406379718"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9419410574022"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lGcys9qV7SVEfMJw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 6078979,
+          "tmdb_still_path": "/m12fX97zr0xEltEaUytMeEbSWgI.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9441300384454"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7aTV0R9CDnlYJB54"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9is1he"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9441309821638"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9441315195590"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NsqFUEaUTy1lvmj3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 6156328,
+          "tmdb_still_path": "/kYeyIEknzW1LobHTNApaAyjya2J.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9463424879302"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yaYsIGLylJ0uA0U8"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9j4owg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9463429466822"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9463434709702"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vqpQp979BmPTI7lq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 6156329,
+          "tmdb_still_path": "/s72wrdJRcad48DGPmYzAIfEQHWe.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9487509621446"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gZvnXYhwZe7rBVtW"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jkffo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9487517158086"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9487519189702"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=84cUr7xkzttmWuW9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 6188668,
+          "tmdb_still_path": "/sdQQFv1svVU8ttDfCaTS5XIpjWF.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9504462015174"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=At2x7wlgIdiFlIHu"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jx472"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9504469093062"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9504483642054"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dxKq9pRQ8FqWSYkr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 6188669,
+          "tmdb_still_path": "/uNY18tsFrWWDg0KSMzA9xmii4uA.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9523901827782"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VPTXwUB5utgvNL3H"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9kekry"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9523904252614"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9523907594950"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Tqi4VtLHdnx3gjsz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 6188670,
+          "tmdb_still_path": "/jzVCLrqcoPu6Au2Sbh03ldFvleH.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9542306368198"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=d2ipLrxqTjO43GOH"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ktaua"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9542308989638"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9542314298054"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SGd0RCnlJdnp2aHv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 6188671,
+          "tmdb_still_path": "/AjC0LgwgylHOriTpoKR8ooglY5B.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9561053203142"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fPcNOmzteqwx1yud"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9l7mkc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9561076533958"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9561080924870"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SwAfoKWcfgY7aX7S*"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 6188672,
+          "tmdb_still_path": "/oUOGaJKqb0O80L2QxmWig1DJYBt.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9583717911238"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eNrUOuV0TuPNJjsl"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9lnd20"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9583725251270"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9583730035398"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SuxBnwknxGKxcarr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 6188673,
+          "tmdb_still_path": "/veCMEs0VCbRylRGWwAqJQPZ2qBI.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9608320977606"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eCZVziS82q8BAJLr"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9m2l6u"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9608324713158"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9608331791046"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kaxtrHiXdHjmfnUL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 6188674,
+          "tmdb_still_path": "/jLrcfgLstdfueSH403WGQwZkr9E.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "في عام 2023 البديل، أصبحت تقنية Your Forma، وهي تقنية \"الخيط الذكي\" المعجزة التي تم تطويرها في البداية لعلاج تفشي هائل لالتهاب الدماغ الفيروسي، جزءًا لا يتجزأ من الحياة اليومية. لكن هذه الأجهزة المريحة تأتي مع عيب غازي - فهي تسجل كل مشهد وصوت وحتى عاطفة يختبرها مستخدموها. بالنسبة للمحققة الإلكترونية Echika Hieda، فإن الغوص في ذكريات الناس عبر Your Forma والبحث عن أدلة لحل أصعب الجرائم هو جزء من عمل اليوم. المشكلة هي أنها جيدة جدًا في ما تفعله لدرجة أن مساعديها يقليون أدمغتهم حرفيًا في محاولة لمواكبتها. بعد وضع عدد كبير جدًا من المساعدين في المستشفى، يوفر كبار القادة أخيرًا لإيتشيكا شريكًا على مستواها، وهو روبوت لامع ولكنه وقح يُدعى هارولد لوكرافت. هل يمتلك هذا الثنائي غير المحتمل ما يلزم لحل شكوكهما المتبادلة وتجنب عدوى تكنولوجية مميتة من اجتياح العالم قبل فوات الأوان؟",
+  "url": "/anime/your-forma",
+  "story": "في عام 2023 البديل، أصبحت تقنية Your Forma، وهي تقنية \"الخيط الذكي\" المعجزة التي تم تطويرها في البداية لعلاج تفشي هائل لالتهاب الدماغ الفيروسي، جزءًا لا يتجزأ من الحياة اليومية. لكن هذه الأجهزة المريحة تأتي مع عيب غازي - فهي تسجل كل مشهد وصوت وحتى عاطفة يختبرها مستخدموها. بالنسبة للمحققة الإلكترونية Echika Hieda، فإن الغوص في ذكريات الناس عبر Your Forma والبحث عن أدلة لحل أصعب الجرائم هو جزء من عمل اليوم. المشكلة هي أنها جيدة جدًا في ما تفعله لدرجة أن مساعديها يقليون أدمغتهم حرفيًا في محاولة لمواكبتها. بعد وضع عدد كبير جدًا من المساعدين في المستشفى، يوفر كبار القادة أخيرًا لإيتشيكا شريكًا على مستواها، وهو روبوت لامع ولكنه وقح يُدعى هارولد لوكرافت. هل يمتلك هذا الثنائي غير المحتمل ما يلزم لحل شكوكهما المتبادلة وتجنب عدوى تكنولوجية مميتة من اجتياح العالم قبل فوات الأوان؟",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kana Hanazawa، Kensho Ono، Nao Toyama، Aya Endo، Nobuhiko Okamoto، Ayaka Nanase",
+  "genre": "أنمي، رسوم متحركة، غموض، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "6.3",
+  "imdb_rating": "6.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Your Forma",
+    "mainDescription": "في عام 2023 البديل، أصبحت تقنية Your Forma، وهي تقنية \"الخيط الذكي\" المعجزة التي تم تطويرها في البداية لعلاج تفشي هائل لالتهاب الدماغ الفيروسي، جزءًا لا يتجزأ من الحياة اليومية. لكن هذه الأجهزة المريحة تأتي مع عيب غازي - فهي تسجل كل مشهد وصوت وحتى عاطفة يختبرها مستخدموها. بالنسبة للمحققة الإلكترونية Echika Hieda، فإن الغوص في ذكريات الناس عبر Your Forma والبحث عن أدلة لحل أصعب الجرائم هو جزء من عمل اليوم. المشكلة هي أنها جيدة جدًا في ما تفعله لدرجة أن مساعديها يقليون أدمغتهم حرفيًا في محاولة لمواكبتها. بعد وضع عدد كبير جدًا من المساعدين في المستشفى، يوفر كبار القادة أخيرًا لإيتشيكا شريكًا على مستواها، وهو روبوت لامع ولكنه وقح يُدعى هارولد لوكرافت. هل يمتلك هذا الثنائي غير المحتمل ما يلزم لحل شكوكهما المتبادلة وتجنب عدوى تكنولوجية مميتة من اجتياح العالم قبل فوات الأوان؟",
+    "metaDescription": "Your Forma أنمي 2025 | في عام 2023 البديل | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Your Forma من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/279731"
+    }
+  },
+  "tmdb_id": 279731,
+  "tmdb_url": "https://www.themoviedb.org/tv/279731",
+  "original_title": "ユア・フォルマ"
+}

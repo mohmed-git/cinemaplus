@@ -1,0 +1,304 @@
+{
+  "slug": "akiba-maid-sensou",
+  "clean_title": "Akiba Maid Sensou",
+  "raw_name": "انمي Akiba Maid Sensou",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/akiba-maid-sensou.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239162&hash=37dd2167e0936f35&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519909"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3801776,
+          "tmdb_still_path": "/sl7y3aoaJDNeibOQvuTGC3twB5t.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239164&hash=ab5b540591ebf1e1&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519910"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 3991242,
+          "tmdb_still_path": "/eyq8rcWtE1qT4Uodj0ajK96U79d.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239163&hash=eccaac646c1dffed&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519911"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 3991243,
+          "tmdb_still_path": "/dNLvjsTD2PAs14sHt8RBV1bT9M1.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239165&hash=cf540d1dd4cf13b4&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519912"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 3991244,
+          "tmdb_still_path": "/2OHPFSZbyXoy0jGYCT1S1Ml2uIz.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239166&hash=7462a93ae68ea476&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519913"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3991246,
+          "tmdb_still_path": "/fgWsqXqJzHdqJ9X7IC6jh6982cH.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239167&hash=a7afa71806498f40&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519914"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3991247,
+          "tmdb_still_path": "/kTzjHqpC4vb0B69mVkxKF8JWfcU.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239168&hash=66d39ec612a6ba54&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519915"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3991248,
+          "tmdb_still_path": "/9ugLS8xFWNf50asO2gm2l1HbLM.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239169&hash=de8123c203ac0894&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519916"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 3991249,
+          "tmdb_still_path": "/ngnoNFX7zC5hVMpIvuveYyyqapt.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239170&hash=6b6f281768399f29&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519917"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-02",
+          "runtime": 24,
+          "tmdb_episode_id": 3991250,
+          "tmdb_still_path": "/cre7jz4rLvOWYStfqa92SINZJWR.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239171&hash=1ead918c5cc1b590&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519918"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 3991252,
+          "tmdb_still_path": "/ePqkn3LyvgkBjIR8VVxAVxlDo2Z.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239172&hash=ef064dc318ecb9af&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519919"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3991253,
+          "tmdb_still_path": "/rwg8uu8XIPNxT9WdlLMMRO96cMA.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239173&hash=7a7801f9d8380b05&hd=1"
+            },
+            {
+              "id": 2,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519920"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3991254,
+          "tmdb_still_path": "/aZ2QL6AdccEiSEb6QGD9pZ0sGxi.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "ربيع 1999.\n\nالإعجاب والرغبة في أن تكون خادمة لطيف ، فتاة صغيرة تأتي إلى أكيهابارا. تمتلئ \"أكيبا\" في نهاية القرن بمجموعة متنوعة من الخادمات. مقهى الخادمة \"تون توكوتون\" ، المعروف باسم \"بوتاغويا\" (كوخ الخنزير) ، مفتوح اليوم أيضا!\n\nكنت في حالة من الذعر لأن الخادمة الجديدة التي انضمت إلى المتجر معي كانت غير متوقعة تماما. الخادمات والمدربين ، وغيرها من أشكال الحياة أكيهابارا تظهر كذلك ، ويتأرجح الخفافيش الحمراء في العمل!\n\nهذه يوميات نضال عمل خادمة كاملة ، تعطى لجميع الأساتذة والسيدات. \"نحن في انتظار عودتك إلى المنزل ، بوو.\"\n\n(movil00)",
+  "url": "/anime/akiba-maid-sensou",
+  "story": "ربيع 1999.\n\nالإعجاب والرغبة في أن تكون خادمة لطيف ، فتاة صغيرة تأتي إلى أكيهابارا. تمتلئ \"أكيبا\" في نهاية القرن بمجموعة متنوعة من الخادمات. مقهى الخادمة \"تون توكوتون\" ، المعروف باسم \"بوتاغويا\" (كوخ الخنزير) ، مفتوح اليوم أيضا!\n\nكنت في حالة من الذعر لأن الخادمة الجديدة التي انضمت إلى المتجر معي كانت غير متوقعة تماما. الخادمات والمدربين ، وغيرها من أشكال الحياة أكيهابارا تظهر كذلك ، ويتأرجح الخفافيش الحمراء في العمل!\n\nهذه يوميات نضال عمل خادمة كاملة ، تعطى لجميع الأساتذة والسيدات. \"نحن في انتظار عودتك إلى المنزل ، بوو.\"\n\n(movil00)",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Reina Kondo، Rina Sato، Minami Tanaka، Tomoyo Kurosawa، Jenya Davidyuk، Ayahi Takagaki",
+  "genre": "أنمي، رسوم متحركة، كوميديا، جريمة",
+  "trailerId": "J364zImtFL8",
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Akiba Maid Sensou",
+    "mainDescription": "ربيع 1999.\n\nالإعجاب والرغبة في أن تكون خادمة لطيف ، فتاة صغيرة تأتي إلى أكيهابارا. تمتلئ \"أكيبا\" في نهاية القرن بمجموعة متنوعة من الخادمات. مقهى الخادمة \"تون توكوتون\" ، المعروف باسم \"بوتاغويا\" (كوخ الخنزير) ، مفتوح اليوم أيضا!\n\nكنت في حالة من الذعر لأن الخادمة الجديدة التي انضمت إلى المتجر معي كانت غير متوقعة تماما. الخادمات والمدربين ، وغيرها من أشكال الحياة أكيهابارا تظهر كذلك ، ويتأرجح الخفافيش الحمراء في العمل!\n\nهذه يوميات نضال عمل خادمة كاملة ، تعطى لجميع الأساتذة والسيدات. \"نحن في انتظار عودتك إلى المنزل ، بوو.\"\n\n(movil00)",
+    "metaDescription": "Akiba Maid Sensou أنمي 2022 | ربيع 1999 | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Akiba Maid Sensou من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/204716"
+    }
+  },
+  "tmdb_id": 204716,
+  "tmdb_url": "https://www.themoviedb.org/tv/204716",
+  "original_title": "アキバ冥途戦争"
+}

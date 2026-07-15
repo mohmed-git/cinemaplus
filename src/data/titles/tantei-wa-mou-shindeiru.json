@@ -1,0 +1,269 @@
+{
+  "slug": "tantei-wa-mou-shindeiru",
+  "clean_title": "Tantei wa Mou, Shindeiru.",
+  "raw_name": "انمي Tantei wa Mou, Shindeiru.",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tantei-wa-mou-shindeiru.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7jpqhxxndp1y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-04",
+          "runtime": null,
+          "tmdb_episode_id": 2662700,
+          "tmdb_still_path": "/4U0Lb64I4lGXyyQP19PUfDVaBgV.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-v6ritdm8tj3h.html"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/np05547pte2l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-11",
+          "runtime": 30,
+          "tmdb_episode_id": 3007195,
+          "tmdb_still_path": "/uoZCpVllytLBtWlqyTIyQuHfD2L.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-1pwq2q9qwtzy.html"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/po8r4h0wcr4f"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-18",
+          "runtime": null,
+          "tmdb_episode_id": 3034537,
+          "tmdb_still_path": "/wVUAlAILQvHFeh5foZfdmREYa7s.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-412asqjy240d.html"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ktugre019xp4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-25",
+          "runtime": null,
+          "tmdb_episode_id": 3034538,
+          "tmdb_still_path": "/jsY7YEYEgkG82CkWiAjJ3f7jQZB.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-l3he815wodqu.html"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/puicv3fns5w7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-01",
+          "runtime": null,
+          "tmdb_episode_id": 3034539,
+          "tmdb_still_path": "/uNdeu9Nh0IhERVJdYq7eYNfwqH8.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-jsi97tqtgmvz.html"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/1rz6gl72ogdc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-08",
+          "runtime": null,
+          "tmdb_episode_id": 3034540,
+          "tmdb_still_path": "/eNkyxxqsXqg0v8ccUiIk7LGQI8r.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/61gbmd2xol1q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-15",
+          "runtime": null,
+          "tmdb_episode_id": 3034541,
+          "tmdb_still_path": "/eP775j9UTqhUeeTYs12n691sqKp.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/76ax3m77l8g0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-22",
+          "runtime": null,
+          "tmdb_episode_id": 3034542,
+          "tmdb_still_path": "/jJ26IoU7QzBE5TVfdKSq2JWZGwe.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/lvaj6yp298gs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-29",
+          "runtime": null,
+          "tmdb_episode_id": 3034543,
+          "tmdb_still_path": "/vQOi24lDqKfKT6IjFHi4S9lHRkC.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ef5wx5vtbyuq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-05",
+          "runtime": null,
+          "tmdb_episode_id": 3034544,
+          "tmdb_still_path": "/c6e7gDgzPNzri2rz0Ao08vBae7c.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/x2c1bmy3ohrq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-12",
+          "runtime": null,
+          "tmdb_episode_id": 3034545,
+          "tmdb_still_path": "/6hAOJxoS0iTtZUkHWydYPAbKdIw.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/90516k3m312s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-19",
+          "runtime": null,
+          "tmdb_episode_id": 3034546,
+          "tmdb_still_path": "/ylhT0Q7wjlnmNHTOVHOBA23AGXA.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Tantei wa Mou, Shindeiru. ضمن أجواء رسوم متحركة، غموض، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. تبدأ قصة Tantei wa Mou, Shindeiru. من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، دراما، رومانسي، كوميدي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/tantei-wa-mou-shindeiru",
+  "story": "يدور أنمي Tantei wa Mou, Shindeiru. ضمن أجواء رسوم متحركة، غموض، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. تبدأ قصة Tantei wa Mou, Shindeiru. من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، دراما، رومانسي، كوميدي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Arata Nagai، Saki Miyashita، Ayana Taketatsu، Kanon Takao، Saho Shirasu، Maria Naganawa",
+  "genre": "أنمي، رسوم متحركة، غموض، دراما",
+  "trailerId": "MghFONe--0Q",
+  "rating": "5.7",
+  "imdb_rating": "5.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tantei wa Mou, Shindeiru.",
+    "mainDescription": "يدور أنمي Tantei wa Mou, Shindeiru. ضمن أجواء رسوم متحركة، غموض، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و13 حلقة. تبدأ قصة Tantei wa Mou, Shindeiru. من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء غموض، دراما، رومانسي، كوميدي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Tantei wa Mou, Shindeiru. أنمي 2021 | يدور أنمي Tantei wa Mou, Shindeiru | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tantei wa Mou, Shindeiru. من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/117061"
+    }
+  },
+  "tmdb_id": 117061,
+  "tmdb_url": "https://www.themoviedb.org/tv/117061",
+  "original_title": "探偵はもう、死んでいる。"
+}

@@ -1,0 +1,612 @@
+{
+  "slug": "kami-kuzu-idol",
+  "clean_title": "Kami Kuzu☆Idol",
+  "raw_name": "انمي Kami Kuzu☆Idol",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kami-kuzu-idol.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3874593770059"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/mudx4sz2mwut"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://doodstream.com/e/tgh8ukxokddy"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/osmyzvwemxjz/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ot5eza3s7q3b.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3874596325963"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/5PlmEKKY#jbCYqgAodlqxuhm_Hpzm_kkK1cV8xrqtF9y65ZrLd7U"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-g7evc9e5exhn.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3874597505611"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-02",
+          "runtime": 24,
+          "tmdb_episode_id": 3355482,
+          "tmdb_still_path": "/FGPMaMEl3NIqv3Ub4LHa9vdcoP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3895229942347"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/6tnpkklvns7r"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/uwikikx1dw5t8m3dpthfmtn2t2una6yl"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/kxpp2hbt5srg"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-78omu124syz7.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3895230401099"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gf9DRCpA#El-3oTgz18-D0NJeo-EINAdjqSE2EEd3Glkezi4bmVI"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-58rhik1mf9wt.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3895230597707"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-09",
+          "runtime": 24,
+          "tmdb_episode_id": 3814282,
+          "tmdb_still_path": "/4tM55U3gec6wcxjYsvE5mJM9NU4.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3911895419467"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/uxleh1xgswgr"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/doroo69xmkazd51jqa0ucuk6sfvhf3po"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/u4qaqcthtpau"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/owamwp7x9f7i.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3911906429515"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/9WU0hZ4R#0H21uWvw-sDM-LbC1Ev71AYkBjFYKUSOCGeQy82kgwE"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/yfnhtnnnpk9a.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3911913376331"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3814283,
+          "tmdb_still_path": "/wLSE2KTpkBDM0SHD1kRLtFOvYn7.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3928758815307"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/v0mkrmqfgt3v"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/h7ttppr8msjeay56nxrwc5ffwr95iiwv"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/45wci92haswv"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/i55qv318vnrq.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3928768580171"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/59BWgLLK#oRvzoqAPCNMs0yDpapQkGp7cjvmsPQqqSr86pVAENXk"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/dygh09havuss.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3928775854667"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3814284,
+          "tmdb_still_path": "/mjzIpi2F1O2ctFYhgB5PBA8oHUG.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3947547134539"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/onrgm7lftvyw"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/j54tnuph352o"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/t2uq69qyntre/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/qkvr85y3gylh.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3947570989643"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/AadTgIbb#1EoRURZDQ2mVlld36m22PeOnhJka5SFjWCG2nXyoV7o"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/xhjdv2qckzzf.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3947584031307"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 3814285,
+          "tmdb_still_path": "/xxbobqaFO9W9PVFtMkqW5fXT7la.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3967557634635"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/cul63iiyoys0"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/zlaixl4bvgat"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/rqwpjmjy5haq/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/kag2ycv8qhfc.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3967560452683"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/YScFgBAI#z21kPx6zEj3iFqPH3-NfBkQ6YJLKj5bxSmk14sNqQvg"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/hxbiv37t7gln.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3967563598411"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 3814286,
+          "tmdb_still_path": "/tYKo04JGbJccdgvvGW2T246XjIm.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3993886001739"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/x4rnk6le6cmf"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/2jp7pgkqij640fnvy1e31iofrfm711i4"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/qc7bqcvdhxyk"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbspeed.com/e/j42vthyvyddo.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3993905793611"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/FGcXWCqK#dDfbd3uBDbAm_IObX9Aog_n4NiODln1FlYed5SVSY2s"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbspeed.com/e/6dl2nmzhqnrt.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3993918507595"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 3814287,
+          "tmdb_still_path": "/hV1QI0WDElO6V4RwGjMU9AKJdyP.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4010241493579"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/cea9rnoptefo"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/acsfumnx6wn3sq10tagwgxcyznh5zsm3"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbspeed.com/e/rj508a4oi8ql.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4010258991691"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Ve9myRDJ#lZ0jeQmRnqieVirVAi9fPmUmRXMmJvFe0ErReCQwqHc"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbspeed.com/e/cepovtvq5lyr.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4010269608523"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/f48bupcs9lmi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 3814288,
+          "tmdb_still_path": "/pF25HvU2QTyvbh0gAcmh3sjWMxQ.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4025015798347"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/qv7yz7zer12a"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/tnakwqj2gotj"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/oigti941midz/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbspeed.com/e/m5hlvhfnlg1q.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4025020713547"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/FeFmUD6K#zwlzp7DSJoaqkQO2A8dQH05vzGMdC5c3XLf4TddeEro"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbspeed.com/e/hbtnif6calux.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4025022483019"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 3814289,
+          "tmdb_still_path": "/59SMywF95nRtdhuWm7xJxx6vaPo.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4048589818443"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/k5wnkagowbca"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/1768v13x1d4r75txx5ghssvt3skbn6ju"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/gq5zssjtrxlp"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbspeed.com/e/n4t9rra62ad0.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4048594471499"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ASNGEACZ#pae0J7L5fKTH2ViqilxjZqz-3yYmX1ALAHPtGdCPgRo"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbspeed.com/e/u4glxgeyinav.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4048595323467"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3814290,
+          "tmdb_still_path": "/iP2iyN35mCYA1HwLKr5ItEvokED.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kami Kuzu☆Idol ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يدور أنمي Kami Kuzu☆Idol حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خارق للطبيعة، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/kami-kuzu-idol",
+  "story": "يدور أنمي Kami Kuzu☆Idol ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يدور أنمي Kami Kuzu☆Idol حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خارق للطبيعة، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Fumiya Imai، Nao Toyama، Shun Horie، Eri Kitamura، Hitomi Ueda، You Taichi",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "a6gyDJIogQI",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kami Kuzu☆Idol",
+    "mainDescription": "يدور أنمي Kami Kuzu☆Idol ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يدور أنمي Kami Kuzu☆Idol حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خارق للطبيعة، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Kami Kuzu☆Idol أنمي 2022 | يدور أنمي Kami Kuzu☆Idol ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kami Kuzu☆Idol من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/139551"
+    }
+  },
+  "tmdb_id": 139551,
+  "tmdb_url": "https://www.themoviedb.org/tv/139551",
+  "original_title": "神クズ☆アイドル"
+}

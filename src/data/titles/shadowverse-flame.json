@@ -1,0 +1,1732 @@
+{
+  "slug": "shadowverse-flame",
+  "clean_title": "Shadowverse Flame",
+  "raw_name": "انمي Shadowverse Flame",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/shadowverse-flame.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 30,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 30,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3631165213259"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/m6ly7c50rw86m26"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/u4af6hy92jos"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/6wu3me9jyc88"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-xquthzt15ucd.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3631173470795"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/oyoW3RZD#hrABfo_nrLvRYFZjA4CC0_LmzvnfQnUyg4Gvt7BpatA"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-34mkplpssu94.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3631177665099"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2065402,
+          "tmdb_still_path": "/1UwENTv3L0NBS2lclPQvjlzHzGX.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3647902321227"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/8yrpmh826j3gkem"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/egc8ubktqz7v"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/e8nwqfbtgcyp"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ofy1pdzm1mv4.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3647904811595"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/F252TaCC#nHj4fDm7OInJSmB795wr4Tq3i6vkU1Gs2N_2zZEWxFg"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-d9xrdjp1zyda.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3647906908747"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2200205,
+          "tmdb_still_path": "/6x6J4kdtBxDaIErqTC4ETieCxuw.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3663980202571"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/4167xbzrwdr5-0k"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/tmo2xrmuc1lq"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/q1p7bzajvx9t"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-b0iz0bgvaz8k.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3663986231883"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/U3oCRASJ#8E89Iz_gETyNFFZx2eZEFSSe8dzZICJLu4cjkSlrJKI"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-t9wzlr5wcfwb.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3663995210315"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2200206,
+          "tmdb_still_path": "/rAQdGTKe5RSuf6viqCSA9CmxuFR.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3680670714443"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/-8rznbpe-0egjqj"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/pivtdlzs3ybs"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/g6m43w6n6hpx"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-djwc19vxfn3x.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3680677005899"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/EhdTgbwb#didz0MJp0TKtcWCB-Cw62lSzYEGbqfCHTtw8URiX_HA"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-fs9yelibbwm6.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3680682641995"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2200208,
+          "tmdb_still_path": "/jn7eb5EJHmcXfaZCRccpMPmZH6r.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3698221451851"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/-8rznbpeg13k8rp"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/7zerj3nhiox0"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/jkg5d4z2wlcc"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-yl5buys2ojc1.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3698224990795"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Iq4GBL7I#fOKaueHeMVgScK9Lc8o9jhM4FHuA7IX6V99G9L7pTeY"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-2b96mafcpkhc.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698227612235"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2200209,
+          "tmdb_still_path": "/1XflmxtiYymDo4RHgCYUdqhd9Ub.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3714744388171"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/wmzjnvgn4r2a"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/ghefki9ihz1g"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/umiczof5qjoi"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-k9ssp7iqshx6.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3714752580171"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UrRCxDAI#jEWTnATbWn9EK9yLh_JLhpLixChFTdg7Xmh114cvD3w"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-t3xf5ibqt103.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3714756577867"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2200210,
+          "tmdb_still_path": "/ofS9F7bPh5NDmoMLx41fAquOY0l.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3731760941643"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/nlltkpk2dvhg"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/m5enh2l3f7mh"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/tpadbjsujoxc"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-37uqwjwlv7fs.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3731763497547"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/LSRShJ4Z#JZhe-MREv3bnLCvZ5JhF4gRxMSWci_AgCdrCSMjglFM"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-g16csbmq0pbg.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3731765725771"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2200211,
+          "tmdb_still_path": "/aRgV3oKB3NYf83xKYsBrN6AWVJu.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3748055353931"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/zn7ed6pmuzel"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/7vpr1y834jtl"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/tglimm2w5c0c"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-8clyx7kpo9nq.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3748064987723"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0P9iibJS#cPziz6agoYIcfPfYcPDjVN27Szb-9JEwEmQD-MKOaxE"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-vez0spydhb9o.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3748070033995"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2200212,
+          "tmdb_still_path": "/D3umYuHBQqdOSaSnZmea17Ii05.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3764064553547"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/68xhigboypiv"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/npel8q0eaooj"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/y50lpewqcdha"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-dr1kqrrdmta7.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3764066650699"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8OsC0QQT#JY9MXqJt2MpCdiTMZHsyfp9CMJJ0hDzo02wVO5MOAaA"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-nar88g4z458k.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3764087753291"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2200213,
+          "tmdb_still_path": "/qrA6K8t75iUIpbex3Fst6rVIHVJ.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3786865642059"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/k6qkg5g34bcq"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/v3sm9nblnalu"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/jyn6n206gdpm/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-nivmfqyb05jx.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3786870295115"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/lL9VEYLb#Fuosxb2NXIIjE4AKFdXa8gBQoYcob760HYEm6hUUQfo"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-t479szr6gl0a.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3786874358347"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2200214,
+          "tmdb_still_path": "/srmecK60J5iSrezhlb34X9vnplQ.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3805670214219"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/xcdx7mhu5iit"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/dmamnf1fa6t1"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/qfdv7c3c4u21/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ix4etv53ftpe.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3805685549643"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/rUd22ISA#HiYQgSKs58h0YwGCpTT6quVRzWgX450jPSh81vWlOAA"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-j60j5hd5vv1s.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3805698132555"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2200215,
+          "tmdb_still_path": "/kK224LfXAfxCvtZKhdwyWo2K7WV.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3861558921803"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/e3bpcqqxnrz6"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/d09b22k4unnm"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/oz2cbedkm0hn/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0y7tv2v3ncnb.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3861565082187"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/4WUyVb4K#KDqtgwfnfEyGdzBDyjwEjl9o8UFP1N_J4beV1hUAA_o"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-km3pdg3ehxj7.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3861569931851"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2200216,
+          "tmdb_still_path": "/gMqxI8ebQq5unn5x4Tmy0e39Xci.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3861586840139"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/buqayuyratvy"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/foeeqpd2ygg4"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/wiz8usmqohbn/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-v3747mk9dueu.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3861591689803"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UKdgWaBJ#C4HP7X_HpGUK2DodzS9keRhR6JqzLRlOrFk4eXtE580"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-nlahog3lg09o.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3861596605003"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-07-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2340833,
+          "tmdb_still_path": "/lFPPlYKA9pcPrA5sfojzX8G0ewV.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3874723924555"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/aawkphzl3io2"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/2jsf2wvnunz879fa8136q6jf3hepyk2s"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/fiqdq56pqzwl"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0lym8nrdsrfg.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3874730347083"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/sXEyGDIB#kHgU8XFk1AMmpWiEc315-gbSwANaoMtugCMRumMBo6c"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-iz49tr738m0p.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3874738276939"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-07-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2340849,
+          "tmdb_still_path": "/A9ee9ezGq9GRmKGzkGwhEnT9lKv.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3895343057483"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/vpdvmx6fxr68"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/q2n5fesql63l"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/sw5zrkns4olu/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-t4sphtnuuqym.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3895347120715"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Fa1hmBRK#QMs35a6edzUCXWPGbiUKOTjLkIhbEEjIycYczcsCKNY"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-j017pe78ltde.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3895349283403"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-07-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2351579,
+          "tmdb_still_path": "/nvsMIyN1wS24EasBpgHRSqzs4h4.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3911084083787"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/f9xfhnwjs9fn"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/6s9gesk8e106ta9rlzo2lfu0e2eyrkp9"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/p33htlyqeih0"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/zxa9sprt45tw.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3911089785419"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8XFAWRbb#q6hwGBmGIHLDoLUB5LA7zlzSAxISnagOrFGCbVX49KI"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/p8vfgq9ykre3.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3911092931147"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-07-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2359743,
+          "tmdb_still_path": "/aLVt3JhMgqHm9htax2rO7FWFXDY.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3925598538315"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/fv61nenzf0dh"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/ddbnd4wjnn3l"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/v86b5lc10li3/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/y1flseslhtba.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3925602208331"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xDEU1DwR#Cq7QHcUftxbCf1TbVeDG80CVyIIrUyeSAOxHXRSqJmg"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/vexhe3629e9i.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3925608499787"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-08-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2369554,
+          "tmdb_still_path": "/o5ZNOyJwcFpL5KM6YbI6QJKxYPC.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3948412078667"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/uz58wwedcrej"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/ac3cngitmbda"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/j2ppxw6aoc8z/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/5r47bks7kqam.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3948440521291"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xTsCABbT#pg2L1eLK0lpOzTlVSjBgFMBHnxd01ATc_KP4VUX1hzw"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/ib6scdlp7a22.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3948451203659"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-08-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2377227,
+          "tmdb_still_path": "/cGdxLscg31MOZbYA0kG4KSubFp7.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3967689361995"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/smz0lmyvlw1a"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/joysdg0v6qw4"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/btsybnyfwvbk/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/u4bd6inkif92.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3967691328075"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/dXtFDaSI#HwO-KxZJ4iZzFYnA8qmVAxQMwOIE8SnwIt-2zc4aOmI"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/kon90vxzy4dh.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3967692245579"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-08-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2385935,
+          "tmdb_still_path": "/6sMHxEFGmq2QgWtHBxdyoWAl8AO.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3999585536587"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/oci9vtthjzaj"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/j948a2ymi1p8qr362ctv9w6qbzytqi3c"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/it9qmro9h8dg"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbspeed.com/e/kf1se3yoe9u1.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3999596218955"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ZX03RYqT#DqsVvXl6xdQt5VEKXtk9rf1Nt3o5nc5QdZCMQKkcEgA"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbspeed.com/e/90zdkteefydn.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3999604804171"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-08-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2394505,
+          "tmdb_still_path": "/knnYDjc8fXJIOnbGSiw1XtouCsE.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4070017993291"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/mtz9uwiqvl2w"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/i1xyj5lyc49m6d2njidea0acxkv2x8q9"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/bm8ycydrm1ws"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sblanh.com/e/umgk7hlo5kj6.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4070029003339"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/9a0SyQxb#ujTphPax9QaLetLb8dbBFoI5spovEF_NOaFeJ8WPJq8"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sblanh.com/e/1l65ohqzyvug.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4070034704971"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-09-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2410250,
+          "tmdb_still_path": "/n8uc4ODv718NjV954NVtyGgQJRH.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4070043290187"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/ero6c23md5t5"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/9suo97iefbskatsnjv16z9lkwx7qtnxa"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/8ietliqzk3db"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sblanh.com/e/flvi951gc1ji.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4070052203083"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BTVmHZIJ#yUcKTnPo2uOPNnZPzKMuEO00oXeFp34Sw2YG0w9kSbc"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sblanh.com/e/kuv7gvcpr0bk.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4070055152203"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-09-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2428353,
+          "tmdb_still_path": "/fLXjK5ckfKgq8SqugYv3x6RRTq5.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4186616040011"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/i4iuo0w1nk6d"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/kbiyxqtovlrnr9xynh49ty8as9h7fg81"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/sswockwxbomy"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/6hpuvw5y8el8.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4186636683851"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Ip9kxQLb#y9XjaeYsj-Shy4kaSEWw-GKkQ6nu-NoiVoSmjH_Hcg4"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/l20lqmb2l220.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4186645465675"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-09-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2435966,
+          "tmdb_still_path": "/htL82BTgriMmSakihxqjgM01CV3.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4186681510475"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/wjahdqsqwyo6"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/u0vcc05fgb33gmwt3uldzkyh9xrtffl8"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/zlocprqybhwh"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/l7247ukj04ac.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4186703792715"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Upti0KyS#eK3m6tSmOsinl5M6fGXSIH8ah_BhA1kf0Q6xisLTBMc"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/3srxw3b44ykj.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4186714868299"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2435967,
+          "tmdb_still_path": "/jGCj6KMjI7F3GDi4luNSLw2rIsA.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4186743245387"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/stews1kyi8r6"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/6nimeab01u3zrj2xl28uztaqmjucf450"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/1xojzolgjkzm"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/zohso07w34p6.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4186769590859"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/55VyzAqJ#zgAQFwBUzkC01EBCCMzFaOqc02YHQJ4T-lUm3OqgB4Y"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/ku4zog1nz07m.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4186779814475"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2462878,
+          "tmdb_still_path": "/cPY2kKTDf14Xs45FGdCZi3H7Y27.jpg"
+        },
+        {
+          "episode": 27,
+          "title": "الحلقة 27",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4186822019659"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/31zoerqyyty9"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/oxy096ycivtwxrmqjuqolxmm3d3uh6ji"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/nfc1jbwmx1gq"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/eg7hwmycd626.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4186841418315"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/h1UVSJ6a#Go36-DQXxRtJmM7a6JWf0XLqFJpzCxDqoEzhRPnJLKY"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/0a6c5i8m1tpr.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4186855115339"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2462879,
+          "tmdb_still_path": "/qkvxvI7NoEw3GU7b61Cpjvrq3l4.jpg"
+        },
+        {
+          "episode": 28,
+          "title": "الحلقة 28",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4195728099915"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/bopfofrsllag"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/7zdq7nuef5vyzsrypojadabpxfcoj38y"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/hlufm2n13jpd"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/npp9lc8bl3sk.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4195737930315"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ZwMBxRib#zaLFwDxe1MRV1Om_WtickagvuVdTy0P3NqVn0R2cs3o"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/yljhaksg3ksw.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4195742583371"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2479407,
+          "tmdb_still_path": "/fDvUJF4yKfwPiprS2qyW7w7IEY.jpg"
+        },
+        {
+          "episode": 29,
+          "title": "الحلقة 29",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4227605924427"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/kliatgal2xuo"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/cgskauw2d9j0ta8ydezgv2ec6tvv1cb3"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/trexe5fix6z7"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/797bc3th2qkq.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4227642427979"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8LMDmZZI#5SmXtq5-X9KE-4T8twchE5QwFYIZIVg6P2dgd3kl1TQ"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/3kpildtl2sv5.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4227660778059"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2479408,
+          "tmdb_still_path": "/eN1bLH7y2u5hrvhw824U3QiQG2w.jpg"
+        },
+        {
+          "episode": 30,
+          "title": "الحلقة 30",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4305685514827"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/j9xzu6h7cktd"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/r84ulfi9u04r"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/ndmx7r4zvae9.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4305725819467"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/AfcGSJoL#M3wvQMU4HdU4cAwuS7TUHyLvh9SRqvXgywFdQ7yGaNc"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/94h8stdn0ncb.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4305736829515"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/iaqxgd5kdnib"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2502279,
+          "tmdb_still_path": "/wC43WRGi9qZkNtY0ilpDrWYk0Oe.jpg"
+        },
+        {
+          "episode": 31,
+          "title": "الحلقة 31",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4305783032395"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/5buzmgdlqmav"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/ajxfcagpas5n"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/jng824m65p04.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4305817176651"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/NG9zCZjb#P6tAWCeqPU1XfgE1Pk56no8zViOlpr9ovRsA-coEF8I"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/uvvyco41qon4.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4305833757259"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hod6suo3xqrd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2502280,
+          "tmdb_still_path": "/hIDu3EdZdyUxCnO4iSL3ztPSvVH.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Shadowverse Flame ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و146 حلقة. يدور أنمي Shadowverse Flame حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shadowverse Flame على CINMAPRO عبر 1 موسم و30 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/shadowverse-flame",
+  "story": "يدور أنمي Shadowverse Flame ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و146 حلقة. يدور أنمي Shadowverse Flame حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shadowverse Flame على CINMAPRO عبر 1 موسم و30 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuto Uemura، Hibiku Yamamura، Kazuki Ura، Shiori Izawa، Showtaro Morikubo، Larissa Tago Takeda",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "eALzN-LK78k",
+  "rating": "5.3",
+  "imdb_rating": "5.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Shadowverse Flame",
+    "mainDescription": "يدور أنمي Shadowverse Flame ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 2 موسم و146 حلقة. يدور أنمي Shadowverse Flame حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shadowverse Flame على CINMAPRO عبر 1 موسم و30 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Shadowverse Flame أنمي 2020 | يدور أنمي Shadowverse Flame ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Shadowverse Flame من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/98823"
+    }
+  },
+  "tmdb_id": 98823,
+  "tmdb_url": "https://www.themoviedb.org/tv/98823",
+  "original_title": "シャドウバース"
+}

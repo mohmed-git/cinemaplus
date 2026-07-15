@@ -1,0 +1,384 @@
+{
+  "slug": "aldnoah-zero",
+  "clean_title": "Aldnoah.Zero",
+  "raw_name": "انمي Aldnoah.Zero",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/aldnoah-zero.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/bnencpgn2k9v"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4le9p5oestlc"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-0yg589tfl9hk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1005553,
+          "tmdb_still_path": "/iuhPXNPbaBioN9J6v8efXooL66G.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/w1z7p78xwbhd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hk7v1s2km1pn"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-v005s5dgsnm4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1005554,
+          "tmdb_still_path": "/heMqQeO3yHDfcfxNuPh6aAIK8SD.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/c0i6lk5cwyxo"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/44x1xj6g5m5a"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-kfnraoi2eny1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1005555,
+          "tmdb_still_path": "/dvA3Wpg3ly9iaWmGr9rsH8lXzij.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nx591v7minlt"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/b07q093dmi2n"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-oun8low8gbeq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1005556,
+          "tmdb_still_path": "/6LNgii3PyWzwBkCcbieQRpyJ2pv.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/oru16ac6d70k"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/erfita87162c"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-i2xapa0zqykx.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1005557,
+          "tmdb_still_path": "/1HgE5ryJrKfQsbtNHaSMlSqSpi6.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/66psds3u2ikm"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qyqvxpbc0hcs"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-tcdp4vmhwuuz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1005558,
+          "tmdb_still_path": "/bUpBaBD97bojLsOLbTIRLyOe1vg.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/f2jy59zqao8f"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ulklfraxwttz"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-yiqogeo4o8ne.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1005559,
+          "tmdb_still_path": "/iTkpk0sGsRLV8QajSeZb2unhwx6.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ef7quw1u6kpf"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3fu0ra7o2jd6"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-w5m9cu9dg62u.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1005560,
+          "tmdb_still_path": "/8q9376GFWnjMgaxF1uUZejNcAlI.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/yn7ypatjdo8r"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/dbpzyz07bfim"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-3ehamtry0ji9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1005561,
+          "tmdb_still_path": "/lwFBooec4PY9TqrmyE801buiNOS.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/h8etnt81ouho"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/w76yp7qa61qc"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-tdfclf3rc8hh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1005562,
+          "tmdb_still_path": "/qePuyBwvm6qf7Mlpdp7dv6C7ggr.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/swje81cs3pxl"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7mt3wnp5chuz"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-m4ff98lh5t4i.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1005592,
+          "tmdb_still_path": "/htsKzlGlXGDiaSZgVkHqc6RKlSo.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ms1ixqkhee8i"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/43bepvag0n77"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-7m1h0pj89fu7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1005593,
+          "tmdb_still_path": "/t9M6WrfaXoZoGA4FTaZUQQKFoQn.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "في عام 1972 ، اكتشفت مهمة أبولو 17 بوابة فائقة السرعة إلى المريخ على سطح القمر. سرعان ما اندلعت حرب بين الأرض والمريخ ، وبدأ جنود المريخ في النزول من السماء ، وركوب عمالقة الصلب ، عازمين على إبادة البشرية.",
+  "url": "/anime/aldnoah-zero",
+  "story": "في عام 1972 ، اكتشفت مهمة أبولو 17 بوابة فائقة السرعة إلى المريخ على سطح القمر. سرعان ما اندلعت حرب بين الأرض والمريخ ، وبدأ جنود المريخ في النزول من السماء ، وركوب عمالقة الصلب ، عازمين على إبادة البشرية.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Natsuki Hanae، Kensho Ono، Sora Amamiya، Mikako Komatsu، Sayaka Ohara، Sachika Misawa",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "ibFyp9SGcTE",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Aldnoah.Zero",
+    "mainDescription": "في عام 1972 ، اكتشفت مهمة أبولو 17 بوابة فائقة السرعة إلى المريخ على سطح القمر. سرعان ما اندلعت حرب بين الأرض والمريخ ، وبدأ جنود المريخ في النزول من السماء ، وركوب عمالقة الصلب ، عازمين على إبادة البشرية.",
+    "metaDescription": "Aldnoah.Zero أنمي 2014 | في عام 1972 | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Aldnoah.Zero من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61259"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "aldnoah-zero",
+      "title": "Aldnoah.Zero",
+      "url": "/anime/aldnoah-zero",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/aldnoah-zero.jpg"
+    },
+    {
+      "slug": "aldnoah-zero-2nd-season",
+      "title": "Aldnoah.Zero 2nd Season",
+      "url": "/anime/aldnoah-zero-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/aldnoah-zero-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 61259,
+  "tmdb_url": "https://www.themoviedb.org/tv/61259",
+  "original_title": "アルドノア・ゼロ"
+}

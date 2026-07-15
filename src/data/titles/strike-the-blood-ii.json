@@ -1,0 +1,307 @@
+{
+  "slug": "strike-the-blood-ii",
+  "clean_title": "Strike the Blood II",
+  "raw_name": "انمي Strike the Blood II",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/strike-the-blood-ii.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2337651886667"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1Noz5u6g-6RNNJGQKDCvKO-nUF1u_xMtY/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-5xxbkm9n8d62.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1010882,
+          "tmdb_still_path": "/hx1DH14t84zXQgyScETZMHuLXtL.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2337661127243"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1KuNw9qmRCdjGJB4lq4ZdIc0U6i9jJhoN/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-3aw8rldno332.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1207610,
+          "tmdb_still_path": "/sZROnoxMJbmwcnG9aF0pBlIKcnE.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2337669909067"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/15_30I_ipS1_yEU--cidlFSCMjT-Xo1VG/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zkx2qwqdmbg7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1207611,
+          "tmdb_still_path": "/h6h5T5igniZF3Vr7aTv8LxiDOIc.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/dn82lax7450rxjl"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1yJwBsNoap0MnT0AlxgpR7aHMz2aUptGo/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-1jqsqxzahtxe.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1207612,
+          "tmdb_still_path": "/kJ0piX4UxB0CX3yG17pRC0WMuK.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2337685178955"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1VxcE9WVkTYpQMBfIJM1h0tY4LEdBZCbj/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-z38s8i4sojl4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1207613,
+          "tmdb_still_path": "/lOaIaX6CItgni1mQOgXaYc7kxVt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/5x34-hde-m2yrx2"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1BQpw1Q1XH3fPWaszH8lsRrnw5juATvO4/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-k0wwbbjsl7iy.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1207614,
+          "tmdb_still_path": "/a5DQvbP1o59ZTxv2jdNlDdRcOTr.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/8n7d-a8yqknyn02"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1kEyO3N7T3lWZpQMcxWvkysvzzPMlpRd9/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-im9fzvvfsmsd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1207615,
+          "tmdb_still_path": "/pQqPq9sbXd9GjJtbr7JgrR1iarv.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2337717094987"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1emzIDLErVxn4-BWd1_ysfdPyAq3JQa3h/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-1e6dswux5kmc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1207616,
+          "tmdb_still_path": "/aGzjMIjaEynZgqqDHYWXLKbbmEz.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Strike the Blood II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. تبدأ قصة Strike the Blood II من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف مصاصي دماء، حريم، ايتشي، خارق للطبيعة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Strike the Blood II على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/strike-the-blood-ii",
+  "story": "يدور أنمي Strike the Blood II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. تبدأ قصة Strike the Blood II من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف مصاصي دماء، حريم، ايتشي، خارق للطبيعة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Strike the Blood II على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoshimasa Hosoya، Risa Taneda، Asami Seto، Rina Hidaka، Ikumi Hayama، Ryota Osaka",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Strike the Blood II",
+    "mainDescription": "يدور أنمي Strike the Blood II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. تبدأ قصة Strike the Blood II من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف مصاصي دماء، حريم، ايتشي، خارق للطبيعة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Strike the Blood II على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Strike the Blood II أنمي 2013 | يدور أنمي Strike the Blood II ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Strike the Blood II من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61440"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "strike-the-blood",
+      "title": "Strike the Blood",
+      "url": "/anime/strike-the-blood",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 24,
+      "poster": "/images/anime/strike-the-blood.png"
+    },
+    {
+      "slug": "strike-the-blood-final",
+      "title": "Strike the Blood Final",
+      "url": "/anime/strike-the-blood-final",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 4,
+      "poster": "/images/anime/strike-the-blood-final.jpg"
+    },
+    {
+      "slug": "strike-the-blood-ii",
+      "title": "Strike the Blood II",
+      "url": "/anime/strike-the-blood-ii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 8,
+      "poster": "/images/anime/strike-the-blood-ii.jpg"
+    },
+    {
+      "slug": "strike-the-blood-iii",
+      "title": "Strike the Blood III",
+      "url": "/anime/strike-the-blood-iii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 10,
+      "poster": "/images/anime/strike-the-blood-iii.jpg"
+    },
+    {
+      "slug": "strike-the-blood-iv",
+      "title": "Strike the Blood IV",
+      "url": "/anime/strike-the-blood-iv",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/strike-the-blood-iv.jpg"
+    }
+  ],
+  "tmdb_id": 61440,
+  "tmdb_url": "https://www.themoviedb.org/tv/61440",
+  "original_title": "ストライク・ザ・ブラッド"
+}

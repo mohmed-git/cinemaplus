@@ -1,0 +1,968 @@
+{
+  "slug": "watari-kun-no-xx-ga-houkai-sunzen",
+  "clean_title": "Watari-kun no xx ga Houkai Sunzen",
+  "raw_name": "انمي Watari-kun no xx ga Houkai Sunzen",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/watari-kun-no-xx-ga-houkai-sunzen.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9621953645254"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=F8idV7KlLM2BlY8O"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mcfm4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9621957970630"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9621962427078"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Kz0iuVc8Q9aFRzWB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-05",
+          "runtime": 24,
+          "tmdb_episode_id": 6012397,
+          "tmdb_still_path": "/nQYfENoquxJfSPh0H6Ws3M2ivwB.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9640185563846"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wLTeIJ4nbqNXX4vy"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mqtrk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9640190610118"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9640195197638"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=U9jLIrOZbdspOgAD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 6359234,
+          "tmdb_still_path": "/uH6CDkahGrmqGijTHDWq7MvRKjM.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9658052381382"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=H3VBmiVVAvXOi48i"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9n6vus"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9658057034438"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9658062146246"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3OBhktsxD92MAY9a"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 6367679,
+          "tmdb_still_path": "/iXkj6dEFwwOvErcYpnut266ahrF.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Evcq6YmovMUTS0PB"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nkc1k"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "http://videa.hu/player?v=g3P2brW6Q6O9gh6E"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 6373964,
+          "tmdb_still_path": "/kmFydsloremyNcrDmTVtTrERbqi.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NyLrw4qpNDXsfo76"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9o04ka"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TynSarObBjp59lfL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 6373966,
+          "tmdb_still_path": "/1bnemrL94KuZt4hi6YDK8MuaNcL.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=v33Zg5AHbnJRZtc1"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9oerm6"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ceARTV0mKg5diTtc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 6373967,
+          "tmdb_still_path": "/mhL1FeEhKnMDZL6KYNEcfdDBmyl.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Io06AYqBhW4vUYpG"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ou35s"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CTXB66s5M4sIUGYW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 6373968,
+          "tmdb_still_path": "/smWt5P3HfLh4YWGzRDnSmGSeoyS.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Ncn3WbGcEOIM9t8m"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9p9u3w"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1UOEcGPWBI8czAFy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 6373970,
+          "tmdb_still_path": "/mCgVDHzz1ELvV7OC6Ty7WXOuY7w.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=u2YMqT273YM0rjzq"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9po7v2"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PV80Eq0CUYsjnz83"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 6373972,
+          "tmdb_still_path": "/ne7AoXVJ8vXHM0hyRE0yB2fKZCT.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XpW8EZrqtyJF7lwV"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9q28u2"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jnkU8mBPtRJU00qC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 6373973,
+          "tmdb_still_path": "/nzQgYogMioMZexdhbC0wQfdwKQx.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FLlw68MazBYYqZDA"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qg8am"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PRv6HBNtDpceOHSr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-13",
+          "runtime": 24,
+          "tmdb_episode_id": 6373975,
+          "tmdb_still_path": "/9Lar6JFYl9iVQkwxmBeST8vqOx0.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CYDLE1ao9S1f5xuj"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qursu"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4fZHfoGmL9vKbRyU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-20",
+          "runtime": 24,
+          "tmdb_episode_id": 6373976,
+          "tmdb_still_path": "/1zfrfYvfbpJ3gCHAE3ZJPvW31XA.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=irRZkujW9kU6RXqX"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9r8nzs"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GOBRp3P2ax23qYcv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-27",
+          "runtime": 24,
+          "tmdb_episode_id": 6548091,
+          "tmdb_still_path": "/VBKIzjiGHeWgahPlOUQ6VPqtOJ.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=32yeb8znODzwZUIp"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/v4aldcy6i9sf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9rlwpo"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/4gjar55qvi4k"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RdCHwXqJsECGQ0XH"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/g61h953j0k5t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 6548093,
+          "tmdb_still_path": "/m7Lbpj235NOzhYj8BVR2ywpoUQo.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nA76e6D7qfZVRyQ5"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/oz63scpc1eu9"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ryamw"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/zxiwisy87kcp"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fFn7bEIoyXDlKTOk"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/pw4g9qswdcq1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 6548095,
+          "tmdb_still_path": "/gpbUlQZ1TZzW8JFfFD5yNN2MAc9.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Tl8g6xNLwFQBgBgs"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/w6u4ajbkdq76"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9saat4"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/vzjgyhfjj6a6"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1Wla6N0QUgaL83aB"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/u071p51iars1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 6548098,
+          "tmdb_still_path": "/xOcAXwNMhCsu5I8rCPEpZeet1QA.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5p5w3Hsr4QYZjnnd"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/3uzdgefyyhvb"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9smdxk"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/afq3rp6ueqk4"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Os2YeFq89HSiC2QS"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/gcl6ywnlmhh6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 6548100,
+          "tmdb_still_path": "/xtLONPQO6hSbaJDl1uWGm0wJSfh.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9HYUo8ZBcOZOUjIP"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/q2bpe2tc9zxz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9t070e"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/kbqmo7wtdhvb"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pnZT6K5hjJl5SVQk"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/e5egnq1fpgyn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 6548101,
+          "tmdb_still_path": "/ol4hzdhJoWgDoXcnG0CmnjFOZef.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BPzvFPtIuclRMoQW"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/va1dl8j8anmh"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9tdwi0"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/ee4aui4q95mw"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=avRDeCiHiRaGlj05"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/05pv90ulu2q4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 6548103,
+          "tmdb_still_path": "/sR3tuE39QYJHrivo0Y5sfyYYrop.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZVEXJuaLYEHNY27r"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/gv3eplcor1yf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9tsrae"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/ixlgmb4cnyz0"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nsyayyhAGIVwvaP1"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/1ysg1croqxvu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 6548105,
+          "tmdb_still_path": "/1lMELQtZWwhopdytgQlWfIqGXKp.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0OLz7VdiLF8Ope6y"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/12oaqkcmc4y2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9u7n4e"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/horqzu8cdqq6"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9n8d0bopUfQYoY8F"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/hr2co2xpa4ru"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 6548107,
+          "tmdb_still_path": "/heGUxdVuQkdeXDk74q854BdW8tg.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Pd5i1zyLp1PKPNKv"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/6vdy9ilft768"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9umh1a"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/sqpyghmhpvq6"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=z8HO57UIhuzGLoj1"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/rsmgro6pqx2e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 6548108,
+          "tmdb_still_path": "/14NylIcAQxAU4x4Fsrc6hMjylQL.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9BCYDMlm4HrghM3z"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/0976tzto8jez"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9v46i8"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/wbtig0s1px5e"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BBVF2hGSCA8IJZ6o"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/jtn20eb63qdj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 6548110,
+          "tmdb_still_path": "/i1b3Am2bUimZVyUAbyukLMGpo4f.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QS9nXgWt3ljr3otZ"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/dnbm3x7uzaff"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9vldvg"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/epdatjt3mv94"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PcO82Y11XBu6UoKx"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/wgv2d9xq9s3e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 6548112,
+          "tmdb_still_path": "/9eG733sZDDaKtCsKcbGaIjKi9sw.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=btgcNou7vLb7rgOe"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/d4htx5kmrzik"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9w1jws"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/vf4s274t0hzq"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3EEoDar1jeAlFB56"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/2ioeli2fjctz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 6721582,
+          "tmdb_still_path": "/xaqQ1bJR0Bg34Nx7p3hFJrHH80N.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KJS3lmFgiWzSyBBg"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/7z0s15kcz449"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9wgv5i"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/lmpaxgkw4k5d"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kqh6WyXyCCIwBKUg"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/606ulot80lc9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-12-27",
+          "runtime": 24,
+          "tmdb_episode_id": 6721583,
+          "tmdb_still_path": "/dhibuyEt5sElUXeStCaQ7kwVTma.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Watari-kun no xx ga Houkai Sunzen ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و26 حلقة. في أنمي Watari-kun no xx ga Houkai Sunzen تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف سينين، مدرسي، دراما، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Watari-kun no xx ga Houkai Sunzen على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/watari-kun-no-xx-ga-houkai-sunzen",
+  "story": "يدور أنمي Watari-kun no xx ga Houkai Sunzen ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و26 حلقة. في أنمي Watari-kun no xx ga Houkai Sunzen تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف سينين، مدرسي، دراما، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Watari-kun no xx ga Houkai Sunzen على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shuichiro Umeda، Yumika Yano، Yurie Igoma، Megu Umezawa، Yoshiki Nakajima، Hinaki Yano",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "iPBqQWx-OX0",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Watari-kun no xx ga Houkai Sunzen",
+    "mainDescription": "يدور أنمي Watari-kun no xx ga Houkai Sunzen ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و26 حلقة. في أنمي Watari-kun no xx ga Houkai Sunzen تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف سينين، مدرسي، دراما، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Watari-kun no xx ga Houkai Sunzen على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Watari-kun no xx ga Houkai Sunzen أنمي 2025 | يدور أنمي Watari-kun no xx ga Houkai Sunzen ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Watari-kun no xx ga Houkai Sunzen من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/285356"
+    }
+  },
+  "tmdb_id": 285356,
+  "tmdb_url": "https://www.themoviedb.org/tv/285356",
+  "original_title": "渡くんの××が崩壊寸前"
+}

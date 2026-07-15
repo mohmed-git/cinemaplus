@@ -1,0 +1,324 @@
+{
+  "slug": "high-card",
+  "clean_title": "High Card",
+  "raw_name": "انمي High Card",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/high-card.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XRX3IZb017dB7Qjy"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yWJRVS5Sb2j3bGyF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-09",
+          "runtime": 24,
+          "tmdb_episode_id": 3582334,
+          "tmdb_still_path": "/oClXjpylSGaWSJ9B5D6dl4U94d1.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=J90EBcIyW1GAu6F1"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RwgyQQfkb6dNCmzW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4150056,
+          "tmdb_still_path": "/6omk95WMsNqxlcR3PRXifD8kIro.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=a3f0PpKYsUiugoCc"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xTmxcOMaYLL39NJr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4150059,
+          "tmdb_still_path": "/gNcF1KH5349Dj5CFBmx3UqL2A7M.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=j9II7ltEjlVcbf7t"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zgV7m89qpNdBJqTl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 4150061,
+          "tmdb_still_path": "/Ik78LtwQnqpSlt40kwd7LBZq0q.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=8aufCvQolmtLqEvG"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R0QbiICt30rknEeo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4150062,
+          "tmdb_still_path": "/mJt3UKKCAG45kOJLGzr7b9zCT1v.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TNX5obWkAB4c0XXb"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hyqzjEIPvOOqwlXf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4150064,
+          "tmdb_still_path": "/odrJbm1LWgEYwIUe3rAnpOwx2eA.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pdE7FaQscXUk2TCT"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pQF0oa5XX4HBT2hv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4150065,
+          "tmdb_still_path": "/88N7TgUka4fn7ql8UYokxetY4dp.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=p4XmM3kxEFFzz7QK"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HW2D32M0ariRmh4e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4150067,
+          "tmdb_still_path": "/18Xw8GhxWA3vMJdtZaFgsM7DndO.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nrddynU2RMLH6HQ7"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mPUnluuN1El3EVcr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4150068,
+          "tmdb_still_path": "/nlbWaKgcGarX2gITAFC4KVOq060.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SfbIefKkoFb7R0R9"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7pOI44kJ5ZNVq1om"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4150069,
+          "tmdb_still_path": "/eLxoDG4CH5etGiTeBmkmW3VCmEn.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5XbOWo6d36Mpo9YW"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=38AvuqZBacZdVLf9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4150070,
+          "tmdb_still_path": "/cBMTi3oG9xxmTA15WI0eid0xhwm.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uSDlWf52smVLPTyV"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ADFiWNgNau95NWoA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4150071,
+          "tmdb_still_path": "/4b9eho2Fpb3JxpSP4Is4P6gE9x0.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي High Card ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي High Card تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، قوة خارقة، أكشن، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/high-card",
+  "story": "يدور أنمي High Card ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي High Card تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، قوة خارقة، أكشن، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoshitsugu Matsuoka، Miyuki Sawashiro",
+  "genre": "أنمي، رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "5AwYxzF_R-k",
+  "rating": "6.8",
+  "imdb_rating": "6.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "High Card",
+    "mainDescription": "يدور أنمي High Card ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. في أنمي High Card تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، قوة خارقة، أكشن، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "High Card أنمي 2023 | يدور أنمي High Card ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات High Card من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/194665"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "high-card",
+      "title": "High Card",
+      "url": "/anime/high-card",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/high-card.jpg"
+    },
+    {
+      "slug": "high-card-season-2",
+      "title": "High Card Season 2",
+      "url": "/anime/high-card-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/high-card-season-2.jpg"
+    }
+  ],
+  "tmdb_id": 194665,
+  "tmdb_url": "https://www.themoviedb.org/tv/194665",
+  "original_title": "HIGH CARD"
+}

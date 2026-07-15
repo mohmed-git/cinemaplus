@@ -1,0 +1,585 @@
+{
+  "slug": "hotel-inhumans",
+  "clean_title": "Hotel Inhumans",
+  "raw_name": "انمي Hotel Inhumans",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hotel-inhumans.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9627062373062"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ndU76xTFfHBq9ZXC"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mfh72"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9627067091654"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9627071220422"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fDrypCeuiOT3gZn9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5738140,
+          "tmdb_still_path": "/rgfGtxhZb2m92vYhPE7WXzINcTX.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9645299468998"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4FBWYEg2taL5UVPM"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mu9dq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9645306612422"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9645315852998"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Zem6cKyJMJxA2idC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 6358809,
+          "tmdb_still_path": "/uX9YplPnd4p0MIAG6saHe3XnT5U.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9663519197894"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fIvlWkryP94tcmIq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9n9p1y"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9663525751494"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9663530273478"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FxIxTZNdXKINPUY7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 6372131,
+          "tmdb_still_path": "/4PsxTvg6paFSf6sjbEo3GjPOFg5.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9681657203398"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Am1gPJe05za8PGWL"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nnomo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9681663756998"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9681667754694"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XyNrpmI1pjVvA8Wo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 6372132,
+          "tmdb_still_path": "/a9IMzY6Z7BzeAIeEHvxldGw1bEB.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9700712319686"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0yA8Hw3CNK8f97YU"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9o3ndo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9700718480070"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9700723854022"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HZXIavmz10WBce8v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 6391463,
+          "tmdb_still_path": "/bI5i1u4fIyULpiC5kBuplCSIFFp.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9721907382982"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iC9YjGR0IdnidqHm"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9oib3k"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9721914133190"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9721918720710"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=g1MZCH8retdfXZ2T"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 6391464,
+          "tmdb_still_path": "/8zcpyg0uUhB29aj35CakZOWLjsS.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9743987509958"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Lcb8HCDwLMQuXjgW"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9oxtfi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9743996488390"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9744003500742"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aR824Vfp2Euufptl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 6424176,
+          "tmdb_still_path": "/mg0GuDt0gPYbeoGyrbQURgjGq5K.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9769757575878"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=n4ufQocq1ZppvMCh"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9pdkec"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9769765571270"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9769773697734"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LvNLgoHNCRyh9fZz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-24",
+          "runtime": 24,
+          "tmdb_episode_id": 6424177,
+          "tmdb_still_path": "/t5E4rGObv68cexQ8K7P2P5aK8uf.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9794930739910"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yikwo8WEs0ITCWck"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9prt6g"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9794931919558"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9794932968134"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NS7MOasM8TBwSYZQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-31",
+          "runtime": 24,
+          "tmdb_episode_id": 6478028,
+          "tmdb_still_path": "/sZS5XYS4DQXPbr24juwDfGeMLRE.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9818151848646"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Go0avc3EpMU7Cfec"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9q5gqm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9818158729926"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9818165807814"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JBEXQmRbRieogmg6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-07",
+          "runtime": 24,
+          "tmdb_episode_id": 6478029,
+          "tmdb_still_path": "/tbxM8cRUww0LbR5OouRDzUVMgmT.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9844148603590"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rovVKdU1ZNNgUDlp"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qj4ne"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9844156205766"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9844160858822"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MxfMiSxKShosZqig"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-14",
+          "runtime": 24,
+          "tmdb_episode_id": 6518287,
+          "tmdb_still_path": "/pJC2LgNrk0XACqdvBm9cMTLlECI.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9870541589190"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tCrivN3okxjEQA4h"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qxsxu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9870548601542"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9870555482822"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sI19t7QBmemNLwM0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-21",
+          "runtime": 24,
+          "tmdb_episode_id": 6523728,
+          "tmdb_still_path": "/tsJ9teE0leHgsTzS4cR4qFfWRJV.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9897482914502"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PO632QbDismbQ8WU"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9rc31w"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9897489730246"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9897497529030"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QPi3HaBAHVnWmewk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-28",
+          "runtime": 24,
+          "tmdb_episode_id": 6523729,
+          "tmdb_still_path": "/pTf6HCPXrDRWHP4Wz55PEepwAcG.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "قصة أنمي فندق اللاإنسانيين تدور أحداثها في فندق فاخر من نوع خاص، حيث النزلاء ليسوا مجرد ضيوف عاديين، بل... قتلة محترفون. هذا الفندق لا يقدّم فقط أرقى وسائل الراحة من طعام فاخر، واستجمام مطلق، وترفيه لا يُنسى، بل يوفر أيضًا خدمات فريدة من نوعها مثل: أحدث الأسلحة، إخفاء الهويات، والتخلص من الجثث بسلاسة! على هذا الخط الرفيع بين الحياة والموت، يعمل \"نامورو\" و\"سارا\" كمساعدَين لا يرفضان أي طلب، مهما كان غريبًا أو خطيرًا. استعدوا لدراما مثيرة تدور داخل فندق القتل... حيث كل شيء مباح، وكل رغبة تُنفذ",
+  "url": "/anime/hotel-inhumans",
+  "story": "قصة أنمي فندق اللاإنسانيين تدور أحداثها في فندق فاخر من نوع خاص، حيث النزلاء ليسوا مجرد ضيوف عاديين، بل... قتلة محترفون. هذا الفندق لا يقدّم فقط أرقى وسائل الراحة من طعام فاخر، واستجمام مطلق، وترفيه لا يُنسى، بل يوفر أيضًا خدمات فريدة من نوعها مثل: أحدث الأسلحة، إخفاء الهويات، والتخلص من الجثث بسلاسة! على هذا الخط الرفيع بين الحياة والموت، يعمل \"نامورو\" و\"سارا\" كمساعدَين لا يرفضان أي طلب، مهما كان غريبًا أو خطيرًا. استعدوا لدراما مثيرة تدور داخل فندق القتل... حيث كل شيء مباح، وكل رغبة تُنفذ",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yusuke Kobayashi، Hinano Shirahama",
+  "genre": "أنمي، رسوم متحركة، دراما، حركة ومغامرة",
+  "trailerId": "zfthL1m2GFg",
+  "rating": "7.8",
+  "imdb_rating": "7.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hotel Inhumans",
+    "mainDescription": "قصة أنمي فندق اللاإنسانيين تدور أحداثها في فندق فاخر من نوع خاص، حيث النزلاء ليسوا مجرد ضيوف عاديين، بل... قتلة محترفون. هذا الفندق لا يقدّم فقط أرقى وسائل الراحة من طعام فاخر، واستجمام مطلق، وترفيه لا يُنسى، بل يوفر أيضًا خدمات فريدة من نوعها مثل: أحدث الأسلحة، إخفاء الهويات، والتخلص من الجثث بسلاسة! على هذا الخط الرفيع بين الحياة والموت، يعمل \"نامورو\" و\"سارا\" كمساعدَين لا يرفضان أي طلب، مهما كان غريبًا أو خطيرًا. استعدوا لدراما مثيرة تدور داخل فندق القتل... حيث كل شيء مباح، وكل رغبة تُنفذ",
+    "metaDescription": "Hotel Inhumans أنمي 2025 | قصة أنمي فندق اللاإنسانيين تدور أحداثها في فندق فاخر من نوع خاص | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hotel Inhumans من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/276288"
+    }
+  },
+  "tmdb_id": 276288,
+  "tmdb_url": "https://www.themoviedb.org/tv/276288",
+  "original_title": "ホテル・インヒューマンズ"
+}

@@ -1,0 +1,731 @@
+{
+  "slug": "bakuman",
+  "clean_title": "Bakuman.",
+  "raw_name": "انمي Bakuman.",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/bakuman.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/gnOB9WijK8HEL/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/gnOB9WijK8HEL/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn-zmnky2q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-10-02",
+          "runtime": 25,
+          "tmdb_episode_id": 819835,
+          "tmdb_still_path": "/dy9o4nFgFJutl3hkDVm3XeQ2lqP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/B9WmdeoJrbFSp/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/B9WmdeoJrbFSp/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udpn34we64"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-10-09",
+          "runtime": 25,
+          "tmdb_episode_id": 819836,
+          "tmdb_still_path": "/2zByCk0yMDaY0BU77o8zox3cKlt.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/GRfHV57pd9wUF/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/GRfHV57pd9wUF/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh3kjpw0yjp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-10-16",
+          "runtime": 25,
+          "tmdb_episode_id": 819837,
+          "tmdb_still_path": "/neOZwANpYSWALs6B6OF3oOCS9x7.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/xACuTrDVp9HqK/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/xACuTrDVp9HqK/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/dz0egtx1w2elrxr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-10-23",
+          "runtime": 25,
+          "tmdb_episode_id": 819843,
+          "tmdb_still_path": "/qxGYX30m4rQDUgq9RKWYQbOGMA7.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/fRGIs2KPmWpTo/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/fRGIs2KPmWpTo/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh3kjp55j50"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-10-30",
+          "runtime": 25,
+          "tmdb_episode_id": 819845,
+          "tmdb_still_path": "/jxchitRlVptpnyhvRYam185NIt0.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/tQaceWV3L1Ev4/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/tQaceWV3L1Ev4/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udpn3xg6e8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-11-06",
+          "runtime": 25,
+          "tmdb_episode_id": 819854,
+          "tmdb_still_path": "/1h2Mk5Nag6Fx7SJqkvElUTfednr.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/JjLKDuBmop0Xq/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/JjLKDuBmop0Xq/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpe2333ygr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-11-13",
+          "runtime": 25,
+          "tmdb_episode_id": 819858,
+          "tmdb_still_path": "/b0rhUK7trh5Dxw3JAmrDKYHyTyq.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/ivydNBJfwZKTr/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/ivydNBJfwZKTr/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h504qdeenx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-11-20",
+          "runtime": 25,
+          "tmdb_episode_id": 819840,
+          "tmdb_still_path": "/m0FL6XYSSHxPhw5vsGg5KhnbDU.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/x13zoFtWNMY2P/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/x13zoFtWNMY2P/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/dz0egtx1w20--73"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-11-27",
+          "runtime": 25,
+          "tmdb_episode_id": 819847,
+          "tmdb_still_path": "/6ZMBwaoBHw08gjL31Ji0f04pZNj.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/ReqYAr345n0Ku/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/ReqYAr345n0Ku/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-un47k58yrx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-04",
+          "runtime": 25,
+          "tmdb_episode_id": 819856,
+          "tmdb_still_path": "/mxvEDoq5UspYqI1yDgSTFmiU840.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/DeuGdJRXhmwMf/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/DeuGdJRXhmwMf/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/q35q-seqwrz5yqw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-11",
+          "runtime": 25,
+          "tmdb_episode_id": 819852,
+          "tmdb_still_path": "/x7fcoaRApHnvI7dzmEXOQ2jusU2.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/7oTwe9jmtfhBS/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/7oTwe9jmtfhBS/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5l36zx148"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-18",
+          "runtime": 25,
+          "tmdb_episode_id": 819841,
+          "tmdb_still_path": "/rt5Khogxp5qhpcGuS61uyojDvvX.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/YIwGVgauK1vr6/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/YIwGVgauK1vr6/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt0lgyd3gyy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-25",
+          "runtime": 25,
+          "tmdb_episode_id": 819846,
+          "tmdb_still_path": "/4vXxs55QaWO4qz4R4cEdKqIl7X1.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/BX1VdW2Spzq3N/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/BX1VdW2Spzq3N/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8ted7l0rjx3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-01-08",
+          "runtime": 25,
+          "tmdb_episode_id": 819842,
+          "tmdb_still_path": "/kWAwSfhVMRIYmCnyVdna0jwsoMn.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/PfFleGXLYTIkH/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/PfFleGXLYTIkH/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tzrw13dp1p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-01-15",
+          "runtime": 25,
+          "tmdb_episode_id": 819850,
+          "tmdb_still_path": "/gJS4D0Wygb4o1UZ8PYC33cOn9Q9.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Aoby7VdO3zhEC/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Aoby7VdO3zhEC/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-te0p5ep147"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-01-22",
+          "runtime": 25,
+          "tmdb_episode_id": 819857,
+          "tmdb_still_path": "/m3Qvl3pKxK2UM1xCUtlSIFZKW6R.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/V4qXEAYCovZ0c/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/V4qXEAYCovZ0c/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b82w3p2n8x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-01-29",
+          "runtime": 25,
+          "tmdb_episode_id": 819849,
+          "tmdb_still_path": "/cc0aDc8ou1NrGmgeQ9AXKwZnZIX.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Zb2Jo75B3YFwd/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Zb2Jo75B3YFwd/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/2r7pyu2xqzrkgq7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-02-05",
+          "runtime": 25,
+          "tmdb_episode_id": 819855,
+          "tmdb_still_path": "/pRcFRUOFnwe4FGJp2PhIDFC8YJe.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/qnWAQKNzwk5Xx/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/qnWAQKNzwk5Xx/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udpn1kydew"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-02-12",
+          "runtime": 25,
+          "tmdb_episode_id": 819859,
+          "tmdb_still_path": "/jWth7iSDT39Ictmnvy0kXubicXZ.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/DH7tEXJ2IjMTY/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/DH7tEXJ2IjMTY/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yujy20d3-px"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-02-19",
+          "runtime": 25,
+          "tmdb_episode_id": 819839,
+          "tmdb_still_path": "/we6qPaC6ZXfbFkdwXBUsS93dqje.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/ty5zcNsYWJ9lQ/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/ty5zcNsYWJ9lQ/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-un47xgw38r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-02-26",
+          "runtime": 25,
+          "tmdb_episode_id": 819851,
+          "tmdb_still_path": "/eQMtGnaRu8ZfByYtCOymWhwLFhl.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/dRF7N1SrnGHbx/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/dRF7N1SrnGHbx/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8ted743y2q6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-03-05",
+          "runtime": 25,
+          "tmdb_episode_id": 819838,
+          "tmdb_still_path": "/rECVa6rdrL1fkEyBvEhX2yGMpPu.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/RldoCtSZ1crXO/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/RldoCtSZ1crXO/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh2grwm-k5g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-03-19",
+          "runtime": 25,
+          "tmdb_episode_id": 819848,
+          "tmdb_still_path": "/tnoH2nWUtmRTvdNNam4uN04zVWc.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/vijUXduRDq5EM/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/vijUXduRDq5EM/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5l30wg5m2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-03-26",
+          "runtime": 25,
+          "tmdb_episode_id": 819844,
+          "tmdb_still_path": "/do4gKZcsR724uAvaxtIUlnnaJU7.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/zT4AFe2XUj9Jr/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/zT4AFe2XUj9Jr/mirror"
+            },
+            {
+              "id": 3,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/q35q-seqw-1e2kz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-02",
+          "runtime": 25,
+          "tmdb_episode_id": 819853,
+          "tmdb_still_path": "/9Yjj2iWYSrPhgAyWqfgXER2vyhL.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Bakuman. ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2010، وتوضح بيانات TMDB أنه يضم 3 موسم و75 حلقة. يدور أنمي Bakuman. حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شونين، دراما، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bakuman. على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/bakuman",
+  "story": "يدور أنمي Bakuman. ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2010، وتوضح بيانات TMDB أنه يضم 3 موسم و75 حلقة. يدور أنمي Bakuman. حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شونين، دراما، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bakuman. على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2010",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Atsushi Abe، Satoshi Hino، Saori Hayami، Sayuri Yahagi، Nobuhiko Okamoto، Tomoyuki Shimura",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": null,
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Bakuman.",
+    "mainDescription": "يدور أنمي Bakuman. ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2010، وتوضح بيانات TMDB أنه يضم 3 موسم و75 حلقة. يدور أنمي Bakuman. حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شونين، دراما، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bakuman. على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Bakuman. أنمي 2010 | يدور أنمي Bakuman | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Bakuman. من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/36041"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "bakuman",
+      "title": "Bakuman.",
+      "url": "/anime/bakuman",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 25,
+      "poster": "/images/anime/bakuman.jpg"
+    },
+    {
+      "slug": "bakuman-2nd-season",
+      "title": "Bakuman. 2nd Season",
+      "url": "/anime/bakuman-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 25,
+      "poster": "/images/anime/bakuman-2nd-season.jpg"
+    },
+    {
+      "slug": "bakuman-3rd-season",
+      "title": "Bakuman. 3rd Season",
+      "url": "/anime/bakuman-3rd-season",
+      "season": 3,
+      "seasonLabel": "الموسم 3",
+      "episodesCount": 25,
+      "poster": "/images/anime/bakuman-3rd-season.png"
+    }
+  ],
+  "tmdb_id": 36041,
+  "tmdb_url": "https://www.themoviedb.org/tv/36041",
+  "original_title": "バクマン。"
+}

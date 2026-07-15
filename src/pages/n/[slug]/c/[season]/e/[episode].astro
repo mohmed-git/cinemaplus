@@ -1,0 +1,68 @@
+---
+/**
+ * Standalone EPISODE page for anime (kind = 'anime', route code "n").
+ *
+ * SSR (on-demand) — NOT prerendered. Identical contract to the series episode
+ * route; only the category differs. See the series file for the full rationale.
+ */
+export const prerender = false;
+
+import EpisodePage from '../../../../../../components/EpisodePage.astro';
+import { loadEpisodicTitle } from '../../../../../../lib/episodeData';
+import { getSimilarTitlesLite } from '../../../../../../lib/similarLite';
+import { hasEpisodePages, findEpisode } from '../../../../../../lib/episodeRoutes';
+
+const { slug, season, episode } = Astro.params;
+
+const seasonNumber = Number.parseInt(season ?? '', 10);
+const episodeNumber = Number.parseInt(episode ?? '', 10);
+
+const title = slug ? await loadEpisodicTitle(slug, Astro.url) : undefined;
+
+if (
+  !title ||
+  title.category !== 'anime' ||
+  !hasEpisodePages(title) ||
+  Number.isNaN(seasonNumber) ||
+  Number.isNaN(episodeNumber)
+) {
+  return new Response('Not found', { status: 404 });
+}
+
+const { season: resolvedSeason, episode: resolvedEpisode } = findEpisode(
+  title,
+  seasonNumber,
+  episodeNumber
+);
+if (
+  !resolvedSeason ||
+  !resolvedEpisode ||
+  resolvedSeason.season !== seasonNumber ||
+  resolvedEpisode.episode !== episodeNumber
+) {
+  return new Response('Not found', { status: 404 });
+}
+
+const similar = await getSimilarTitlesLite(
+  title.slug,
+  title.category,
+  title.genre,
+  title.country,
+  title.year,
+  Astro.url,
+  12
+);
+
+Astro.response.headers.set(
+  'Cache-Control',
+  'public, max-age=0, s-maxage=3600, stale-while-revalidate=86400'
+);
+---
+
+<EpisodePage
+  title={title}
+  kind="anime"
+  seasonNumber={seasonNumber}
+  episodeNumber={episodeNumber}
+  similar={similar}
+/>

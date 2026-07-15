@@ -1,0 +1,364 @@
+{
+  "slug": "barakamon",
+  "clean_title": "Barakamon",
+  "raw_name": "انمي Barakamon",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/barakamon.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584067635787"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/4167xbzdmy4m1n2"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-gksal7qbku75.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-05",
+          "runtime": 23,
+          "tmdb_episode_id": 1204799,
+          "tmdb_still_path": "/x6Vk2gAR7FR1A3hrOnTJRRHBn6u.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584066456139"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/03k50cl2jqxlwem"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-9c99x8ajdapi.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-12",
+          "runtime": 23,
+          "tmdb_episode_id": 1204800,
+          "tmdb_still_path": "/aYu7VcMHzGDPoqjmtmAawpcQ4RP.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584069077579"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/16z37cj4e5n-3-g"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-j6bka7q1o0h6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-19",
+          "runtime": 23,
+          "tmdb_episode_id": 1204801,
+          "tmdb_still_path": "/uQG6VSbqCc5E8RZ9bQxRXetBBgo.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584070715979"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/4167xbzdmywm7rp"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-3c84wpxv18ut.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-26",
+          "runtime": 23,
+          "tmdb_episode_id": 1204802,
+          "tmdb_still_path": "/dMN8S1I8RVcQouiTX47IUcC2cP8.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584075500107"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/3r46kbm75emz5x7"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-l1v2uhazv4pf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-02",
+          "runtime": 23,
+          "tmdb_episode_id": 1204803,
+          "tmdb_still_path": "/wQvPLel1Q4gmOrzEkV2VZlclg9C.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584076286539"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/d1rkebxk25xxkgd"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-4004cw7bxjyr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-09",
+          "runtime": 23,
+          "tmdb_episode_id": 1204804,
+          "tmdb_still_path": "/tuf9MnTY5cdwdXMEnIxgImp0BZf.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584077597259"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/6qd01s0r710yd8w"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-afth99cn2ht2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-16",
+          "runtime": 23,
+          "tmdb_episode_id": 1204805,
+          "tmdb_still_path": "/jMJVygC80rYiOT7n7514Ie4okDC.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584080087627"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/5z7dphd03y4yzkw"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-wkgpwe3jc9xg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-23",
+          "runtime": 23,
+          "tmdb_episode_id": 1204806,
+          "tmdb_still_path": "/osKGLNTRa2i0KAJBbLRwMAyAhTW.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584082250315"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/6qd01s0r71kgrrk"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-q48fdnnnbgtn.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-06",
+          "runtime": 23,
+          "tmdb_episode_id": 1204807,
+          "tmdb_still_path": "/gIhyGIjOM8CDWOWDJqQva1SvAH3.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584084216395"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/3r46kbm75eg0gmd"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-b4k2wbnqfl52.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-13",
+          "runtime": 23,
+          "tmdb_episode_id": 1204808,
+          "tmdb_still_path": "/rgzHrluFT7RH98Y8XhCKgLQdQPp.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584085789259"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/ezp25h-7jlz4413"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rtddkl9g0l4v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-20",
+          "runtime": 23,
+          "tmdb_episode_id": 1204809,
+          "tmdb_still_path": "/tiiT0wzItfeOQk4MvC8mBqsMshA.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3584087755339"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/ndlyzb245mpe247"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ti5ctmhemw4p.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-27",
+          "runtime": 23,
+          "tmdb_episode_id": 1204810,
+          "tmdb_still_path": "/aioDXcYL9hv5LXoZFxHp3igpGZ3.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Barakamon ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Barakamon من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء شريحة من الحياة، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/barakamon",
+  "story": "يدور أنمي Barakamon ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Barakamon من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء شريحة من الحياة، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Daisuke Ono، Suzuko Hara",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "1gmN_3kr4wo",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Barakamon",
+    "mainDescription": "يدور أنمي Barakamon ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Barakamon من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء شريحة من الحياة، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Barakamon أنمي 2014 | يدور أنمي Barakamon ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Barakamon من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/67048"
+    }
+  },
+  "tmdb_id": 67048,
+  "tmdb_url": "https://www.themoviedb.org/tv/67048",
+  "original_title": "ばらかもん"
+}

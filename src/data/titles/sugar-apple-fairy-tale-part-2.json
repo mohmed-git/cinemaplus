@@ -1,0 +1,624 @@
+{
+  "slug": "sugar-apple-fairy-tale-part-2",
+  "clean_title": "Sugar Apple Fairy Tale Part 2",
+  "raw_name": "انمي Sugar Apple Fairy Tale Part 2",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/sugar-apple-fairy-tale-part-2.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6224439741003"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kersVcyK3A20HxkB"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mcitw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6224457632331"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/9isCwIbb#p-mWGd7wgqMLbfwQ6Rpcx9ciXE9OsgwiF5mIlcTdB8c"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6224478865995"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HKG0WdK2fuj6g0ZG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-06",
+          "runtime": 23,
+          "tmdb_episode_id": 3252280,
+          "tmdb_still_path": "/epUSwKCRniT4p2yFiWnoho2jhob.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6311545735755"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2bu782uI4HPH0bm8"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mityz"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6312269384267"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Vj0EBRQY#DqaWG-W7xXobU98dJr3EFkuRo-s1OL81aRVA4Vgmjhs"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6312474839627"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6Vx5mNl16CfE93XA"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8miu3p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-13",
+          "runtime": 23,
+          "tmdb_episode_id": 4142966,
+          "tmdb_still_path": "/w2PcLkqWTbfZAiaFXHOPpMj3AN9.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6397356542539"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tIK3IW0ejqrGm5lR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mopvq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6397373385291"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Y2FyhQIY#BoeYUKMNOnyLjQPaAiKYwlub5GQPpFj3okQSUTrsna8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6397384723019"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fgoYyc5rm401HPkK"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8moq15"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-20",
+          "runtime": 23,
+          "tmdb_episode_id": 4142968,
+          "tmdb_still_path": "/ojTdcTcCn3ulW3p3yb0GCOkHNic.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6447840430667"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=h99x3PZPm558QG2c"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8muib7"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6447857011275"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/FjlVGLCT#UC_QPcGWdNhDqm_D596pLIAJtI3VIakrk8ujt0B5JE8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6447864154699"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=o2qFdTEE4hFmK5A2"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8muib8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-27",
+          "runtime": 23,
+          "tmdb_episode_id": 4142970,
+          "tmdb_still_path": "/mvCd0QdYZuHeTREYGx2cs6iS1N0.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6470308006475"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yHJwCDskXx0tx8e2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8n0dpz"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6470325307979"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/46dzxYbb#EvVI3jIccTDIMnA3b2KqGgR5Pm8oPApRpf6DpgPGdyc"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6470331075147"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PvNXT11dn13MGQF7"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8n0dur"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-03",
+          "runtime": 23,
+          "tmdb_episode_id": 4152882,
+          "tmdb_still_path": "/4933uaPrPdQVsSX1WpGuEpUxrur.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6503874562635"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uXeHseq79R47YX3P"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8n5h01"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6503889963595"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/EmUnzArJ#Bnchz-G4Z-1lKjaSFdIbanZYQM9dmzRsYtP4c2jqlMI"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6503896058443"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HjKwTjdJJ6tlH72D"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-10",
+          "runtime": 23,
+          "tmdb_episode_id": 4152883,
+          "tmdb_still_path": "/1GAnjXM7yPIDKBBj9XstZPweQCQ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6526430939723"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eEEvwKml3i4mwiRh"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nbn2x"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6526445488715"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/arQESTQS#PcIP-phAtOLFgKPfAOzzUzMtIqfN4222KGqvtBIORs4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6526457154123"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=T0jvzPTzKawyDIXm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-17",
+          "runtime": 23,
+          "tmdb_episode_id": 4152884,
+          "tmdb_still_path": "/zNxItvFX3DMPPIe2zmEiohlsMZO.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6549212891723"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=omSsHiMEUMhQSejh"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nh93c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6549226785355"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Hq5k2BbB#jtnV_jO_DfF5YJjayEowIrrgNw-kqQgXnXpBK077Zek"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6549232355915"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=f4aaR1lOS9SceYdy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-24",
+          "runtime": 23,
+          "tmdb_episode_id": 4152885,
+          "tmdb_still_path": "/6dinwxdVkQtdNzj49BGajK9s8vY.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Y90dHIndWyF2r7Zo"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nmri3"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6582769945163"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/LvhjjYxT#5dvi0BYG3ub4-gMaHWRh2M4AqtCy57ZULrWn-tjp0TA"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6582779775563"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qxZtCrTyvYqmkj91"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-03",
+          "runtime": 23,
+          "tmdb_episode_id": 4152886,
+          "tmdb_still_path": "/uj2s7HzK0t4fODnJlT1YVsencdI.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6605500844619"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fxaE1aFjHblPiM3r"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nxqen"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6605513427531"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/WnJDTQAI#76qCOwi58yTlt2LP2xMprwampPv3iOK5YKMhLknKsCg"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6605523782219"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7QNzUcHygGxTBred"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-10",
+          "runtime": 23,
+          "tmdb_episode_id": 4152887,
+          "tmdb_still_path": "/mlcZBcG3VP9BA1ASbGQWPfmlkfn.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JE2LW29WSpt1FHtp"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ofyo5"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/IyUCnDxY#Sy2UF6qha24oY9b14n2U5AT2Om6M6iygZ_x9j5xtK80"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=p3zRiG0fgTImOI27"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-17",
+          "runtime": 23,
+          "tmdb_episode_id": 4152888,
+          "tmdb_still_path": "/iuBCq3mYHiLQy3YvikQgikD5nF8.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6679309978187"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EZsMw5lmnvrkPE9m"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ofy8k"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6679321709131"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/4mcgzRaa#N52f3xbU3k1kPBqsToYtEDeRz8sYv_cRBWH_4LzaD_0"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6679327017547"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FKkGk9EyGhglZl79"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-24",
+          "runtime": 23,
+          "tmdb_episode_id": 4152889,
+          "tmdb_still_path": "/nfKn4aKS48UQvl7eAeFTFM5s7kW.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Sugar Apple Fairy Tale Part 2 ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Sugar Apple Fairy Tale Part 2 حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء شوجو، مغامرات، خيال، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/sugar-apple-fairy-tale-part-2",
+  "story": "يدور أنمي Sugar Apple Fairy Tale Part 2 ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Sugar Apple Fairy Tale Part 2 حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء شوجو، مغامرات، خيال، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuka Nukui، Masaaki Mizunaka، Rie Takahashi، Tomoaki Maeno، Takuma Terashima، Reiji Kawashima",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "7xZA0mVOdAs",
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Sugar Apple Fairy Tale Part 2",
+    "mainDescription": "يدور أنمي Sugar Apple Fairy Tale Part 2 ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Sugar Apple Fairy Tale Part 2 حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء شوجو، مغامرات، خيال، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Sugar Apple Fairy Tale Part 2 أنمي 2023 | يدور أنمي Sugar Apple Fairy Tale Part 2 ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Sugar Apple Fairy Tale Part 2 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/135335"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "sugar-apple-fairy-tale",
+      "title": "Sugar Apple Fairy Tale",
+      "url": "/anime/sugar-apple-fairy-tale",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/sugar-apple-fairy-tale.jpg"
+    },
+    {
+      "slug": "sugar-apple-fairy-tale-part-2",
+      "title": "Sugar Apple Fairy Tale Part 2",
+      "url": "/anime/sugar-apple-fairy-tale-part-2",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/sugar-apple-fairy-tale-part-2.jpg"
+    }
+  ],
+  "tmdb_id": 135335,
+  "tmdb_url": "https://www.themoviedb.org/tv/135335",
+  "original_title": "シュガーアップル・フェアリーテイル"
+}

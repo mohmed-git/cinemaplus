@@ -1,0 +1,304 @@
+{
+  "slug": "uniteup",
+  "clean_title": "UniteUp!",
+  "raw_name": "انمي UniteUp!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/uniteup.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5y7nwnfa2509"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/eub8xhwrrmk8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3971861,
+          "tmdb_still_path": "/8yjAs7TCGX7sWHpGSXR5Ryjh5rW.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/dkpb9518l3i7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/g8yv5u21ad3s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4159326,
+          "tmdb_still_path": "/zq138tI0KDTZT5ri27JCf8ua5Zg.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/khl90ipcez6r"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xko0xulh5rmq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4159328,
+          "tmdb_still_path": "/5kOZvATORJwgwJWjt1sbRQfhnJr.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/rhkmigdwrdje"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/6cdmr8e2bxu5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4159331,
+          "tmdb_still_path": "/kNQGm589SL0qg97ipDWBD5tOtKp.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nzjznr8fhn9j"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/da5r5oxz2a36"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4159333,
+          "tmdb_still_path": "/xY1rIPsP9hvAYAQcCeI0Cuqe6bu.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nbm043biumha"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/977j888ghihl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4159337,
+          "tmdb_still_path": "/67BgZokTQ5FJaUk41mwvwAdrWyR.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/oba0hew3ha1x"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/593iw7v6xc8m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4159339,
+          "tmdb_still_path": "/vLUcCinJ4nsr5elEDOsNwISkCIw.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/n87l3eo2zolr"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/dhg1nk5azkvm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4159341,
+          "tmdb_still_path": "/ivdPuoZPv3XG9cnj7KKBSGIcOsq.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/gsq5ygfqmdhi"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kjtrio4wxf04"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4159343,
+          "tmdb_still_path": "/xwrCQtdGbZtfWTNF7xHmGiaIvbJ.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/rat7xi32qfxh"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3jo3083a0dml"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-01",
+          "runtime": 24,
+          "tmdb_episode_id": 4159344,
+          "tmdb_still_path": "/h3ySV18kJbs0r6ihp8rTfK13kQF.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vf4wbexw7u7s"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ob77q5l2tm7c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4159345,
+          "tmdb_still_path": "/5Wz8edOjAHM938IfMpop4XhdVMa.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8inyzqndrpj3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7o9g0a86ahd5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-15",
+          "runtime": 24,
+          "tmdb_episode_id": 4159346,
+          "tmdb_still_path": "/os2Dc5FCfq7iwBjAmApgIJBCfzj.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي UniteUp! ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد UniteUp! على حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. ينتمي العمل إلى أجواء موسيقى، لذلك يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "url": "/anime/uniteup",
+  "story": "يدور أنمي UniteUp! ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد UniteUp! على حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. ينتمي العمل إلى أجواء موسيقى، لذلك يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kikunosuke Toya، Ryotaro Yamaguchi، Amon Hirai، Magura Sukegawa، masa، Yuki Shimomae",
+  "genre": "أنمي، رسوم متحركة",
+  "trailerId": "m-YNN51Q8oM",
+  "rating": "6.0",
+  "imdb_rating": "6.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "UniteUp!",
+    "mainDescription": "يدور أنمي UniteUp! ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد UniteUp! على حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. ينتمي العمل إلى أجواء موسيقى، لذلك يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+    "metaDescription": "UniteUp! أنمي 2023 | يدور أنمي UniteUp | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات UniteUp! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/210899"
+    }
+  },
+  "tmdb_id": 210899,
+  "tmdb_url": "https://www.themoviedb.org/tv/210899",
+  "original_title": "UniteUp!"
+}

@@ -1,0 +1,455 @@
+{
+  "slug": "hanebado",
+  "clean_title": "Hanebado!",
+  "raw_name": "انمي Hanebado!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hanebado.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5-eynx146"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705602644555"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1fxjUQZjLTjHWHscDxJ9zcDeU5nWAINdF/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/kSRtljvLiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1514125,
+          "tmdb_still_path": "/3QyFSCSrEYUpLoFSMXOmbysoQn.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8te3jkqqwq7"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705628006987"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1Y_oOG73_S0qMHJuGaj9niUzj8omE8Sk7/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/vI91hQD0ea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1514141,
+          "tmdb_still_path": "/sNAZMfD9T5MTWw3vTld1XaNG0cO.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yujgp7djdj5"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705634298443"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1M1QFOMBTDDSHpYX34B0Ip3ipDtUNAUsI/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Jd8Onz6Lea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1514142,
+          "tmdb_still_path": "/n7XcwsLZLn8bj3AjtcBeNZ0NnnQ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-n8yx5k2p"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705640065611"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/14IUvKtVkWbZXaDSqeJMkFR5xHUv4H2Kh/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/nsvSIsl7ea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1514143,
+          "tmdb_still_path": "/p1AgicvjMLXttYpHDdaDDvpz7BS.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phnj5lplw7l"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705645439563"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1FPYiBKpSRY4tuMrrXaSBKBIF53tBDbXR/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/RqoRv86xiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1514144,
+          "tmdb_still_path": "/f7QRRN0TJBpymeO8n88ketJf3ob.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-tegy24rde0"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705650092619"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1FPhABKSCtsaraZtCNlbsod8w49zBdTcU/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/aD9E07Npiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1514145,
+          "tmdb_still_path": "/918z71wkL9dMt542YLmu7tiOXmL.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phnj5ljpk3d"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705654876747"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1yKfwzuUgiUu7vkHWBl5bJXmP2H02JJwx/perview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/jgPNugQ3iq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1514146,
+          "tmdb_still_path": "/4q67VoZKLq8U4ry6SPty0WySphb.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntlg86grk33"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705660709451"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1g7IeM-GY20py3y9s0ufvMKLMJC3JvOGf/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/wRQTvM73iq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1514147,
+          "tmdb_still_path": "/sM7SIx1M7amgOpELI2cRpyA4BhT.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntlg86zy57r"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705666148939"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1S2L26zOj-CktgIn7pcl-xYRCI2Pe47kz/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/EIOywvgOea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1514148,
+          "tmdb_still_path": "/7jZaZspmEaIuXakRF2G1Vkc5EUV.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adg6n4jw6k"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705670343243"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1C5f-Pkvun3OL4vqDCxkL9R00Xzp9fbfF/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/eMZnQNdniq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1514149,
+          "tmdb_still_path": "/vYffhTJ2mvqGoqXIuGkUV17JwhW.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udj420ny37"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705678207563"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1gzXyFWm2nWjkwbsmAeywi9yyz8Xv1-v3/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/lz8hifIKiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1514150,
+          "tmdb_still_path": "/8XgsJ3xPdNkFVT3FLCO4pk6re5E.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh3gmnkynwe"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705681746507"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1jbm99AEomCStRvrIetIfg924oK2wQPGT/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/i5m17yDHea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1514151,
+          "tmdb_still_path": "/w0sNWglkd1RJY252IHKZ5RQg0gO.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tz65kry8k6"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2705690200651"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/18RZZqMFZGODXwXANwvdYtw-ALrXgDSD-/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/ow_envXLea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1581989,
+          "tmdb_still_path": "/lZg7TyT0yf0wELCCPOJlHDMDI9O.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hanebado! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Hanebado! على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء سينين، رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "url": "/anime/hanebado",
+  "story": "يدور أنمي Hanebado! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Hanebado! على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء سينين، رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Hitomi Ohwada، Miyuri Shimabukuro، Yuna Mimura، Konomi Kohara، Nobuhiko Okamoto",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "1QOGVlAnZQ8",
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hanebado!",
+    "mainDescription": "يدور أنمي Hanebado! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Hanebado! على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء سينين، رياضي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+    "metaDescription": "Hanebado! أنمي 2018 | يدور أنمي Hanebado | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hanebado! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/80537"
+    }
+  },
+  "tmdb_id": 80537,
+  "tmdb_url": "https://www.themoviedb.org/tv/80537",
+  "original_title": "はねバド！"
+}

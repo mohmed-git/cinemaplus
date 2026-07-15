@@ -1,0 +1,196 @@
+{
+  "slug": "rick-and-morty-the-anime",
+  "clean_title": "Rick and Morty: The Anime",
+  "raw_name": "انمي Rick and Morty: The Anime",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/rick-and-morty-the-anime.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 4,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 4,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=asmAfT7sqS3QjejC"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://wishonly.site/e/71u6gw0echyr"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://wishonly.site/e/80p0a26mpx3u"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cX4HZ7a8Na2AVr9M"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://wishonly.site/e/i72kgf8k3fak"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-16",
+          "runtime": 21,
+          "tmdb_episode_id": 3728617,
+          "tmdb_still_path": "/kygkozdOcPz16lRSWEsRZnQxBki.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xkuJRsCaX9Dznheg"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://wishonly.site/e/hcdaaqz8r2pl"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://wishonly.site/e/j8odinh2u4i4"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6EXW9xiFOZNAB651"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://wishonly.site/e/a3vk8jro08xw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-23",
+          "runtime": 18,
+          "tmdb_episode_id": 5514980,
+          "tmdb_still_path": "/ga3ebOfX6NkRhNlGKTJTWn9sTUS.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Zp5v0a2GBcPRfwf8"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/1a6903dq812j"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/fhc5909kvk3w"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=354LSuaDBkhugxBp"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/lv8y3ijlro9m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-30",
+          "runtime": 20,
+          "tmdb_episode_id": 5514984,
+          "tmdb_still_path": "/x4V5r2zhSiym11JhmJMqiBOWMps.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2LXTWdQeTq8yINJF"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/2z7eizsvnr4x"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/e49zw8cy56b8"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=khaq4vqSDaNrsrTx"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/bfjqcfyo3toc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-06",
+          "runtime": 19,
+          "tmdb_episode_id": 5524779,
+          "tmdb_still_path": "/q0yDMJdfAwxZfXwpEIGf0Jh7Cwn.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Rick and Morty: The Anime ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. تبدأ قصة Rick and Morty: The Anime من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال علمي العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و4 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/rick-and-morty-the-anime",
+  "story": "يدور أنمي Rick and Morty: The Anime ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. تبدأ قصة Rick and Morty: The Anime من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال علمي العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و4 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة",
+  "director": null,
+  "stars": "Yohei Tadano، Keisuke Chiba، Akiha Matsui، Manabu Muraji، Takako Fuji، Hitomi Sasaki",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": "uFitwNQhRq4",
+  "rating": "5.2",
+  "imdb_rating": "5.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Rick and Morty: The Anime",
+    "mainDescription": "يدور أنمي Rick and Morty: The Anime ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. تبدأ قصة Rick and Morty: The Anime من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال علمي العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و4 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Rick and Morty: The Anime أنمي 2024 | يدور أنمي Rick and Morty: The Anime ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Rick and Morty: The Anime من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/202282"
+    }
+  },
+  "tmdb_id": 202282,
+  "tmdb_url": "https://www.themoviedb.org/tv/202282",
+  "original_title": "Rick and Morty: The Anime"
+}

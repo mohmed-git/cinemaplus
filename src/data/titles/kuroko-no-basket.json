@@ -1,0 +1,486 @@
+{
+  "slug": "kuroko-no-basket",
+  "clean_title": "Kuroko no Basket",
+  "raw_name": "انمي Kuroko no Basket",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kuroko-no-basket.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RbJb1K9G0uDSleqq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-04-08",
+          "runtime": 24,
+          "tmdb_episode_id": 904465,
+          "tmdb_still_path": "/75fQGTalpjY310nAu32xvjmCC70.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VdcaTKkzYWurOjUP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-04-15",
+          "runtime": 24,
+          "tmdb_episode_id": 904466,
+          "tmdb_still_path": "/wVpTcSGbBehvyoi3IsbCOJotVMl.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DDp0UgVty4u3dE4K"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-04-22",
+          "runtime": 24,
+          "tmdb_episode_id": 904467,
+          "tmdb_still_path": "/2jki7NKpchwFU79bM7orki1eSIn.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EHorcfSgFsy0zysC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-04-29",
+          "runtime": 24,
+          "tmdb_episode_id": 904468,
+          "tmdb_still_path": "/n37H7d8L9HUc2SrUoPV0bfv6uHi.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=k4T5bTw9fa6pfSWX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-05-06",
+          "runtime": 24,
+          "tmdb_episode_id": 904469,
+          "tmdb_still_path": "/ob79EWqSvHKlp8vpLvqWDbNRdmW.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Pbroeb7K7KoSVyGd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-05-13",
+          "runtime": 24,
+          "tmdb_episode_id": 904470,
+          "tmdb_still_path": "/a0gXvVSjQbir5fXks5jYkkUNT0q.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qcvktJt1tOs9EDmR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-05-20",
+          "runtime": 24,
+          "tmdb_episode_id": 904471,
+          "tmdb_still_path": "/pikelnsxZwFxTOwP4bMmJVgToX6.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=j6Wm5Nojb1BHRLJ1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-05-27",
+          "runtime": 24,
+          "tmdb_episode_id": 904472,
+          "tmdb_still_path": "/vfWSjb8Z2e1l9zb1ZC8maJoxjs2.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QiryfpHPC8IFlHQ4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-02",
+          "runtime": 24,
+          "tmdb_episode_id": 904473,
+          "tmdb_still_path": "/uGTgV4CPTKBZpFS7OrjwrxYzV1R.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=16UFsdOKvxluTcVO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-10",
+          "runtime": 24,
+          "tmdb_episode_id": 904474,
+          "tmdb_still_path": "/hX48o9OX73WicqY30j7LhFvGOog.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pSXvQi2Y41dp0alz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-17",
+          "runtime": 24,
+          "tmdb_episode_id": 904475,
+          "tmdb_still_path": "/8jCw8aIkAaxntVuuKjib7FjcS0I.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JH4Sfg5gZ8WD7ibm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-24",
+          "runtime": 24,
+          "tmdb_episode_id": 904476,
+          "tmdb_still_path": "/jspu3Hm0Ny0UcpLeIg7DOMwn2r1.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=upeBHuUAN5mWiLGf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-01",
+          "runtime": 24,
+          "tmdb_episode_id": 904477,
+          "tmdb_still_path": "/blCNssjVPtK990gZEoS8nWP7xAj.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mLonBuxs5WFpyvJP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-08",
+          "runtime": 24,
+          "tmdb_episode_id": 904478,
+          "tmdb_still_path": "/t7hEKC2us7UB1B2sVY47q6AwKdQ.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KMJCseE5By5AekaQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-15",
+          "runtime": 24,
+          "tmdb_episode_id": 904479,
+          "tmdb_still_path": "/qXalH32g5sAjG9AXubQGbUoSyBx.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JYYa4vDEPshLHBgx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-22",
+          "runtime": 24,
+          "tmdb_episode_id": 904480,
+          "tmdb_still_path": "/thPAYlWw3ys6lySRBDc11mw41c1.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R3tflofAG7EKVENN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-29",
+          "runtime": 24,
+          "tmdb_episode_id": 904481,
+          "tmdb_still_path": "/7yzYFbW57VAJw9c0UQX3mFvLR5n.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=178gsLFLaoX21OqB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-05",
+          "runtime": 24,
+          "tmdb_episode_id": 904482,
+          "tmdb_still_path": "/1I0zyalRLWqf6r9tNzZ0EJbJhri.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=B3AZzXAhPFqBVp8t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-19",
+          "runtime": 24,
+          "tmdb_episode_id": 904483,
+          "tmdb_still_path": "/l6wl1Jv5tjMzW0FWfu74UB3pAGq.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=469zQlccF6BfHFCB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-19",
+          "runtime": 24,
+          "tmdb_episode_id": 904484,
+          "tmdb_still_path": "/f1UZjgmsprZFkMfMV1Qj0lRbPvx.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3kf0pFPzfeVXpRto"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-26",
+          "runtime": 24,
+          "tmdb_episode_id": 904485,
+          "tmdb_still_path": "/pT93SNaxjmy0CZXRqcgsmQf4aJ6.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HgemU1Z4MOoCfNaH"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GJceafT6GqG0Qkyu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-02",
+          "runtime": 24,
+          "tmdb_episode_id": 904486,
+          "tmdb_still_path": "/sun5VVPiKk49DTddqCFjFgXsdxQ.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dbjccsoeyP9y4UAe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-09",
+          "runtime": 24,
+          "tmdb_episode_id": 904487,
+          "tmdb_still_path": "/dJneq7KG3POvawuGTrl39s0ZlnG.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=duNLfpm2puuPKc2c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 904488,
+          "tmdb_still_path": "/qIlYd6o0Zt3MeA523AaOJhMiI2j.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HMsVOOiIjzzwg6vR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 904489,
+          "tmdb_still_path": "/gBGlbNXLcuy20XSK1yyBjp3MySi.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "فريق مدرسة تييكو المتوسطة ارتقى بتميز من خلال سحق جميع المنافسات. أعضاء الفريق الأساسيون معروفين بـ\"جيل المعجزات\".وهم:كيسي ريوتا المعروف بنسخ الحركات وتقليدها. ميدوريما شينتارو المعروف بإدخال الثلاثيات من أي مكان في الملعب. أوميني دايكي المعروف بمهارته واسلوبه الفني في اللعب. موراساكيبارا أتسوشي المعروف بطوله البالغ 208سنتيمتر. وأخيرا كابتن الفريق أكاشي سيجورو المعروف بعينه المسماة عين الإمبراطور فهي تستطيع رؤية المستقبل وإبطال حركة الخصم. بعد التخرج من المدرسة المتوسطة، هؤلاء النجوم الخمسة ارتادوا مدارس ثانوية مختلفة تمتلك صفوة فرق كرة السلة. مع ذلك، هنالك حقيقة قليل يعلم بشأنها وهي عن وجود لاعب آخر في \"جيل المعجزات\": لاعب خفي سادس. هذا اللاعب الغامض هو الآن طالب جديد في ثانوية سيرين، ثانوية جديدة ذات فريق قوي، وغير معروف. اللآن كوروكو تيتسويا، هو ذو شعر وعينين زرقاوين يمتاز بسرعة الحركة والتمريرات المتقنة التي تعتمد على أسلوب التضليل كما أنه يستطيع التمرير من أول إلى آخر الملعب بتمريرى مذهلة، رغم ان قوته تتراجع دون مستقبل قوي وبارع لتمريراته العضو الخفي السادس لـجيل المعجزات، وكاغامي تايغا، لاعب موهوب فطريا الذي قضى أغلب سنوات مدرسته المتوسطة في الولايات المتحدة، هو شخص يحب التحديات يضحك دائما عند مواجهته لخصم قوي وهو ذو بنية قوية وشعر أحمر يهدف لجعل سيرين في قمة فرق اليابان، متحديًا زملاء كوروكو السابقين واحدًا تلو الآخر، ويشكل كاجامي وكوروكو ثنائيا رائعا ويسعيان للفوز في بطولة كأس الشتاء",
+  "url": "/anime/kuroko-no-basket",
+  "story": "فريق مدرسة تييكو المتوسطة ارتقى بتميز من خلال سحق جميع المنافسات. أعضاء الفريق الأساسيون معروفين بـ\"جيل المعجزات\".وهم:كيسي ريوتا المعروف بنسخ الحركات وتقليدها. ميدوريما شينتارو المعروف بإدخال الثلاثيات من أي مكان في الملعب. أوميني دايكي المعروف بمهارته واسلوبه الفني في اللعب. موراساكيبارا أتسوشي المعروف بطوله البالغ 208سنتيمتر. وأخيرا كابتن الفريق أكاشي سيجورو المعروف بعينه المسماة عين الإمبراطور فهي تستطيع رؤية المستقبل وإبطال حركة الخصم. بعد التخرج من المدرسة المتوسطة، هؤلاء النجوم الخمسة ارتادوا مدارس ثانوية مختلفة تمتلك صفوة فرق كرة السلة. مع ذلك، هنالك حقيقة قليل يعلم بشأنها وهي عن وجود لاعب آخر في \"جيل المعجزات\": لاعب خفي سادس. هذا اللاعب الغامض هو الآن طالب جديد في ثانوية سيرين، ثانوية جديدة ذات فريق قوي، وغير معروف. اللآن كوروكو تيتسويا، هو ذو شعر وعينين زرقاوين يمتاز بسرعة الحركة والتمريرات المتقنة التي تعتمد على أسلوب التضليل كما أنه يستطيع التمرير من أول إلى آخر الملعب بتمريرى مذهلة، رغم ان قوته تتراجع دون مستقبل قوي وبارع لتمريراته العضو الخفي السادس لـجيل المعجزات، وكاغامي تايغا، لاعب موهوب فطريا الذي قضى أغلب سنوات مدرسته المتوسطة في الولايات المتحدة، هو شخص يحب التحديات يضحك دائما عند مواجهته لخصم قوي وهو ذو بنية قوية وشعر أحمر يهدف لجعل سيرين في قمة فرق اليابان، متحديًا زملاء كوروكو السابقين واحدًا تلو الآخر، ويشكل كاجامي وكوروكو ثنائيا رائعا ويسعيان للفوز في بطولة كأس الشتاء",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kensho Ono، Yuki Ono، Junichi Suwabe، Daisuke Ono، Ryohei Kimura، Hiroshi Kamiya",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "1KLvA6FMNiE",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kuroko no Basket",
+    "mainDescription": "فريق مدرسة تييكو المتوسطة ارتقى بتميز من خلال سحق جميع المنافسات. أعضاء الفريق الأساسيون معروفين بـ\"جيل المعجزات\".وهم:كيسي ريوتا المعروف بنسخ الحركات وتقليدها. ميدوريما شينتارو المعروف بإدخال الثلاثيات من أي مكان في الملعب. أوميني دايكي المعروف بمهارته واسلوبه الفني في اللعب. موراساكيبارا أتسوشي المعروف بطوله البالغ 208سنتيمتر. وأخيرا كابتن الفريق أكاشي سيجورو المعروف بعينه المسماة عين الإمبراطور فهي تستطيع رؤية المستقبل وإبطال حركة الخصم. بعد التخرج من المدرسة المتوسطة، هؤلاء النجوم الخمسة ارتادوا مدارس ثانوية مختلفة تمتلك صفوة فرق كرة السلة. مع ذلك، هنالك حقيقة قليل يعلم بشأنها وهي عن وجود لاعب آخر في \"جيل المعجزات\": لاعب خفي سادس. هذا اللاعب الغامض هو الآن طالب جديد في ثانوية سيرين، ثانوية جديدة ذات فريق قوي، وغير معروف. اللآن كوروكو تيتسويا، هو ذو شعر وعينين زرقاوين يمتاز بسرعة الحركة والتمريرات المتقنة التي تعتمد على أسلوب التضليل كما أنه يستطيع التمرير من أول إلى آخر الملعب بتمريرى مذهلة، رغم ان قوته تتراجع دون مستقبل قوي وبارع لتمريراته العضو الخفي السادس لـجيل المعجزات، وكاغامي تايغا، لاعب موهوب فطريا الذي قضى أغلب سنوات مدرسته المتوسطة في الولايات المتحدة، هو شخص يحب التحديات يضحك دائما عند مواجهته لخصم قوي وهو ذو بنية قوية وشعر أحمر يهدف لجعل سيرين في قمة فرق اليابان، متحديًا زملاء كوروكو السابقين واحدًا تلو الآخر، ويشكل كاجامي وكوروكو ثنائيا رائعا ويسعيان للفوز في بطولة كأس الشتاء",
+    "metaDescription": "Kuroko no Basket أنمي 2012 | فريق مدرسة تييكو المتوسطة ارتقى بتميز من خلال سحق جميع المنافسات | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kuroko no Basket من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45783"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "kuroko-no-basket",
+      "title": "Kuroko no Basket",
+      "url": "/anime/kuroko-no-basket",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 25,
+      "poster": "/images/anime/kuroko-no-basket.jpg"
+    },
+    {
+      "slug": "kuroko-no-basket-2nd-season",
+      "title": "Kuroko no Basket 2nd Season",
+      "url": "/anime/kuroko-no-basket-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 25,
+      "poster": "/images/anime/kuroko-no-basket-2nd-season.jpg"
+    },
+    {
+      "slug": "kuroko-no-basket-3rd-season",
+      "title": "Kuroko no Basket 3rd Season",
+      "url": "/anime/kuroko-no-basket-3rd-season",
+      "season": 3,
+      "seasonLabel": "الموسم 3",
+      "episodesCount": 25,
+      "poster": "/images/anime/kuroko-no-basket-3rd-season.png"
+    }
+  ],
+  "tmdb_id": 45783,
+  "tmdb_url": "https://www.themoviedb.org/tv/45783",
+  "original_title": "黒子のバスケ"
+}

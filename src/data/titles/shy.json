@@ -1,0 +1,384 @@
+{
+  "slug": "shy",
+  "clean_title": "Shy",
+  "raw_name": "انمي Shy",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/shy.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PUNlGEkWi4I6Svc0"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0V5ykQz7dMnE4tFg"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/55hlad2f3k82"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3989704,
+          "tmdb_still_path": "/ruHXBXSb93K1erMaae8ba7F0vsP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=e7Ff9XMKy0Xj2YPn"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=S1NlshSwPWBWDz7J"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9comc6s7kzkt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 4709342,
+          "tmdb_still_path": "/iobXFRFROTPgTbP43lbPStWmcGB.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JEH0PgpHCOVvfjj9"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=M9QgJK3DLSoLlwKZ"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xqp5xpebia36"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4709345,
+          "tmdb_still_path": "/9mJ2L1SQwMWTzQaip0kWSz070u2.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aezfCxbURLMdAbnp"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rrmn5WCG2EERS4OT"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/omorreyfls8k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 4709348,
+          "tmdb_still_path": "/mu9io9oX4KlyRp2twY8jjZzcozu.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7i3FM3wwqJ3Q8FSB"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ICctQNEMWI8B9YOQ"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/kl97hv51fz2h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 4709350,
+          "tmdb_still_path": "/tCdQcexnhOhMonoVKYvzSkMpLIw.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dmruOgCVGhblSNFy"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZHOLrnlfg2OI0RQz"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ejp9284y6r0k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4709353,
+          "tmdb_still_path": "/4aq43aUWeibLGktcw8gQV6C92gm.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FXyyVqvhwnXp1uep"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fXq2fKByv9ntvz3Z"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6epe50leg8c6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4709355,
+          "tmdb_still_path": "/24dgKSWxJoFi59A25Qjm20IQRDM.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=simWjlUAgQNup6hj"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JZ7ap71kZyLFPmps"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rjkpyljyk9dd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4709357,
+          "tmdb_still_path": "/s2kFJWh4N3aMn4xvdICwEKXjt28.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mIFoDN8P7f7jUynl"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ESHoK4LyFUwlblrZ"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fngx4ul1wwdq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4709358,
+          "tmdb_still_path": "/8qCLxkmLtHMpDuCDqpWM0OYZjn.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pnolYNFGrTz61SWr"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=B0W70UTHMwzHBzIs"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qtijzrs3uish"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4709360,
+          "tmdb_still_path": "/oL8qPKCYEAUdoSahJoTRtcU6Ho4.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BsLTybHfWNCKYMiS"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PSQFQSj8Ky553tBE"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/46kakk1i63to"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4709361,
+          "tmdb_still_path": "/f8r5dvWaACJvv69w3qEzjKHrn6I.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5PNR7Wl1ajm7bsAe"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=98hUttHaTISvZXiu"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jd15348oh54t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4709362,
+          "tmdb_still_path": "/pwkbOFZCtqs9IWFbgrgfl34pKca.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Shy ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. تبدأ قصة Shy من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف شونين، قوة خارقة، أكشن، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shy على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/shy",
+  "story": "يدور أنمي Shy ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. تبدأ قصة Shy من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف شونين، قوة خارقة، أكشن، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shy على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shino Shimoji، Nao Toyama، Tomokazu Sugita، Mamiko Noto، Shin-ichiro Miki، Sayumi Suzushiro",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "PIl-nFhkOlU",
+  "rating": "6.2",
+  "imdb_rating": "6.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Shy",
+    "mainDescription": "يدور أنمي Shy ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. تبدأ قصة Shy من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف شونين، قوة خارقة، أكشن، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shy على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Shy أنمي 2023 | يدور أنمي Shy ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Shy من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/211709"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "shy",
+      "title": "Shy",
+      "url": "/anime/shy",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/shy.png"
+    },
+    {
+      "slug": "shy-2nd-season",
+      "title": "Shy 2nd Season",
+      "url": "/anime/shy-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/shy-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 211709,
+  "tmdb_url": "https://www.themoviedb.org/tv/211709",
+  "original_title": "SHY"
+}

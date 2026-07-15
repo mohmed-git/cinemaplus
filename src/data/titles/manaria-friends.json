@@ -1,0 +1,212 @@
+{
+  "slug": "manaria-friends",
+  "clean_title": "Manaria Friends",
+  "raw_name": "انمي Manaria Friends",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/manaria-friends.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ls8ftiinerae"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-21",
+          "runtime": 14,
+          "tmdb_episode_id": 1639193,
+          "tmdb_still_path": "/hqgv1MGLzkTm6kUWE7IF0r5Wils.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/cpyywwuemq78"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-28",
+          "runtime": 14,
+          "tmdb_episode_id": 1660203,
+          "tmdb_still_path": "/wOBD89GAeUuDMNWmEL6jjSgkEwA.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/m0e5juualr15"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-04",
+          "runtime": 14,
+          "tmdb_episode_id": 1660204,
+          "tmdb_still_path": "/s3Yzg6e0jHdT3XbaF50WVhS7QBP.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/04zkma5ctlfu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-11",
+          "runtime": 14,
+          "tmdb_episode_id": 1660205,
+          "tmdb_still_path": "/nLh10OGVrViPEN5OUf8J6NTNRfK.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/0fwbgugzx5m9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-18",
+          "runtime": 14,
+          "tmdb_episode_id": 1660206,
+          "tmdb_still_path": "/x1qfREGEbceWVD0NeCA9RWwNlzi.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/krzlg5tptik7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-25",
+          "runtime": 14,
+          "tmdb_episode_id": 1660207,
+          "tmdb_still_path": "/xIVf0OOkcWkotEkEJLlTkcHGrFe.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/emaglttnuwcs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-04",
+          "runtime": 14,
+          "tmdb_episode_id": 1660208,
+          "tmdb_still_path": "/zaIofjYAS91idxR4UBwfZpS9XT9.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/cgan3m1jxspw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-11",
+          "runtime": 14,
+          "tmdb_episode_id": 1660209,
+          "tmdb_still_path": "/aMq4OzGkMx9u9A8qGEmL3xQOUnZ.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/gay28m2dot9s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-18",
+          "runtime": 14,
+          "tmdb_episode_id": 1660210,
+          "tmdb_still_path": "/j1LfA6FzfDUNdxIjeO6vLSlRGjk.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/htbn6u5gmhuh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-25",
+          "runtime": 14,
+          "tmdb_episode_id": 1660211,
+          "tmdb_still_path": "/7BIRWXuVmk5fidOwhtRkLt2GoY1.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Manaria Friends ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. في أنمي Manaria Friends تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، سحر، مغامرات، شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Manaria Friends على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/manaria-friends",
+  "story": "يدور أنمي Manaria Friends ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. في أنمي Manaria Friends تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، سحر، مغامرات، شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Manaria Friends على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoko Hikasa، Ayaka Fukuhara، Nana Mizuki، Kimiko Koyama، Kikuko Inoue، Lynn",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": null,
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Manaria Friends",
+    "mainDescription": "يدور أنمي Manaria Friends ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. في أنمي Manaria Friends تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، سحر، مغامرات، شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Manaria Friends على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Manaria Friends أنمي 2019 | يدور أنمي Manaria Friends ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Manaria Friends من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/84869"
+    }
+  },
+  "tmdb_id": 84869,
+  "tmdb_url": "https://www.themoviedb.org/tv/84869",
+  "original_title": "マナリアフレンズ"
+}

@@ -1,0 +1,472 @@
+---
+/**
+ * SSR gateway (streaming) page for the NEW (CSV-ingested) works.
+ *   /gw/{token}            -> first episode, first server
+ *   /gw/{token}?s=1&e=5    -> season 1 episode 5
+ * The token decodes back to the work slug (see routes.ts encodeGateToken).
+ *
+ * Rendered on demand — the work's full detail shard is fetched at request time,
+ * so the 12k+ new works never get built statically nor bundled into the Worker.
+ */
+export const prerender = false;
+
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import type { Title } from '../../lib/types';
+import { SITE } from '../../lib/site';
+import { decodeGateToken, newDetailRoute } from '../../lib/routes';
+import { loadNewWork } from '../../lib/newWorks';
+import { SUB_BY_KEY, subcatRoute } from '../../lib/subcategories';
+
+const { token } = Astro.params;
+const slug = token ? decodeGateToken(token) : '';
+const title = slug ? await loadNewWork(slug, Astro.url) : undefined;
+if (!title) return new Response('Not found', { status: 404 });
+
+const sectionTheme =
+  title.category === 'movie' ? 'movies' :
+  title.category === 'series' ? 'series' : 'anime';
+const subDef = (title as any).subcategory ? SUB_BY_KEY[(title as any).subcategory] : undefined;
+const categoryBase = subDef ? subcatRoute(subDef.code) : '/';
+const categoryLabel = subDef ? subDef.label : title.category_label;
+
+// Build flat episode list for quick client-side nav
+const flat: { season: number; episode: number; servers: typeof title.seasons[0]['episodes'][0]['servers'] }[] = [];
+for (const s of title.seasons) {
+  for (const ep of s.episodes) {
+    flat.push({ season: s.season, episode: ep.episode, servers: ep.servers });
+  }
+}
+
+// Serialize for client
+const titleData = {
+  slug: title.slug,
+  clean_title: title.clean_title,
+  category: title.category,
+  poster: title.poster || null,
+  is_movie: title.category === 'movie' && title.episodes_count <= 1,
+  seasons: title.seasons.map((s) => ({
+    season: s.season,
+    episodes: s.episodes.map((e) => ({
+      episode: e.episode,
+      servers: e.servers,
+    })),
+  })),
+};
+const dataJson = JSON.stringify(titleData);
+---
+
+<Base
+  title={`مشاهدة ${title.clean_title}`}
+  description={`شاهد ${title.clean_title} مباشرة على ${SITE.name} مع خيارات متعددة للسيرفرات.`}
+  section={sectionTheme}
+  noindex
+>
+  <!-- Subtle backdrop -->
+  <div class="fixed inset-0 -z-10 pointer-events-none">
+    {title.poster && (
+      <img src={title.poster} alt="" aria-hidden="true" loading="eager" referrerpolicy="no-referrer" class="h-full w-full object-cover blur-3xl scale-110 opacity-20" />
+    )}
+    <div class="absolute inset-0 bg-surface-0/80"></div>
+    <div class="orb h-72 w-72 top-20 -right-10 bg-brand-600 opacity-30"></div>
+    <div class="orb h-80 w-80 bottom-20 -left-10 bg-neon-fuchsia opacity-30"></div>
+  </div>
+
+  <section class="container-app py-6">
+    <Breadcrumbs
+      items={[
+        { label: 'الرئيسية', href: '/' },
+        { label: categoryLabel, href: categoryBase },
+        { label: title.clean_title, href: title.url },
+        { label: 'مشاهدة' },
+      ]}
+    />
+
+    <!-- Title header with poster -->
+    <div class="mb-6 flex flex-wrap items-center gap-4">
+      {title.poster && (
+        <img
+          src={title.poster}
+          alt={title.clean_title}
+          referrerpolicy="no-referrer"
+          loading="eager"
+          class="hidden sm:block h-24 w-16 md:h-28 md:w-20 rounded-xl object-cover shadow-lg ring-1 ring-brand-500/30"
+        />
+      )}
+      <div class="flex-1 min-w-0">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="badge-category">{title.category_label}</span>
+          {title.episodes_count > 1 && (
+            <span class="badge-episode">{title.episodes_count} حلقة</span>
+          )}
+        </div>
+        <h1 class="font-display text-2xl font-extrabold leading-tight text-white md:text-3xl line-clamp-2">
+          {title.clean_title}
+        </h1>
+        <p id="watch-subtitle" class="mt-1.5 text-sm text-brand-300 font-medium">{title.category_label}</p>
+      </div>
+      <a href={title.url} class="btn-secondary shrink-0 text-sm">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-4 w-4">
+          <path d="M3 12h18M3 6h18M3 18h18"/>
+        </svg>
+        التفاصيل
+      </a>
+    </div>
+
+    <!-- ============================================
+         CINEMATIC PLAYER
+         ============================================ -->
+    <div class="relative">
+      <!-- Glow halo behind player -->
+      <div class="absolute -inset-3 -z-10 bg-gradient-to-br from-brand-600/20 via-neon-violet/20 to-neon-fuchsia/20 blur-3xl rounded-3xl"></div>
+
+      <div class="relative aspect-video w-full overflow-hidden rounded-2xl border border-white/[0.08] bg-black shadow-[0_30px_80px_-20px_rgba(0,0,0,0.8)] ring-1 ring-brand-500/10">
+        <!-- Loading overlay -->
+        <div id="player-loading" class="absolute inset-0 z-10 flex items-center justify-center bg-black/85 backdrop-blur-sm text-gray-300">
+          <div class="flex flex-col items-center gap-5">
+            <div class="relative h-16 w-16">
+              <div class="absolute inset-0 animate-spin rounded-full border-2 border-brand-500/20"></div>
+              <div class="absolute inset-0 animate-spin rounded-full border-2 border-transparent" style="border-top-color: #a855f7; border-right-color: #d946ef; animation-duration: 0.9s;"></div>
+              <div class="absolute inset-3 rounded-full bg-gradient-to-br from-brand-500/30 to-neon-fuchsia/30 blur-md animate-pulse"></div>
+            </div>
+            <div class="text-center">
+              <div class="text-sm font-bold text-white">جاري تحميل المشغّل…</div>
+              <div class="text-xs text-gray-500 mt-1">قد يستغرق بضع ثوانٍ</div>
+            </div>
+          </div>
+        </div>
+
+        <iframe
+          id="video-frame"
+          src="about:blank"
+          title={title.clean_title}
+          class="h-full w-full"
+          allowfullscreen
+          allow="autoplay; fullscreen; encrypted-media; picture-in-picture; accelerometer; gyroscope"
+          referrerpolicy="no-referrer"
+          loading="eager"
+        ></iframe>
+
+        <!-- Floating "open in new tab" button -->
+        <a
+          id="open-external"
+          href="about:blank"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="فتح السيرفر في نافذة جديدة"
+          class="absolute left-3 top-3 z-20 inline-flex h-10 w-10 items-center justify-center rounded-xl bg-black/60 text-white backdrop-blur-md border border-white/10 opacity-70 hover:opacity-100 hover:bg-gradient-to-br hover:from-brand-500 hover:to-neon-fuchsia hover:border-transparent transition-all hover:scale-105"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+            <polyline points="15 3 21 3 21 9"/>
+            <line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- ============================================
+         SERVERS PANEL
+         ============================================ -->
+    <div class="mt-6 glass-panel p-5">
+      <div class="mb-4 flex items-center justify-between">
+        <h3 class="flex items-center gap-2 text-sm font-bold text-white">
+          <span class="flex h-5 w-1 rounded-full bg-gradient-to-b from-brand-400 to-neon-fuchsia shadow-[0_0_8px_rgba(168,85,247,0.6)]"></span>
+          اختر السيرفر
+        </h3>
+        <span id="servers-count" class="chip-surface">—</span>
+      </div>
+      <div id="servers-list" class="flex flex-wrap gap-2"></div>
+      <div class="mt-4 rounded-xl bg-brand-500/5 p-3 text-xs leading-relaxed text-gray-400 border border-brand-500/10">
+        <p class="flex items-start gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="mt-0.5 h-3.5 w-3.5 shrink-0 text-brand-400">
+            <circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/>
+          </svg>
+          <span>
+            <strong class="text-gray-200">نصيحة:</strong>
+            إذا ظهرت شاشة سوداء أو لم يعمل السيرفر الحالي، جرّب سيرفرًا آخر.
+            السيرفرات تابعة لمزودي طرف ثالث ولا نستضيف أي محتوى مباشرة على الموقع.
+          </span>
+        </p>
+      </div>
+    </div>
+
+    <!-- ============================================
+         PREV / NEXT NAVIGATION
+         ============================================ -->
+    <div class="mt-5 flex flex-wrap items-center justify-between gap-3">
+      <button id="prev-ep" class="btn-secondary opacity-50 pointer-events-none" type="button">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-4 w-4">
+          <path d="M9 18l6-6-6-6"/>
+        </svg>
+        الحلقة السابقة
+      </button>
+      <div id="episode-label" class="chip-surface text-sm font-medium"></div>
+      <button id="next-ep" class="btn-primary opacity-50 pointer-events-none" type="button">
+        الحلقة التالية
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-4 w-4">
+          <path d="M15 18l-6-6 6-6"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- ============================================
+         EPISODES LIST (season tabs, client-side)
+         ============================================ -->
+    {!titleData.is_movie && (
+      <div class="mt-12">
+        <h2 class="mb-5 flex items-center gap-3 text-lg font-extrabold text-white font-display">
+          <span class="flex h-7 w-1 rounded-full bg-gradient-to-b from-brand-400 to-neon-fuchsia shadow-[0_0_10px_rgba(168,85,247,0.6)]"></span>
+          المواسم والحلقات
+        </h2>
+        <div id="seasons-ui"></div>
+      </div>
+    )}
+  </section>
+
+  <script id="watch-data" type="application/json" set:html={dataJson} />
+
+  <script>
+    type Server = { id: number; label: string; url: string };
+    type Episode = { episode: number; servers: Server[] };
+    type Season = { season: number; episodes: Episode[] };
+    type Data = {
+      slug: string;
+      clean_title: string;
+      category: string;
+      poster: string | null;
+      is_movie: boolean;
+      seasons: Season[];
+    };
+
+    const data: Data = JSON.parse(
+      document.getElementById('watch-data')?.textContent || '{}'
+    );
+
+    const subtitle = document.getElementById('watch-subtitle')!;
+    const frame = document.getElementById('video-frame') as HTMLIFrameElement;
+    const loading = document.getElementById('player-loading')!;
+    const serversList = document.getElementById('servers-list')!;
+    const serversCount = document.getElementById('servers-count')!;
+    const openExternal = document.getElementById('open-external') as HTMLAnchorElement;
+    const prevBtn = document.getElementById('prev-ep') as HTMLButtonElement;
+    const nextBtn = document.getElementById('next-ep') as HTMLButtonElement;
+    const epLabel = document.getElementById('episode-label')!;
+    const seasonsUI = document.getElementById('seasons-ui');
+
+    let currentServerUrl = '';
+    function setCurrentServer(url: string) {
+      currentServerUrl = url;
+      openExternal.href = url || '#';
+    }
+
+    const flat: { season: number; episode: number }[] = [];
+    for (const s of data.seasons)
+      for (const e of s.episodes) flat.push({ season: s.season, episode: e.episode });
+
+    function escapeHtml(s: string): string {
+      return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    function getParams(): { s: number; e: number } {
+      const q = new URLSearchParams(location.search);
+      const s = parseInt(q.get('s') || '', 10);
+      const e = parseInt(q.get('e') || '', 10);
+      if (!isNaN(s) && !isNaN(e)) return { s, e };
+      const first = flat[0];
+      return first ? { s: first.season, e: first.episode } : { s: 1, e: 1 };
+    }
+
+    function setUrl(s: number, e: number) {
+      const q = new URLSearchParams();
+      q.set('s', String(s));
+      q.set('e', String(e));
+      history.replaceState(null, '', `${location.pathname}?${q.toString()}`);
+    }
+
+    function findEpisode(s: number, e: number): Episode | undefined {
+      return data.seasons.find((x) => x.season === s)?.episodes.find((x) => x.episode === e);
+    }
+
+    function activateServerBtn(btn: HTMLButtonElement) {
+      btn.className = 'server-btn group inline-flex items-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition-all duration-300 text-white';
+      btn.style.background = 'linear-gradient(135deg, #7c3aed, #a855f7 50%, #d946ef)';
+      btn.style.boxShadow = '0 6px 20px -4px rgba(168, 85, 247, 0.55), 0 0 0 1px rgba(167, 139, 250, 0.35) inset';
+    }
+    function deactivateServerBtn(btn: HTMLButtonElement) {
+      btn.className = 'server-btn group inline-flex items-center gap-2 rounded-xl bg-white/[0.04] border border-white/[0.06] px-4 py-2.5 text-sm font-semibold text-gray-200 transition-all duration-300 hover:bg-brand-500/10 hover:border-brand-500/30 hover:text-white';
+      btn.style.background = '';
+      btn.style.boxShadow = '';
+    }
+
+    function renderServers(ep: Episode) {
+      const html = ep.servers.map((sv, i) => `
+        <button type="button" class="server-btn group inline-flex items-center gap-2 rounded-xl ${i === 0 ? 'text-white' : 'bg-white/[0.04] border border-white/[0.06] text-gray-200 hover:bg-brand-500/10 hover:border-brand-500/30 hover:text-white'} px-4 py-2.5 text-sm font-semibold transition-all duration-300"
+          ${i === 0 ? 'style="background: linear-gradient(135deg, #7c3aed, #a855f7 50%, #d946ef); box-shadow: 0 6px 20px -4px rgba(168, 85, 247, 0.55), 0 0 0 1px rgba(167, 139, 250, 0.35) inset;"' : ''}
+          data-url="${escapeHtml(sv.url)}" data-idx="${i}">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-3.5 w-3.5">
+            <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+          </svg>
+          ${escapeHtml(sv.label)}
+        </button>
+      `).join('');
+      serversList.innerHTML = html;
+      serversCount.textContent = `${ep.servers.length} سيرفر`;
+
+      serversList.querySelectorAll<HTMLButtonElement>('.server-btn').forEach((b) => {
+        b.addEventListener('click', () => {
+          const url = b.dataset.url!;
+          const idx = Number(b.dataset.idx || 0);
+          serversList.querySelectorAll<HTMLButtonElement>('.server-btn').forEach((x, j) => {
+            if (j === idx) activateServerBtn(x);
+            else deactivateServerBtn(x);
+          });
+          loading.classList.remove('hidden');
+          setCurrentServer(url);
+          frame.src = url;
+        });
+      });
+    }
+
+    function renderNav(s: number, e: number) {
+      const idx = flat.findIndex((x) => x.season === s && x.episode === e);
+      const prev = idx > 0 ? flat[idx - 1] : null;
+      const next = idx >= 0 && idx < flat.length - 1 ? flat[idx + 1] : null;
+
+      if (data.is_movie) {
+        prevBtn.classList.add('hidden');
+        nextBtn.classList.add('hidden');
+        epLabel.textContent = 'الفيلم كاملاً';
+      } else {
+        epLabel.textContent = `الموسم ${s} · الحلقة ${e}`;
+        if (prev) {
+          prevBtn.classList.remove('opacity-50', 'pointer-events-none');
+          prevBtn.onclick = () => loadEpisode(prev.season, prev.episode);
+        } else {
+          prevBtn.classList.add('opacity-50', 'pointer-events-none');
+          prevBtn.onclick = null;
+        }
+        if (next) {
+          nextBtn.classList.remove('opacity-50', 'pointer-events-none');
+          nextBtn.onclick = () => loadEpisode(next.season, next.episode);
+        } else {
+          nextBtn.classList.add('opacity-50', 'pointer-events-none');
+          nextBtn.onclick = null;
+        }
+      }
+    }
+
+    function loadEpisode(s: number, e: number) {
+      const ep = findEpisode(s, e);
+      if (!ep) return;
+      setUrl(s, e);
+      subtitle.textContent = data.is_movie
+        ? 'مشاهدة مباشرة'
+        : `الموسم ${s} · الحلقة ${e}`;
+      if (ep.servers.length > 0) {
+        loading.classList.remove('hidden');
+        setCurrentServer(ep.servers[0].url);
+        frame.src = ep.servers[0].url;
+      } else {
+        setCurrentServer('');
+        frame.src = 'about:blank';
+      }
+      renderServers(ep);
+      renderNav(s, e);
+      updateSeasonsHighlight(s, e);
+      // Smooth scroll to top of player
+      const playerEl = document.getElementById('video-frame');
+      if (playerEl) playerEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function renderSeasonsUI(currentS: number) {
+      if (!seasonsUI || data.is_movie) return;
+
+      const tabsHtml = data.seasons.map((s) => `
+        <button type="button" class="season-tab tab ${
+          s.season === currentS ? 'tab-active' : 'tab-inactive'
+        }" data-season="${s.season}">
+          الموسم ${s.season}
+          <span class="mr-1 text-[11px] opacity-75">(${s.episodes.length})</span>
+        </button>
+      `).join('');
+
+      const panelsHtml = data.seasons.map((s) => `
+        <div class="season-panel p-4 ${s.season === currentS ? '' : 'hidden'}" data-season="${s.season}">
+          <ul class="grid grid-cols-2 gap-2.5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7">
+            ${s.episodes.map((ep) => `
+              <li>
+                <button type="button" data-s="${s.season}" data-e="${ep.episode}"
+                  class="ep-btn group flex w-full items-center gap-2 rounded-xl bg-white/[0.03] border border-white/[0.05] px-3 py-2.5 text-sm text-gray-200 transition-all duration-300 hover:bg-gradient-to-l hover:from-brand-600/20 hover:to-neon-fuchsia/10 hover:border-brand-500/40 hover:text-white">
+                  <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-brand-600/30 to-neon-fuchsia/20 text-brand-300 group-hover:from-brand-500 group-hover:to-neon-fuchsia group-hover:text-white transition-all">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3 w-3"><path d="M8 5v14l11-7z"/></svg>
+                  </span>
+                  <span class="font-semibold flex-1 text-right line-clamp-1">حلقة ${ep.episode}</span>
+                </button>
+              </li>
+            `).join('')}
+          </ul>
+        </div>
+      `).join('');
+
+      seasonsUI.innerHTML = `
+        <div class="glass-panel overflow-hidden">
+          <div class="flex flex-wrap items-center gap-2 border-b border-white/[0.06] px-4 py-3">${tabsHtml}</div>
+          ${panelsHtml}
+        </div>
+      `;
+
+      seasonsUI.querySelectorAll<HTMLButtonElement>('.season-tab').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const k = btn.dataset.season;
+          seasonsUI.querySelectorAll<HTMLButtonElement>('.season-tab').forEach((b) => {
+            const active = b.dataset.season === k;
+            b.classList.toggle('tab-active', active);
+            b.classList.toggle('tab-inactive', !active);
+          });
+          seasonsUI.querySelectorAll<HTMLElement>('.season-panel').forEach((p) => {
+            p.classList.toggle('hidden', p.dataset.season !== k);
+          });
+        });
+      });
+
+      seasonsUI.querySelectorAll<HTMLButtonElement>('.ep-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const s = Number(btn.dataset.s);
+          const e = Number(btn.dataset.e);
+          loadEpisode(s, e);
+        });
+      });
+    }
+
+    function updateSeasonsHighlight(s: number, e: number) {
+      if (!seasonsUI) return;
+      seasonsUI.querySelectorAll<HTMLButtonElement>('.season-tab').forEach((b) => {
+        const active = Number(b.dataset.season) === s;
+        b.classList.toggle('tab-active', active);
+        b.classList.toggle('tab-inactive', !active);
+      });
+      seasonsUI.querySelectorAll<HTMLElement>('.season-panel').forEach((p) => {
+        p.classList.toggle('hidden', Number(p.dataset.season) !== s);
+      });
+      seasonsUI.querySelectorAll<HTMLButtonElement>('.ep-btn').forEach((b) => {
+        const active = Number(b.dataset.s) === s && Number(b.dataset.e) === e;
+        if (active) {
+          b.classList.add('!bg-gradient-to-l', '!from-brand-600/30', '!to-neon-fuchsia/20', '!border-brand-500/50', '!text-white');
+        } else {
+          b.classList.remove('!bg-gradient-to-l', '!from-brand-600/30', '!to-neon-fuchsia/20', '!border-brand-500/50', '!text-white');
+        }
+      });
+    }
+
+    // iframe load hides the spinner
+    frame.addEventListener('load', () => loading.classList.add('hidden'));
+    setTimeout(() => loading.classList.add('hidden'), 4500);
+
+    // init
+    const { s, e } = getParams();
+    renderSeasonsUI(s);
+    loadEpisode(s, e);
+  </script>
+</Base>

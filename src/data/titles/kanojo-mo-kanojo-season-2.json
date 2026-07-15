@@ -1,0 +1,624 @@
+{
+  "slug": "kanojo-mo-kanojo-season-2",
+  "clean_title": "Kanojo mo Kanojo Season 2",
+  "raw_name": "انمي Kanojo mo Kanojo Season 2",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kanojo-mo-kanojo-season-2.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6699022355019"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=epX8c5L91JZvhVLH"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8on33b"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6699041294923"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/iNEkRbIC#E_0P9YrASCKBmSDoDBr0NaQk5ocX46E9x2aiafz2s2U"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6699044964939"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3XYP7h753DRgoxNV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4690398,
+          "tmdb_still_path": "/oukRpdRoMXY81cfplTyjBjBuFw7.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6720597723723"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tI0hOCCWJTnITzT3"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8othsw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6720605850187"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/SF8H0Rpa#zKxLjTOBbpXWy_WofVim5ZTo6lVLDyX9tdQU8oGdr4Q"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6720611945035"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hoAqv0rPQbMhk3qZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4793251,
+          "tmdb_still_path": "/7VEMx5ckKGl1sKBbjVmW5C43dhK.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6749916695115"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KrfuslVRiUMJamUF"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p17fk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6749924624971"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/zEUgBbTC#ywRdb0U8R1VnM-hX-wz_iiGqqrIsCRfMVMa6tE3nzO8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6749930326603"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WjVwPiqCyi9WeSf7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4793259,
+          "tmdb_still_path": "/fpfJzaqwmPTsEfhKGrPmH2nB4Zo.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6768088058443"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZYAYDw8CwRjx7I0i"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p68ni"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6768098871883"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/XNMjhYbS#hkrGtOuH8uDGc3RwmF_0gotxq25Tl721aqhn5AG6JVg"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6768110209611"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dxcj3aew4TZNnLGd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4793260,
+          "tmdb_still_path": "/r4v2pJ2EzYznpxWrc3l9Uwl6VdW.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6798742587979"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1aDtlHVx1DMSGAs8"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pf59d"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6798753466955"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/rMEHXIRA#IJjCRQitaCLLPHtBZOaBvSWKu_4RtA9qPEuz8WhhUyM"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6798760806987"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UxeEDMQnP5pMij1S"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4793261,
+          "tmdb_still_path": "/jWgahUT00KbvbEa73mIbHN53LbG.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6813772286539"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nwRoikaPnASxzcJo"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pkehw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6813785459275"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/XJ1UCbzD#l1vvl808erbZVVLxoM5tY1pC7NgHFn1_iflT59Foq1Y"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6813793258059"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TiYw9lrQ8beE4LA7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4793262,
+          "tmdb_still_path": "/w4kXN1t1s97vJvKqiFv6vjsrnH7.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6835695520331"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XH3LOoFsGTJllhMT"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8prea9"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6835703056971"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/iUFgQapL#cipGMgLDpD26jwPKJ0zbDbnFqIv6cty7JH2RGfrRexA"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6835711838795"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QZapenFXwIUHToL5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4793263,
+          "tmdb_still_path": "/rWQpp8Q808yRAKHksXNpaPvQXn3.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6862960921163"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=F8EbOva4IxB2SBcE"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q03l6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6863045986891"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/zVUURLTJ#7BWsvVte-2uDjGOlLO6vhUHXaFt0V06nuP2IWNFXjnA"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6863058504267"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tuTppGzm3NVNFu4h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4793264,
+          "tmdb_still_path": "/uO43FKobSyQx800Wb80SpYxhHcH.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6884303440459"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uI87TSxe3q697h1S"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q803d"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6884309469771"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/XMUm0TJR#OSMJ-SgRJpmb0xFsq893zx2foep0JBPe91lCi31h0_Q"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6884314450507"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cvkGsQBO5JTCRIVG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4793265,
+          "tmdb_still_path": "/oWgdmOP5MQ4YtyyrpsFGCNLKN8d.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6909591816779"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6qVEKlEBSnoNVlvZ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qhbnc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6909600139851"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/edcjBTwS#pk2EiKxBpc4FaH0BDLKMzvJFKMmkrpCM7kKlF2TNU2w"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6909604072011"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6qKA5G9P5frARGMl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4793266,
+          "tmdb_still_path": "/9ENBgX7heKKO0AAEJBs5qoZXMTs.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6930687003211"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3Z1VasdthezO2nCX"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qpmcq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6930693360203"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/yYckmIKY#RLWtmmWRnne6_oxXwwbcOVOD3AdsEBi9MxAeLRmQx40"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6930697488971"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GfgWcg7y7aH6HrSt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4793267,
+          "tmdb_still_path": "/cLaAnV0f9kKrozEvaG4EgkfiFcX.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6952279149131"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=w5Cf9JVcnbcITaEz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qw8v4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6952289700427"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/qZFTAaxQ#V7meWdfJDKXVjw85mbW-6Ge1ZH2Jr4Z75rZE7S9tI1U"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6952296122955"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0W7FpBAoLks7lWAP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4793268,
+          "tmdb_still_path": "/dOLsdyvdtUT8H7c8CiFzIRrLXJy.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kanojo mo Kanojo Season 2 ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Kanojo mo Kanojo Season 2 حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، شونين، مدرسي، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/kanojo-mo-kanojo-season-2",
+  "story": "يدور أنمي Kanojo mo Kanojo Season 2 ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Kanojo mo Kanojo Season 2 حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، شونين، مدرسي، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Junya Enoki، Ayane Sakura، Azumi Waki، Ayana Taketatsu، Rie Takahashi، Aoi Koga",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "NDHyMF_jgTQ",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kanojo mo Kanojo Season 2",
+    "mainDescription": "يدور أنمي Kanojo mo Kanojo Season 2 ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Kanojo mo Kanojo Season 2 حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، شونين، مدرسي، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Kanojo mo Kanojo Season 2 أنمي 2021 | يدور أنمي Kanojo mo Kanojo Season 2 ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kanojo mo Kanojo Season 2 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/113137"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "kanojo-mo-kanojo",
+      "title": "Kanojo mo Kanojo",
+      "url": "/anime/kanojo-mo-kanojo",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/kanojo-mo-kanojo.jpg"
+    },
+    {
+      "slug": "kanojo-mo-kanojo-season-2",
+      "title": "Kanojo mo Kanojo Season 2",
+      "url": "/anime/kanojo-mo-kanojo-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/kanojo-mo-kanojo-season-2.jpg"
+    }
+  ],
+  "tmdb_id": 113137,
+  "tmdb_url": "https://www.themoviedb.org/tv/113137",
+  "original_title": "カノジョも彼女"
+}

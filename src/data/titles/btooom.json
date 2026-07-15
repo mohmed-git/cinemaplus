@@ -1,0 +1,364 @@
+{
+  "slug": "btooom",
+  "clean_title": "Btooom!",
+  "raw_name": "انمي Btooom!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/btooom.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/_d8YfIb6iq"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/420x5tz6np6j1mr"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/uMVW3ZqZ#aB_tnmlm2pn_Um4jNXgXnq8HJKQ14rv4z_TeHuiJzl4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 896902,
+          "tmdb_still_path": "/fOoET4slVVKa8F90LTjgopzkItL.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/V4hT8eWNea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i58kmezdk2"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/3V1GBYKQ#SS15SseTZtHxiVX4jo7pIWBAdVFMgGTLdAIr7CtKUM4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 896899,
+          "tmdb_still_path": "/riHBsIx0omkZBY5sBoFmJjTXGdO.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/2FhIVuTKea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adg2j4-l5q"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/CQ9SBbxZ#hmC3D2wAzDy92eefH_O-AwbrBY_urCIuAGiJopaDGgg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 896903,
+          "tmdb_still_path": "/pbi0bpG0N792RdmSf9lttvX5hM7.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/PI7WPbbZea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8te3n6xrepy"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/HQ90lYZT#sQJA3rB8ayEzzNfVVSmdBdyNBqUOZD6HcDC4SgNVtbA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 896904,
+          "tmdb_still_path": "/stsIGOSu9hoDziXtxqiTu9WT8Iq.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/3o6CnbmSea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntlg7x27mm0"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/bR0C3IyY#TbCXcQS6z1IlutbJrS-m7RnM0m_lANiVERJ01erB5sc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 896905,
+          "tmdb_still_path": "/xGkTSVaHteGQUMoaAmJ40wedKdZ.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/TtTd3TL2ea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj2kq4555d"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/rYsCQLBK#8v9t2uKAaVf-Ghne4o1axrk6nGVW1IPMLvDLD8SS9M0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 896898,
+          "tmdb_still_path": "/nylAqky3CbPxIs8m0KCwA7YU2Kr.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/0ebzUcBeiq"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj2kq4l05g"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/GFdGzZia#vrhjmSUiKaGyJ6GW06heGvbSyb2lHR-3UEnoKLovN4I"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 896900,
+          "tmdb_still_path": "/dv0o7baQrj9RgHFWjiaXoaNgITK.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/b6pmuY39ea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5-6n0e-zx"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/EcxSHLgZ#cCiBKnSeNqx_GpgPcoqJHR5BfiNMTTejG8mrpoV2koM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 896906,
+          "tmdb_still_path": "/2LepL3x7FRRu4UXrVt6gTJ6uVSu.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/G2GQEAFaea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh3g5zk5xm-"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/fYFCSZBJ#qWvcBEYUts0DA7vDzcNHDdgDZruZLW-JXUJZIlzXOrM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 896901,
+          "tmdb_still_path": "/oDuNpdWOypH74EGWybS5nuJbslu.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/iVkT1aaMea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i58km7-8p5"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/zM9wEBQQ#oGvyhzXdI7xC32gA6-Hat1CBmctedUvFsJXwIzPDdNM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 896907,
+          "tmdb_still_path": "/eMQF3HXQbm2e4oS4BBgOrBqlnWP.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/uCuGl3Slea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5-6n0dqen"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/3E0S1T7Q#VNU6SBa38Dk62hRHKZn6Jgq0lCD5aP1sfYgnT6lECf8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 896908,
+          "tmdb_still_path": "/1if1b3I0rSBgE2lwldj2PuGmDGf.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/86mWmXWRea"
+            },
+            {
+              "id": 2,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b8xyz4p-ln"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/LB1QXDzS#N4sgtS8YCVVQvL-zzh7THYGt1yUyMQXO9sYlsTU2HYE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 896909,
+          "tmdb_still_path": "/tLUeb0kapkvaeY3XeIoLF6Pax3q.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Btooom! ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. تبدأ قصة Btooom! من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، خيال علمي، نفسي، سينين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Btooom! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/btooom",
+  "story": "يدور أنمي Btooom! ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. تبدأ قصة Btooom! من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، خيال علمي، نفسي، سينين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Btooom! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kanata Hongo، Suzuko Mimori، Toru Okawa، Miyuki Sawashiro، Yuichi Nakamura، Meijin Takahashi",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "zZW0Bsk6DIs",
+  "rating": "7.4",
+  "imdb_rating": "7.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Btooom!",
+    "mainDescription": "يدور أنمي Btooom! ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. تبدأ قصة Btooom! من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، خيال علمي، نفسي، سينين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Btooom! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Btooom! أنمي 2012 | يدور أنمي Btooom | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Btooom! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45125"
+    }
+  },
+  "tmdb_id": 45125,
+  "tmdb_url": "https://www.themoviedb.org/tv/45125",
+  "original_title": "BTOOOM!"
+}

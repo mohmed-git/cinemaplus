@@ -1,0 +1,81 @@
+---
+import type { Title } from '../lib/types';
+import { getNavigableEpisodeRouteForTitle } from '../lib/episodeRoutes';
+import { gatewayRoute } from '../lib/routes';
+
+interface Props {
+  title: Title;
+  categoryPath: 'series' | 'anime' | 'movie';
+}
+const { title, categoryPath } = Astro.props;
+
+const seasons = title.seasons;
+const initial = seasons[0]?.season ?? 1;
+---
+
+<div class="glass-panel overflow-hidden">
+  <!-- Tabs -->
+  <div class="flex flex-wrap items-center gap-2 border-b border-white/[0.06] px-4 py-3">
+    {seasons.map((s) => (
+      <button
+        type="button"
+        class={`season-tab tab ${
+          s.season === initial ? 'tab-active' : 'tab-inactive'
+        }`}
+        data-season={s.season}
+      >
+        الموسم {s.season}
+        <span class="mr-1 text-[11px] opacity-75">({s.episodes_count})</span>
+      </button>
+    ))}
+  </div>
+
+  <!-- Panels -->
+  {seasons.map((s) => (
+    <div
+      class={`season-panel p-4 ${s.season === initial ? '' : 'hidden'}`}
+      data-season={s.season}
+    >
+      <ul class="grid grid-cols-2 gap-2.5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+        {s.episodes.map((ep) => (
+          <li>
+            <a
+              href={categoryPath === 'movie' ? `${gatewayRoute(title.slug)}?s=${s.season}&e=${ep.episode}` : getNavigableEpisodeRouteForTitle(title, categoryPath, s.season, ep.episode)}
+              class="group relative flex items-center gap-3 rounded-xl bg-white/[0.03] border border-white/[0.05] px-3 py-2.5 text-sm text-gray-200 transition-all duration-300 hover:bg-gradient-to-l hover:from-brand-600/20 hover:to-neon-fuchsia/10 hover:border-brand-500/40 hover:text-white hover:shadow-[0_0_20px_-6px_rgba(168,85,247,0.5)]"
+            >
+              <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-brand-600/30 to-neon-fuchsia/20 text-brand-300 group-hover:from-brand-500 group-hover:to-neon-fuchsia group-hover:text-white transition-all">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5">
+                  <path d="M8 5v14l11-7z" />
+                </svg>
+              </span>
+              <div class="min-w-0 flex-1">
+                <div class="font-semibold line-clamp-1">{ep.title}</div>
+                <div class="text-[10px] text-gray-500 mt-0.5">
+                  {ep.servers.length} سيرفر
+                </div>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ))}
+</div>
+
+<script>
+  const tabs = document.querySelectorAll<HTMLButtonElement>('.season-tab');
+  const panels = document.querySelectorAll<HTMLElement>('.season-panel');
+  tabs.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const key = btn.dataset.season;
+      tabs.forEach((b) => {
+        const active = b.dataset.season === key;
+        b.classList.toggle('tab-active', active);
+        b.classList.toggle('tab-inactive', !active);
+      });
+      panels.forEach((p) => {
+        p.classList.toggle('hidden', p.dataset.season !== key);
+      });
+    });
+  });
+</script>

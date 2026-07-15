@@ -1,0 +1,43 @@
+---
+import { SITE } from '../lib/site';
+
+interface Crumb { label: string; href?: string }
+interface Props { items: Crumb[]; schema?: boolean }
+const { items, schema = true } = Astro.props;
+
+const breadcrumbJsonLd = schema ? {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: items.map((crumb, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: crumb.label,
+    item: crumb.href
+      ? new URL(crumb.href, SITE.url).toString()
+      : new URL(Astro.url.pathname, SITE.url).toString(),
+  })),
+} : null;
+---
+
+<nav aria-label="breadcrumb" class="text-xs sm:text-sm">
+  <ol class="flex flex-wrap items-center gap-1.5 sm:gap-2">
+    {items.map((c, i) => (
+      <li class="flex items-center gap-1.5 sm:gap-2">
+        {c.href ? (
+          <a href={c.href} class="text-gray-400 transition-colors hover:text-brand-400 line-clamp-1">{c.label}</a>
+        ) : (
+          <span class="text-white font-semibold line-clamp-1 max-w-[200px] sm:max-w-none">{c.label}</span>
+        )}
+        {i < items.length - 1 && (
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-3 w-3 text-brand-500/40 rotate-180 shrink-0">
+            <path d="M9 18l6-6-6-6"/>
+          </svg>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+{breadcrumbJsonLd && (
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+)}

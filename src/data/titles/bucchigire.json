@@ -1,0 +1,304 @@
+{
+  "slug": "bucchigire",
+  "clean_title": "Bucchigire!",
+  "raw_name": "انمي Bucchigire!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/bucchigire.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0sql96eru415.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/rrqroy2thqdg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-08",
+          "runtime": 24,
+          "tmdb_episode_id": 3617780,
+          "tmdb_still_path": "/6Hms24HVpOgeTIhcM6yrKsgdim8.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-z8c53h66sfa8.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/evegup9lu98i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-15",
+          "runtime": 24,
+          "tmdb_episode_id": 3826453,
+          "tmdb_still_path": "/wFmbttLbNXW6iHR6VpSl0AyRTmN.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-cyu4k72novu6.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/bgoc3n0i8n9v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-22",
+          "runtime": 24,
+          "tmdb_episode_id": 3826454,
+          "tmdb_still_path": "/hsendxMGNu2xlYwtES40hJuriaO.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-jiq1gdc388g3.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/vl3o1c7iren8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-29",
+          "runtime": 24,
+          "tmdb_episode_id": 3826455,
+          "tmdb_still_path": "/9w2qJZoOqM4056oG9Ztp9uEUytD.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-kla4blc1ctmj.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/mjpz9m48hsrx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3826456,
+          "tmdb_still_path": "/p7bPzDvK0dT8NRvUsOpa79q8bXW.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-uaiog9rqmrhi.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/jgxcycng0djf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3826457,
+          "tmdb_still_path": "/zY24ObVtTxBB7A79YpkiLAIiv2X.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ocbmzvqwhxoz.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/sr3nchovk6cz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3826458,
+          "tmdb_still_path": "/qga0N8HjBKFAsgjgzCj4IZVBsnQ.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-8ydwudsrzxj1.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/4nlw9lxuvrs4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-26",
+          "runtime": 24,
+          "tmdb_episode_id": 3826459,
+          "tmdb_still_path": "/iXds3j238aAcAfa029H1ynTF67h.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ikykxevssitq.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/9o5zcwpa1zzo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-02",
+          "runtime": 24,
+          "tmdb_episode_id": 3826460,
+          "tmdb_still_path": "/wyg3ehD104XsMvTo4elbBhS9dfX.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-4urouhb4eznp.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/818movbb6ck3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-09",
+          "runtime": 24,
+          "tmdb_episode_id": 3826461,
+          "tmdb_still_path": "/vRpgMNQsIQ9Fuac8Mp1obiDX9Ed.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-e7q9tg4oswtr.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/vxp2oxn7ec6s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3826462,
+          "tmdb_still_path": "/qr33clxZh6O884lqULEIr95jZMG.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-eul44ch0f3ln.html"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/oio14l8kp3w5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3826463,
+          "tmdb_still_path": "/hL8WpK6GexVOp7TO2VVbqkiPQAi.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Bucchigire! ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Bucchigire! حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء تاريخي، ساموراي، أكشن، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/bucchigire",
+  "story": "يدور أنمي Bucchigire! ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Bucchigire! حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء تاريخي، ساموراي، أكشن، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Gen Sato، Shunichi Toki، Sumire Uesaka، Toshiyuki Toyonaga، Yuto Uemura، Shin-ichiro Miki",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، دراما",
+  "trailerId": "X13IvDEZSbU",
+  "rating": "6.1",
+  "imdb_rating": "6.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Bucchigire!",
+    "mainDescription": "يدور أنمي Bucchigire! ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Bucchigire! حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء تاريخي، ساموراي، أكشن، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Bucchigire! أنمي 2022 | يدور أنمي Bucchigire | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Bucchigire! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/195924"
+    }
+  },
+  "tmdb_id": 195924,
+  "tmdb_url": "https://www.themoviedb.org/tv/195924",
+  "original_title": "ブッチギレ！"
+}

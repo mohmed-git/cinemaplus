@@ -1,0 +1,454 @@
+{
+  "slug": "hikaru-ga-shinda-natsu",
+  "clean_title": "Hikaru ga Shinda Natsu",
+  "raw_name": "انمي Hikaru ga Shinda Natsu",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hikaru-ga-shinda-natsu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "عملية الاستبدال",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9624486218438"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZG36bvrfvZdS9rbQ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9me2ps"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9624491133638"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9624497490630"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "http://videa.hu/player?v=dfvOyfjqLCqBIvQ1"
+            }
+          ],
+          "overview": "يعمد \"يوشيكي\" إلى مواجهة \"هيكارو\" بشكوكه ويكتشف الحقيقة المروعة. وعلى الرغم من محاولتهما العيش بشكل طبيعي، تقع أحداث غريبة.",
+          "air_date": "2025-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5796066,
+          "tmdb_still_path": "/sUD9R3BIuD2BoZPF5l6RaCCq6lH.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الشك",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9642920774342"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4QjHvUMKEPeWYsLk"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9msp6k"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9642927655622"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9642936437446"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7SvSWdLmhf3K9MQu"
+            }
+          ],
+          "overview": "بينما يرافق \"يوشيكي\" و\"هيكارو\" زملاءهما في الفصل إلى مسار جبلي مخيف، يصل رجل غامض إلى قرية \"كوبيتاتشي\" ويبدأ تحرّياته.",
+          "air_date": "2025-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 6293414,
+          "tmdb_still_path": "/hP3SbXKsEmKcK3tg2sCr8ostEr5.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "النكران",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9660879932102"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Z4sUroSe7qhc7GSs"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9n8fsc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9660884454086"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9660889959110"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=11Z4zDR2hez3N24o"
+            }
+          ],
+          "overview": "بينما يسترجع \"يوشيكي\" ذكريات طفولته مع \"هيكارو\"، يواصل صراعه المرير مع مشاعره المعقدة والمضطربة. وفي محاولة يائسة منه، يتواصل مع السيدة \"كوريباياشي\".",
+          "air_date": "2025-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 6293416,
+          "tmdb_still_path": "/hzEgiHa53VvavI5Ye2xCjH0YAp8.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "مهرجان الصيف",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9679011318470"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=r8fNWO4jzkcMwbU0"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nmali"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9679021083334"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9679031044806"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1KNvZqaH6MGEu5Zw"
+            }
+          ],
+          "overview": "أثناء حضور \"يوشيكي\" مهرجان الصيف برفقة \"هيكارو\"، يُعرب شيوخ القرية عن قلقهم من الوفاة الأخيرة، ويجد \"تاناكا\" نفسه غارقًا في الحيرة، وسط دوامة من الأسئلة التي لا يعرف لها إجابات.",
+          "air_date": "2025-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 6293417,
+          "tmdb_still_path": "/5K1WfUHgH4oI0PxBV3LZuHr355A.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "شعر الشبح المستعار",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9698248362694"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YYhyjOLF3iDdjoBl"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9o23jq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9698254785222"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9698259176134"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wuQWVMLWU91LCapz"
+            }
+          ],
+          "overview": "حين تلمح شقيقة \"يوشيكي\" خصلات شعر مريبة في الحمام، يتوجّه \"هيكارو\" إلى منزل \"تسوجيناكا\" للتحقيق في الأمر، ولكن الأوضاع تأخذ منعطفًا مميتًا.",
+          "air_date": "2025-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 6293419,
+          "tmdb_still_path": "/zhD2Lolzu8QV23JSj9td5RKpGYM.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "أساكو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9719164177094"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6vCkSkgfzaS6tSsB"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ogsfi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9719176235718"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9719182068422"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Yc9gYcSc7pUPPtV2"
+            }
+          ],
+          "overview": "يناقش \"يوشيكي\" وزملاؤه قصة كُلّفوا بها من قبل معلمهم. ولاحقًا، تقع \"أساكو\" في خطر محدق بسبب ملاحظاتها الدقيقة خلال حفل مبيت.",
+          "air_date": "2025-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 6293421,
+          "tmdb_still_path": "/bgEajeKWJlcAo9pJ4BD7K9MUrzk.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "العزيمة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rZMZ4gxV24WunjL2"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ow4ms"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Q6PpCj0GZSbMLHSG"
+            }
+          ],
+          "overview": "يقرر \"يوشيكي\" ألّا يقف مكتوف اليدين إزاء إدراكه الحقيقة المُرّة حول خطورة \"هيكارو\"، ويدعو صديقه المقرب للتغيب معه عن المدرسة.",
+          "air_date": "2025-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 6293422,
+          "tmdb_still_path": "/4fzxZFohdkAru20o3Rn95oKmWpB.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "اتصال",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=O8JnxqdffiSWykeP"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9pbrqc"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HsYkXe8o9HVP48Ge"
+            }
+          ],
+          "overview": "يتحقق \"يوشيكي\" و\"هيكارو\" من \"نونوكي\" العظيم وارتباطه بتاريخ قرية \"كوبيتاشي\"، بينما يحصلان في المكتبة على معلومة مهمة من مصدر غير متوقع.",
+          "air_date": "2025-08-24",
+          "runtime": 24,
+          "tmdb_episode_id": 6293423,
+          "tmdb_still_path": "/5Yncn7yOvhEZVFF9zuBjr5FHz8M.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "المسنّ تاكيدا",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AncZmP36EfvRgdVk"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9q3z38"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tVlehbYo9HMS5oBX"
+            }
+          ],
+          "overview": "تُطلِع \"كوريباياشي\" الشبّان على ما تعرفه عن الأرواح العالقة في هذا العالم، بينما يفقد المسنّ \"تاكيدا\" أعصابه بسبب جهل \"هيكارو\" بتاريخ \"إندو\".",
+          "air_date": "2025-09-07",
+          "runtime": 24,
+          "tmdb_episode_id": 6293424,
+          "tmdb_still_path": "/5I433aFBCGuhHPMiqIhZCvkyJJA.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحقيقة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YM9lFkxh039qMlEu"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qhtuy"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MDJRsLkJ6HCXjp9v"
+            }
+          ],
+          "overview": "يجد الفتَيان نفسيهما في المستشفى بعد مصادفتهما غير المتوقعة مع \"تاناكا\". وبعد عودتهما إلى المدرسة، يتوصّل \"يوشيكي\" إلى حقيقة \"نونوكي\" العظيم.",
+          "air_date": "2025-09-14",
+          "runtime": 24,
+          "tmdb_episode_id": 6293426,
+          "tmdb_still_path": "/2oq2BckuYvwQS8bTnf9Wu3ZPMZQ.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "خطيئة إندو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fPCZp0sH4fP0I74P"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qwdmk"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UqqXBTruGk1WCxd0"
+            }
+          ],
+          "overview": "رغم تردده، يسأل \"يوشيكي\" والده عن ماضي عائلة \"إندو\" الغامض وطقوسها السرّية. ولاحقًا، يفقد \"هيكارو\" السيطرة على نفسه في المدرسة ويعاني من صدمة عميقة تهز كيانه.",
+          "air_date": "2025-09-21",
+          "runtime": 24,
+          "tmdb_episode_id": 6361151,
+          "tmdb_still_path": "/4t1jGgj8cd9x37OTd2YnriI6lmR.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الموقع",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3Rr6NtRPxu5wzTO8"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ralxg"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TkLtSd2LaApZFdIT"
+            }
+          ],
+          "overview": "في ظل حضور الآخرين اجتماع المدرسة، تعثر \"أساكو\" على \"هيكارو\" وهو يتجول في الممرات. ويكشف \"هيكارو\" عن خططه الأخيرة لـ\"يوشيكي\" أثناء وجودهما على الشاطئ.",
+          "air_date": "2025-09-28",
+          "runtime": 24,
+          "tmdb_episode_id": 6361152,
+          "tmdb_still_path": "/7TU2i3Qg4IskxKLGAB2xttXTrro.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "قبل ستة أشهر، اختفى \"هيكارو\" لمدة أسبوع. ومع عودته وإحساس صديقه المقرّب \"يوشيكي\" بالارتياب تجاه تصرفاته ومواجهته بذلك، تنكشف الحقيقة المروعة.",
+  "url": "/anime/hikaru-ga-shinda-natsu",
+  "story": "قبل ستة أشهر، اختفى \"هيكارو\" لمدة أسبوع. ومع عودته وإحساس صديقه المقرّب \"يوشيكي\" بالارتياب تجاه تصرفاته ومواجهته بذلك، تنكشف الحقيقة المروعة.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chiaki Kobayashi، Shuichiro Umeda، Chikahiro Kobayashi، Wakana Kowaka، Yumiri Hanamori، Yoshiki Nakajima",
+  "genre": "أنمي، رسوم متحركة، دراما، غموض، خيال علمي وفانتازيا",
+  "trailerId": "sFaO07LwAVg",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hikaru ga Shinda Natsu",
+    "mainDescription": "قبل ستة أشهر، اختفى \"هيكارو\" لمدة أسبوع. ومع عودته وإحساس صديقه المقرّب \"يوشيكي\" بالارتياب تجاه تصرفاته ومواجهته بذلك، تنكشف الحقيقة المروعة.",
+    "metaDescription": "Hikaru ga Shinda Natsu أنمي 2025 | قبل ستة أشهر | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hikaru ga Shinda Natsu من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/278196"
+    }
+  },
+  "tmdb_id": 278196,
+  "tmdb_url": "https://www.themoviedb.org/tv/278196",
+  "original_title": "光が死んだ夏"
+}

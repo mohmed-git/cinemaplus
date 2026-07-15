@@ -1,0 +1,484 @@
+{
+  "slug": "nozomanu-fushi-no-boukensha",
+  "clean_title": "Nozomanu Fushi no Boukensha",
+  "raw_name": "انمي Nozomanu Fushi no Boukensha",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/nozomanu-fushi-no-boukensha.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=P9wEOdNRiKQlakFj"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=b8G7sNbAlEZHGjsm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 3669981,
+          "tmdb_still_path": "/aXIv3ekx1QBUT03tkSzXDhv0evh.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=a2QKYqJfmagwEmch"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JCmvaivFHTIN0C5p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 4997756,
+          "tmdb_still_path": "/bw2ttUsmy8lxHvlZZHaLlUHYyUm.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5smVASzk4ayyvtHg"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TLleDWlhiitVKFFX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 4997757,
+          "tmdb_still_path": "/4IsXLCxqMMuLlaRv2TXrVHigwWK.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7057638885963"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9EkcGNfoN2dM3kc5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rt9cv"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7057648978507"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7057654286923"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Zi7kkNLHcPk1a4Vf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 4997758,
+          "tmdb_still_path": "/lT5mI8jKicSQ01LfG6VXwO2UGyA.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7080007109195"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0ECNONmB91ImlIAP"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8s1vc6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7080021789259"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7080026180171"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7rjXd91UlGGDAn1Y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4997759,
+          "tmdb_still_path": "/d38WI4zV2NW9wFt3n8eeD6zRLpe.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7102562634315"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ajICLOBK68Cac5KR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8sgkse"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7102566369867"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7102568729163"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=P7oHQmZ2T455T0fU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4997760,
+          "tmdb_still_path": "/5Uh7qIiQrE2O7HNtAjYur2nVcDx.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7122945182283"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vohFEdur4jhqHVd9"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8st7u4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7122951801419"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7122957568587"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=26QTQgqF5toBjgnB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4997761,
+          "tmdb_still_path": "/9w8Jn1QgafKPmV0YUUzpqvCZB3.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7147322214987"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=l85szlB2AynXjHvZ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8t73mq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7147333290571"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7147340237387"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oH5Jg3sMNVo45sYD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 4997762,
+          "tmdb_still_path": "/FW4rPvbPQSn8Sp3QQe6Kz0Qi2D.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7170111310411"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Rs2M9GL65RYxG0I2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8tpaeo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7170118257227"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7170121140811"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rjiHqFLy8IK4akIS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-01",
+          "runtime": 24,
+          "tmdb_episode_id": 4997763,
+          "tmdb_still_path": "/uOfTn2nUvmeJQnQkA9baVXuv1k7.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7193107696203"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=w2oQY299wr7AzdKc"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8u30s8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7193119033931"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7193129257547"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2vUe5hHgJiVTuEmY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4997764,
+          "tmdb_still_path": "/wzCa1rmO2MF2i6tiXISm27VWet4.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7215755037259"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=x930EGvEuzTAIY3e"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8uj46y"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7215764277835"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7215770372683"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZwSOfBdGTRwj6Jrh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-15",
+          "runtime": 24,
+          "tmdb_episode_id": 4997765,
+          "tmdb_still_path": "/j5Gyp8UqFJ2Bnyjk3VZglkeCXS4.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7239518325323"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=E6p0TlWt0OpJNfnj"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8vf0l2"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7239529204299"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7239533201995"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DI3wFgWddECIixaf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-22",
+          "runtime": 24,
+          "tmdb_episode_id": 4997766,
+          "tmdb_still_path": "/sAu4xLAWLUZrxkvFx4DYQGdA1Qi.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Nozomanu Fushi no Boukensha ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Nozomanu Fushi no Boukensha من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/nozomanu-fushi-no-boukensha",
+  "story": "يدور أنمي Nozomanu Fushi no Boukensha ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Nozomanu Fushi no Boukensha من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ryota Suzuki، Ikumi Hasegawa، Mikako Komatsu، Sayumi Suzushiro",
+  "genre": "أنمي، رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "pNUbmrea2ks",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Nozomanu Fushi no Boukensha",
+    "mainDescription": "يدور أنمي Nozomanu Fushi no Boukensha ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Nozomanu Fushi no Boukensha من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Nozomanu Fushi no Boukensha أنمي 2024 | يدور أنمي Nozomanu Fushi no Boukensha ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Nozomanu Fushi no Boukensha من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/197848"
+    }
+  },
+  "tmdb_id": 197848,
+  "tmdb_url": "https://www.themoviedb.org/tv/197848",
+  "original_title": "望まぬ不死の冒険者"
+}

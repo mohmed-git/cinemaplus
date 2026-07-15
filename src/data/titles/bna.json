@@ -1,0 +1,304 @@
+{
+  "slug": "bna",
+  "clean_title": "BNA",
+  "raw_name": "انمي BNA",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/bna.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xJR1YV4r0YxBUMtg"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-uu6mcr4ohr84.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1895769,
+          "tmdb_still_path": "/yduKWMLheJJxmhowC6uuG5HFOBq.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xHRevHgRCcvxxmTX"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-8o5t2or8ehvm.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2197112,
+          "tmdb_still_path": "/A8SgTkHjOOTaH4cxGkq0tfQi5ax.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-z4qbz38ufosz.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AikrrSC9SiWSvtqo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2197113,
+          "tmdb_still_path": "/PfJcGbn5Cegt1IPLnJipnizmS.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5I2TVxHygpL453SD"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-lplptry6vkbz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2197114,
+          "tmdb_still_path": "/xwiEeTmSUtw8kjOpiB9X21G368C.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YABA6aRd0tCElVVZ"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-9gafwon6mazh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2197115,
+          "tmdb_still_path": "/fi01kSk7HaXpiLoSKJZbuEBpW7x.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PQ4wmc2wJwVUa3pm"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0f0meb822wjc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2197116,
+          "tmdb_still_path": "/bzWpd5cy8Bz05iLOZsjG0mekPdH.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=l9TbEDP6mw9sIUE6"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rwgiawhwkxzk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2197117,
+          "tmdb_still_path": "/slDfNPpGWS8mWtBwYBeUTGjwUvD.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZbFWtQx3lYfLGh4j"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-nshdwz7sbtj4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2197118,
+          "tmdb_still_path": "/9ud4o75s40nzS4VIUReZxpK1THH.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2wHHbEMQF7MfRcrK"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-euh6bqeoyvbl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-04",
+          "runtime": 23,
+          "tmdb_episode_id": 2197119,
+          "tmdb_still_path": "/n70NqEsvKavcUaT6ZxFDEusRWBu.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PkJ3sLBdgdwnHN9s"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-l2xab37tpvru.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2197120,
+          "tmdb_still_path": "/j72RoyTe8niVqSid0B863zaumi4.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iXGenfM8tXBzV101"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-m5zmlndeiclp.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2197121,
+          "tmdb_still_path": "/zYaobC8UC3tMrdxsftCfdDbvTT4.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GRWEMI7mFhAfSzsJ"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-dmv18ew7w9te.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2197122,
+          "tmdb_still_path": "/mIaq57z3V5huXh7sUCWKhqiVibk.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي BNA ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي BNA حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات قوة خارقة، أكشن، خيال العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/bna",
+  "story": "يدور أنمي BNA ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي BNA حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات قوة خارقة، أكشن، خيال العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Sumire Morohoshi، Yoshimasa Hosoya، Maria Naganawa، Kaito Ishikawa، Gara Takashima، Michiyo Murase",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "aUOTU8JZriE",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "BNA",
+    "mainDescription": "يدور أنمي BNA ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي BNA حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات قوة خارقة، أكشن، خيال العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "BNA أنمي 2020 | يدور أنمي BNA ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات BNA من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/92592"
+    }
+  },
+  "tmdb_id": 92592,
+  "tmdb_url": "https://www.themoviedb.org/tv/92592",
+  "original_title": "BNA ビー・エヌ・エー"
+}

@@ -1,0 +1,499 @@
+{
+  "slug": "toaru-ossan-no-vrmmo-katsudouki",
+  "clean_title": "Toaru Ossan no VRMMO Katsudouki",
+  "raw_name": "انمي Toaru Ossan no VRMMO Katsudouki",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/toaru-ossan-no-vrmmo-katsudouki.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6685110307403"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4r66edYTTRH6teqG"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ohe4c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6685128329803"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Aq0F0IbY#EWWglu9Cqcyft2lb5DK98WyNIR-34tfwr9evf23q4ks"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6685139470923"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=x5Wymc2t9AXsp8ig"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8oheiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 4554529,
+          "tmdb_still_path": "/pfa58MPPin1VbePPBh9G2111EhX.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6706748459595"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Js1iyVEdPT4zjv42"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ooz5h"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6706777950795"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/r25D1bQQ#v7apU5Shkyl2qs5YcBvyiFzHznDiCoG_Xdw1FH4C8kg"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6706786863691"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=olz8upR1TpYBOLfX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 4752673,
+          "tmdb_still_path": "/bWKZZMyYRqD3sllK25oi28Pltlf.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=k1TAcPlL7DcdR3XS"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ow5mh"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/srt1FCaQ#YTBcPuKefnT3_whAsmdmtdBTXseQC9EKXO8AUyAGS0Y"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OU0kUhnOqdyZSSXF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4752675,
+          "tmdb_still_path": "/oc7o0B3GsdlDlqHJOpPe26yWoxS.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6751534647883"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lUDKehW4boKodimp"
+            },
+            {
+              "id": 3,
+              "label": "daylimotion",
+              "url": "https://www.dailymotion.com/embedvideo/x8p1n9p"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/qNlzTR7D#2B1rlNx-bshWMwlM5rwKBpNesZu-EV7ZDv488QaZItk"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6751588452939"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=x2pOjVsh8N3WhBjd"
+            },
+            {
+              "id": 7,
+              "label": "daylimotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8p1nol"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 4752676,
+          "tmdb_still_path": "/twqpUxFPSiUAL0LL4smpWacGhLE.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=B7F5DahxeHpgECqs"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p7pz9"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/s300XRjA#MfRVrANosaf4pJjQm0QUcHHpF5fHIg5Z01kCmXPUHJk"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6mlvBH4ofM3EIhPR"
+            },
+            {
+              "id": 5,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8p7qb6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 4752677,
+          "tmdb_still_path": "/ldo6zsqFSpBbnBjjVdIeOWK10nu.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VTlI4pw3lT4vJjPK"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pehx9"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xLExRQxK#9BteAM0aZmj3jchAxAOQ3bRA4BHSL7GVwSyHibWqzeE"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZK26NdaK2amaFsNA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4752678,
+          "tmdb_still_path": "/8qKSHjO4A8harCTnjHbVIqFcBGm.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9qnYlhICrgnXdROs"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pltgc"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ZHd1TZzZ#rPxTIXP3DQym-U2FQRVZxEKdCTxWavbjVoD8KkPd0xY"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iqJyhI0Gbr4Rgfgv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4752679,
+          "tmdb_still_path": "/sIEW7ITB3Vg50G1jdOnEWdef7kC.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8psuyg"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PUnzFia1B4Sxp4qF"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/HMN0zbLT#XpJzqCO5yYxCxkB1MjtdxcXb4njD7v57pRhTTkyYqTc"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QfBa9faBVX7CaMZr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4752680,
+          "tmdb_still_path": "/iQ0v4bfoau7ggvjZslCjCaSXFij.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0n2tWHM8hYGB8DQg"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q0dsa"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/53VBWQiS#fAu5M0bX9JxlE9yOXc3YZ7kYqc5UX-AnvEsozdkSEZE"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=b3WDarkpNbOpZu6Z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4752681,
+          "tmdb_still_path": "/epL78tXTAaKwn1QAreMqk53VVx6.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OaiwcqLk2yRusKt1"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q8cqs"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/tmNXXbqL#Set2LRHPuqGTPy2dOYNnHnt6RoQ4_H6Tkdi1em9HkrA"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BSuSJnFMQpJsN1JQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4752682,
+          "tmdb_still_path": "/3jM5p5LVFMAsqp0umOy45zWAnof.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6907376831051"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YLAZ4Bm878E47TO9"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qgjfm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6907396622923"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/EbEE2ZoD#-JYwPjG_wGcCncfK7BNUIuscD7PwnRDrMXuDq6tkvrA"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6907410188875"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oTDLPKwD9fecevck"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8qgjvn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4752683,
+          "tmdb_still_path": "/6rc72CYkAYYGSCkMk4C8Lpa79jD.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0aKDZn1Tfa55CooH"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qoueb"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Bb03TCAR#p6U6sJcV0raxScpDgfLnGC4x0jKfmJtktebnNxsSkbo"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iGIO9YlEYVa25NoK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4752684,
+          "tmdb_still_path": "/8Q5vG5ML2NKQJkpiwVvgjpke5Up.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Toaru Ossan no VRMMO Katsudouki ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Toaru Ossan no VRMMO Katsudouki تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات لعبة، مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/toaru-ossan-no-vrmmo-katsudouki",
+  "story": "يدور أنمي Toaru Ossan no VRMMO Katsudouki ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Toaru Ossan no VRMMO Katsudouki تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات لعبة، مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kaito Ishikawa، Daisuke Namikawa، Reina Ueda، Tasuku Hatanaka، Miho Okasaki، Shiori Izawa",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "KEARCsDS624",
+  "rating": "6.3",
+  "imdb_rating": "6.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Toaru Ossan no VRMMO Katsudouki",
+    "mainDescription": "يدور أنمي Toaru Ossan no VRMMO Katsudouki ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Toaru Ossan no VRMMO Katsudouki تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات لعبة، مغامرات، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Toaru Ossan no VRMMO Katsudouki أنمي 2023 | يدور أنمي Toaru Ossan no VRMMO Katsudouki ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Toaru Ossan no VRMMO Katsudouki من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/229610"
+    }
+  },
+  "tmdb_id": 229610,
+  "tmdb_url": "https://www.themoviedb.org/tv/229610",
+  "original_title": "とあるおっさんのVRMMO活動記"
+}

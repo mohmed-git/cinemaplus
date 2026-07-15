@@ -1,0 +1,544 @@
+{
+  "slug": "farmagia",
+  "clean_title": "Farmagia",
+  "raw_name": "انمي Farmagia",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/farmagia.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9074817174214"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dpkCRnGls6BjKuWR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9c4mdo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9074823334598"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9074830412486"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2CZypHRGWpO9BQjC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5428978,
+          "tmdb_still_path": "/ArLIemMo6U6qcLR08wTcTHJwPlp.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9099574119110"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DffOs8GcG3UQNUB1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9cj590"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9099586112198"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9099592010438"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lkLY3NuZMzv179jA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5891765,
+          "tmdb_still_path": "/wDfxXA4uH9wvmQnpWJ8h4XsfI9c.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9122725890758"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eSv9lArF5eNdzxeO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9cyje4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9122736245446"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9122742667974"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=a5pKxtVSkL7rEnhi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5891766,
+          "tmdb_still_path": "/sAzJWTKbSsJXXrOA7I9I3gU5kLf.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9145250417350"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=a6zY6Yq5EWW1wFTD"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9dbioe"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9145259199174"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9145266735814"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZZTXeLmXweNnKwcg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5891767,
+          "tmdb_still_path": "/7EfK8hCDp9DBDednvn1v2BhP9Q4.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9172041206470"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nG7dDhRdCgQegrDX"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9dp7se"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9172047104710"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9172054313670"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=x8ejLyEWBhRLpHzx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5891768,
+          "tmdb_still_path": "/daIbVmXkNP8eumkaO2Y8BLbjBGs.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9196951964358"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "//videa.hu/player?v=wDTx78b8ZjbTcyrS"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ecbwk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9196960221894"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9196968020678"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=H7CFP8apxgeL0DHN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5891769,
+          "tmdb_still_path": "/zhEjFxwGOtb06NBSTVAliEzVZ0X.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9218065697478"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rFFr34ApmWbGKpYR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9etkl8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9218074938054"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9218079066822"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dLGDHaXgwzhHwR4A"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5891770,
+          "tmdb_still_path": "/lS8J9DOWhvCffsCcPv2gcZEQpVM.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9243885177542"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HVVmx3Yz6NI8F5U6"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9fdaei"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9243891272390"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9243899529926"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R81dAxKKoK3bp4XJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5891771,
+          "tmdb_still_path": "/qZ7nkCELsnQwHGmXtzz1jCvI3SA.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9264731458246"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=G83L5gR4leWfYg7j"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9fqkwk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9264753543878"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9264759835334"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QZfESKkrTK0rB10Z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5891773,
+          "tmdb_still_path": "/3aMMRoik6AF9vWfCwp6Sft7cggE.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9291581688518"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7MDNGsRRQLaTsCOd"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9g3kbe"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9291588569798"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9291595909830"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bYSa3ITG6fajFK7r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5891775,
+          "tmdb_still_path": "/lp85GBjHhF9v0byGcuI9ZIyZNZO.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9313156729542"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qQKCWyQMagiC8JwH"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9gj822"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9313161710278"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9313165576902"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sFJC3wLxu3s1bKuB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5891776,
+          "tmdb_still_path": "/2VSOwvaxBtuRFZ0w11bC0EaNqbM.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9332890798790"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yGR0enKrxmUvtDnH"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9gy83w"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9332897942214"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9332904102598"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ewgsV06phlg8YIsX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5891778,
+          "tmdb_still_path": "/3RCJ20uArDlnDw3Sq356UwcHGIo.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Farmagia ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Farmagia على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء مغامرات، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/farmagia",
+  "story": "يدور أنمي Farmagia ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Farmagia على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء مغامرات، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Takuya Sato، Ayane Sakura، Inori Minase، Hiro Shimono، Yuki Ishikari، Reiou Tsuchida",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة",
+  "trailerId": "MfSUq7AxHis",
+  "rating": "6.6",
+  "imdb_rating": "6.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Farmagia",
+    "mainDescription": "يدور أنمي Farmagia ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Farmagia على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء مغامرات، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Farmagia أنمي 2025 | يدور أنمي Farmagia ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Farmagia من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/257609"
+    }
+  },
+  "tmdb_id": 257609,
+  "tmdb_url": "https://www.themoviedb.org/tv/257609",
+  "original_title": "FARMAGIA (ファーマギア)"
+}

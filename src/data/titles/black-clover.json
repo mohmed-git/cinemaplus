@@ -1,0 +1,2772 @@
+{
+  "slug": "black-clover",
+  "clean_title": "Black Clover",
+  "raw_name": "انمي Black Clover",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/black-clover.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 170,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 170,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "أستا ويونو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9lbwtni6bsza"
+            }
+          ],
+          "overview": "\"أستا\" و\"يونو\" يتيمان تربيا معًا، ويحلم كل منهما في أن يصبح \"إمبراطور السّحر\" التالي، لكن \"أستا\" يواجه مشكلة واحدة، ألا وهي أنه لم يحرك سحره حتى الآن.",
+          "air_date": "2017-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1347640,
+          "tmdb_still_path": "/iqfTpMZgkfNWCuJ5ARP9quFTfCy.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "وعد الولدين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rtph2ssmqo1w"
+            }
+          ],
+          "overview": "بتشجيع من استدعاء \"أستا\" غير المتوقع، يسترجع \"يونو\" الأحداث التي وقعت قبل عشر سنوات وكيف أدت به مهمة عاجلة إلى قطع وعد لا يمكن الإخلال به.",
+          "air_date": "2017-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1378799,
+          "tmdb_still_path": "/mgjnfc5WNJHqc1fcjs142i4FQoV.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "إلى عاصمة مملكة كلوفر الملكية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/y8e33wtk2swq"
+            }
+          ],
+          "overview": "ينطلق \"أستا\" و\"يونو\" إلى عاصمة مملكة \"كلوفر\" النائية ليتخذا الخطوة الأولى في رحلتهما، وهي \"اختبار الالتحاق بفرسان السحر\".",
+          "air_date": "2017-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1378975,
+          "tmdb_still_path": "/lNpLK24kmmBBKagbiUxrjDXXy6e.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "اختبار الالتحاق بفرسان السحر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jj2ago5c9ae9"
+            }
+          ],
+          "overview": "يدخل اليتامى الامتحان. وبعد التعرف إلى قادة الفرق التسع، توضع مهارات \"أستا\" و\"يونو\" السحرية تحت الاختبار سريعًا.",
+          "air_date": "2017-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1384162,
+          "tmdb_still_path": "/lPQ74xbdjcIeAKzTca8lEP2oa6M.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الطريق نحو لقب إمبراطور السحر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/buk4iqyq7d5z"
+            }
+          ],
+          "overview": "يوجه القادة عنايتهم نحو \"أستا\" و\"يونو\" مع استمرار الاختبارات المرهقة. وفي النهاية، يختار كل منهم الشخص المرغوب فيه للانضمام إلى فريقه.",
+          "air_date": "2017-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1387474,
+          "tmdb_still_path": "/rz9OAKCRx9MS4jHqPceUa4oChU2.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الثيران السوداء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rqrn39gtfi2g"
+            }
+          ],
+          "overview": "يلتقي \"أستا\" بأفراد فرقة \"الثيران السوداء\" الفوضويين ويُجبر على إكمال طقوس التنصيب القاسية قبل أن يصبح بشكل رسمي عضوًا فيها.",
+          "air_date": "2017-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1390856,
+          "tmdb_still_path": "/8tNu4mIHSzpcf5fsWWmF7lYabsn.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "العضو الجديد الآخر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/lpbfye6j9658"
+            }
+          ],
+          "overview": "يأخذ \"ماغنا\" \"أستا\" في جولة تعريفية في مخبأ \"الثّيران السّوداء\"، ويعرّفه خلالها على عضوة جديدة في المجموعة أيضًا، ومن تكون غير\"نويل\"... الأنيقة رغم غطرستها.",
+          "air_date": "2017-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1390857,
+          "tmdb_still_path": "/1Y4O6wSTG1NGfDzaFebcvXDSLnk.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "هيّا! هيّا! المهمة الأولى",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/s4p7nrfjl8ku"
+            }
+          ],
+          "overview": "يُكلّف \"أستا\" بقضاء الحاجيات حول مقر \"الثيران السوداء\"، لكن أموره تبدأ في التحسن عندما يتسلم هو و\"نويل\" مهمتهما الأولى.",
+          "air_date": "2017-11-21",
+          "runtime": 23,
+          "tmdb_episode_id": 1392855,
+          "tmdb_still_path": "/kJ5jRPh2pCj6Yx6Vl6h27CxwTMF.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الوحوش",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1foefz6ilrrh"
+            }
+          ],
+          "overview": "بعد تولي أمر الخنازير البرّية، يتوجه \"أستا\" و\"نويل\" و\"ماغنا\" إلى قرية \"سوسي\". ولكن عند الوصول، يجدون أنها مغطاة بضباب سحري كثيف.",
+          "air_date": "2017-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1395541,
+          "tmdb_still_path": "/7lj3ih6Ox1bYiWyoz8mn10DckX2.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "أولئك الذين يحمون",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mnn5f6vtree0"
+            }
+          ],
+          "overview": "مع عدم قدرة حاجز \"نويل\" على الصمود لفترة طويلة، يدفع \"ماغنا\" و\"أستا\" نفسيهما إلى أقصى حد من أجل حماية أحدهما الآخر والقرويين.",
+          "air_date": "2017-12-05",
+          "runtime": 23,
+          "tmdb_episode_id": 1401846,
+          "tmdb_still_path": "/lflcDTxXhLMbVth97l5ZVkBK1Am.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "ما حدث في يوم معيّن في بلدة القلعة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5ec84eewta67"
+            }
+          ],
+          "overview": "بعد إنهاء أستا لمهمته الأولى يحظى بأول أجرة له وأول يوم عطلة، تصطحبه فانيسا حينها هو ونويل إلى بلدة القلعة لشراء بعض الأدوات السحرية، والبحث عن بعضها لمساعدة نويل في التحكم بقواها السحرية",
+          "air_date": "2017-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1404851,
+          "tmdb_still_path": "/3V29WNQbIUErUoSZZ8oNZsrjhp7.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "إمبراطور السّحر قد رأى",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pmgcj3mnrx39"
+            }
+          ],
+          "overview": "تصطحب فانيسا أستا ونويل إلى السوق السوداء وهناك تتعرض عجوز للسرقة من قبل لص فيلاحقه أستا. وفي وقت لاحق يذهب يونو في أول مهمة له وفي الطريق يتوقف في قرية هاجي",
+          "air_date": "2017-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1405411,
+          "tmdb_still_path": "/fsNSRC15s3AR4LDLsMoQvSqtsa6.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "إمبراطور السحر قد رأى، تكملة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/utdc8iwubvxl"
+            }
+          ],
+          "overview": "في مهمة مرافقة، يتعرض يونو وكلاوس وميموسا لهجوم من مجموعة مجهولة من الرجال. يشعر كلاوس أنهم في خطر ويحاول إيصال سليم في أسرع وقت، إلّا أنّ هذا الأخير يصر على زيارة قرية يونو",
+          "air_date": "2017-12-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1410602,
+          "tmdb_still_path": "/fCe54JT3DLt75BTA82tTnIbaLwK.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "ديماس",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/knwy7c287snv"
+            }
+          ],
+          "overview": "يظهر ديماس بشكل غامض، فيختار إمبراطور السحر تعيين فريقين لاستكشافه، فريق من الثيران السوداء به أستا وفريق من الفجر الذهبي به يونو",
+          "air_date": "2018-01-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1417303,
+          "tmdb_still_path": "/dTwAmzPDmYgFY8f93vbuMDH3fJb.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "ساحر داياموند",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7vc91dhs1was"
+            }
+          ],
+          "overview": "ينقذ يونو أستا ونويل من موت محقق بينما ينطلق لاك للبحث عن ساحر قوي استشعره ليقاتله",
+          "air_date": "2018-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1417304,
+          "tmdb_still_path": "/lskySJ0ixxB3fEdkfe7y8xbSAqF.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "أصدقاء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/w8uwthblojui"
+            }
+          ],
+          "overview": "بينما يقاتل لاك ساحر داياموند، يهاجم ساحر آخر من داياموند مجموعة يونو عند بوابة غرفة الكنز. وفي وقت لاحق يلتحق أستا ونويل بلاك لمساعدته",
+          "air_date": "2018-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1422908,
+          "tmdb_still_path": "/qFGrOUls64SLs9mxcYbPD7G1kGp.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "مدمّر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/foz1a4xivyw6"
+            }
+          ],
+          "overview": "يونو يقاتل ساحر مملكة داياموند بكل قوته لكن من دون فائدة، سحر يونو لا يؤثر أبدًا، ويونو في ورطة",
+          "air_date": "2018-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1425948,
+          "tmdb_still_path": "/k4AItwytmTFZ7vVOOqbp56fv8l.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "ذكريات عنك",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wzwfqkl6as4x"
+            }
+          ],
+          "overview": "بعد هزيمة أستا لساحر مملكة داياموند، يتجه سحرة مملكة كلوفر إلى غرفة الكنز، لكن الخطر يعود من جديد",
+          "air_date": "2018-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1426194,
+          "tmdb_still_path": "/aLUsnh3kS5jNQ2uKlRBYRYn5Vzr.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "دمار وخلاص",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ye17auy4071t"
+            }
+          ],
+          "overview": "وجه أستا ضربا حاسمة لساحر مملكة داياموند، لكنه تلقى أيضًا إصابة خطيرة، وبينما ميموسا تحاول علاجه بسحره، يعود مارس ليوجه الضربة القاضية",
+          "air_date": "2018-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1432216,
+          "tmdb_still_path": "/oTE2JE8KXDAJGfnboNSSyVap1RA.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "اجتماع في العاصمة الملكية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4tsdcf7dtxfm"
+            }
+          ],
+          "overview": "بعد غزو الديماس، يستيقظ أستا بعد أسبوع من النوم بسبب إصابته الخطيرة، وعندها يخبره قائده أنّ عليه الذهاب لإعطاء تقرير في مقر فرسان السحر، وهناك يجد إمبراطور السحر",
+          "air_date": "2018-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1432217,
+          "tmdb_still_path": "/s0CyH1FCYihQ5blGGGfOKKle9ni.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "ثورة العاصمة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/sd5uh3fvvrkd"
+            }
+          ],
+          "overview": "بينما الأوضاع حامية بين فرسان السحر في حفل توزيع الأوسمة، تتعرض عاصمة مملكة كلوفر إلى هجوم مفاجئ من عدو مجهول",
+          "air_date": "2018-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1432218,
+          "tmdb_still_path": "/gBCfSSH56cOUrBxXzoHF84fV96d.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "رقصة السحر الوحشية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ft99ubyib1qc"
+            }
+          ],
+          "overview": "يصل أستا في الوقت المناسب لإنقاذ الطفلة، وفي تلك الأثناء ينتشر جميع فرسان السحر في المدينة لمحاولة حماية السكان وإيقاف الهجوم",
+          "air_date": "2018-03-06",
+          "runtime": 23,
+          "tmdb_episode_id": 1444656,
+          "tmdb_still_path": "/qafcCaB2VzOoaZEzJktiLks7WR8.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الأسد الملك القرمزي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3jx6doeuxjza"
+            }
+          ],
+          "overview": "يواجه أستا صعوبة كبيرة في مواجهة خصمه الذي يتحكم في الجثث، وفي تلك الأثناء يتدخل أحد قادة فرق فرسان السحر",
+          "air_date": "2018-03-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1444716,
+          "tmdb_still_path": "/2xrQPBM9XRvQ0h5xFmOMnVw3CW0.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "ظلام",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2xkydq6rdurf"
+            }
+          ],
+          "overview": "يتغلب فويغوليون على راديس، ما يساعد بقية فرسان السحر على التغلب على خصومهم في مناطقهم، لكن حينها يظهر سحر غريب من العدم وينال منهم جميعًا",
+          "air_date": "2018-03-20",
+          "runtime": 23,
+          "tmdb_episode_id": 1444717,
+          "tmdb_still_path": "/6YGyGDLZGHpbx8T8OkpxgG28GKv.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "محنة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/odp392rttvlm"
+            }
+          ],
+          "overview": "سحر مكاني يبتلع القائد فويغوليون أمام أستا والبقية. تدرك نويل أنّ صاحب التعويذة في مكان قريب، فيجده أستا، لكن شيئًا لا يصدق يحدث",
+          "air_date": "2018-03-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1461005,
+          "tmdb_still_path": "/vCNvbxpyYjBYWJ0iHxymUfvv2m2.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "وحوش مصابة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ynixcrzp5kfd"
+            }
+          ],
+          "overview": "تصل تعزيزات العدو ويجد أستا نفسه في مأزق ومع ذلك يحاول هو وليوبولد قتالهم رغم تفوق العدو العددي",
+          "air_date": "2018-04-03",
+          "runtime": 23,
+          "tmdb_episode_id": 1464429,
+          "tmdb_still_path": "/jOJLsmDooo11MSUeQRHMXwzN1Wr.jpg"
+        },
+        {
+          "episode": 27,
+          "title": "نور",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jn0gdwhxykvm"
+            }
+          ],
+          "overview": "بعد أخذ عين شمس منتصف الليل لأستا إلى مخبئهم، يجدون شخصًا ما ينتظرهم، وذلك الشخص هو إمبراطور السحر يوليوس الذي ينقذ أستا منهم بقوة لا تصدّق.",
+          "air_date": "2018-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1468454,
+          "tmdb_still_path": "/c91Pd5K7CwwkcHDIxykyA6Iu2vJ.jpg"
+        },
+        {
+          "episode": 28,
+          "title": "الشخص الذي كرست قلبي له",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hnsl56xb4yd6"
+            }
+          ],
+          "overview": "يستعد فينرال لحضور تجمع مختلط للقاء الفتيات، وبعد تفكير طويل يختار اصطحاب أستا ولاك معه. وتبدأ محاولاته للحصول على حبيبة",
+          "air_date": "2018-04-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1472332,
+          "tmdb_still_path": "/vnBti0nmWaecswtnSDj8wdfJzYa.jpg"
+        },
+        {
+          "episode": 29,
+          "title": "طريق",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/q4r1fazldkaf"
+            }
+          ],
+          "overview": "الحلقة عبارة عن ذكريات غوردون ونويل عن أستا وما مروا به معًا في الفرقة وفي المهام التي خاضوها",
+          "air_date": "2018-04-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1477390,
+          "tmdb_still_path": "/4EVBZXZbV4HJYjNXkUsQywC0X07.jpg"
+        },
+        {
+          "episode": 30,
+          "title": "ساحر المرايا",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/x8p0lfi4r9xz"
+            }
+          ],
+          "overview": "يحصل فرسان السحر في فرقة الثيران السوداء على عطلة ويذهب أستا للقاء أشقاء ريبيكا. وهناك يلتقي بماري أخت غوش الذي يغضب كثيرًا للأمر",
+          "air_date": "2018-05-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1481023,
+          "tmdb_still_path": "/f22BYPzFEJa9ApjsmmQAT9KGTj0.jpg"
+        },
+        {
+          "episode": 31,
+          "title": "ملاحقة فوق الثلج",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hfwuf6if7zcc"
+            }
+          ],
+          "overview": "يعلم أستا والبقية بأمر اختفاء الأطفال، ويكتشفون لاحقًا أنّ أحد الأطفال المختفي هي ماري أخت غوش، ويبدأ البحث عنهم",
+          "air_date": "2018-05-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1484640,
+          "tmdb_still_path": "/4fSeA6UL1yDxa2MYmW6KJzaORog.jpg"
+        },
+        {
+          "episode": 32,
+          "title": "البراعم الثلاثية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/69qdzgsysqkw"
+            }
+          ],
+          "overview": "ينجح أستا وغوش والأخت في التغلب على الأخوين، وعند محاولتهم لمساعدة الأطفال يظهر أحد أعضاء عين شمس منتصف الليل الذين هاجموا العاصمة",
+          "air_date": "2018-05-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1489947,
+          "tmdb_still_path": "/4CJ2Ex93jov4YSb6jIn9aNjNw5i.jpg"
+        },
+        {
+          "episode": 33,
+          "title": "لمساعدة أحد ما يومًا ما",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/v8l22x1ibkq5"
+            }
+          ],
+          "overview": "لا حول لسحر غوش أمام سحر سالي، لذا يأخذ أخته ماري ويهرب منها بعد أن استعملت سالي أداة سحر أسود لتحويل بارو إلى وحش طين عملاق.",
+          "air_date": "2018-05-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1494327,
+          "tmdb_still_path": "/lgPOxPFeT9c7OPLxTbdBqMoLNZZ.jpg"
+        },
+        {
+          "episode": 34,
+          "title": "سحر النور ضد سحر الظلام",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zih38n2ilukd"
+            }
+          ],
+          "overview": "بعد حضور قائد عين شمس منتصف الليل وفي اللحظة التي يهاجم فيها أستا، يظهر يامي قائد الثيران السوداء وتبدأ المعركة بين القائدين",
+          "air_date": "2018-05-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1497936,
+          "tmdb_still_path": "/97EwzWeJMIgExiqQfpm1TrcvI0o.jpg"
+        },
+        {
+          "episode": 35,
+          "title": "نور العقاب",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/z0jw86soh0cu"
+            }
+          ],
+          "overview": "تشتد المعركة بين سحر النور الخاص بليخت قائد عين شمس منتصف الليل وسحر الظلام الخاص بيامي، قائد الثيران السوداء، فمن سيفوز؟",
+          "air_date": "2018-06-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1501126,
+          "tmdb_still_path": "/7aVwoJixXXfwDQrYZCmKfx1uhej.jpg"
+        },
+        {
+          "episode": 36,
+          "title": "ثلاثة أعين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/bdrq42wv0wwh"
+            }
+          ],
+          "overview": "...بعد أن هزم غوش ليخت قائد شمس منتصف الليل بتعويذته الرائعة، ينتظر الجميع انتعاش سحر فينرال المكاني لينقلهم إلى المملكة لاستجواب ليخت ورفيقه، ولكن",
+          "air_date": "2018-06-12",
+          "runtime": 23,
+          "tmdb_episode_id": 1504876,
+          "tmdb_still_path": "/40bbQ7PNdsBgn2axrBtlqRoMZXI.jpg"
+        },
+        {
+          "episode": 37,
+          "title": "الشخص الذي لا سحر له",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rcmpwqdphatm"
+            }
+          ],
+          "overview": "بعد أن حضر قادة فرسان السحر، تبدأ معركة حامية بينهم وبين العين الثالثة، وثناء ذلك، ينطلق أستا ويوجه ضربته",
+          "air_date": "2018-06-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1509054,
+          "tmdb_still_path": "/jXAbKGTju1XaKEsk5h8bXMzk6DR.jpg"
+        },
+        {
+          "episode": 38,
+          "title": "اجتماع قادة فرسان السحر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zqveyjapklyp"
+            }
+          ],
+          "overview": "بعد انتهاء المواجهة مع عين شمس منتصف الليل، يعقد قادة فرسان السحر اجتماعًا تحت طلب إمبراطور السحر الذي يطلب حضور أستا",
+          "air_date": "2018-06-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1511583,
+          "tmdb_still_path": "/6YxXjOQfWoh3hnYp21m168tGsBW.jpg"
+        },
+        {
+          "episode": 39,
+          "title": "تحية الورقة الثلاثية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/f02h1bhhhttc"
+            }
+          ],
+          "overview": "يكشف إمبراطور السحر وجود خائن بين قادة فرسان السحر، ما سبب مفاجأة كبيرة لهم، وبعد ذلك يكلّف فرقة الثيران السوداء بمهمة خطيرة جدًّا",
+          "air_date": "2018-07-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1514966,
+          "tmdb_still_path": "/jILMZmhBkAC9aGJBEEmjbOMKnZs.jpg"
+        },
+        {
+          "episode": 40,
+          "title": "قصة شاطئ أسود",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/x9u6jj375rec"
+            }
+          ],
+          "overview": "يتجه أستا وزملاؤه في الثيران السوداء إلى البحر لتفقده قبل دخوله والإتجاه إلى المعبد الذي تحت الماء للبحث عن الحجر السحري",
+          "air_date": "2018-07-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1517794,
+          "tmdb_still_path": "/dpArb9AnKEAjzoNrajPZ8GZhSiQ.jpg"
+        },
+        {
+          "episode": 41,
+          "title": "فتاة الماء تتطور",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6bq3vtdyvn54"
+            }
+          ],
+          "overview": "تحاول نويل التحكم في سحرها لتقلّ الجميع إلى المعبد الذي تحت الماء ليلة اكتمال القمر، وأثناء ذلك تلتقي هي وأستا بفتاة غامضة اسمها كاهونو",
+          "air_date": "2018-07-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1524130,
+          "tmdb_still_path": "/68pxa4X0CsaGFAs5N3T1DNFLEBU.jpg"
+        },
+        {
+          "episode": 42,
+          "title": "المعبد الذي تحت الماء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/sprlrgv6tigi"
+            }
+          ],
+          "overview": "يصل يوم اكتمال القمر وتنطلق الثيران السوداء نحو المعبد الذي تحت الماء بمساعدة تعويذة نويل",
+          "air_date": "2018-07-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1529283,
+          "tmdb_still_path": "/uXzO2MAKRIOGymiKkmiu3sWRRYr.jpg"
+        },
+        {
+          "episode": 43,
+          "title": "معركة المعبد الملكية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/w4y1ehutoghp"
+            }
+          ],
+          "overview": "تبدأ لعبة الكاهن الأكبر التي فرضها على الثيران السوداء ويبدأ كلّ منهم بمواجهة خصومهم من أجل الحصول على حجر السحر",
+          "air_date": "2018-07-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1534524,
+          "tmdb_still_path": "/lJmNtOY4Czho7CHZ6JG6AxxdnNo.jpg"
+        },
+        {
+          "episode": 44,
+          "title": "كرة النّار المباشرة بشكل عديم الجدوى والبرق الهائج",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9zzr13ev50lj"
+            }
+          ],
+          "overview": "يظهر فيتّو، أحد كبار عين شمس منتصف اللّيل أمام ماغنا ولاك، راغبًا في الحصول على حجر السّحر بالقوّة. وفي تلك الأثناء، لا يستطيع يامي الذّهاب إليهم بسبب سحر الكاهن االأكبر.",
+          "air_date": "2018-08-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1541853,
+          "tmdb_still_path": "/eGaDbKUjBMqPJYLi5e78xwixlhL.jpg"
+        },
+        {
+          "episode": 45,
+          "title": "الفتى الذي لا يعرف متى يستسلم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ennfvcdomlre"
+            }
+          ],
+          "overview": "يصل أستا في اللحظة التي يوجه فيه ماغنا ولاك ضربتهما المركبة، وفي مكان آخر يواجه غوش خصمًا قويًّا",
+          "air_date": "2018-08-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1548002,
+          "tmdb_still_path": "/1tfVhMvsBARdK05dRXOfYf4IbdX.jpg"
+        },
+        {
+          "episode": 46,
+          "title": "استفاقة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/chzqv8831kjd"
+            }
+          ],
+          "overview": "تصل نويل وكاهونو في الوقت المناسب لإنقاذ أستا من بين يدي فيتو، وعندها تبدأ معركة بين فيتو وكاهونو وأخيها الذي أيقظته بعدما تلقى ضربة قوية من فيتو",
+          "air_date": "2018-08-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1553830,
+          "tmdb_still_path": "/h5R65RxlaavHyINXrBLMCVhp4ZM.jpg"
+        },
+        {
+          "episode": 47,
+          "title": "السلاح الوحيد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/scfpjv3grgdy"
+            }
+          ],
+          "overview": "قوة فيتو كبيرة للغاية وفاقت كلّ التصورات، نويل وأستا لا يتسطيعان فعل شيء بمفردهما أماما بإصابات أستا واستنفاد نويل لسحرها، وتأتي فانيسا وفينرال للمساعدة",
+          "air_date": "2018-08-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1553831,
+          "tmdb_still_path": "/sudnNR86qmefBMAy86lUi25f1rQ.jpg"
+        },
+        {
+          "episode": 48,
+          "title": "يأس ضد أمل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/uocfg9dj9kam"
+            }
+          ],
+          "overview": "يوحّد أستا وفانيسا وفينرال قواهم وكلّ ما لديهم في مواجة فيتو الذي أيقظ سحره الحقيقي الهائل",
+          "air_date": "2018-09-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1553833,
+          "tmdb_still_path": "/qVxIq5HYOQ9lV5sfvGExTepQitv.jpg"
+        },
+        {
+          "episode": 49,
+          "title": "وراء الحدود",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/t7w90zub2lt3"
+            }
+          ],
+          "overview": "يتابع أستا معركته الصعبة للغاية مع فيتو بمساعدة فانسا وفينرال إضافة إلى مجيء غوش وتشارمي وغراي",
+          "air_date": "2018-09-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1553834,
+          "tmdb_still_path": "/sOALwJjY73JOlmvPnirMFYTo2Mz.jpg"
+        },
+        {
+          "episode": 50,
+          "title": "نهاية المعركة، نهاية اليأس",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ygznyczfzsq6"
+            }
+          ],
+          "overview": "تنتهي المعركة أخيرًا بعض ظهور يامي في آخر لحظة، ويبقى أن يتعافى الثيران السوداء قبل عودتهم إلى السطح",
+          "air_date": "2018-09-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1553835,
+          "tmdb_still_path": "/7wD74CGeOkVvFkaCG9VnYNdqAH2.jpg"
+        },
+        {
+          "episode": 51,
+          "title": "الحلقة 51",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/oa8drz8cn722"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1553836,
+          "tmdb_still_path": "/tlvWEa9av79sLv3iG4wnUYH7nV7.jpg"
+        },
+        {
+          "episode": 52,
+          "title": "الحلقة 52",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jain1pf6g65g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1583951,
+          "tmdb_still_path": "/ytwnXZrEjxASActbNhm7fxYBxAC.jpg"
+        },
+        {
+          "episode": 53,
+          "title": "الحلقة 53",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/b4x9n3b6tpps"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1591329,
+          "tmdb_still_path": "/kZzMUux5MiSO4orwDWWNDOx5Z9k.jpg"
+        },
+        {
+          "episode": 54,
+          "title": "الحلقة 54",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/izzlb1z5v6gd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1595747,
+          "tmdb_still_path": "/zC0VhvhU8qCpZW7Mp7PyMtXmKyQ.jpg"
+        },
+        {
+          "episode": 55,
+          "title": "الحلقة 55",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/neqnxkywb1qm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1601736,
+          "tmdb_still_path": "/34cvG4HHC9uup1KaYOchi7CI0XE.jpg"
+        },
+        {
+          "episode": 56,
+          "title": "الحلقة 56",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qbjagpmsc634"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1607959,
+          "tmdb_still_path": "/fqOrhYR8RSOZEkySSeSsmFANa4K.jpg"
+        },
+        {
+          "episode": 57,
+          "title": "الحلقة 57",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zetfof84a6ia"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1607998,
+          "tmdb_still_path": "/miX63NGwQz8roMPMZ1dKjGZnEzX.jpg"
+        },
+        {
+          "episode": 58,
+          "title": "الحلقة 58",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cb6wvlm1gtpz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1607999,
+          "tmdb_still_path": "/2VjXHRetfQX7KTtwMeXzJmpNyay.jpg"
+        },
+        {
+          "episode": 59,
+          "title": "الحلقة 59",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tut40qf39ix6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1613346,
+          "tmdb_still_path": "/97reQbDmf7Fh5GQAVYbMyfJTYms.jpg"
+        },
+        {
+          "episode": 60,
+          "title": "الحلقة 60",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/eif3yqi2ndz7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1628989,
+          "tmdb_still_path": "/ylNqQ3naDHG9iXA33RhrD2ZZylw.jpg"
+        },
+        {
+          "episode": 61,
+          "title": "الحلقة 61",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/s3z8zgw5pwin"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1634806,
+          "tmdb_still_path": "/aJFuN2bjRiTdiWrO3TcaAdLnTS7.jpg"
+        },
+        {
+          "episode": 62,
+          "title": "الحلقة 62",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/62e56kjlmlp2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1639300,
+          "tmdb_still_path": "/cuMlsSTU6FwaP9OqMunrkqbK08M.jpg"
+        },
+        {
+          "episode": 63,
+          "title": "الحلقة 63",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fnuoxaf4wbqh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1639301,
+          "tmdb_still_path": "/l9vck3EkCbMPBbNg85uQEU9uTK5.jpg"
+        },
+        {
+          "episode": 64,
+          "title": "الحلقة 64",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/t96iylhqx0ic"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1639302,
+          "tmdb_still_path": "/pbEcNdqGtkW3fnEToETnFFtIwNQ.jpg"
+        },
+        {
+          "episode": 65,
+          "title": "الحلقة 65",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/leei1u13juf0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1639303,
+          "tmdb_still_path": "/wznXXtrP2Fib68WhMuLi0bxwORd.jpg"
+        },
+        {
+          "episode": 66,
+          "title": "الحلقة 66",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ph99lv19r4vz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1673387,
+          "tmdb_still_path": "/xc0sKTuYyaLK7xxJuQt2JuhKpX5.jpg"
+        },
+        {
+          "episode": 67,
+          "title": "الحلقة 67",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/km5o7m6g5s9b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1673388,
+          "tmdb_still_path": "/maJslpBLvPiebrmeLUH3PRaPOfu.jpg"
+        },
+        {
+          "episode": 68,
+          "title": "الحلقة 68",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ahoujjf936dj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1673389,
+          "tmdb_still_path": "/8iJBZNECbTGY8My49C4QqhZtWNT.jpg"
+        },
+        {
+          "episode": 69,
+          "title": "الحلقة 69",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mrlidapdwnyw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1673390,
+          "tmdb_still_path": "/rpI9hrw51WVmrafdwyiZU8Aa6Ki.jpg"
+        },
+        {
+          "episode": 70,
+          "title": "الحلقة 70",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/n44adjiv5p3d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1673391,
+          "tmdb_still_path": "/3C0IWHeQQhv005JZCx30KVKifHF.jpg"
+        },
+        {
+          "episode": 71,
+          "title": "الحلقة 71",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/oz3vuy8hlgoq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1710689,
+          "tmdb_still_path": "/2l0W3awVqHNu6ZvMjEy0IlfZUN4.jpg"
+        },
+        {
+          "episode": 72,
+          "title": "الحلقة 72",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fw0adyzo7de6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1710690,
+          "tmdb_still_path": "/5aOxMuzT8GNjqpub8lT4yLVv63p.jpg"
+        },
+        {
+          "episode": 73,
+          "title": "الحلقة 73",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tghxohdzd41r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1710691,
+          "tmdb_still_path": "/y3ATxrLAmtPG1Mr9GqR1nwpUTxM.jpg"
+        },
+        {
+          "episode": 74,
+          "title": "الحلقة 74",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xmos75qo3f3i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1725834,
+          "tmdb_still_path": "/jtsIUmzOtyPZQi7AeQ4tGpD7SW1.jpg"
+        },
+        {
+          "episode": 75,
+          "title": "الحلقة 75",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7ow5q9w612mi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1725835,
+          "tmdb_still_path": "/49Csu7tXP03yqwrlxqu5CE7OSoA.jpg"
+        },
+        {
+          "episode": 76,
+          "title": "الحلقة 76",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2ozz1e3f4zkr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1725836,
+          "tmdb_still_path": "/3ypbkrgCjK8kKCzWzWp0f45PmZb.jpg"
+        },
+        {
+          "episode": 77,
+          "title": "الحلقة 77",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2e1gx57ni3bp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1744670,
+          "tmdb_still_path": "/lYfdIId9uxQ0OJgUY39RGMf8vgd.jpg"
+        },
+        {
+          "episode": 78,
+          "title": "الحلقة 78",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hx5n0pacf73v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1750237,
+          "tmdb_still_path": "/zXNPqIJhgyfQnec0qIdBTozkuQn.jpg"
+        },
+        {
+          "episode": 79,
+          "title": "الحلقة 79",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2papp7lmyemd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1755075,
+          "tmdb_still_path": "/dccJ1Gb9X7u7jK5ox8eMIRxsgT3.jpg"
+        },
+        {
+          "episode": 80,
+          "title": "الحلقة 80",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/nxzuy8nt0swc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1767655,
+          "tmdb_still_path": "/tWTrssrgy2wZfveTPNylBQgiUev.jpg"
+        },
+        {
+          "episode": 81,
+          "title": "الحلقة 81",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/k33u80098v6a"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1767657,
+          "tmdb_still_path": "/eoaG1MsnwJcJSvAd4o5Db1weDr8.jpg"
+        },
+        {
+          "episode": 82,
+          "title": "الحلقة 82",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cf53ev06ja8k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1784521,
+          "tmdb_still_path": "/fjOmOGI8qyVFU5eccjLqkLo2mi4.jpg"
+        },
+        {
+          "episode": 83,
+          "title": "الحلقة 83",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9j2fxqskshm7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1784522,
+          "tmdb_still_path": "/kfWIJLdf1utUS5SLbqO7BK83495.jpg"
+        },
+        {
+          "episode": 84,
+          "title": "الحلقة 84",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/m2lopo6w4dsv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1784523,
+          "tmdb_still_path": "/ssqDBptQyoMGxGTGrGTlMGpW1x6.jpg"
+        },
+        {
+          "episode": 85,
+          "title": "الحلقة 85",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3eqzays4aa1s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1799948,
+          "tmdb_still_path": "/j8036xB728bq3vbigJLak1Z381F.jpg"
+        },
+        {
+          "episode": 86,
+          "title": "الحلقة 86",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pxwep7ogjmlg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1807850,
+          "tmdb_still_path": "/lgeS3Py5sZNI4FqbTvza5PBTxFQ.jpg"
+        },
+        {
+          "episode": 87,
+          "title": "الحلقة 87",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rfwcq4xdhnpv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1811175,
+          "tmdb_still_path": "/zoEYSZe33EBaeyEKa84stxpUONF.jpg"
+        },
+        {
+          "episode": 88,
+          "title": "الحلقة 88",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5uvy07uf3cuj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1823554,
+          "tmdb_still_path": "/usWTUBjToEOQlol469b3Mtt4VeA.jpg"
+        },
+        {
+          "episode": 89,
+          "title": "الحلقة 89",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/kbj5z2je7i6s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1823555,
+          "tmdb_still_path": "/3VXx5JBX1GbVMwsPJIXrqQchpZL.jpg"
+        },
+        {
+          "episode": 90,
+          "title": "الحلقة 90",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xmz4j4vv4n2r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1823556,
+          "tmdb_still_path": "/5fcbB3HVnxqzWnYkqXRMxgjGXWt.jpg"
+        },
+        {
+          "episode": 91,
+          "title": "الحلقة 91",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0b6h8dxwvnmc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1842612,
+          "tmdb_still_path": "/wqrCB7mbOlOWHaSIH0DPn6u8kNG.jpg"
+        },
+        {
+          "episode": 92,
+          "title": "الحلقة 92",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/16t7acgyw3u7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1847224,
+          "tmdb_still_path": "/e8S6xQv7CNmZTAZe4RrleXmHXl6.jpg"
+        },
+        {
+          "episode": 93,
+          "title": "الحلقة 93",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/d8u3nx02ktug"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1853536,
+          "tmdb_still_path": "/xklcUFWRYbRcNdcCL3KmEdus6WJ.jpg"
+        },
+        {
+          "episode": 94,
+          "title": "الحلقة 94",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qua9z9sve6r0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1853537,
+          "tmdb_still_path": "/77KuRmcqU48mkTrgXWsCcCdYxL4.jpg"
+        },
+        {
+          "episode": 95,
+          "title": "الحلقة 95",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mt8jowx4ktqw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1853538,
+          "tmdb_still_path": "/zc6DFHP7vKg0gpnIN8p5jx1O8cQ.jpg"
+        },
+        {
+          "episode": 96,
+          "title": "الحلقة 96",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/f1p5elq3vzbn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1879028,
+          "tmdb_still_path": "/7fhP1cMS3xiFLCDTVyYCu3vWYR1.jpg"
+        },
+        {
+          "episode": 97,
+          "title": "الحلقة 97",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/489pvcli9j2v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1879029,
+          "tmdb_still_path": "/deKEWmFL2zzWq19gtWxKseZBDN1.jpg"
+        },
+        {
+          "episode": 98,
+          "title": "الحلقة 98",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tkx0nrxde18v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1895650,
+          "tmdb_still_path": "/icMR32cRWzS1DLkm0wMKPdklvLH.jpg"
+        },
+        {
+          "episode": 99,
+          "title": "الحلقة 99",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3yvlwxwtrlfe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1916857,
+          "tmdb_still_path": "/jwDMho8AIpscE1cq8ThVsX4H9td.jpg"
+        },
+        {
+          "episode": 100,
+          "title": "الحلقة 100",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8z5h7sd5a4wk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1918124,
+          "tmdb_still_path": "/jYZV70cPPrdev8dmIAqS4ttj1WR.jpg"
+        },
+        {
+          "episode": 101,
+          "title": "الحلقة 101",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qmdcxtddgxyv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1918125,
+          "tmdb_still_path": "/nmxwZ4IkfzdXDtoesVO6oorsoOF.jpg"
+        },
+        {
+          "episode": 102,
+          "title": "الحلقة 102",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dhtcxz79snze"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1918126,
+          "tmdb_still_path": "/6RVcTPx1u8N1udkUZuNRltAwvU6.jpg"
+        },
+        {
+          "episode": 103,
+          "title": "الحلقة 103",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vnvt4y36mbg6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1918127,
+          "tmdb_still_path": "/AdBtD5KQdIDabAhG0cAULzQyE15.jpg"
+        },
+        {
+          "episode": 104,
+          "title": "الحلقة 104",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zm7ofj82erli"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1943230,
+          "tmdb_still_path": "/mm665UsapBErlwzz33BpYPdz5wE.jpg"
+        },
+        {
+          "episode": 105,
+          "title": "الحلقة 105",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dpkuo3hmmnut"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1952843,
+          "tmdb_still_path": "/j5zkv8MbNhXPrzFnnt28fvPAWSN.jpg"
+        },
+        {
+          "episode": 106,
+          "title": "الحلقة 106",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/evh26exvs1pg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1952844,
+          "tmdb_still_path": "/kMaFdEcxYujKYyEhtkQtofucecs.jpg"
+        },
+        {
+          "episode": 107,
+          "title": "الحلقة 107",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/40s00qx23pa4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1952845,
+          "tmdb_still_path": "/7xyrmZLalMqhlakLm8qBEaWN6PX.jpg"
+        },
+        {
+          "episode": 108,
+          "title": "الحلقة 108",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/sb0m4codlxju"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1952846,
+          "tmdb_still_path": "/loCKQ5Mj1LZlSCQdLXSU9OdY0LD.jpg"
+        },
+        {
+          "episode": 109,
+          "title": "الحلقة 109",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7prbgmfm3s9l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1979402,
+          "tmdb_still_path": "/loA8H9kAmMr6guUZq5AE37U3iaL.jpg"
+        },
+        {
+          "episode": 110,
+          "title": "الحلقة 110",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/iozu4njhrbly"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1987662,
+          "tmdb_still_path": "/l8uA3Oj2HgxvUeEKYUnNHDmQlSf.jpg"
+        },
+        {
+          "episode": 111,
+          "title": "الحلقة 111",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/d7b362l6bxhh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1994365,
+          "tmdb_still_path": "/fv4FjqLvjMTXKmiaPWqn97xbiCQ.jpg"
+        },
+        {
+          "episode": 112,
+          "title": "الحلقة 112",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/l6e84ppb4lzn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2002447,
+          "tmdb_still_path": "/5l9Dtb32ylV0VoNhIromSo7Y9rs.jpg"
+        },
+        {
+          "episode": 113,
+          "title": "الحلقة 113",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/98gu32miswqy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2004000,
+          "tmdb_still_path": "/4L7IQoPcGqoggrkgNJumgkVNmUi.jpg"
+        },
+        {
+          "episode": 114,
+          "title": "الحلقة 114",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1vx1p731caaa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2004001,
+          "tmdb_still_path": "/sNQU4dHGEc8WTxDZVAf1d3WUzrL.jpg"
+        },
+        {
+          "episode": 115,
+          "title": "الحلقة 115",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ymxsvwsgjwue"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-24",
+          "runtime": 24,
+          "tmdb_episode_id": 2004002,
+          "tmdb_still_path": "/bnnLEqmRFS7FFJEpKwa0AbnnL9a.jpg"
+        },
+        {
+          "episode": 116,
+          "title": "الحلقة 116",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/s0aqjqrms5nm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2004003,
+          "tmdb_still_path": "/68qCFuEYeF5bjKH4ukOk8noXAGt.jpg"
+        },
+        {
+          "episode": 117,
+          "title": "كسر الختم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ydgn6mr4abo0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2047005,
+          "tmdb_still_path": "/pArp92rlvtsH0ih0A80zhqY7IXP.jpg"
+        },
+        {
+          "episode": 118,
+          "title": "لقاء عبر الزمان والمكان",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/h9v3lpzkiska"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2048821,
+          "tmdb_still_path": "/s8WX6jC0kV8wLtrS64FvMLTtsgr.jpg"
+        },
+        {
+          "episode": 119,
+          "title": "الهجوم الأخير",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/sbs7qdezy7kf"
+            }
+          ],
+          "overview": "يستمر القتال مع الشيطان، ويحاول أستا استعمال قواه لتشكيل هجوم جديد يستطيع تنفيذه وحده، وفي تلك الأثناء يونو أيضًا يقوم بشيء يدهش ليخت وإمبراطور السحر. وفي مكان آخر، يريد يامي المساعدة بشكل ما",
+          "air_date": "2020-01-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2058051,
+          "tmdb_still_path": "/oE9WkCeWswjxSuBxj0O4RT5GrtP.jpg"
+        },
+        {
+          "episode": 120,
+          "title": "فجر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wuzukdwsdq3o"
+            }
+          ],
+          "overview": "بعد توجيه الضربىة القاضية للشيطان، يحاول فرسان السحر والإلف الهرب من قصر الظلال والخروج منه كي لا يلتهمهم سحر الشيطان",
+          "air_date": "2020-02-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2058052,
+          "tmdb_still_path": "/bnduzMHztL0iucZjvV5paVlIsSB.jpg"
+        },
+        {
+          "episode": 121,
+          "title": "ثلاث مشاكل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xdvw85zjrixc"
+            }
+          ],
+          "overview": "يتفاجأ يامي بظهور إمبراطور السحر يوليوس نوفاكرونو الذي رآه يموت أمام عينيه. يشرح هذا الأخير ما حدث وسبب نجاته، ثم يخبر البقية فيما بعد بوجود ثلاث مشاكل خطيرة",
+          "air_date": "2020-02-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2070839,
+          "tmdb_still_path": "/jV9HP2ojHs03X84cZYDV4OrirlY.jpg"
+        },
+        {
+          "episode": 122,
+          "title": "أحلك سواد ممكن",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5xwn8m0o0pyd"
+            }
+          ],
+          "overview": "يحاول دامناتيو كيرا إلقاء اللوم على أستا من أجل التضحية به لإنقاذ فرسان السحر، لكن في تلك الأثناء يظهر يامي ومعه باقي أفراد الثيران السوداء، ويبدو أنّ لهم رأيًا آخر.",
+          "air_date": "2020-02-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2165233,
+          "tmdb_still_path": "/sEjpXcSix7iyKvh44D8P45Ph9B8.jpg"
+        },
+        {
+          "episode": 123,
+          "title": "نيرو تتذكر... الجزء الأول",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/x2n03xvkg6g0"
+            }
+          ],
+          "overview": "نيرو تتذكر ما حدث قبل 500 بينها وبين لوميير وكذلك الأحداث التي أدت إلى ظهور الشيطان",
+          "air_date": "2020-02-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2173598,
+          "tmdb_still_path": "/f6cO8OLv0AwCpmFPk9XZz5kc4db.jpg"
+        },
+        {
+          "episode": 124,
+          "title": "نيرو تتذكر... الجزء الثاني",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9m1xflgd9lmw"
+            }
+          ],
+          "overview": "نيرو تتذكر ما حدث بعد تحولها لطائر ولقاءها بأستا لأول مرة وما حدث إلى أن عاد الشيطان من جديد وهزيمتهم له في النهاية",
+          "air_date": "2020-03-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2179680,
+          "tmdb_still_path": "/7HCCZixPnPmg5pTAJJVyOqTrZJ8.jpg"
+        },
+        {
+          "episode": 125,
+          "title": "عودة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0gmb0th5aj2v"
+            }
+          ],
+          "overview": "يعود أفراد الثيران السوداء إلى موقع مقرهم، لكنهم يكتشفون وجود مشكلة عليهم حلها في الحال",
+          "air_date": "2020-03-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2179681,
+          "tmdb_still_path": "/4GlM3Ywt0mYRWTUYMEsKICBsQVT.jpg"
+        },
+        {
+          "episode": 126,
+          "title": "اعتراف الوردة الزرقاء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qeulh3p1nt3o"
+            }
+          ],
+          "overview": "يذهب يامي وأستا إلى قائدة فرسان الوردة الزرقاء للسؤال عن لعنتها من أجل بعض الدلائل عن الشياطين",
+          "air_date": "2020-03-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2191621,
+          "tmdb_still_path": "/yQgIz0OTokG155Z2jXmWoUvp03u.jpg"
+        },
+        {
+          "episode": 127,
+          "title": "دلائل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/shnw1g9yliug"
+            }
+          ],
+          "overview": "يتجه أستا مع غوش وغراي وغوردون إلى منزل عائلة غوردون لسؤالهم عن السحر المحظور والشياطين، وفي تلك الأثناء تتجه نويل للعاصمة الملكية لاكتشاف سرّ يخصّ موت أمّها",
+          "air_date": "2020-03-24",
+          "runtime": 24,
+          "tmdb_episode_id": 2194967,
+          "tmdb_still_path": "/f2bUcumTMBLQLxjWbKpDrpb1o46.jpg"
+        },
+        {
+          "episode": 128,
+          "title": "إلى مملكة هارت",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7sfv2nee1d77"
+            }
+          ],
+          "overview": "يعود أستا إلى مقر الثيران السوداء ويخبر يامي بما اكتشفوه، ثم يتجهون إلى مقر الفجر الذهبي للقاء ميموزا التي تعرف طريقة لدخول مملكة هارت بشكل قانوني",
+          "air_date": "2020-03-31",
+          "runtime": 24,
+          "tmdb_episode_id": 2203432,
+          "tmdb_still_path": "/uW3FPMxZlndqKENTtJIKSo6ikzZ.jpg"
+        },
+        {
+          "episode": 129,
+          "title": "الشيطان ميغيكولا",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rw4j0fb0wnxx"
+            }
+          ],
+          "overview": "يلتقي أستا بالملكة لوروبيتشكا التي لعنها شيطان من ممكلة سبيد. ذهبت فانيسا وماغنا ولاك للتحقيق في أمر مملكة دياموند ليجدوها مدمرة",
+          "air_date": "2020-04-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2206961,
+          "tmdb_still_path": "/gGxgx8kLcN6Ns3W2G65SCFb2qlx.jpg"
+        },
+        {
+          "episode": 130,
+          "title": "اجتماع قادة فرق فرسان السحر الجديد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0pc2qk0zl17i"
+            }
+          ],
+          "overview": "يجتمع قادة فرق فرسان السحر مع إمبراطور السحر لنقاش ما سيقومون به لمواجهة الشيطان ميغيكولا ومملكة سبيد",
+          "air_date": "2020-04-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2223054,
+          "tmdb_still_path": "/f8JMOsn0AnmKZLou1tqRRbMMG9k.jpg"
+        },
+        {
+          "episode": 131,
+          "title": "عزيمة جديدة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tgazpo84x9h8"
+            }
+          ],
+          "overview": "يعود أستا ويونو إلى قرية هاجي لزيارة أهلهما والاطمئنان على القرية والتغييرات التي طرأت عليها",
+          "air_date": "2020-04-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2235240,
+          "tmdb_still_path": "/4BTSm1JUaz2Ly1mw4hlXYH4ryWP.jpg"
+        },
+        {
+          "episode": 132,
+          "title": "استفاقة الأسد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6ro28iwhiiqq"
+            }
+          ],
+          "overview": "تأتي القائدة ميريوليونا إلى مقر الثيران السوداء فجأة وتأخذهم من جديد إلى منطقة السحر القوة بركان يولتيم، لكن هذه المرة بتدريب جديد",
+          "air_date": "2020-04-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2243834,
+          "tmdb_still_path": "/9R7oLI05RJqZiLuwoJwpaIH7vqo.jpg"
+        },
+        {
+          "episode": 133,
+          "title": "استفاقة الأسد، تتمة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/65nuzgjn73mr"
+            }
+          ],
+          "overview": "بعد عثورهم على الديماس السري في الكهف البركاني، يدخل فريق للبحث عن أداة سحرية قوية في أعماقه.",
+          "air_date": "2020-07-07",
+          "runtime": 24,
+          "tmdb_episode_id": 2251966,
+          "tmdb_still_path": "/E9CJOfuGRh4WHPnY7zEtfPPXJ3.jpg"
+        },
+        {
+          "episode": 134,
+          "title": "المجتمعون",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ordq0vyz1tbv"
+            }
+          ],
+          "overview": "تأخذ ميريوليونا أستا ونويل معها إلى منزلها من أجل اجتماع بينهم وبين فويغوليون وميموزا وأخ ميموزا، وسبب الاجتماع هو القيام بشيء سيؤثر على مستقبل المملكة بأسرها",
+          "air_date": "2020-07-14",
+          "runtime": 24,
+          "tmdb_episode_id": 2341247,
+          "tmdb_still_path": "/wrmRkkBlhM3WxSX00rWh2UZA0i7.jpg"
+        },
+        {
+          "episode": 135,
+          "title": "الشخص الذي يملك قلبي وعقلي وروحي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ekgy6nzprk7w"
+            }
+          ],
+          "overview": "بعد عودتهم من التدريب، أستا يشر بتعب كبير، وفينرال يخبره أنّه ملعون أيضًا ويريد التدرب ليسصبح أقوى ويتخطى لعنته، وأستا يساعده في ذلك",
+          "air_date": "2020-07-21",
+          "runtime": 24,
+          "tmdb_episode_id": 2351254,
+          "tmdb_still_path": "/zJpLrkcGZ8kVAyZerDD9H8jJXTb.jpg"
+        },
+        {
+          "episode": 136,
+          "title": "قصة بحر عميق أسود",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tq2lbza1s4ap"
+            }
+          ],
+          "overview": "يذهب الثيران السوداء إلى راكوي للتدرب والاستعداد لمواجهة الشياطين، لكن في تلك الأثناء تأتي كاهونو وأخوها كياتو طلبًا للمساعة في مشكلة في المعبد الذي تحت الماء",
+          "air_date": "2020-07-28",
+          "runtime": 24,
+          "tmdb_episode_id": 2360167,
+          "tmdb_still_path": "/mZyop7dvG1aRkteDZE4P4X3cC9H.jpg"
+        },
+        {
+          "episode": 137,
+          "title": "قرن تشارمي من الجوع، ألفية غوردون من الوحدة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4dtn620knxbr"
+            }
+          ],
+          "overview": "تريد تشارمي إعداد طعام يعزّز المانا بشكل كبير للغاية، لذا تلجأ لأحد الطباخين كي تتعلم منه. يشعر غوردون أنّه أصبح ضعيفًا وفقد قوته التي كانت لديه عندما كان وحيدًا، فيقرر الانعزال مجدّدًا كي يستعيد قوته",
+          "air_date": "2020-08-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2369665,
+          "tmdb_still_path": "/f8M13K7Q7lcVTiXLCbE2yfji61V.jpg"
+        },
+        {
+          "episode": 138,
+          "title": "على خطى زارا",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zh511y6wkhes"
+            }
+          ],
+          "overview": "يخرج زورا في رحلة للتدرب ويعود إلى دياره، وهناك يلتقي طفلًا يتدرب على السحر يذكره بطفولته",
+          "air_date": "2020-08-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2377168,
+          "tmdb_still_path": "/iS3knHEdsDGN48QEL9py29gLPqW.jpg"
+        },
+        {
+          "episode": 139,
+          "title": "عودة مشعوذة لديارها",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ppbua4i8ini8"
+            }
+          ],
+          "overview": "تفكر فانيسا أيضًا في طريقة للرفع من قوة سحرها وسحر رفاقها للمساعدة في المعركة أمام مملكة سبيد والشيطان، فتجد نفسها أما خيار واحد، وهو العودة إلى غابة المشعوذات",
+          "air_date": "2020-08-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2385984,
+          "tmdb_still_path": "/stNsLfhpE10YKNRbhNE1xVfh3m9.jpg"
+        },
+        {
+          "episode": 140,
+          "title": "معروف ليوليوس",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/uyop9q3dqnmi"
+            }
+          ],
+          "overview": "يتدرب أستا ونويل لكي يصبحا أقوى لقتال الشيطان، لكن تأتي سالي من أجل إجراء تجاربها، وفي تلك الأثناء يرسل يوليوس نوزيل وفوغولين للتحري في قرية من المنطقة المهجورة",
+          "air_date": "2020-08-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2399045,
+          "tmdb_still_path": "/z9a1oQ4hglBU1pH8N2lUjgr1Ca2.jpg"
+        },
+        {
+          "episode": 141,
+          "title": "العائلة الذهبية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/b1ey7f93tt7f"
+            }
+          ],
+          "overview": "يقوم يونو بمهمات متتالية من أجل فرقته الفجر الذهبي، ويتذكر ما قاله له أستا في صغرهما عن معاملة الأصدقاء وكأنهم عائلة نظرًا لعدم وجود عائلة حقيقية لهما",
+          "air_date": "2020-09-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2403789,
+          "tmdb_still_path": "/5iANyfgVlGr1Ahi3KFE4cwNxJwQ.jpg"
+        },
+        {
+          "episode": 142,
+          "title": "المتبقون",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9ik7tcmitkd5"
+            }
+          ],
+          "overview": "في الوقت الذي يتدرب فيه جميع أفراد الثيران السوداء بما فيهم أستا للاستعداد للتهديد القادم من مملكة سبيد، هناك مجموعة تريد الانتقام لضحايا هجوم عين شمس منتصف الليل عن طريق اختطاف خادمي الشيطان",
+          "air_date": "2020-09-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2410692,
+          "tmdb_still_path": "/dLZGzbVfolmJTEMpA0Xq9I8Ezvt.jpg"
+        },
+        {
+          "episode": 143,
+          "title": "الميزان المائل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5l67iqu6ujcx"
+            }
+          ],
+          "overview": "بعد اختطاف مجموعة طاردي الشيطان لماري ونيرو، يسرع غوش من أجل إنقاذ أخته بعد أن شك في تورط دامناتيو بالأمر. وفي نفس الوقت يحضر يامي أيضًا إلى مكان دامناتيو",
+          "air_date": "2020-09-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2419493,
+          "tmdb_still_path": "/gD1ugZDbcxGXtJS26xPscQ5z4G7.jpg"
+        },
+        {
+          "episode": 144,
+          "title": "من يتمنون هلاك الشيطان",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cd4pyqfesk6q"
+            }
+          ],
+          "overview": "يبحث فرسان السحر عن ماري ونيرو لكن من دون جدوى، حيث تكتشف مجموعة طاردي الشيطان أمر أداة التعقب السحرية ويضللون فرسان السحر بها",
+          "air_date": "2020-09-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2428887,
+          "tmdb_still_path": "/6Wiua7FCQEWTzEfVCO46Ut8SSW2.jpg"
+        },
+        {
+          "episode": 145,
+          "title": "إنقاذ",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/srd5w0grgu6z"
+            }
+          ],
+          "overview": "تجتمع فرق فرسان السحر من أجل محاولة إنقاذ نيرو وماري من قبضة طاردي الشيطان، فيما تحاول المجموعة الأخيرة استدراج أستا من أجل الإمساك به.",
+          "air_date": "2020-09-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2435957,
+          "tmdb_still_path": "/dSVtWc78EEwNDPzKuEYewaUWpU9.jpg"
+        },
+        {
+          "episode": 146,
+          "title": "الذين يعبدون الشيطان",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wylz2xkfycji"
+            }
+          ],
+          "overview": "يبدأ فرسان السحر في فرقة الثيران السوداء يبحثون ويلاحقون المؤمنين بالشيطان الذين يريدون أخذ نيرو إلى مملكة سبيد والانضمام للشيطان",
+          "air_date": "2020-10-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2448652,
+          "tmdb_still_path": "/p8YxGiLdJIcaaapfXTbn6g29lE8.jpg"
+        },
+        {
+          "episode": 147,
+          "title": "مستعدون للموت",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ugrna7pnz5s4"
+            }
+          ],
+          "overview": "يلحق أخيرًا أستا وماغنا ونويل بالمؤمنين بالشيطان ويتفاجؤون من عددهم الهائل، وبينما يذهب ماغنا لإحضار التعزيزات، يحاول أستا إقناع المؤمنين بالشيطان بالعدول عن قرارهم والعودة",
+          "air_date": "2020-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2448653,
+          "tmdb_still_path": "/sUiSd6heNKdSvbzHGfAxqbV11yN.jpg"
+        },
+        {
+          "episode": 148,
+          "title": "الناس الذين في الخفاء هم أكثر من علينا حمايتهم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dvosr7wwg7bp"
+            }
+          ],
+          "overview": "يصل القائد يامي قبل عبور المؤمنين بالشيطان للحدود ويحاول التحدث إليهم لكنّهم يرفضون. بعد ذلك بوقت قصير، يصل كلّ من قائدي النسور الفضية والأسود الملوك القرمزية",
+          "air_date": "2020-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2448654,
+          "tmdb_still_path": "/fjRYVXMY4cxKt9n51eXQ3bzfsPu.jpg"
+        },
+        {
+          "episode": 149,
+          "title": "الحلقة 149",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mml0rx7tjxp7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2448655,
+          "tmdb_still_path": "/A2JuVUwzf1jikwJ9NMxv28gIenw.jpg"
+        },
+        {
+          "episode": 150,
+          "title": "الحلقة 150",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/flwt12nc58la"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2489775,
+          "tmdb_still_path": "/nZrnDYDJP9MLg4vYdAFjoBY5Rw5.jpg"
+        },
+        {
+          "episode": 151,
+          "title": "الحلقة 151",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fq2lshjto6vi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 2489776,
+          "tmdb_still_path": "/opY5I9TLW03gBeXu2Dta5ENMsSd.jpg"
+        },
+        {
+          "episode": 152,
+          "title": "الحلقة 152",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/p9f46w3nkrmi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 2489777,
+          "tmdb_still_path": "/vKbCWnSD9POhe3QWQM4wsz50Xdw.jpg"
+        },
+        {
+          "episode": 153,
+          "title": "الحلقة 153",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/yvxd74j98k4c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-11-24",
+          "runtime": 24,
+          "tmdb_episode_id": 2489778,
+          "tmdb_still_path": "/vwtlbFuicpm9Ao0oP4GUKBe1xZh.jpg"
+        },
+        {
+          "episode": 154,
+          "title": "الحلقة 154",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/sk4034lrpyl3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2538179,
+          "tmdb_still_path": "/iVGVjSGocFtSceWy3fXgQ4X8A8E.jpg"
+        },
+        {
+          "episode": 155,
+          "title": "الحلقة 155",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tk8tfjqk08uu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2548976,
+          "tmdb_still_path": "/hpMz7qepTm6ilWvEfyXyVVKxpSt.jpg"
+        },
+        {
+          "episode": 156,
+          "title": "الحلقة 156",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/gk2hze9idyxd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2550301,
+          "tmdb_still_path": "/qaSFZ0XqwQUZpagVwXGGvNPRV3M.jpg"
+        },
+        {
+          "episode": 157,
+          "title": "الحلقة 157",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rg678qtvef6e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-12-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2550302,
+          "tmdb_still_path": "/yJYbPhc2i4aMECGTEiQmxylb7xd.jpg"
+        },
+        {
+          "episode": 158,
+          "title": "الحلقة 158",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vt4y6xag99n1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2590571,
+          "tmdb_still_path": "/7nNYcOMham20GI01Y0BsRllN49X.jpg"
+        },
+        {
+          "episode": 159,
+          "title": "الحلقة 159",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0oh321qa7w2v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2618204,
+          "tmdb_still_path": "/oIm40cgTNGzPT5pNJRQbnKBc6gq.jpg"
+        },
+        {
+          "episode": 160,
+          "title": "الحلقة 160",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/gpt8rclvgm6j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2618250,
+          "tmdb_still_path": "/8k592OBIXuWCaoXs9W2cSMF8jmU.jpg"
+        },
+        {
+          "episode": 161,
+          "title": "الحلقة 161",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2sspk5nrzub6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2634982,
+          "tmdb_still_path": "/gUqHBLy1VEVqIvi6028CcteW9Hk.jpg"
+        },
+        {
+          "episode": 162,
+          "title": "الحلقة 162",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/nd7t6phjaxtj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2639536,
+          "tmdb_still_path": "/eY8LuM46YCOqokARAx5qPfQPW6f.jpg"
+        },
+        {
+          "episode": 163,
+          "title": "الحلقة 163",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5f7bw70dpjj1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2639537,
+          "tmdb_still_path": "/6ANoBurvklREeTprTZpQguEULV6.jpg"
+        },
+        {
+          "episode": 164,
+          "title": "الحلقة 164",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/86c7x2fuqu0x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2696187,
+          "tmdb_still_path": "/eQiaPuUuw1MmTN1qJvU6YfVh1DW.jpg"
+        },
+        {
+          "episode": 165,
+          "title": "الحلقة 165",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0oish6ql9cry"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2696188,
+          "tmdb_still_path": "/c9wA9WZpGunkrnfbtCkufKPLVd7.jpg"
+        },
+        {
+          "episode": 166,
+          "title": "الحلقة 166",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3eoeajn7bn2l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2701436,
+          "tmdb_still_path": "/5uaf2gPmaKRrUcdZs03fbk07BmT.jpg"
+        },
+        {
+          "episode": 167,
+          "title": "الحلقة 167",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wdv3oepisxv9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2701437,
+          "tmdb_still_path": "/k1S7G5hJjQpbes99ZwjcBXyQtBY.jpg"
+        },
+        {
+          "episode": 168,
+          "title": "الحلقة 168",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4qkq4l68n8p5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2701438,
+          "tmdb_still_path": "/kgabVYAX1KvaMV9Hy0N0Wp6cn0c.jpg"
+        },
+        {
+          "episode": 169,
+          "title": "الحلقة 169",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/473rso3tczu9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2701439,
+          "tmdb_still_path": "/dhjRfk9fFPaHREMHQzoVfRXP1JL.jpg"
+        },
+        {
+          "episode": 170,
+          "title": "الحلقة 170",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8biewi0ivpw4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2701440,
+          "tmdb_still_path": "/ceVorBj8hp6RFF8ez3fcFEVgwr5.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور القصة في عالم السحرة وبطلها هو فتى يطمح أن يكون الأفضل في هذا المجال ولكنه يفتقر للقدرة. يحصل في يوم من الأيام على كتاب تعويذات ليحصنه من التعاويذ السحرية.",
+  "url": "/anime/black-clover",
+  "story": "تدور القصة في عالم السحرة وبطلها هو فتى يطمح أن يكون الأفضل في هذا المجال ولكنه يفتقر للقدرة. يحصل في يوم من الأيام على كتاب تعويذات ليحصنه من التعاويذ السحرية.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Gakuto Kajiwara، Nobunaga Shimazaki، Kana Yuuki، Junichi Suwabe، Genki Muro، Ayumu Murase",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "QwNWY6z93O4",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Black Clover",
+    "mainDescription": "تدور القصة في عالم السحرة وبطلها هو فتى يطمح أن يكون الأفضل في هذا المجال ولكنه يفتقر للقدرة. يحصل في يوم من الأيام على كتاب تعويذات ليحصنه من التعاويذ السحرية.",
+    "metaDescription": "Black Clover أنمي 2017 | تدور القصة في عالم السحرة وبطلها هو فتى يطمح أن يكون الأفضل في هذا المجال ولكنه يفتقر للقدرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Black Clover من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/73223"
+    }
+  },
+  "tmdb_id": 73223,
+  "tmdb_url": "https://www.themoviedb.org/tv/73223",
+  "original_title": "ブラッククローバー"
+}

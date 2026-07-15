@@ -1,0 +1,519 @@
+{
+  "slug": "dandadan",
+  "clean_title": "Dandadan",
+  "raw_name": "انمي Dandadan",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dandadan.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "لعلمك، هكذا يبدأ الحب!",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7721858435782"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aSRplgXKprYBVPjf"
+            },
+            {
+              "id": 3,
+              "label": "playerwish",
+              "url": "https://playerwish.com/e/i8fw71lczk64"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7721866889926"
+            },
+            {
+              "id": 5,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/viks34gr3xyj"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7721876523718"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=V8TY1kibJMRNCcXp"
+            },
+            {
+              "id": 8,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/s5hjqys2u3kw"
+            }
+          ],
+          "overview": "تؤمن طالبة المرحلة الثانوية \"مومو\" بوجود الأشباح وليس الكائنات الفضائية. وفي أحد الأيام، تدخل في جدال مع زميل لها في الصف مهووس بالأجسام الطائرة المجهولة ويشك في وجود الأرواح.",
+          "air_date": "2024-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4952807,
+          "tmdb_still_path": "/bmVsa3oLgAd26YNJOPjJ4QgWY08.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "هذا مخلوق فضائي، صحيح؟",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bd9Or2mEao2MSQ8V"
+            },
+            {
+              "id": 2,
+              "label": "hlswish",
+              "url": "https://hlswish.com/e/m1iiyouutezj"
+            },
+            {
+              "id": 3,
+              "label": "hlswish - SD",
+              "url": "https://hlswish.com/e/oznpxbwznvnk"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=71PaBVpsAKYFBJrj"
+            },
+            {
+              "id": 5,
+              "label": "hlswish - FHD",
+              "url": "https://hlswish.com/e/u0zums61jmfa"
+            }
+          ],
+          "overview": "تقوم \"مومو\" بجلب \"كين\" إلى منزلها، وتقرر أن تسميه \"أوكارون\"، ولكن ثمة كائنًا فضائيًا ضخمًا يظهر ويهاجمهما فجأة.",
+          "air_date": "2024-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 5001692,
+          "tmdb_still_path": "/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "اشتباك الجدتين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=paWDV2PCnfCZOwaw"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/aqgzknspxfo0"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/c4uf4pedrvuq"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tGQgTVXtib8um6GJ"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/aq80pmcyo8vs"
+            }
+          ],
+          "overview": "بعد أن قمعت جدّة \"مومو\" الروح الشريرة التي تتلبّس \"أوكارون\" مؤقتًا، تدّعي أن لعبة المطاردة قد تكون هي أفضل وسيلة لهزيمتها إلى الأبد.",
+          "air_date": "2024-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 5522037,
+          "tmdb_still_path": "/mM7WAhNZyXO0axLZ0FGhNIwY5Xv.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "مهاجمة الجدة تربو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pGNNHfOdIE32fXgB"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/jy5jgvoe164e"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/7vs8saryqn0m"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AuvkDcKchbTeMJqm"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/ywo5sv5emdgx"
+            }
+          ],
+          "overview": "يصل \"أوكارون\" و\"مومو\" إلى النفق لمواجهة الجدة \"تربو\"، وما إن يظنان أنهما فازا، حتى تصطدم روح سلطعون عملاقة بالجدار.",
+          "air_date": "2024-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 5522039,
+          "tmdb_still_path": "/eTbwdeKsf7MV3Lj73F1VRQHfx80.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "أين خصيتاك؟",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=i8oXSbyGcvbrE4lh"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/jz0b4rp227s1"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/0yj0sa2242ao"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0asZcggAuWkQNi3T"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/wak3uno1ey7m"
+            }
+          ],
+          "overview": "في المدرسة، يحاول أوكارون التّساؤل حول كيفيّة التّعامل مع أياسي ويقارع عقدته النّفسيّة، بينما أياسي شاردة وتتعجّب من كآبة أوكارون. وبينما هما شاردان في فِناء المدرسة، يصطدمان ببعضهما ليُساء فهمهما على أنّهما يًقبّلان بعضهما الآخر، الأمر الّذي يُربك أياسي. في دورة المياه، يكتشف أوكارون بأنّ خصيتيه غير موجودتين! فيُسارع لإخبار أياسي ويتوجّهان معاً إلى جدّة أياسي لتكتشف بأنّ روح العجوز تاربو ما زالت تسكن جسد أوكارون.",
+          "air_date": "2024-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 5522040,
+          "tmdb_still_path": "/s5JwTxygUTK9n3DuUyLqMaiJ2YZ.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "وصول امرأة خطيرة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2wc9r5D60ICAWDF2"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/uxezg2xbf6bk"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/unehrsr9i7c9"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=K8c8xynK8vVUMwPv"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/bvgizqe9j5mb"
+            }
+          ],
+          "overview": "يستمرّ أوكارون وأياسي في البحث عن خصيتَي أوكارون المفقودتين. تخبرهما العجوز تاربو بأنّهما على هيئة كرة ذهبيّة وربّما يكون هناك من وجدهما في الأرض والتقطهما. تنشر آيرا إشاعة عن مومو أياسي وتعتقد بأنّها شيطانة ويجب القضاء عليها وبأنّ السّماء اختارتها وكلّفتها بهذه المهمّة بعد أن سقطت عليها كُرة ذهبيّة والّتي هي خصية أوكارون المفقودة. آيرا تطلب من مومو أن تتكلّم معها على انفراد لتأخذها إلى مكان وتهاجمها مع صديقتيها فإذا بامرأة عجوز غريبة تهاجم آيرا تُدعى حرير البهلوانيّة!",
+          "air_date": "2024-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5522043,
+          "tmdb_still_path": "/lcv6jNytD27nnf7xlJYvYbG8gTo.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "نحو عالم ألطف",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WFi8QwqTdVu6oYiY"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swishsrv.com/e/msu1cu7ztfx0"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swishsrv.com/e/fh5c4rrkxhrq"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hNQv3TipBiuKf5d8"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swishsrv.com/e/dtm0a1h4p5r1"
+            }
+          ],
+          "overview": "لاستعادة آيرا، حرير البهلوانيّة تهاجم أوكارون وأياسي عبر المتاهة المعقّدة مستخدمة حركاتها البهلوانيّة وشعرها الطّويل. تستخدم أياسي خطّة لإيقاع حرير البهلوانيّة في فخّ وذلك بجعل شعرها يتشابك مع الأشياء المُحيطة وتثبيتها مكانها. تاربو تخبرهما بأنّ آيرا قد ماتت. حرير البهلوانيّة تقول بأنّ السّبيل الوحيد لإنعاشها هو دمج هالتها مع هالة آيرا المُضمحلّة. هل تتمكّن أياسي بقواها النفسيّة من فعل ذلك وإعادة آيرا إلى الحياة؟ يتمّ رفع السّتار عن ماضي حرير البهلوانيّة المؤلم.",
+          "air_date": "2024-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5585812,
+          "tmdb_still_path": "/cgjVqy43CAnHyOQSdNMoICiRGFk.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "راودني هذا الإحساس الغريب",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eloxKxDHTqY5Nnyh"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swishsrv.com/e/qfd9yiovxin7"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swishsrv.com/e/8427dn0he3n1"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iiFdELgJopismRn7"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swishsrv.com/e/tc6f7clx7oqb"
+            }
+          ],
+          "overview": "أياسي تُصادف أوكارون في فناء خلفيّ من المدرسة وهو فوق آيرا المستلقية تحته. يُساء فهم أوكارون والّذي كان يتمرّن ليصبح أقوى قبل أن تتطفّل عليه آيرا. في وقت لاحق وبينما أياسي مضطربة في صفّها، يخيّم الظلّام حول المدرسة ويصبح كلّ شيء حالكاً ويختفي الجميع فتبقى أياسي لوحدها قبل أن يحاصرها الدّيناصور نيسّي. بينما في مكان آخر من المدرسة، يشنّ السيربونيّون هجوماً على أوكارون وآيرا.",
+          "air_date": "2024-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5585813,
+          "tmdb_still_path": "/27ljA0RrrnK5OQ3AvnorwslMPAg.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rvgwWPyGSA6x1kTV"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/cy8i0li0dw7g"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/kt36oifrwzvb"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3a1lwZZQu0mdtLJL"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/qeogqt28g64o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 5585814,
+          "tmdb_still_path": "/cs4OHpnp1ImA5kYFQGUyZk0nPWC.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=U7elub6sssKjL2HD"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/9mwyzk9my9iw"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/7rongwioif3n"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QxJOymjicTz9cen1"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/gl22buicq7qt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5585815,
+          "tmdb_still_path": "/eC5j96o7lULnR3Ea4NtYUcNnz3J.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yuoDEg506accVZUo"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/to4xqi3s17x2"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/24sxtymo3cut"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YbuIykBAuGs8qtrd"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/pnpbbq4ut1y5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5585816,
+          "tmdb_still_path": "/ukLCwrihDj0hYDMolv5KsNanIed.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=z9jjPWgR1Ko6J94z"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/k65fg4f8pjqn"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/8m8w1qaztor5"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TJ5HNYlAojDoTPT7"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/fdrvcplrpw71"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 5585817,
+          "tmdb_still_path": "/kgfnqFois5hvCOh7ba8PnUEFaYq.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "في رهان لمعرفة حقيقة وجود الأشباح والكائنات الفضائية من عدمه، يواجه طالبان في المرحلة الثانوية مخاطر مروعة خارقة للطبيعة ويكتسبان قوى خارقة... وربما يقعان في الحب أيضًا.",
+  "url": "/anime/dandadan",
+  "story": "في رهان لمعرفة حقيقة وجود الأشباح والكائنات الفضائية من عدمه، يواجه طالبان في المرحلة الثانوية مخاطر مروعة خارقة للطبيعة ويكتسبان قوى خارقة... وربما يقعان في الحب أيضًا.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shion Wakayama، Natsuki Hanae، Mayumi Tanaka، Nana Mizuki",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "pHLEyqsxZV8",
+  "rating": "8.6",
+  "imdb_rating": "8.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dandadan",
+    "mainDescription": "في رهان لمعرفة حقيقة وجود الأشباح والكائنات الفضائية من عدمه، يواجه طالبان في المرحلة الثانوية مخاطر مروعة خارقة للطبيعة ويكتسبان قوى خارقة... وربما يقعان في الحب أيضًا.",
+    "metaDescription": "Dandadan أنمي 2024 | في رهان لمعرفة حقيقة وجود الأشباح والكائنات الفضائية من عدمه | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dandadan من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/240411"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "dandadan",
+      "title": "Dandadan",
+      "url": "/anime/dandadan",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/dandadan.jpg"
+    },
+    {
+      "slug": "dandadan-2nd-season",
+      "title": "Dandadan 2nd Season",
+      "url": "/anime/dandadan-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/dandadan-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 240411,
+  "tmdb_url": "https://www.themoviedb.org/tv/240411",
+  "original_title": "ダンダダン"
+}

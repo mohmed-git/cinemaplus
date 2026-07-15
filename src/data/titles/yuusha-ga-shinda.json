@@ -1,0 +1,524 @@
+{
+  "slug": "yuusha-ga-shinda",
+  "clean_title": "Yuusha ga Shinda!",
+  "raw_name": "انمي Yuusha ga Shinda!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/yuusha-ga-shinda.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5038649576011"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ju7oq"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5038683261515"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/N2ZXRZ7S#92GKm86EXqcupO1CVq-pS3ynk9wHjWYFqTyNANzk1Fs"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5038691519051"
+            },
+            {
+              "id": 6,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8ju7wy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3691158,
+          "tmdb_still_path": "/75ChiA3lmc1xeIzhVshkJMqL74g.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5095970507339"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8k28ox"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5095995935307"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/II1QGZia#yKyVYfbNWin-H6laiyXTQ3xh5RfsVgX5Gtj8g1HeHNM"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5096003930699"
+            },
+            {
+              "id": 6,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8k28v3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4348180,
+          "tmdb_still_path": "/83Jw2eFWZ352UNIZaFEHBKNl2oI.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5160363231819"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8k9pbr"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5160390167115"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/66AnyT6B#7I1qDv67MD2BaVq7roAfjDZWLRnslVh-xHZ-K8MZ85g"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5160406551115"
+            },
+            {
+              "id": 6,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8k9pi6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4348181,
+          "tmdb_still_path": "/5hl4VR5n9Olmm0sjoZgClZeJPrD.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5222838241867"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8kh5xa"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5222886148683"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/m6BBmT5D#tkl5nPsmh6RanU-BS3Bx8RpczAlOpOSe0fOUBv3RfWo"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5222907644491"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4348182,
+          "tmdb_still_path": "/3nemEWnX1PoxqgtbBeqCKsbqXH9.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5275231914571"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8knug8"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5275271236171"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/hL1XHToQ#KAuEuzlHBsTypMvd7Y6m1ixlHJS7dvN4VaPq1kf2Jy4"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5275285523019"
+            },
+            {
+              "id": 6,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8knuse"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4348183,
+          "tmdb_still_path": "/sGs6OIER77dj9t0ldxhYR1Klutt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5370443401803"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8kux5m"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5370487638603"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8fwyEaDL#0HxWC3oHUV2jwfarxhHraMJlBq8oTdyhDlypYwPUAPU"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5370506578507"
+            },
+            {
+              "id": 6,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8kuxbo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4348184,
+          "tmdb_still_path": "/c2j7861HKbtKKWbwnScKhKly8uf.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5454785284683"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8l1p7o"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5454835354187"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/LJpSTJZb#XLSeYJYOt4nrj539Ohxkvurz-Za5AEBmFyiQ7tAA4I8"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5454858095179"
+            },
+            {
+              "id": 6,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8l1pgg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4348185,
+          "tmdb_still_path": "/yVkwRSyi7xrh7dz5XhXjXnKeefj.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5547700587083"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8l8xkf"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5547743447627"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/6JBgkbQD#JC79MWuDmMP_vV_5n9cm6HimghiMo69276Fgrk4t7e0"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5547775298123"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-26",
+          "runtime": 24,
+          "tmdb_episode_id": 4348186,
+          "tmdb_still_path": "/gN84XnwzoSBRgcVn25MdQLpm5ti.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5577317747275"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8lfum7"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5577355168331"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/lvFnBLZQ#NV3wqFfWcUvIipRRr2JN0cWqaA2nbcd9rigk54qJ6Dw"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5577362967115"
+            },
+            {
+              "id": 6,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8lfvq7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4348187,
+          "tmdb_still_path": "/bZ4v1ymkebA6UpyStW3ffErsagA.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5616046836299"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8lmh22"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5616053127755"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ETdSnARB#3k7r5kId4oVfJcCfUx7mijfGnrrwfqqElAY5PsUla_Q"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5616056535627"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4348188,
+          "tmdb_still_path": "/7S3SQtxQc7zCZyQa7iOCvjrUbs6.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5703954074187"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8lsn65"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5703967312459"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xusRiBQQ#ylTKfSFfCTgGl4YLl4peR199nDL18anb45IKW1zXtwE"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5703974849099"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4348189,
+          "tmdb_still_path": "/5HJ1oHDgcrnwraMaYd47ayuPM7c.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5733991516747"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8lz300"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5734019500619"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/R6EwGC7Z#1eKOZ_ukqoL0KtNp9WXhFWiaA9Ic-oo_e-9mM1Sji7c"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5734029265483"
+            },
+            {
+              "id": 6,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8lz37b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4348190,
+          "tmdb_still_path": "/ledtp4s8epexIkqUSs4crl34NIu.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Yuusha ga Shinda! ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Yuusha ga Shinda! من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف ساخر، حريم، ايتشي، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Yuusha ga Shinda! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/yuusha-ga-shinda",
+  "story": "يدور أنمي Yuusha ga Shinda! ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Yuusha ga Shinda! من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف ساخر، حريم، ايتشي، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Yuusha ga Shinda! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Wataru Katoh، Shunichi Toki، Ayana Taketatsu، Hibiku Yamamura، Yurika Kubo، Yuichi Nakamura",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "btmEMVvVPwI",
+  "rating": "6.6",
+  "imdb_rating": "6.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Yuusha ga Shinda!",
+    "mainDescription": "يدور أنمي Yuusha ga Shinda! ضمن أجواء رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Yuusha ga Shinda! من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف ساخر، حريم، ايتشي، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Yuusha ga Shinda! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Yuusha ga Shinda! أنمي 2023 | يدور أنمي Yuusha ga Shinda | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Yuusha ga Shinda! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/200750"
+    }
+  },
+  "tmdb_id": 200750,
+  "tmdb_url": "https://www.themoviedb.org/tv/200750",
+  "original_title": "勇者が死んだ！"
+}

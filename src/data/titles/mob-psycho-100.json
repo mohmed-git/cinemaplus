@@ -1,0 +1,273 @@
+{
+  "slug": "mob-psycho-100",
+  "clean_title": "Mob Psycho 100",
+  "raw_name": "انمي Mob Psycho 100",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mob-psycho-100.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bMvrFAy33IeKxSQb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1205175,
+          "tmdb_still_path": "/eWvvcMZFdruG7I4NHKaBD7Lsqku.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=L7WLaH7twel0iGKX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1205308,
+          "tmdb_still_path": "/2IRcb7QNpL1gnV4UkOfXLbtc0sm.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=S9zafI8wLornFIro"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1205309,
+          "tmdb_still_path": "/fbr4w6McLDh5Wx7fxWwLGtBa3Hs.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KDbO7Hm3IinQXZM5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1205310,
+          "tmdb_still_path": "/tgEW5zsvlmglOS5EEk6UmH48kNm.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=t2ywq9F2VxvIMD4S"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1205311,
+          "tmdb_still_path": "/h7ts0QOUbragMxy6CacCnGVFETV.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8tXN69bkLa4zZIsl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1205312,
+          "tmdb_still_path": "/y6cLitqeuAh5R6yQRAlQhlHBHtl.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Mp8ASOAldUMCgbxk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1205313,
+          "tmdb_still_path": "/deNkKthjJd0M6ybS5Tj1EtwXoPk.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=twG1fzgwbQRolZqY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1205314,
+          "tmdb_still_path": "/l4uYdqcP4uorUUNUGYvCraQzAZL.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KyreTfSzyYYWCEah"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1205315,
+          "tmdb_still_path": "/e7PzPH9webwk0km48CruE5BJaQf.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cHs8cqVq3sLW6E3V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1205316,
+          "tmdb_still_path": "/rtr4rjMORYleRH94m00XlT8P9H1.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KSb5t9bNwt8mj3zc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1205317,
+          "tmdb_still_path": "/1wrNpfysf4INQFR58SnvA15Dh6b.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ho74HREKKgFME76s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1205318,
+          "tmdb_still_path": "/g8JDTJ18lDQvGVyHXs3Yb3l6wwM.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "القصة تدور حول الفتى “موب” حيث انه يستطيع ثنيَ الملاعق ورفعَ الأشياء بعقله في سنٍ مُبكّرة، ولكنّه امتنع تدريجيًا عن استخدام قدرته في الأماكن العامّة وهو ينفجر إذا وصلت قدرته العاطفية إلى 100%، هذا الفتى ذو القوة النفسية امتلك لقب “موب” و قام بكبت قدرته النفسية حتى يتمكن من العيش بشكل طبيعي و يحظى بصداقة مع زميلته في الصف.",
+  "url": "/anime/mob-psycho-100",
+  "story": "القصة تدور حول الفتى “موب” حيث انه يستطيع ثنيَ الملاعق ورفعَ الأشياء بعقله في سنٍ مُبكّرة، ولكنّه امتنع تدريجيًا عن استخدام قدرته في الأماكن العامّة وهو ينفجر إذا وصلت قدرته العاطفية إلى 100%، هذا الفتى ذو القوة النفسية امتلك لقب “موب” و قام بكبت قدرته النفسية حتى يتمكن من العيش بشكل طبيعي و يحظى بصداقة مع زميلته في الصف.",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Setsuo Ito، Takahiro Sakurai، Miyu Irino، Akio Otsuka",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "YIezct4JGNs",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mob Psycho 100",
+    "mainDescription": "القصة تدور حول الفتى “موب” حيث انه يستطيع ثنيَ الملاعق ورفعَ الأشياء بعقله في سنٍ مُبكّرة، ولكنّه امتنع تدريجيًا عن استخدام قدرته في الأماكن العامّة وهو ينفجر إذا وصلت قدرته العاطفية إلى 100%، هذا الفتى ذو القوة النفسية امتلك لقب “موب” و قام بكبت قدرته النفسية حتى يتمكن من العيش بشكل طبيعي و يحظى بصداقة مع زميلته في الصف.",
+    "metaDescription": "Mob Psycho 100 أنمي 2016 | القصة تدور حول الفتى “موب” حيث انه يستطيع ثنيَ الملاعق ورفعَ الأشياء بعقله في سنٍ مُبكّرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mob Psycho 100 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/67075"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "mob-psycho-100",
+      "title": "Mob Psycho 100",
+      "url": "/anime/mob-psycho-100",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/mob-psycho-100.png"
+    },
+    {
+      "slug": "mob-psycho-100-ii",
+      "title": "Mob Psycho 100 II",
+      "url": "/anime/mob-psycho-100-ii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/mob-psycho-100-ii.png"
+    },
+    {
+      "slug": "mob-psycho-100-iii",
+      "title": "Mob Psycho 100 III",
+      "url": "/anime/mob-psycho-100-iii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/mob-psycho-100-iii.jpg"
+    }
+  ],
+  "tmdb_id": 67075,
+  "tmdb_url": "https://www.themoviedb.org/tv/67075",
+  "original_title": "モブサイコ100"
+}

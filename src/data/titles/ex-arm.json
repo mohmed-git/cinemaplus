@@ -1,0 +1,644 @@
+{
+  "slug": "ex-arm",
+  "clean_title": "Ex-Arm",
+  "raw_name": "انمي Ex-Arm",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ex-arm.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2266491849291"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/5x34-hdzpp2jz02"
+            },
+            {
+              "id": 3,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/Rg7HcytDiq"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ad4dl5gkgi48.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2266520881739"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/-KIwAKqJiq"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2266512296523"
+            },
+            {
+              "id": 8,
+              "label": "4shared - SD",
+              "url": "https://www.4shared.com/web/embed/file/3oIQ4K1Qiq"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-drtye7t18hh9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1890617,
+          "tmdb_still_path": "/k0rFJcOm1ZYlr7V5ASurJD2DWwq.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2285883165259"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/g48mxt-z34x763n"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/12m0D0a5NlnqZALJavriGG9ll0iYVfJsx/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zkaau0kh94r9.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2285921831499"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1bjg0P5lkyfjkJzwS2C859KYngBm7rrEr/preview"
+            },
+            {
+              "id": 7,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1Lv3qFG4iJmtJpwkAqq3eicqzP12aPOPH/preview"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-q44pu5z38dwy.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2614498,
+          "tmdb_still_path": "/vxob7xZ4LFCUE6x1OeSDO1FUIrR.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2305722681931"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/mp0xds56pwye77r"
+            },
+            {
+              "id": 3,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/b5y2ncB_ea"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1u3uy0PChQThwEVkrSUVit5-7V_CWdt7Q/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-n0ospj3i8qfb.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2305767770699"
+            },
+            {
+              "id": 7,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/k07e6u35d2rw5r5"
+            },
+            {
+              "id": 8,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1gR1Lfy7zHQsrOCSwJREpSg91GFBb8qs9/preview"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2305740048971"
+            },
+            {
+              "id": 10,
+              "label": "fmplay - SD",
+              "url": "https://www.fembed.com/v/pz23ptm8lqd7572"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2614499,
+          "tmdb_still_path": "/updwgQBnq2yQENvcCFGfXFqNUP.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2325763263051"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/2lw8-s23n76wel1"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ayhettbr1slv.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2325833976395"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/k07e6u35lqpm27w"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2325825194571"
+            },
+            {
+              "id": 7,
+              "label": "fmplay - SD",
+              "url": "https://www.fembed.com/v/pz23ptm8326z4md"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-zcvom7tt5j5a.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2614500,
+          "tmdb_still_path": "/kfSmDBxynvGs18Cl9eI02J7nKmf.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2345604483659"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/dn82lax76-gnplr"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-i7llez58yybg.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2345614641739"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/2lw8-s237w541n-"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2345611561547"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-hdv3efdpy450.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2614501,
+          "tmdb_still_path": "/vwvKTJ3TagntCjAUsQDRvPvg6EG.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2361354095179"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/yg3kycen7-qwjrz"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-djggq3ajtu7b.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2361384897099"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/6846-f03g638mkw"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2361363991115"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-8d8881o6um0v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2614502,
+          "tmdb_still_path": "/83FuKtRD11OkxAWvG7TXDGhC8Iq.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2376350763595"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/pz44dbm8m148d78"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-sqp3x1ruyhg3.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2376356530763"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/dn82lax7x5j0zrx"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2376354105931"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-8pxrdlll313u.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2614503,
+          "tmdb_still_path": "/3HrtPRk3cSG3s4TnzKY0BxyhlCC.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2388842318411"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/-kw5ytpyg7q8z7d"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-awyvxotdboxf.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2388851821131"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/lrdy7une3xlrlzk"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2388874299979"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-we7tgeysjpnt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2614504,
+          "tmdb_still_path": "/egeWWFSzkIe2bvUi0coBTr9UzrC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2402118535755"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/e-8kes-x44-q7wz"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-n128eok3iszd.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2402167949899"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/pz23ptm8yykyw84"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2402140359243"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-kvhxz3jhyrxj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2614505,
+          "tmdb_still_path": "/u96pKvcSYiXXWVenEZpGBMH53NX.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2415436302923"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/yg3kycengr5ldj6"
+            },
+            {
+              "id": 3,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/_knixe9Eiq"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1nT0YOB8w-1tNBamZmCqJsSILm-McQ57j/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-hnzseljk0xej.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2415453145675"
+            },
+            {
+              "id": 7,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/yg3kycengrrz-e7"
+            },
+            {
+              "id": 8,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1fC5UseJaJZ53CDIW_C_5P6IqL0-y-M_M/preview"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2415463762507"
+            },
+            {
+              "id": 10,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/15mGHKhnxenoUmYByEVVUXRslgLGpk0eG/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2614506,
+          "tmdb_still_path": "/neW9wApgJvid6rMwsReCddc7SYC.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2430940285515"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/x8y1ef5klqglgdw"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-k2nm8rf4kaqu.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2430989371979"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r2z6kbe8087krne"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2430977313355"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-ags6oyirz5hq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2614507,
+          "tmdb_still_path": "/nSVu3DvlT55Bng0eLy45CZLNPT3.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2446830209611"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-yhud63kl9nun.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2446865926731"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2446849804875"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-uenced5nc5wf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2614508,
+          "tmdb_still_path": "/dR3ayHOxCEdzjlHC64NMTvjV46g.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Ex-Arm ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Ex-Arm على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال علمي، ايتشي، سينين يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ex-Arm على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/ex-arm",
+  "story": "يدور أنمي Ex-Arm ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Ex-Arm على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال علمي، ايتشي، سينين يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ex-Arm على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Soma Saito، Mikako Komatsu، Akari Kito، Daisuke Namikawa، Sumire Uesaka، Yui Ishikawa",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، جريمة",
+  "trailerId": null,
+  "rating": "3.6",
+  "imdb_rating": "3.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ex-Arm",
+    "mainDescription": "يدور أنمي Ex-Arm ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Ex-Arm على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال علمي، ايتشي، سينين يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ex-Arm على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Ex-Arm أنمي 2021 | يدور أنمي Ex-Arm ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ex-Arm من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/92401"
+    }
+  },
+  "tmdb_id": 92401,
+  "tmdb_url": "https://www.themoviedb.org/tv/92401",
+  "original_title": "EX-ARM エクスアーム"
+}

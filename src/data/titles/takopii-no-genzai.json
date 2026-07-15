@@ -1,0 +1,298 @@
+{
+  "slug": "takopii-no-genzai",
+  "clean_title": "Takopii no Genzai",
+  "raw_name": "انمي Takopii no Genzai",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/takopii-no-genzai.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 6,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 6,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9605638458054"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QReCLck9yjqZRnMO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9m19nq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9605645535942"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9605657725638"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dld7MW3fSX3xIpqh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-28",
+          "runtime": 38,
+          "tmdb_episode_id": 5983537,
+          "tmdb_still_path": "/1i66FtBBCFJoS1GhV31aZIPQ8vY.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9621687306950"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=cRC2hsG7301we9E3"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mc8x6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9621694974662"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9621707295430"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sDfRSUotrA69Of0M"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-05",
+          "runtime": 22,
+          "tmdb_episode_id": 6250752,
+          "tmdb_still_path": "/Ah5DprWqyYWrkkVCl6ZGzN19J89.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9640027753158"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "//videa.hu/player?v=9QmiW7SVHdW7I5Go"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mqpu0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9640032668358"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9640049773254"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Y4TeQ6ZA9xEcKjtj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-12",
+          "runtime": 26,
+          "tmdb_episode_id": 6250753,
+          "tmdb_still_path": "/zzPPYmbMg0tk13pzU9FWujMOT1C.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9657898633926"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Poy3bXIGX8vCMkvp"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9n70iu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9657905121990"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9657912724166"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZNCpe3HewRMHobPn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 6250754,
+          "tmdb_still_path": "/fZVPecySubD9wrZT38KrXBo4cNS.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9676215618246"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5vqPBbmT18XsVes2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nk5qu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9676219222726"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9676224727750"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xgMImNObTIeh99bx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-26",
+          "runtime": 25,
+          "tmdb_episode_id": 6250755,
+          "tmdb_still_path": "/d0iR13bdivQvsmrf7zgVNGakxQu.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9695477238470"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YH7oWmC61UBWyGjS"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9o00r2"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9695481957062"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9695487462086"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6g9yieqqntp1bTyH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-02",
+          "runtime": 22,
+          "tmdb_episode_id": 6250757,
+          "tmdb_still_path": "/f9xPQqwHKgklIA166cUlcSscPcf.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يسافر تاكوبي من كوكبه السعيد \"هابي بلانيت\" لينشر السعادة على كوكب الأرض لكنه يلتقي بـ شيزوكا العابسة أصدقاؤها في المدرسة وحياتها المنزلية سبب حزنها ويصمم تاكوبي الطيب القلب على تغيير ذلك",
+  "url": "/anime/takopii-no-genzai",
+  "story": "يسافر تاكوبي من كوكبه السعيد \"هابي بلانيت\" لينشر السعادة على كوكب الأرض لكنه يلتقي بـ شيزوكا العابسة أصدقاؤها في المدرسة وحياتها المنزلية سبب حزنها ويصمم تاكوبي الطيب القلب على تغيير ذلك",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kurumi Mamiya، Reina Ueda، Konomi Kohara، Anna Nagase",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "j7dxZjwIhu0",
+  "rating": "8.8",
+  "imdb_rating": "8.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Takopii no Genzai",
+    "mainDescription": "يسافر تاكوبي من كوكبه السعيد \"هابي بلانيت\" لينشر السعادة على كوكب الأرض لكنه يلتقي بـ شيزوكا العابسة أصدقاؤها في المدرسة وحياتها المنزلية سبب حزنها ويصمم تاكوبي الطيب القلب على تغيير ذلك",
+    "metaDescription": "Takopii no Genzai أنمي 2025 | يسافر تاكوبي من كوكبه السعيد \"هابي بلانيت\" لينشر السعادة على كوكب الأرض لكنه يلتقي بـ شيزوكا العابسة أصدقاؤها في المدرسة…",
+    "highlights": "تم تحديث بيانات Takopii no Genzai من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/284445"
+    }
+  },
+  "tmdb_id": 284445,
+  "tmdb_url": "https://www.themoviedb.org/tv/284445",
+  "original_title": "タコピーの原罪"
+}

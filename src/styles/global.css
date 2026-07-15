@@ -1,0 +1,545 @@
+/* =====================================================================
+   سينما بلس — نظام التصميم متعدد الهوية (Multi-Theme System)
+   ثلاث هويات لونية: الأنمي (سماوي/بنفسجي)، الأفلام (ذهبي/قرمزي)،
+   المسلسلات (زمردي/برتقالي). يتم تفعيلها عبر [data-section] و .theme-*.
+   ===================================================================== */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   1) الأساس المشترك (Foundation) — لكل الصفحات
+   ============================================================ */
+@layer base {
+  :root {
+    color-scheme: dark;
+
+    /* الألوان الأساسية (افتراضي = هوية الأنمي السماوية) */
+    --brand-50: #ecfeff;
+    --brand-400: #22d3ee;
+    --brand-500: #06b6d4;
+    --brand-600: #0891b2;
+    --accent-1: #a78bfa;
+    --accent-2: #fbbf24;
+
+    --glow: 0 0 24px rgba(34, 211, 238, 0.45), 0 0 48px rgba(167, 139, 250, 0.25);
+    --gradient-primary: linear-gradient(135deg, #22d3ee 0%, #a78bfa 100%);
+    --gradient-text: linear-gradient(135deg, #67e8f9, #22d3ee 35%, #a78bfa);
+
+    /* أسطح داكنة (midnight) */
+    --bg-0: #04070a;
+    --bg-1: #070b10;
+    --bg-2: #0c1218;
+    --bg-3: #121a23;
+    --text-1: #f3f4f6;
+
+    --aurora-a: rgba(34, 211, 238, 0.14);
+    --aurora-b: rgba(167, 139, 250, 0.12);
+    --aurora-c: rgba(251, 191, 36, 0.08);
+  }
+
+  /* 🟣 هوية الأنمي */
+  [data-section='anime'],
+  .theme-anime {
+    --brand-50: #ecfeff;
+    --brand-400: #22d3ee;
+    --brand-500: #06b6d4;
+    --brand-600: #0891b2;
+    --accent-1: #a78bfa;
+    --accent-2: #fbbf24;
+    --glow: 0 0 24px rgba(34, 211, 238, 0.45), 0 0 48px rgba(167, 139, 250, 0.25);
+    --gradient-primary: linear-gradient(135deg, #22d3ee 0%, #a78bfa 100%);
+    --gradient-text: linear-gradient(135deg, #67e8f9, #22d3ee 35%, #a78bfa);
+    --aurora-a: rgba(34, 211, 238, 0.16);
+    --aurora-b: rgba(167, 139, 250, 0.14);
+    --aurora-c: rgba(34, 211, 238, 0.08);
+  }
+
+  /* 🔴 هوية الأفلام */
+  [data-section='movies'],
+  .theme-movies {
+    --brand-50: #fef3c7;
+    --brand-400: #fbbf24;
+    --brand-500: #f59e0b;
+    --brand-600: #d97706;
+    --accent-1: #b91c1c;
+    --accent-2: #dc2626;
+    --glow: 0 0 24px rgba(251, 191, 36, 0.5), 0 0 48px rgba(185, 28, 28, 0.3);
+    --gradient-primary: linear-gradient(135deg, #fbbf24 0%, #b91c1c 100%);
+    --gradient-text: linear-gradient(135deg, #fde68a, #fbbf24 35%, #dc2626);
+    --aurora-a: rgba(251, 191, 36, 0.16);
+    --aurora-b: rgba(185, 28, 28, 0.14);
+    --aurora-c: rgba(220, 38, 38, 0.08);
+  }
+
+  /* 🟢 هوية المسلسلات */
+  [data-section='series'],
+  .theme-series {
+    --brand-50: #d1fae5;
+    --brand-400: #10b981;
+    --brand-500: #059669;
+    --brand-600: #047857;
+    --accent-1: #f97316;
+    --accent-2: #6ee7b7;
+    --glow: 0 0 24px rgba(16, 185, 129, 0.45), 0 0 48px rgba(249, 115, 22, 0.3);
+    --gradient-primary: linear-gradient(135deg, #10b981 0%, #f97316 100%);
+    --gradient-text: linear-gradient(135deg, #6ee7b7, #10b981 35%, #f97316);
+    --aurora-a: rgba(16, 185, 129, 0.16);
+    --aurora-b: rgba(249, 115, 22, 0.14);
+    --aurora-c: rgba(110, 231, 183, 0.08);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    background: var(--bg-0);
+  }
+
+  html,
+  body {
+    direction: rtl;
+    background: var(--bg-0);
+    color: var(--text-1);
+    min-height: 100vh;
+    font-family: 'Cairo', 'Tajawal', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  }
+
+  /* الخلفية الجوية (Aurora) — توهجات ناعمة بألوان القسم الحالي */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -2;
+    pointer-events: none;
+    background:
+      radial-gradient(at 15% 0%, var(--aurora-a) 0px, transparent 50%),
+      radial-gradient(at 85% 0%, var(--aurora-b) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, var(--aurora-c) 0px, transparent 55%);
+    transition: background 0.6s ease;
+  }
+
+  /* نمط نقاط دقيق لإضافة texture خفيف */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: 0.035;
+    background-image:
+      repeating-radial-gradient(circle at 30% 20%, rgba(255, 255, 255, 0.6) 0 1px, transparent 1px 3px),
+      repeating-radial-gradient(circle at 70% 80%, rgba(255, 255, 255, 0.5) 0 1px, transparent 1px 4px);
+    mix-blend-mode: overlay;
+  }
+
+  img {
+    font-style: italic;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /* شريط التمرير المخصص — يتلوّن بلون القسم */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--bg-1);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--gradient-primary);
+    border-radius: 999px;
+    border: 2px solid var(--bg-1);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--brand-400);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--brand-400) 45%, transparent);
+    color: #fff;
+  }
+}
+
+/* ============================================================
+   2) المكوّنات (Components)
+   ============================================================ */
+@layer components {
+  /* ---------- الحاوية العامة ---------- */
+  .container-app {
+    @apply mx-auto w-full max-w-[1480px] px-4 sm:px-6 lg:px-8;
+  }
+
+  /* ---------- نص متدرّج بلون القسم ---------- */
+  .gradient-text {
+    background: var(--gradient-text);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+  .neon-glow {
+    text-shadow: 0 0 18px color-mix(in srgb, var(--brand-400) 45%, transparent);
+  }
+
+  /* ---------- الزجاجية (Glassmorphism) ---------- */
+  .glass-panel {
+    background: rgba(12, 18, 24, 0.55);
+    backdrop-filter: blur(24px) saturate(140%);
+    -webkit-backdrop-filter: blur(24px) saturate(140%);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 1rem;
+  }
+  .glass-panel-sm {
+    background: rgba(12, 18, 24, 0.5);
+    backdrop-filter: blur(16px) saturate(130%);
+    -webkit-backdrop-filter: blur(16px) saturate(130%);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 0.85rem;
+  }
+  .glass-strong {
+    background: rgba(7, 11, 16, 0.92);
+    backdrop-filter: blur(22px) saturate(150%);
+    -webkit-backdrop-filter: blur(22px) saturate(150%);
+  }
+
+  /* ---------- الأزرار ---------- */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-2.5 font-semibold transition-all duration-300 select-none;
+  }
+  .btn-primary {
+    @apply btn relative text-[#04070a];
+    background: var(--gradient-primary);
+    background-size: 200% 200%;
+    box-shadow: 0 8px 24px -8px color-mix(in srgb, var(--brand-400) 55%, transparent),
+      0 0 0 1px color-mix(in srgb, var(--brand-400) 30%, transparent) inset;
+    font-weight: 800;
+    overflow: hidden;
+  }
+  .btn-primary::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(120deg, transparent 30%, rgba(255, 255, 255, 0.4) 50%, transparent 70%);
+    background-size: 200% 100%;
+    background-position: 200% 0;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 36px -8px color-mix(in srgb, var(--brand-400) 65%, transparent), var(--glow);
+  }
+  .btn-primary:hover::after {
+    opacity: 1;
+    animation: shimmer 1.2s ease-in-out;
+  }
+  .btn-secondary {
+    @apply btn text-white;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .btn-secondary:hover {
+    background: color-mix(in srgb, var(--brand-500) 14%, transparent);
+    border-color: color-mix(in srgb, var(--brand-400) 40%, transparent);
+    color: #fff;
+    transform: translateY(-1px);
+  }
+  .btn-icon {
+    @apply inline-flex items-center justify-center rounded-xl p-2.5 text-gray-300 transition-all duration-300;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .btn-icon:hover {
+    color: #fff;
+    transform: scale(1.05);
+    border-color: color-mix(in srgb, var(--brand-400) 40%, transparent);
+  }
+
+  /* ---------- الشرائح (chips) ---------- */
+  .chip-brand {
+    @apply inline-flex items-center rounded-full px-3 py-1 text-xs font-bold;
+    background: color-mix(in srgb, var(--brand-500) 30%, transparent);
+    color: var(--brand-50);
+    border: 1px solid color-mix(in srgb, var(--brand-400) 35%, transparent);
+  }
+  .chip-surface {
+    @apply inline-flex items-center rounded-full border border-white/[0.08] bg-white/[0.04] px-3 py-1 text-xs font-semibold text-gray-200;
+  }
+
+  /* ---------- التابات (Tabs / Pills) ---------- */
+  .tab {
+    @apply inline-flex items-center gap-1.5 rounded-xl px-4 py-2 text-sm font-bold transition-all duration-300;
+  }
+  .tab-active {
+    background: var(--gradient-primary);
+    color: #04070a;
+    box-shadow: var(--glow);
+  }
+  .tab-inactive {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    color: #d1d5db;
+  }
+  .tab-inactive:hover {
+    background: color-mix(in srgb, var(--brand-500) 12%, transparent);
+    color: #fff;
+  }
+
+  /* ---------- بطاقة البوستر (Poster Card) ---------- */
+  .poster-card {
+    position: relative;
+    border-radius: 0.85rem;
+    overflow: hidden;
+    background: var(--bg-2);
+    box-shadow: 0 8px 28px -8px rgba(0, 0, 0, 0.6);
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .poster-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    padding: 1px;
+    background: var(--gradient-primary);
+    border-radius: inherit;
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0.45;
+    transition: opacity 0.4s;
+    z-index: 5;
+    pointer-events: none;
+  }
+  .poster-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 28px 60px -12px rgba(0, 0, 0, 0.85), var(--glow);
+  }
+  .poster-card:hover::before {
+    opacity: 1;
+  }
+  .poster-card:hover img {
+    transform: scale(1.08);
+  }
+
+  /* ---------- الشارات (Badges) ---------- */
+  .badge-hd {
+    @apply inline-flex items-center rounded-md px-2 py-0.5 text-[10px] font-extrabold uppercase tracking-wide text-[#04070a];
+    background: var(--gradient-primary);
+  }
+  .badge-quality {
+    @apply inline-flex items-center rounded-md px-2 py-0.5 text-[10px] font-extrabold uppercase tracking-wide text-[#04070a];
+    background: var(--gradient-primary);
+  }
+  .badge-category {
+    @apply inline-flex items-center rounded-md px-2 py-0.5 text-[10px] font-bold text-white;
+    background: rgba(0, 0, 0, 0.65);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .badge-episode {
+    @apply inline-flex items-center rounded-md px-2 py-0.5 text-[11px] font-semibold text-white;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(8px);
+  }
+
+  /* ---------- حقل البحث (Input Neon) ---------- */
+  .input-neon {
+    @apply w-full rounded-xl px-4 py-2.5 text-sm text-white transition-all duration-300;
+    background: rgba(12, 18, 24, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .input-neon::placeholder {
+    color: #6b7280;
+  }
+  .input-neon:focus {
+    outline: none;
+    border-color: var(--brand-400);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--brand-400) 30%, transparent);
+  }
+
+  /* ---------- الصف الأفقي (Scroll Rail) ---------- */
+  .scroll-rail {
+    @apply flex overflow-x-auto pb-2;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+  .scroll-rail::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* ---------- overlay البطل (Hero) ---------- */
+  .hero-overlay {
+    background: linear-gradient(
+      180deg,
+      transparent 0%,
+      rgba(4, 7, 10, 0.4) 40%,
+      rgba(4, 7, 10, 0.95) 90%,
+      #04070a 100%
+    );
+  }
+
+  /* ---------- التوهجات الكروية الزخرفية (orbs) ---------- */
+  .orb {
+    position: absolute;
+    border-radius: 9999px;
+    filter: blur(80px);
+    opacity: 0.4;
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  /* ---------- رقم الترتيب (TOP 10) ---------- */
+  .rank-number {
+    font-weight: 900;
+    background: var(--gradient-text);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px color-mix(in srgb, var(--brand-400) 40%, transparent);
+    line-height: 0.8;
+  }
+
+  /* ---------- أزرار الترقيم ---------- */
+  .page-btn {
+    @apply inline-flex h-10 min-w-10 items-center justify-center gap-1 rounded-xl px-3 text-sm font-semibold text-gray-300 transition-all;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .page-btn:hover {
+    color: #fff;
+    border-color: color-mix(in srgb, var(--brand-400) 40%, transparent);
+  }
+  .page-current {
+    @apply inline-flex h-10 min-w-10 items-center justify-center rounded-xl px-3 text-sm font-extrabold text-[#04070a];
+    background: var(--gradient-primary);
+    box-shadow: var(--glow);
+  }
+  .page-ellipsis {
+    @apply inline-flex h-10 items-center justify-center px-1 text-gray-500;
+  }
+
+  /* ---------- شرائح الفلاتر ---------- */
+  .filter-chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5 text-xs font-semibold text-gray-300 transition-all;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .filter-chip:hover {
+    color: #fff;
+    border-color: color-mix(in srgb, var(--brand-400) 35%, transparent);
+  }
+  .filter-chip--active {
+    background: var(--gradient-primary);
+    color: #04070a;
+    border-color: transparent;
+    box-shadow: var(--glow);
+  }
+  .filter-chip__count {
+    @apply rounded-full bg-black/25 px-1.5 py-0.5 text-[10px] font-bold;
+  }
+}
+
+/* ============================================================
+   3) الحركات (Animations)
+   ============================================================ */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 16px color-mix(in srgb, var(--brand-400) 35%, transparent);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 0 40px color-mix(in srgb, var(--brand-400) 65%, transparent);
+    transform: scale(1.02);
+  }
+}
+@keyframes heroSlide {
+  0% { opacity: 0; transform: scale(1.06) translateY(8px); }
+  100% { opacity: 1; transform: scale(1) translateY(0); }
+}
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+@keyframes ripple {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2.4); opacity: 0; }
+}
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes slideUp {
+  0% { opacity: 0; transform: translateY(24px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+@keyframes slideDown {
+  0% { opacity: 0; transform: translateY(-12px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+@keyframes scaleIn {
+  0% { opacity: 0; transform: scale(0.94); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.animate-fade-in { animation: fadeIn 0.5s ease-out both; }
+.animate-slide-up { animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.animate-slide-down { animation: slideDown 0.35s ease-out both; }
+.animate-scale-in { animation: scaleIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
+.animate-hero-slide { animation: heroSlide 0.9s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.animate-pulse-glow { animation: pulseGlow 2.4s ease-in-out infinite; }
+
+/* حلقات Ripple على زر التشغيل الرئيسي */
+.ripple-ring {
+  position: absolute;
+  inset: -4px;
+  border-radius: 9999px;
+  border: 2px solid var(--brand-400);
+  opacity: 0;
+  animation: ripple 2.2s ease-out infinite;
+  pointer-events: none;
+}
+.ripple-ring:nth-child(2) { animation-delay: 0.7s; }
+.ripple-ring:nth-child(3) { animation-delay: 1.4s; }
+
+/* احترام تفضيل تقليل الحركة */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ═══════════════════════════════════════════════
+   إعلانات Adsterra — تعديلات التخطيط
+   ═══════════════════════════════════════════════ */
+
+/* مساحة إضافية في الأسفل على الموبايل
+   لمنع تعارض Social Bar مع شريط التنقل السفلي */
+@media (max-width: 767px) {
+  body {
+    padding-bottom: 120px; /* 64px nav + ~56px social bar */
+  }
+}
+
+/* إخفاء البانرات الفارغة لو لم تُحمَّل */
+.ad-slot:empty { display: none !important; }
+
+/* بانر 300x250 مضمّن في المحتوى */
+.ad-square-inline {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem auto;
+  max-width: 300px;
+}

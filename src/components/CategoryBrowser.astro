@@ -1,0 +1,224 @@
+---
+/**
+ * Client-side sort / filter / pagination for a category page.
+ * Accepts the full list (index entries) and renders the initial
+ * page server-side, then upgrades interactions with a small script.
+ */
+import PosterCard from './PosterCard.astro';
+import type { TitleIndexEntry } from '../lib/types';
+
+interface Props {
+  items: TitleIndexEntry[];
+  pageSize?: number;
+  emptyLabel?: string;
+}
+const { items, pageSize = 36, emptyLabel = 'لا توجد أعمال.' } = Astro.props;
+
+const dataJson = JSON.stringify(items);
+---
+
+<div id="cat-root" class="space-y-6">
+  <!-- Filters & Controls -->
+  <div class="glass-panel p-4 md:p-5">
+    <div class="flex flex-wrap items-center gap-3 md:gap-4">
+      <!-- Search filter -->
+      <div class="relative flex-1 min-w-[200px]">
+        <span class="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+        </span>
+        <input
+          id="cat-search"
+          type="search"
+          placeholder="بحث في القائمة…"
+          class="input-neon !py-2 !text-sm pr-9"
+        />
+      </div>
+
+      <!-- Sort -->
+      <label class="flex items-center gap-2 text-sm text-gray-300">
+        <span class="text-gray-500 hidden sm:inline">ترتيب:</span>
+        <select id="sort-select" class="rounded-xl bg-white/[0.04] border border-white/[0.06] px-4 py-2 text-sm text-white focus:outline-none focus:border-brand-500/50 transition-colors cursor-pointer">
+          <option value="alpha">أبجدي</option>
+          <option value="episodes">الأكثر حلقات</option>
+          <option value="seasons">الأكثر مواسم</option>
+        </select>
+      </label>
+
+      <!-- Multi-seasons toggle -->
+      <label class="flex items-center gap-2.5 text-sm text-gray-300 cursor-pointer group select-none">
+        <div class="relative">
+          <input id="multi-seasons" type="checkbox" class="peer sr-only" />
+          <div class="h-5 w-5 rounded-md border border-white/10 bg-white/[0.04] transition-all peer-checked:bg-gradient-to-br peer-checked:from-brand-500 peer-checked:to-neon-fuchsia peer-checked:border-transparent peer-checked:shadow-[0_0_12px_-2px_rgba(168,85,247,0.6)] group-hover:border-white/20">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" class="h-5 w-5 opacity-0 peer-checked:opacity-100 transition-opacity">
+              <path d="M5 12l5 5L20 7"/>
+            </svg>
+          </div>
+        </div>
+        <span class="text-xs sm:text-sm">مواسم متعددة</span>
+      </label>
+
+      <!-- Count -->
+      <div class="flex items-center gap-2 text-sm mr-auto">
+        <span class="text-gray-500 hidden md:inline text-xs">النتائج:</span>
+        <span id="count-label" class="inline-flex items-center justify-center rounded-lg bg-gradient-to-l from-brand-500/15 to-neon-fuchsia/10 border border-brand-500/20 px-3 py-1 text-sm font-bold text-brand-300">{items.length}</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Grid -->
+  <div
+    id="cards-grid"
+    class="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6"
+  >
+    {items.slice(0, pageSize).map((item, i) => (
+      <PosterCard entry={item} priority={i < 6} />
+    ))}
+  </div>
+
+  <div id="empty-state" class="hidden flex-col items-center gap-4 py-20 text-center text-gray-400">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="h-16 w-16 opacity-30">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+    </svg>
+    <p class="text-lg">{emptyLabel}</p>
+  </div>
+
+  <div class="flex justify-center pt-4">
+    <button
+      id="load-more"
+      class="btn-secondary group px-8 py-3"
+      data-loaded={pageSize}
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-4 w-4 transition-transform group-hover:translate-y-0.5">
+        <path d="M12 5v14m-7-7l7 7 7-7"/>
+      </svg>
+      تحميل المزيد
+    </button>
+  </div>
+</div>
+
+<script id="cat-data" type="application/json" set:html={dataJson} />
+
+<script>
+  type Entry = {
+    slug: string;
+    clean_title: string;
+    category: string;
+    category_label: string;
+    poster: string | null;
+    seasons_count: number;
+    episodes_count: number;
+    url: string;
+    has_multiple_seasons: boolean;
+  };
+
+  const data: Entry[] = JSON.parse(
+    document.getElementById('cat-data')?.textContent || '[]'
+  );
+
+  const grid = document.getElementById('cards-grid') as HTMLElement;
+  const sortSel = document.getElementById('sort-select') as HTMLSelectElement;
+  const multiChk = document.getElementById('multi-seasons') as HTMLInputElement;
+  const searchInput = document.getElementById('cat-search') as HTMLInputElement;
+  const loadBtn = document.getElementById('load-more') as HTMLButtonElement;
+  const countEl = document.getElementById('count-label') as HTMLElement;
+  const emptyEl = document.getElementById('empty-state') as HTMLElement;
+
+  const PAGE = 36;
+  let working: Entry[] = [...data];
+  let shown = PAGE;
+
+  function escapeHtml(s: string): string {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  function fakeQuality(slug: string): string {
+    let h = 0;
+    for (let i = 0; i < slug.length; i++) h = (h * 17 + slug.charCodeAt(i)) >>> 0;
+    return (h % 5 === 0) ? '4K' : 'HD';
+  }
+
+  function renderCard(e: Entry): string {
+    const title = escapeHtml(e.clean_title);
+    const quality = fakeQuality(e.slug);
+    const posterBlock = e.poster
+      ? `<img src="${escapeHtml(e.poster)}" alt="${title}" loading="lazy" decoding="async" referrerpolicy="no-referrer" class="h-full w-full object-cover transition-transform duration-700 ease-out" />`
+      : `<div class="flex h-full w-full items-center justify-center bg-gradient-to-br from-surface-3 to-surface-5 text-center text-sm text-gray-400 p-4"><div class="flex flex-col items-center gap-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="h-12 w-12 opacity-40"><path d="M15.6 11.6L22 7v10l-6.4-4.5v-1zM2 5a2 2 0 012-2h12a2 2 0 012 2v14a2 2 0 01-2 2H4a2 2 0 01-2-2V5z"/></svg><span class="line-clamp-2 text-xs px-2">${title}</span></div></div>`;
+    const epExtra = e.episodes_count > 1 ? `<span class="text-gray-500">·</span><span>${e.episodes_count} حلقة</span>` : '';
+    const seasonsExtra = e.has_multiple_seasons ? `<span class="text-gray-500">·</span><span>${e.seasons_count} مواسم</span>` : '';
+    return `
+      <a href="${escapeHtml(e.url)}" class="group poster-card animate-fade-in" aria-label="${title}">
+        <div class="relative aspect-[2/3] w-full overflow-hidden rounded-2xl bg-surface-3">
+          ${posterBlock}
+          <div class="absolute top-0 right-0 left-0 flex items-start justify-between p-2 z-10">
+            <span class="badge-category">${escapeHtml(e.category_label)}</span>
+            <span class="badge-hd shadow-[0_4px_12px_-4px_rgba(168,85,247,0.6)]">${quality}</span>
+          </div>
+          <div class="absolute inset-0 bg-gradient-to-t from-surface-0 via-surface-0/40 to-transparent opacity-90 transition-opacity duration-500 group-hover:opacity-95"></div>
+          <div class="absolute inset-0 bg-gradient-to-t from-brand-900/70 via-brand-900/10 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>
+          <div class="absolute inset-0 flex items-center justify-center opacity-0 transition-all duration-500 group-hover:opacity-100">
+            <div class="flex h-16 w-16 items-center justify-center rounded-full bg-gradient-to-br from-brand-500 to-neon-fuchsia text-white shadow-[0_0_30px_-4px_rgba(168,85,247,0.85)] backdrop-blur-md scale-75 group-hover:scale-100 transition-transform duration-500">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-7 w-7 mr-[-2px]"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+          </div>
+          <div class="absolute inset-x-0 bottom-0 p-3 z-10">
+            <h3 class="line-clamp-2 text-[13px] sm:text-sm font-bold text-white drop-shadow-lg leading-tight">${title}</h3>
+            <div class="mt-1.5 flex items-center gap-1.5 text-[10px] sm:text-[11px] text-gray-300/90">
+              <span class="flex items-center gap-1"><span class="h-1 w-1 rounded-full bg-brand-400"></span>${escapeHtml(e.category_label)}</span>
+              ${epExtra}
+              ${seasonsExtra}
+            </div>
+          </div>
+        </div>
+      </a>
+    `;
+  }
+
+  function render() {
+    const slice = working.slice(0, shown);
+    grid.innerHTML = slice.map(renderCard).join('');
+    countEl.textContent = String(working.length);
+    emptyEl.classList.toggle('hidden', working.length !== 0);
+    if (working.length === 0) emptyEl.style.display = 'flex';
+    else emptyEl.style.display = 'none';
+    loadBtn.classList.toggle('hidden', shown >= working.length);
+  }
+
+  function applyFilters() {
+    let arr = [...data];
+    if (multiChk.checked) arr = arr.filter((e) => e.has_multiple_seasons);
+
+    const q = searchInput.value.trim().toLowerCase();
+    if (q) {
+      arr = arr.filter((e) => e.clean_title.toLowerCase().includes(q));
+    }
+
+    const sort = sortSel.value;
+    if (sort === 'alpha') arr.sort((a, b) => a.clean_title.localeCompare(b.clean_title, 'ar'));
+    if (sort === 'episodes') arr.sort((a, b) => b.episodes_count - a.episodes_count);
+    if (sort === 'seasons') arr.sort((a, b) => b.seasons_count - a.seasons_count);
+
+    working = arr;
+    shown = PAGE;
+    render();
+  }
+
+  // Debounced search
+  let searchTimer: number | undefined;
+  searchInput.addEventListener('input', () => {
+    clearTimeout(searchTimer);
+    searchTimer = window.setTimeout(applyFilters, 200);
+  });
+
+  sortSel.addEventListener('change', applyFilters);
+  multiChk.addEventListener('change', applyFilters);
+  loadBtn.addEventListener('click', () => {
+    shown += PAGE;
+    render();
+  });
+
+  // initial alpha sort
+  applyFilters();
+</script>

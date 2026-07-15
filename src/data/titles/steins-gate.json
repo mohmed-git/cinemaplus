@@ -1,0 +1,556 @@
+{
+  "slug": "steins-gate",
+  "clean_title": "Steins;Gate",
+  "raw_name": "انمي Steins;Gate",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/steins-gate.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh366r0q026"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ldixkom243e5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 880884,
+          "tmdb_still_path": "/gPZXNWR7WuUgMZ9x6hwIZPRLbna.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udmm78x-15"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-5qx2w8d1t2l1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 880885,
+          "tmdb_still_path": "/mIRuPZNEoGt0oyE9bL4BqEcmquq.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/dz0egtx--6wy5l5"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-46irwoj0kiqd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 880887,
+          "tmdb_still_path": "/p78yoSbi7wXww1rEGYGbYSUm3wl.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8tegg-7dk4p"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-h2sky41781xf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 880886,
+          "tmdb_still_path": "/jOvUzKQUbqdkNAtIAzQpL7GuUx.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn77kd7gkr"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ewp8ka4hlc8j.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 880888,
+          "tmdb_still_path": "/92SFTY8Z4jj7AykgKlF5v4EMBxj.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-226-x7-5"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-8whdecluk4ws.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 880890,
+          "tmdb_still_path": "/suWPFexRgjwhJTy1E7yTtTrXpyt.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntlzzml2d7r"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-i8aqba585fbh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 880889,
+          "tmdb_still_path": "/8AXyRwdJhDmfESjlLbJzBWtYvfO.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8tegg-q6r74"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-wkvewjgerye1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 880892,
+          "tmdb_still_path": "/l6fhgZvTOEMosDnzo5a9TNc9xyj.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8tegg-qdwnj"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ezlp1es67ys2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 880891,
+          "tmdb_still_path": "/nlVR9hXGFfpfk8YmK116Co400QQ.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/2r7pyu2ww711nmr"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ibz6qk4ciec9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 880893,
+          "tmdb_still_path": "/vrNGd6OZnXnaadq5GRcmLraLPJX.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmpp2ez75e"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-8hgmed1z1ohh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 880895,
+          "tmdb_still_path": "/22ocRiKS7UWHnB6lNOZM5e96Dxm.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj118k3jll"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7uoirg493j6t.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 880894,
+          "tmdb_still_path": "/6fZmIsYfKPOEthp8Yvb9n0eqcs5.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj1185d-pq"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-oazr5yxhy4ze.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 880896,
+          "tmdb_still_path": "/gfzkT5cRRUWIa4KZBDDiTKthWsi.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn77k8eg36"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xrts6g26bq6y.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 880897,
+          "tmdb_still_path": "/lyHw1A0hJQqZEoxmJeDHZR6YOb9.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5ee-gx8mr"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-x45qzyqwgia6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 880899,
+          "tmdb_still_path": "/suTIlaYwdYs86bArm1uIbydqDXP.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmpp2-147l"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xyam00e55xh1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 880898,
+          "tmdb_still_path": "/jdzioz7bLWM5RDdaiH51R2GiRYa.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/r4w5-tekk65e70d"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-zozfyse3i0l0.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 880900,
+          "tmdb_still_path": "/aw1cw6w5QipglLN1kCGyWaJAQuH.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpjj0nq5xd"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-o9xeuwcjfme5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 880901,
+          "tmdb_still_path": "/szXig1xFqHU7JUNUlewNa3Y8nuy.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn77y184gd"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-mp2prcogxzy7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 880902,
+          "tmdb_still_path": "/6ueX65TiBKLcfHHEb0BnYz0NXLc.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/2r7pyu2wwkejdp5"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bsjfh2qp2pn1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 880903,
+          "tmdb_still_path": "/f5WwsY3RDq7Adrz3bjuNpnTv4gX.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-22d68mx2"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-54uzz8cqzngl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-24",
+          "runtime": 24,
+          "tmdb_episode_id": 880904,
+          "tmdb_still_path": "/ivAupaMSHkqrJhdz2dCkylorAS9.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/3pdkximqq44lylz"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-f5cb9d9ug3hd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-31",
+          "runtime": 24,
+          "tmdb_episode_id": 880905,
+          "tmdb_still_path": "/p447zo2INlfczdI3Va1HSW4sUDI.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmppxx-x3p"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fddyzjv6qiam.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-07",
+          "runtime": 24,
+          "tmdb_episode_id": 880907,
+          "tmdb_still_path": "/mwwX38MhYVzPRgk8kySqdHRGNzR.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/5krp5udmmgqnq4w"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-yu7at34p6c81.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-14",
+          "runtime": 24,
+          "tmdb_episode_id": 880906,
+          "tmdb_still_path": "/3q6vkkZn8uTaGiN6ViHEzyVV1eU.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور أحداث ستاينز؛غيت عن مجموعة من الأصدقاء الذين قاموا بتحويل الميكرويفالخاص بهم إلى جهاز قادر على إرسال رسائل إلى الماضي، أثناء قيامهم بالعديد من التجارب،منظمة تعرف باسم [SERN] تقوم بأبحاثها الخاصة حول السفر عبر الزمن تتعقبهم،الآن على شخصياتنا إيجاد وسيلة لتجنب القبض عليهم من قبل هذه المنظمة.",
+  "url": "/anime/steins-gate",
+  "story": "تدور أحداث ستاينز؛غيت عن مجموعة من الأصدقاء الذين قاموا بتحويل الميكرويفالخاص بهم إلى جهاز قادر على إرسال رسائل إلى الماضي، أثناء قيامهم بالعديد من التجارب،منظمة تعرف باسم [SERN] تقوم بأبحاثها الخاصة حول السفر عبر الزمن تتعقبهم،الآن على شخصياتنا إيجاد وسيلة لتجنب القبض عليهم من قبل هذه المنظمة.",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Mamoru Miyano، Asami Imai، Kana Hanazawa، Tomokazu Seki، Yukari Tamura، Haruko Momoi",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، غموض، كوميديا",
+  "trailerId": "4EtT1VdgGTw",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Steins;Gate",
+    "mainDescription": "تدور أحداث ستاينز؛غيت عن مجموعة من الأصدقاء الذين قاموا بتحويل الميكرويفالخاص بهم إلى جهاز قادر على إرسال رسائل إلى الماضي، أثناء قيامهم بالعديد من التجارب،منظمة تعرف باسم [SERN] تقوم بأبحاثها الخاصة حول السفر عبر الزمن تتعقبهم،الآن على شخصياتنا إيجاد وسيلة لتجنب القبض عليهم من قبل هذه المنظمة.",
+    "metaDescription": "Steins;Gate أنمي 2011 | تدور أحداث ستاينز؛غيت عن مجموعة من الأصدقاء الذين قاموا بتحويل الميكرويفالخاص بهم إلى جهاز قادر على إرسال رسائل إلى الماضي |…",
+    "highlights": "تم تحديث بيانات Steins;Gate من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/42509"
+    }
+  },
+  "tmdb_id": 42509,
+  "tmdb_url": "https://www.themoviedb.org/tv/42509",
+  "original_title": "Steins;Gate"
+}

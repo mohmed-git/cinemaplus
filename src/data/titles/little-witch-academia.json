@@ -1,0 +1,452 @@
+{
+  "slug": "little-witch-academia",
+  "clean_title": "Little Witch Academia",
+  "raw_name": "انمي Little Witch Academia",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/little-witch-academia.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6hjs510wo5hg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-01-09",
+          "runtime": 25,
+          "tmdb_episode_id": 1250598,
+          "tmdb_still_path": "/aTXgpPfnm6dLq8eKqDjZUArJjzE.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/s7g3hqw4xr6h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-01-16",
+          "runtime": 25,
+          "tmdb_episode_id": 1257639,
+          "tmdb_still_path": "/8mFS6HYVf5FV69AOj2FXP2KZ27c.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/e6ig3x3bozgg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-01-23",
+          "runtime": 25,
+          "tmdb_episode_id": 1259752,
+          "tmdb_still_path": "/wrKlixti6jjV45GEcq9epEDo90I.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/j8rv9bp1mazp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-01-30",
+          "runtime": 25,
+          "tmdb_episode_id": 1262456,
+          "tmdb_still_path": "/iYAtEypcPK2wtICNm5tCblLWeV8.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xmd6sycqyele"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-02-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1265474,
+          "tmdb_still_path": "/iwgPoLBbIloOnSWKgH2mQmXpLkt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7kv91m32yiyh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-02-12",
+          "runtime": 25,
+          "tmdb_episode_id": 1266460,
+          "tmdb_still_path": "/95YrwGhDNnUaky5rKivrSsuvNk1.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ua2o3jesscgk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-02-19",
+          "runtime": 25,
+          "tmdb_episode_id": 1266461,
+          "tmdb_still_path": "/kXGRYZZLrZQG8i06wK9TEV1deiX.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/od76gac8omts"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-02-26",
+          "runtime": 25,
+          "tmdb_episode_id": 1266462,
+          "tmdb_still_path": "/2woxkXBIyHxBqoQKK9NsqogWPe7.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dvxgaxhgzet1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1266463,
+          "tmdb_still_path": "/rTfSQ34s5lkzAupKMwrUjknYxP0.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ijqq106xc7wo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-12",
+          "runtime": 25,
+          "tmdb_episode_id": 1266464,
+          "tmdb_still_path": "/75wzImDfYIHSouw9ydtOVOV78Lv.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ima469lhhbfg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-19",
+          "runtime": 25,
+          "tmdb_episode_id": 1266465,
+          "tmdb_still_path": "/fQNZrGbzTGfETm9fU4ii98ZkrW2.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vr4crum13ys4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-26",
+          "runtime": 25,
+          "tmdb_episode_id": 1266466,
+          "tmdb_still_path": "/w0mFwVdJSyTwke9uv4Qv8zmgcaZ.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zlfvbrb1l7vd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-02",
+          "runtime": 25,
+          "tmdb_episode_id": 1266467,
+          "tmdb_still_path": "/ufzxhPXuHtgU2EQAT1Jdy5mAjio.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/f3oas073vcn3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1266468,
+          "tmdb_still_path": "/aD8a6MGquhXaExJFuVNBrjB5u8X.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wfbia9srfppw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1266469,
+          "tmdb_still_path": "/gzBvxsb5wUWVD9nkGX6C67YpYht.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4ggjsloppoa1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1266470,
+          "tmdb_still_path": "/ijcmZ8RbvJln0nL5j1RMrw1BZaJ.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/gl08ikwet1c5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1266471,
+          "tmdb_still_path": "/rWXLcX7OOPk0siyvOCFzCZzkcze.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2k9cgw0dv0el"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1266472,
+          "tmdb_still_path": "/gePywaaZWxYEHw6TTks1nSaJu1l.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/da2xpbcicmix"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1266473,
+          "tmdb_still_path": "/zlJNY0rHGc3vCDQdifCJbALcP8s.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ag8vxi2tg8p9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1266474,
+          "tmdb_still_path": "/xOEG58Mv1AUb5kJrUXJ6JdNixid.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dxryzvtj35yh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1266475,
+          "tmdb_still_path": "/icmtrbfvBsq2CLiPn3VT9ILNiyQ.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/x54bqpql49e6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1266476,
+          "tmdb_still_path": "/dJDgm0lMEPVyD6hrXEuVf7seFDQ.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/r32ct30pcued"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1266477,
+          "tmdb_still_path": "/7BBcVBvP7ChdXBRtH6p0q8nPSim.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/lou16qrm1sq1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1266478,
+          "tmdb_still_path": "/fK02HyK0vw9PU5ehZLRtyL4g9Bi.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ly454h9dg7zf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1332735,
+          "tmdb_still_path": "/cMxAJkXTON2eGti58klbdBT5AjF.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Little Witch Academia ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. يعتمد Little Witch Academia على مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء سحر، مغامرات، مدرسي، خيال، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/little-witch-academia",
+  "story": "يدور أنمي Little Witch Academia ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. يعتمد Little Witch Academia على مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء سحر، مغامرات، مدرسي، خيال، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Megumi Han، Michiyo Murase، Fumiko Orikasa، Chinatsu Akasaki، Yoko Hikasa، Noriko Hidaka",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، أطفال",
+  "trailerId": "rRBPLKO-jFA",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Little Witch Academia",
+    "mainDescription": "يدور أنمي Little Witch Academia ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. يعتمد Little Witch Academia على مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء سحر، مغامرات، مدرسي، خيال، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Little Witch Academia أنمي 2017 | يدور أنمي Little Witch Academia ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Little Witch Academia من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/69293"
+    }
+  },
+  "tmdb_id": 69293,
+  "tmdb_url": "https://www.themoviedb.org/tv/69293",
+  "original_title": "リトルウィッチアカデミア"
+}

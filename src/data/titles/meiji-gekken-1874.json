@@ -1,0 +1,512 @@
+{
+  "slug": "meiji-gekken-1874",
+  "clean_title": "Meiji Gekken: 1874",
+  "raw_name": "انمي Meiji Gekken: 1874",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/meiji-gekken-1874.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7020726258251"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TDmm6acrOFoOaIpW"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rgq41"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7020738513483"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/tncRxILA#FaG3AaBA7yKytzBK4XAROQntQyMeBjCYf99O6N1arkQ"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7020743232075"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XIi95rGwyDAyKoAh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-14",
+          "runtime": 27,
+          "tmdb_episode_id": 2174043,
+          "tmdb_still_path": "/rbyRMHm2oxf1MM2JEXDvrjlBgwp.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7042492467787"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dWHghFRZYyi594uO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rnnqz"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7042521303627"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Uf0iVZII#RHcnhKQ3KC3Eg1SDS68E5sO9m2RG9qAKwWCcuxP3mu0"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7042526349899"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9Os8p8q4IlD2FSUT"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8rnnyk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-21",
+          "runtime": 26,
+          "tmdb_episode_id": 5075966,
+          "tmdb_still_path": "/2VjBgof9gg75iD3L1CNa4SGIn8H.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7063969598027"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BxhBrDR3hD5BcNHF"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rv1ov"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7063994698315"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/QDsXUayK#qFVcNmn_xDwRQv6FrOD6RkBkUmAKCxTtgBX4DK7w8ks"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7064001841739"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=K0OHftViMmyXmzS9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-04",
+          "runtime": 30,
+          "tmdb_episode_id": 5092059,
+          "tmdb_still_path": "/bccU7aP0PoXB2aPoR8YHPDAXcwt.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7086729202251"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NHN2qIzEy8DhUsoN"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8s5j1o"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7086737328715"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/1jERzJBR#GpYH2iKh7XnyxVYT3zSB3ZccQ3ehz29gGBHzjtBcGQg"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7086744275531"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OVTf6ULY9EXMMAc5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-18",
+          "runtime": 29,
+          "tmdb_episode_id": 5107466,
+          "tmdb_still_path": "/dFX1a7xg315nCPDVgw28lVx6YG5.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7107901327947"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SPvP1VI6MexXANRO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8sjfi4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7107909388875"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UGthwb4J#1faX96j-cPot2d2Q0hra_XQOmjc_NmIv1bFHyaIAU34"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7107915352651"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Pt9EQm0PzhdyfPyA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-25",
+          "runtime": 24,
+          "tmdb_episode_id": 5138559,
+          "tmdb_still_path": "/fwEQ2mKnlElf9sEdVg2BfrEZH8g.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7129434032715"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=y7Yl8XeRSN6oUwV5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8swwoc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7129443404363"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/wXcEXDbC#OwLoeKmpnyB7F9tVUqpcReAx9bUiScbChc00MqG0iDk"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7129452317259"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dE1ARk8Djp2oDhmS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-03",
+          "runtime": 25,
+          "tmdb_episode_id": 5153717,
+          "tmdb_still_path": "/3uEuFpA44WXIGSHytD6llPgN7ku.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7153934010955"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZqauIf5Ql8BMUiL4"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8tapzw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7153943906891"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/4eV30bgL#ITF3Bde4Ab0i-vtWW2n8UZYvw8iFZ2500OBFSQhHFxE"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7153950329419"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DBWs7YL5BHxyFZzD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-10",
+          "runtime": 30,
+          "tmdb_episode_id": 5169217,
+          "tmdb_still_path": "/3utYwZImLQ9RUBTScLSggl5nAqm.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7175372409419"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yZmPY7BV8D4wvCuy"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ts5no"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7175379356235"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/IalhRYSC#FbjLL6AJqd4Cue_4BPMi8zrgvFG8KXzfjJmQaeYQKDY"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7175385582155"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Jkxgn2ofxpGE0oOn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-17",
+          "runtime": 27,
+          "tmdb_episode_id": 5189819,
+          "tmdb_still_path": "/lvMRdGk6A8ocSSDJIjiKy18DAMg.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7199382112843"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yxaMMOVKWAm8eSC7"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8u6gi0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7199394695755"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/JicVDCbL#QAXoGBqNQAxTiBEuIQm9W3N3HiRRxlG4zBCGJ3Yl1FY"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7199399873099"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=igZvLw9h39N9cjoJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-24",
+          "runtime": 28,
+          "tmdb_episode_id": 5204277,
+          "tmdb_still_path": "/rp6sPyhmilvBfCHE94BJPwsGoKR.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7223511943755"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2DTM9dZcAeMwwBmC"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7223520397899"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/V6sjmDTJ#wjehGvir-ds5kzWpeirM_jUV5cpXBZZX6B0DvJxrQh4"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7223527017035"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=524Q4LIOYCwqWkCX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-24",
+          "runtime": 30,
+          "tmdb_episode_id": 5206839,
+          "tmdb_still_path": "/s4dxqEC8doGW668RNe6FB72liBF.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Meiji Gekken: 1874 ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يدور أنمي Meiji Gekken: 1874 حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات تاريخي، ساموراي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/meiji-gekken-1874",
+  "story": "يدور أنمي Meiji Gekken: 1874 ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يدور أنمي Meiji Gekken: 1874 حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات تاريخي، ساموراي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "الولايات المتحدة",
+  "director": null,
+  "stars": "Yuichi Nakamura، Satoshi Mikami، Tomoyo Kurosawa، Lynn، Kazuhiro Yamaji، Katsuhisa Houki",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "X8dzfw2tEcg",
+  "rating": "5.9",
+  "imdb_rating": "5.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Meiji Gekken: 1874",
+    "mainDescription": "يدور أنمي Meiji Gekken: 1874 ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و10 حلقة. يدور أنمي Meiji Gekken: 1874 حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات تاريخي، ساموراي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و10 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Meiji Gekken: 1874 أنمي 2024 | يدور أنمي Meiji Gekken: 1874 ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Meiji Gekken: 1874 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/99787"
+    }
+  },
+  "tmdb_id": 99787,
+  "tmdb_url": "https://www.themoviedb.org/tv/99787",
+  "original_title": "明治撃剣－1874－"
+}

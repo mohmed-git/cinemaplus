@@ -1,0 +1,424 @@
+{
+  "slug": "dagashi-kashi",
+  "clean_title": "Dagashi Kashi",
+  "raw_name": "انمي Dagashi Kashi",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dagashi-kashi.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349687507531"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1T8CPtJLjxkQAlYDutMxLFn1QuJrEzLtf/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/j_5DoUJ-ea"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1VOzppBKHMetY-89gaH9f1GcAzxYl6xt1/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1163918,
+          "tmdb_still_path": "/iQLrWdJr35JEM09yMog6ocBKAjB.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349790071371"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1__0FbqMYAAtzh_HdP5SkwsmbCfPexGQo/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/hZ2vhOXCea"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1qAulCOJ6vSeuIJ5IUkYTpq1_sLYtlRF8/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1163919,
+          "tmdb_still_path": "/pGFsMJSazas371JlCdI0TBUgZRV.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349797608011"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1YgLA6GiRoRnL03P81tIAgI6vRG4Ez4tV/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/P63lgeVCiq"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1AY_vy2yHBHc5SLH3PIfzxISYVrCdwGga/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1163920,
+          "tmdb_still_path": "/UvbJgsKDxr1gi190TlOrgoC7vn.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349870811723"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1AY63esrPo6_K7HC4GYyXwnEupLh-3WTC/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/XifgBN9riq"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/13qo1uQReW9UtU3ylYgjbEQkA2f0dHrJm/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1163921,
+          "tmdb_still_path": "/sojgsvc241pxOs2cL4cEHkpH1El.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349881821771"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1Tu9i_iZrNZ_5F4AtUMIj3rhTXlnbbW4_/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/8cYZ-bP6iq"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1JQeWtA-7j-oDncViTuZJHKAdyfsWqHHE/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1163923,
+          "tmdb_still_path": "/p3jTgqBSFGUjKsdEAUAKjg9cOsp.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349891848779"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/18imdhzLRLKfGn6aehh24vPw2WtDcqDCE/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/CGCQ6RMziq"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1LEWMDKbwFEeMKBcKBO4zbAKxhHnGrXiP/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1163924,
+          "tmdb_still_path": "/reL9D9b4kU3yGUSytqnyoSDqys.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349902924363"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1zKlN3o5EvvjcybEYQKGUU-aS7B2fQNZS/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/7WAIyQebiq"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1evUOtnBFChvFiRytA-5lxAIks3eRJbAu/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1163925,
+          "tmdb_still_path": "/kj9KKmrba7PXG6W2kFHxlQcs8Ko.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349907708491"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1tHuAvDpYGCln9C8_mzFPo6qVjajaAuyU/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/38Aj6zU5iq"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1i3j0yDSK90pMbxfLxKsC-BATsZnXKu8U/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1163927,
+          "tmdb_still_path": "/ptVYQj7xVVgOFk2R5RlEOsK9pqM.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349912492619"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1-hwzXgepwVH_Y2FuoOctZiHCNwReePU6/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/9tayDgsciq"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/119o0WUtLdYAvphFK0HSIKrNvgnJyKGsi/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1175911,
+          "tmdb_still_path": "/dbwGXRKZJtIYcZvB4VDWM62r2Pz.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349916686923"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/17DiV_nchbIefy1nf-r1Uozd1JSx2frif/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/LstAKMceea"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1b_mO2bg8JQ4BqIUOfOxC6DxyuNMQyTbV/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1176474,
+          "tmdb_still_path": "/vtY2bc2piTm7Xe7uuXKUFbMbz0j.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349920619083"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1ufo9_O4z0CNTg8XBOItOCuVe1CJx6ztT/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/wELIJQ0dea"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1s9xefo65p6tzjQzhCJfYotYKd2jAVlO2/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1324641,
+          "tmdb_still_path": "/2NkijBX3TDGBkc5E2QL4nFo6W57.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2349925468747"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1oxC-GbHgkqCPD2Eq9bYABLebxEG3KAlZ/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/L92lt--_iq"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/11-5XdcwZKWuZkXo-9X8CbiKI2T1LNtIg/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1324642,
+          "tmdb_still_path": "/5BkqGsRMOSe63qlwXHQcrZf1mfT.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Dagashi Kashi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد Dagashi Kashi على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء كوميدي، شونين، شريحة من الحياة، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/dagashi-kashi",
+  "story": "يدور أنمي Dagashi Kashi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد Dagashi Kashi على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء كوميدي، شونين، شريحة من الحياة، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ayana Taketatsu، Manami Numakura، Atsushi Abe، Keiji Fujiwara، Asami Hanase، Tatsuhisa Suzuki",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "NK82zttzfh8",
+  "rating": "7.1",
+  "imdb_rating": "7.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dagashi Kashi",
+    "mainDescription": "يدور أنمي Dagashi Kashi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد Dagashi Kashi على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء كوميدي، شونين، شريحة من الحياة، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Dagashi Kashi أنمي 2016 | يدور أنمي Dagashi Kashi ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dagashi Kashi من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/65523"
+    }
+  },
+  "tmdb_id": 65523,
+  "tmdb_url": "https://www.themoviedb.org/tv/65523",
+  "original_title": "だがしかし"
+}

@@ -1,0 +1,544 @@
+{
+  "slug": "negaposi-angler",
+  "clean_title": "NegaPosi Angler",
+  "raw_name": "انمي NegaPosi Angler",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/negaposi-angler.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7721386248902"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CHoXrY4FPr452EOR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x96oqzg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7721396406982"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7721402305222"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8kv1UljktNdXo7EN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5511944,
+          "tmdb_still_path": "/hjYpOZDBcDY7g9Eg3LgCavuVfVm.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7761663691462"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=J1FdiRAmMk4nF06l"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x973iws"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7761714154182"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7761746791110"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gc93nVnK9PbWe7dw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5645754,
+          "tmdb_still_path": "/sb4wAftU5bnOd0jt89MANauKFm2.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7811529181894"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IAnlldO2JacHUEti"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x97j4cs"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7811534031558"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7811539798726"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BjaXW70g4GupCZac"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5659972,
+          "tmdb_still_path": "/1p4f57FrAowXNicxp5MKQeK3JY2.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7838473718470"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ErsE0PXAPfRNY2Pd"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x97yvce"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7838504127174"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7838535387846"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tTTfclYTwMcAC96Z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5659973,
+          "tmdb_still_path": "/ugR810zMTiwdl5eRT8qBy4Dr78J.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7929433623238"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=LkcDJuGh3mrNENqq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x98dcvu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7929465473734"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7929525242566"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nqX7BFFa9L8shTXA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5659974,
+          "tmdb_still_path": "/pUpwVK0z390WQf8kaUAOxxfXjBO.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8108000152262"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sPQG5Lpd2urEFP9d"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x98rupo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8108032723654"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8108277304006"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SGbmlgAjbX1w8mRG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5659975,
+          "tmdb_still_path": "/yoACv9XT5ir5PGw3dbS0sMqRH2u.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8281548786374"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2uoGpCBZDdDVbosW"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x995wae"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8281601215174"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8281646041798"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VvnSGYhep5V90eSn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5750361,
+          "tmdb_still_path": "/7PrxKYG4iPsUlHwBPDE5YMHpNgr.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8434112531142"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TOLFoYD8pvDyEY8Z"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x99jax4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8434149493446"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8434197269190"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=U34Dh1YvqocWdqSg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5760979,
+          "tmdb_still_path": "/mwyyAMemPIKv8WCKqZRgh4Qe8dM.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8604368112326"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zxsWp2z8FPA8qMUl"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x99wtc8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8604403436230"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8604453440198"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AvNkeVqPTmULTjw0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5760980,
+          "tmdb_still_path": "/p6xEBLKammMb3AAms5L4fQmlk2d.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8787388336838"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EaCViBXsf3pqUm9d"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9aadoa"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8787450268358"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8787468356294"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1eN5fMGVzGMOpdty"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5760981,
+          "tmdb_still_path": "/n2AsaBqKSFxrqcPLb1hzI5RMZvN.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8960181996230"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WwaBB1RLE6wnEiDf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9aoksy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8960210569926"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8960225249990"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=u6PfCOwrmavVGxNB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5760982,
+          "tmdb_still_path": "/bVHoHbMncx2kRzofQcFNc0IUI7v.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8986148997830"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DGtbOLEw6lsq1JM0"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9b1w06"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8986156403398"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8986164398790"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Kd51d1RZlNvm90HG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5760983,
+          "tmdb_still_path": "/uYomckYPNwkLXnzqExzNQkndxuF.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي NegaPosi Angler ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد NegaPosi Angler على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تصنيف شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة NegaPosi Angler على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "url": "/anime/negaposi-angler",
+  "story": "يدور أنمي NegaPosi Angler ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد NegaPosi Angler على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تصنيف شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة NegaPosi Angler على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Mutsuki Iwanaka، Fairouz Ai، Kaito Ishikawa",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": null,
+  "rating": "7.8",
+  "imdb_rating": "7.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "NegaPosi Angler",
+    "mainDescription": "يدور أنمي NegaPosi Angler ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد NegaPosi Angler على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تصنيف شريحة من الحياة يظهر في طريقة بناء الحلقات، حيث يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة NegaPosi Angler على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+    "metaDescription": "NegaPosi Angler أنمي 2024 | يدور أنمي NegaPosi Angler ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات NegaPosi Angler من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/260689"
+    }
+  },
+  "tmdb_id": 260689,
+  "tmdb_url": "https://www.themoviedb.org/tv/260689",
+  "original_title": "ネガポジアングラー"
+}

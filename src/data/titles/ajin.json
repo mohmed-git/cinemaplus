@@ -1,0 +1,410 @@
+{
+  "slug": "ajin",
+  "clean_title": "Ajin",
+  "raw_name": "انمي Ajin",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ajin.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/3d8qh7g97gg6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/2uzcyb6xylyq"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-rccnsspnkr9e.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1157720,
+          "tmdb_still_path": "/7ZK97wvRPtOr1T4JnqMgtQALnE3.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xlvxcveipqj2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/11zj42akqr97"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-k344qr6wnhj4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-23",
+          "runtime": 23,
+          "tmdb_episode_id": 1160977,
+          "tmdb_still_path": "/q6J0Qd3XmGgejjvv7b7Ndd4M4EL.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/lwlvrw3dgvh4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/usrz0r6xx1d8"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-imyhh2byfwlc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1209475,
+          "tmdb_still_path": "/cQeqaEKOJ6VnpfN7SQ3bDnzuNyf.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xksplwqzcc93"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/c9i7fgftfmqz"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-f6e0fwnqimkz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-06",
+          "runtime": 23,
+          "tmdb_episode_id": 1209476,
+          "tmdb_still_path": "/2p0QyFnFLLuIpo21O14TQwEyEUi.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5mh2kfyicear"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/l9eg0p3wol4m"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-7ldd8v2irfcy.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-13",
+          "runtime": 23,
+          "tmdb_episode_id": 1209479,
+          "tmdb_still_path": "/zzGT17M92wCOgP78z1YWrMj7nXn.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/67kz1qsxr2kl"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/5cpdfryeoaza"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-p634mzalzuzj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1209480,
+          "tmdb_still_path": "/dUGJU6vDkRbb9ZT9eU04vQc9l2T.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/eoqgcdf5u533"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hvukc80a33cu"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-6c2jfv9z7l99.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1209481,
+          "tmdb_still_path": "/bpMIJvEL87gpNiqFY1K7FWfdpcP.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/by8umlbligol"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/62g9ih3jwrxf"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-eoper8cm6xzi.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1209482,
+          "tmdb_still_path": "/r3UrvR69BLWOQzyyr45UbNqCI1S.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/69g2o6p625qx"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/brkf7ya5uwx6"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-p6rbdj8tscnc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1209483,
+          "tmdb_still_path": "/896OCVBGBPGeKPKZ01qYNGTwO6U.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/71tifrtp6xiq"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/mddjimq9jsmh"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-0211vyamdyco.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1209484,
+          "tmdb_still_path": "/10n4vggLvCIWzBYBSkFEgwONsB5.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/fr8fm2mcnalq"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4l8txm69aoe8"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-u1r5vpovjovb.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-26",
+          "runtime": 23,
+          "tmdb_episode_id": 1209485,
+          "tmdb_still_path": "/eZins9Sa1HBTfx796S7ni0pVNaf.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/becf8w8avx5k"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/1q18elqxjlse"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-1omerfq7fle9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-02",
+          "runtime": 22,
+          "tmdb_episode_id": 1209486,
+          "tmdb_still_path": "/ynKDB6rfnPLBlMHhnICDlJd7hdW.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kl9td16n583m"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/fxf4jre0s6xi"
+            },
+            {
+              "id": 3,
+              "label": "darkibox - FHD",
+              "url": "https://darkibox.com/embed-i86z4nlazpt7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-09",
+          "runtime": 25,
+          "tmdb_episode_id": 1209487,
+          "tmdb_still_path": "/dBpfdyMxhyrWEMXCYgyJ6dm7gqd.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "الأجن هم مخلوقات كالبشر تماما لا يوجد سبيل للتفريق بينهما نعم ذلك ما سمعناه .. أنت أو ربما أنا قد يكون أحدنا أجن إذا ما السبيل لمعرفة ذلك .. ؟ ! .. إنها مجرد طريقة بسيطة .. عليك أن تموت لمرة .. فالأجن كائنات لا تموت .",
+  "url": "/anime/ajin",
+  "story": "الأجن هم مخلوقات كالبشر تماما لا يوجد سبيل للتفريق بينهما نعم ذلك ما سمعناه .. أنت أو ربما أنا قد يكون أحدنا أجن إذا ما السبيل لمعرفة ذلك .. ؟ ! .. إنها مجرد طريقة بسيطة .. عليك أن تموت لمرة .. فالأجن كائنات لا تموت .",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Mamoru Miyano، Yoshimasa Hosoya، Aya Suzaki، Daisuke Hirakawa، Hiroyuki Kinoshita، Hochu Otsuka",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، غموض",
+  "trailerId": "OO21Sq_CB0A",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ajin",
+    "mainDescription": "الأجن هم مخلوقات كالبشر تماما لا يوجد سبيل للتفريق بينهما نعم ذلك ما سمعناه .. أنت أو ربما أنا قد يكون أحدنا أجن إذا ما السبيل لمعرفة ذلك .. ؟ ! .. إنها مجرد طريقة بسيطة .. عليك أن تموت لمرة .. فالأجن كائنات لا تموت .",
+    "metaDescription": "Ajin أنمي 2016 | الأجن هم مخلوقات كالبشر تماما لا يوجد سبيل للتفريق بينهما نعم ذلك ما سمعناه | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ajin من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/65292"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "ajin",
+      "title": "Ajin",
+      "url": "/anime/ajin",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/ajin.jpg"
+    },
+    {
+      "slug": "ajin-2nd-season",
+      "title": "Ajin 2nd Season",
+      "url": "/anime/ajin-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 13,
+      "poster": "/images/anime/ajin-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 65292,
+  "tmdb_url": "https://www.themoviedb.org/tv/65292",
+  "original_title": "亜人"
+}

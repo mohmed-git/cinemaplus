@@ -1,0 +1,325 @@
+{
+  "slug": "charlotte",
+  "clean_title": "Charlotte",
+  "raw_name": "انمي Charlotte",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/charlotte.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/kyvicaqx53c2"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/tqbcsr6au5nw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1083974,
+          "tmdb_still_path": "/emaHs6uvIRs2njmY6khRZPXFuvF.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/mayizybd9pql"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/2ebockq57dpj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1083976,
+          "tmdb_still_path": "/dGebUNa84OexUUDoYZtehZj5Q4K.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/930mmyeqrf57"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/1t3e4c14h1hh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1084014,
+          "tmdb_still_path": "/8p9ANM3dxRsdzh6d6KciwYxzO89.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/emncgfo7p6p7"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/fsu95x6fnyea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1084015,
+          "tmdb_still_path": "/jO6G7DGRJU1SMaOYNNSOgEMuVf7.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/rt39i7ik7lxt"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/8exhf72zomd2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1084016,
+          "tmdb_still_path": "/5KTKJ8f0loNAoPSGrIdQQkZWr5p.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/nlwq3c42l99g"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/iuj7op18lxzk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1084017,
+          "tmdb_still_path": "/cfhT4tB76Ylie6u8bTXxqeL07Zt.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/5vsqf59xupat"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/2n5qiw85a5df"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1084018,
+          "tmdb_still_path": "/300TNLUi8UAYMyNriPSABzZKCRL.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/0j3sw7bjvy3t"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/vafendr1zmw0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1084019,
+          "tmdb_still_path": "/fRNdhnnJrTPnCUaaDsYxdgfwofH.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/wryvzqeodsot"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/8dxv73e39vmn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1084022,
+          "tmdb_still_path": "/u9lrwqLVWqRnA97TMp5H3vshiEP.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/s4mdz03pch6i"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/ytqicbd2lt0n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1084020,
+          "tmdb_still_path": "/uQv6TvdHuwhf1eI5JUaysQLDUBu.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/43racew1gsmy"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/462vh23mm49l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1084025,
+          "tmdb_still_path": "/sAX8B1ITlnJ4bYJH6CaFVEcKVJf.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/6qf7py0svuna"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/uhkus7gvgklf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1084023,
+          "tmdb_still_path": "/pUMJ1dFiAUWfzXRTN1OxZBa3pZB.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/y4lep7gg880k"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/m23d5fg6jjiz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1084024,
+          "tmdb_still_path": "/zSlCU7MAcEVSzbbY4avsezmEMOI.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "قلة قليلة من المراهقين لديهم قدرات خاصة. يو أوتوساكا هو أحد هؤلاء الرجال الذين يستخدمون قدراتهم دون علم الآخرين من أجل أن يعيشوا حياة مدرسية مرضية.\n\nفي أحد الأيام، ظهرت أمامه فجأة فتاة اسمها ناو توموري. يكشف لقائهم عن مصير أصحاب القدرات الخاصة.",
+  "url": "/anime/charlotte",
+  "story": "قلة قليلة من المراهقين لديهم قدرات خاصة. يو أوتوساكا هو أحد هؤلاء الرجال الذين يستخدمون قدراتهم دون علم الآخرين من أجل أن يعيشوا حياة مدرسية مرضية.\n\nفي أحد الأيام، ظهرت أمامه فجأة فتاة اسمها ناو توموري. يكشف لقائهم عن مصير أصحاب القدرات الخاصة.",
+  "year": "2015",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Koki Uchiyama، Ayane Sakura، Takahiro Mizushima، Maaya Uchida، Momo Asakura",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "6AgEzww-a0w",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Charlotte",
+    "mainDescription": "قلة قليلة من المراهقين لديهم قدرات خاصة. يو أوتوساكا هو أحد هؤلاء الرجال الذين يستخدمون قدراتهم دون علم الآخرين من أجل أن يعيشوا حياة مدرسية مرضية.\n\nفي أحد الأيام، ظهرت أمامه فجأة فتاة اسمها ناو توموري. يكشف لقائهم عن مصير أصحاب القدرات الخاصة.",
+    "metaDescription": "Charlotte أنمي 2015 | قلة قليلة من المراهقين لديهم قدرات خاصة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Charlotte من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/63145"
+    }
+  },
+  "tmdb_id": 63145,
+  "tmdb_url": "https://www.themoviedb.org/tv/63145",
+  "original_title": "シャーロット"
+}

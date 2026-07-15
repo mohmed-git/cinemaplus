@@ -1,0 +1,410 @@
+{
+  "slug": "shadows-house",
+  "clean_title": "Shadows House",
+  "raw_name": "انمي Shadows House",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/shadows-house.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/v1oeux7wafmk"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/8p4e0zqkdt7j"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/h3rb5udl5itu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2465402,
+          "tmdb_still_path": "/kBNztdQI1NQwlbpMcBqcMEuH5qi.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5dihat9vegbf"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/udljlf0augto"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/k8sgrdf23exh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2864334,
+          "tmdb_still_path": "/wQ1xcM9c0XdTRyvJim92zQjTbT2.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/p1rh8qlcm4v1"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/huigspa5fjea"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/6fas5k8ahvup"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2864364,
+          "tmdb_still_path": "/5VfApkcgAoQFkRtRVLVEyQCK2zF.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/mod3xjti4z9h"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3nirq5bnd7x0"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/8wetiel1d1zg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2864365,
+          "tmdb_still_path": "/AjhFAMEs2ZIUdchP2YkYl0mDh0L.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/tsqomdf1kl5v"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xwr2w4a3csq1"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/9gqda11n9kx2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2864366,
+          "tmdb_still_path": "/zqPAzNgkMwz1Nsx4lYbDTDFVSa3.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/j5gyiulcjc0a"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/lsj5h89umpfz"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/3yjxhshrsf44"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2864367,
+          "tmdb_still_path": "/ofdWYf1KHTxQ36eyLoIm1ot3G2b.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/akfkbeo475x5"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xfiq2qn0jge6"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/ylr87xr9qha9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2864368,
+          "tmdb_still_path": "/196FiBChGl8n9zyboMFqE8kYaQV.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/prxy72jiymu2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/yxj9ou0o71ak"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/h15ig9rigs6e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2864369,
+          "tmdb_still_path": "/kab6hm8QSIfqMHKp8zD0T1J9xsH.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/cb8wk7ab5npq"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/udiclwmqyzig"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/nlu6x75bk767"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2864370,
+          "tmdb_still_path": "/4dPYzSpJmfJXWNNNqGi6KM6tXj7.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/9yvredxdmc0u"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/mt4oxmihko45"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/pxn7izwaq6ol"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2864371,
+          "tmdb_still_path": "/8gn5Z2PCWehBtTi9JnvLt390IZV.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/gx272leain2t"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ikyha9rx7y13"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/s3znht0xsevw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2864372,
+          "tmdb_still_path": "/xwLtzPIDjROyPBe7GrVQd7qXVjS.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/hm45o30yx8hu"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/q3dji7aaf49c"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/ul8zccpivc1u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2864373,
+          "tmdb_still_path": "/drM9kdQtKDIuGI01SbWG2tX3N4z.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/6gj6srrgs97z"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/mpeoq4w9cv8y"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/ywsv2mlbz062"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2864374,
+          "tmdb_still_path": "/qLkiEy6mqmyi1n4DyByOIwNIfye.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Shadows House ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. يعتمد Shadows House على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات شريحة من الحياة، خارق للطبيعة، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/shadows-house",
+  "story": "يدور أنمي Shadows House ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. يعتمد Shadows House على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات شريحة من الحياة، خارق للطبيعة، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Akari Kito، Yu Sasahara، Koudai Sakai، Ayane Sakura، Reiji Kawashima، Mai Nakahara",
+  "genre": "أنمي، رسوم متحركة، غموض، خيال علمي وفانتازيا",
+  "trailerId": "BZzk82UFmNY",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Shadows House",
+    "mainDescription": "يدور أنمي Shadows House ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. يعتمد Shadows House على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات شريحة من الحياة، خارق للطبيعة، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Shadows House أنمي 2021 | يدور أنمي Shadows House ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Shadows House من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/111576"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "shadows-house",
+      "title": "Shadows House",
+      "url": "/anime/shadows-house",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/shadows-house.jpg"
+    },
+    {
+      "slug": "shadows-house-2nd-season",
+      "title": "Shadows House 2nd Season",
+      "url": "/anime/shadows-house-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/shadows-house-2nd-season.png"
+    }
+  ],
+  "tmdb_id": 111576,
+  "tmdb_url": "https://www.themoviedb.org/tv/111576",
+  "original_title": "シャドーハウス"
+}

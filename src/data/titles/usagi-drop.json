@@ -1,0 +1,393 @@
+{
+  "slug": "usagi-drop",
+  "clean_title": "Usagi Drop",
+  "raw_name": "انمي Usagi Drop",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/usagi-drop.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 11,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/nFoFCZoA#Y8GZxXVBeRoUjtxpCRes9H-AcdwfEXsOnQu_Z_C1-LE"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492467382859"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/l8l36bnpx8y8g7z"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1-J3DXDOsjwoeLazBj61sZQXs7LhcigcW/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-08",
+          "runtime": 23,
+          "tmdb_episode_id": 897897,
+          "tmdb_still_path": "/jNngH1J1vT4Nqyyd2mI7a2Ze8wA.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/bZZGSApL#-bv3MtfzY5LShvodTHn1eO6v9xIM0a_5kiKtpPLHKg8"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492494056011"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/10z6rtjzx7n8eqd"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1_YeCun3wSaunouHFfCvUUGyTZvpbFEVB/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-15",
+          "runtime": 23,
+          "tmdb_episode_id": 897887,
+          "tmdb_still_path": "/1y5z1ycHkDgZR19qmfpNibjtwh6.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/2QpXlTbb#oW8SzxbFKpaEJUD2Y9sGtbAK1L10g5eus-3-hLmNv88"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492496218699"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/jy2n3ud5wykxj2-"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1gRVsYb7biuL-4De6Z3Lsl7uMsBfbivgu/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-22",
+          "runtime": 23,
+          "tmdb_episode_id": 897888,
+          "tmdb_still_path": "/4rH4HbD9kHXOY0qso2uf2thCqj2.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/uABSUToa#B924tzDvLzWSSAxod8uqtdYaj7PBW5QowBW9Vt0tQCs"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492512602699"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/wrqwntnr1yr8mgn"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/10nzisza4jlWlqTziH7ibsor1KzzOOTvV/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-29",
+          "runtime": 23,
+          "tmdb_episode_id": 897889,
+          "tmdb_still_path": "/tOk5RHiMpnlZnC5x8yxpOcmBJ3l.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/HUZ0GR5T#O7tvszR1eld-adcb0JNcrYZgElN6Qc5grfyzfWSyQpk"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492513323595"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/2r3d2t2jemjl4w-"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1JMSXtRS7oQjIdh3SwbJKuPc2Atvd4fJR/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-05",
+          "runtime": 23,
+          "tmdb_episode_id": 897890,
+          "tmdb_still_path": "/nr7CEwSFaOk5MEFeHngoJy4TM2h.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/yABzjbxI#USyQH6mf-d_7TbmQVW9seWiaDv-c_5aKnXSkIfzwhUc"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492514634315"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/xpq3xb5py78mz1p"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ypWzQSGoxu_NXFYk14TbsA8-M6UnE1zh/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-12",
+          "runtime": 23,
+          "tmdb_episode_id": 897896,
+          "tmdb_still_path": "/7O26RqASExNXJVjvXXXC2hRtobm.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/zA5RnDKD#3jc1ZFDi3ESW17yJTcI5_YktK0nuJzmlYZQGXUxozHE"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492515748427"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/jy2n3ud5wygzweg"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/11d9-T5Q5Cp5D4slfjTuBE0S2sfnNSokc/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-19",
+          "runtime": 23,
+          "tmdb_episode_id": 897895,
+          "tmdb_still_path": "/gOcW6eyUcHxVV9zjLZ7LQnihIpr.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/3VgRmIjB#E-BOWajE46CrrzVK-VXEVdxKQRT_UONivDpL5ijJGPg"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492517583435"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/y1q6rue128mmrx-"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1FGwmEumI68DFjdi3TZyWZnBw5GKBS7cn/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-26",
+          "runtime": 23,
+          "tmdb_episode_id": 897894,
+          "tmdb_still_path": "/zSWeH06eCCycAvJlOjEREKn5jVL.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/LcwkwAIB#7acnsrZpFUXVZ7YcOofB-OtscVga5SRPVoR8lKqIENA"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2494778640971"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/4yddpsz74gmkn3p"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1FlIdhVfZYbjWF_c5J89CkVJODzwBCt8Z/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-02",
+          "runtime": 23,
+          "tmdb_episode_id": 897892,
+          "tmdb_still_path": "/7cNpDcOV3T3eNBayVW81rUyDCVQ.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/XNIXDIQb#06QRUFw6XOz0rvl_QcmFPJAAPxB7TIzkhxn5MJGXH9I"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492524333643"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/kxlw4f31rx26nrl"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1QVufZrGBUJaYehWRMaOwhOacckRm9I7i/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-09",
+          "runtime": 23,
+          "tmdb_episode_id": 897891,
+          "tmdb_still_path": "/iywGj4o17PbY4f6HoU5IXyHtJOd.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mega",
+              "url": "https://mega.nz/embed/PMximSyY#kTy6crb3zaxBjqKngXoOyRWboM9O2PJ1aFA7IkzqTHI"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2492526365259"
+            },
+            {
+              "id": 3,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/pwe1ncmyw6rwe7w"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1tGipYJL2_FGtkV58WYZGRC0RXmNuaGR4/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-16",
+          "runtime": 23,
+          "tmdb_episode_id": 897893,
+          "tmdb_still_path": "/ugxVThREwul0tOtMMrxLOjhM2eI.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يعانى سالم بعد موت زوجته والتي تركت له ابنته ندى. تربّت الطفلة في كنف جدها، الذي أحبها كثيراً واعتنى بها حتى وفاته. فأخذها سالم ليعتني بها، وقلب وجودها حياته رأساً على عقب، وجعلته يشعر بالسعادة والأمل مرة أخرى.",
+  "url": "/anime/usagi-drop",
+  "story": "يعانى سالم بعد موت زوجته والتي تركت له ابنته ندى. تربّت الطفلة في كنف جدها، الذي أحبها كثيراً واعتنى بها حتى وفاته. فأخذها سالم ليعتني بها، وقلب وجودها حياته رأساً على عقب، وجعلته يشعر بالسعادة والأمل مرة أخرى.",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ayu Matsuura، Hiroshi Tsuchida",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "PlWk-96JHz4",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Usagi Drop",
+    "mainDescription": "يعانى سالم بعد موت زوجته والتي تركت له ابنته ندى. تربّت الطفلة في كنف جدها، الذي أحبها كثيراً واعتنى بها حتى وفاته. فأخذها سالم ليعتني بها، وقلب وجودها حياته رأساً على عقب، وجعلته يشعر بالسعادة والأمل مرة أخرى.",
+    "metaDescription": "Usagi Drop أنمي 2011 | يعانى سالم بعد موت زوجته والتي تركت له ابنته ندى | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Usagi Drop من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45213"
+    }
+  },
+  "tmdb_id": 45213,
+  "tmdb_url": "https://www.themoviedb.org/tv/45213",
+  "original_title": "うさぎドロップ"
+}

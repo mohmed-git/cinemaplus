@@ -1,0 +1,371 @@
+{
+  "slug": "niwatori-fighter",
+  "clean_title": "Niwatori Fighter",
+  "raw_name": "انمي Niwatori Fighter",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/niwatori-fighter.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 9,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 9,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3QCLAy9u8KucB1Bq"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/0y0yvir1oor4"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/t9f4smnhm65m"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1uNuz3pZS9j7pwDn"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/yn5yvbpyytr3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-03-15",
+          "runtime": 24,
+          "tmdb_episode_id": 6914248,
+          "tmdb_still_path": "/rvLiZOzkpLglemPSv2LwAS7Fw7u.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=d6e3eayI1HHwViYa"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/uw158io9f6qo"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/agnargehq27l"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UheQZQHv2oMMlUHc"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/eppiamt2u5ow"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-03-22",
+          "runtime": 22,
+          "tmdb_episode_id": 6914588,
+          "tmdb_still_path": "/gqyOnvqHuQo164NxoiQwkuBrPlZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UJCFS5rYyHoj3TiQ"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/84xc6spdyfhg"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/x8zj6ngkz5ti"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tSlFzJGRTve1cc3o"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4cab3hkdie86"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-03-29",
+          "runtime": 22,
+          "tmdb_episode_id": 6914590,
+          "tmdb_still_path": "/sPaaSQsdXeqguApY51Bzc9nmwuU.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bg53MlM0IkDYFZTV"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/30ob4ibe1j4z"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/imcqeoel2bzw"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9B1pzN9MhPPOku3g"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qi9h33zh1v7l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-05",
+          "runtime": 24,
+          "tmdb_episode_id": 6914591,
+          "tmdb_still_path": "/jSZC01O12OCKpURE0St60mIIg6c.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HgNJLaJX2IQPw73a"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/gwtgqqkqx21j"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/cx3hmpj7rvxu"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UW4AwEdTbfdnE6ml"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/spwdhrgaazb3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-12",
+          "runtime": 22,
+          "tmdb_episode_id": 6914592,
+          "tmdb_still_path": "/7I1S2W5ghy5fvfQIvMi5w1xqFh1.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kdGMfVRFAfWvEMqq"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/vobo38zbwrc9"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/mw4r8anq18b5"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=k8B8BBL66fF4bsMX"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/lpooyh595w2e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-19",
+          "runtime": 23,
+          "tmdb_episode_id": 6914593,
+          "tmdb_still_path": "/sGDL3BRvJjYBTkfMw0nHhhoN7lp.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/do03mtk9soeb"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-4xbjem6csiif.html"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/akcoci84xxyr"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jftfroldv865"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-04-26",
+          "runtime": 22,
+          "tmdb_episode_id": 6914594,
+          "tmdb_still_path": "/1ju3h4519MiGQIjvuRGBWC6d57g.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/vibbhjggzhf0"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-z8fwa6tbjqs1.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-seioe2giuejp.html"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8k57213couq2"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-h1gii2qft5ob.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-05-03",
+          "runtime": 22,
+          "tmdb_episode_id": 6914595,
+          "tmdb_still_path": "/vmuSBgxbQQFQgTXUBzZDKpDqahM.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/wpnq0tsdsdpj"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-3huxxajwbgn1.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-wave21ytqyvl.html"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ly87hrc5ky79"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-le0i8veh2quf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-05-10",
+          "runtime": 24,
+          "tmdb_episode_id": 6914597,
+          "tmdb_still_path": "/fr0xjUYgDBA5QiphQ4ux90P2uVg.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Niwatori Fighter ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2026، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Niwatori Fighter حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. صفحة CINMAPRO ترتب 1 موسم و9 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/niwatori-fighter",
+  "story": "يدور أنمي Niwatori Fighter ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2026، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Niwatori Fighter حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. صفحة CINMAPRO ترتب 1 موسم و9 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2026",
+  "quality": "FHD",
+  "duration": null,
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة",
+  "director": null,
+  "stars": "Kenta Miyake، Mariko Honda، Hikaru Tono",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "ICDmiq2bW8M",
+  "rating": "8.6",
+  "imdb_rating": "8.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Niwatori Fighter",
+    "mainDescription": "يدور أنمي Niwatori Fighter ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2026، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Niwatori Fighter حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. صفحة CINMAPRO ترتب 1 موسم و9 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Niwatori Fighter أنمي 2026 | يدور أنمي Niwatori Fighter ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Niwatori Fighter من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/259819"
+    }
+  },
+  "tmdb_id": 259819,
+  "tmdb_url": "https://www.themoviedb.org/tv/259819",
+  "original_title": "Rooster Fighter"
+}

@@ -1,0 +1,556 @@
+{
+  "slug": "kill-la-kill",
+  "clean_title": "Kill la Kill",
+  "raw_name": "انمي Kill la Kill",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kill-la-kill.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nwq82vs5bm3y"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/zkwis8u5x7ep"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 976805,
+          "tmdb_still_path": "/v9VacJaRuXb2ZJgZE3uLfVKnvXC.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/lhcomlqwatue"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/r54yem1drnj3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 976834,
+          "tmdb_still_path": "/w2YwLy77QjtlvcXe1SiDgHq6SPF.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/m0y486fnghp9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/6xgesj9fdd16"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 976835,
+          "tmdb_still_path": "/kDjjNJKzbQjDEYsEViJWaF4TkVI.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/epu13itlfo22"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/5klw93ite1lm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 976836,
+          "tmdb_still_path": "/vNlfRJXGeAwXX4zUKou6r8PSAtp.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8nwgj88p3re8"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/2uahf79yoruc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 976837,
+          "tmdb_still_path": "/7fulxQ32wQcGXyywaODx6ysbWmz.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/38mcj0na9unu"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/t7vjtbjtj8n3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-08",
+          "runtime": 24,
+          "tmdb_episode_id": 976838,
+          "tmdb_still_path": "/3KFhi1E2KVWFJfwFzgoeQVwGAIO.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ah17575a2t6t"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/odth5cuprbp3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 976839,
+          "tmdb_still_path": "/hXmBcu6LO0N2X3OsJReX4cCrmEf.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/96li0ndic0z2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bx0scll8uado"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 976840,
+          "tmdb_still_path": "/pPtNsbCoj5hV3Kcjnrsdq0Ffdyr.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/wdpw60hhakzt"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/aslq8h4hdqxz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 976841,
+          "tmdb_still_path": "/4ZPN3hKT6zLvqtvprrjHtFtBZDM.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/o6v3k67b6an7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/p7hz82hxdknp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 976842,
+          "tmdb_still_path": "/d3yboYZYcwBCfflVX1amVwevvau.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/un19a5eu07xe"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/q94xymqw0ats"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 976843,
+          "tmdb_still_path": "/qzoBUciaAK6DYYdc0R0p73bA54g.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/7c3lk5thf122"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/pmrnq5g463hg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 976844,
+          "tmdb_still_path": "/8SSd4Dis69FqO5eZfWyFha9iWri.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/3xqu2wiqejzk"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bfvo1qu6240t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 976845,
+          "tmdb_still_path": "/7eoOWDSdbMs2hqchcuqjYr8rMth.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ty35upzey3n7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/l59tkuujivct"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 976846,
+          "tmdb_still_path": "/2t3YxoPWAeEn4hhVLArGVXzFiss.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/j9zpw1q76qm5"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/6nakm0eetuic"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 976847,
+          "tmdb_still_path": "/fEN1vr3bt4KRMMIEcqJ9oJktKKF.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/d1hkk05h14hy"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7er8wx6wty0m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 976848,
+          "tmdb_still_path": "/nHWZNYdVm3d8u7uGx6nSpscgqZa.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/v3v81osdbdbt"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/abyiqsbycktj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 976849,
+          "tmdb_still_path": "/oAH12VKHk32yVAJ7oWlwRg0brZb.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/t1x8xq42soky"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ltcriihneon6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 976850,
+          "tmdb_still_path": "/aEeXIXHYyRlnqK4djtVqd8GADvD.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/yttwmr99mem5"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/yl2oadu8gcz2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 976851,
+          "tmdb_still_path": "/8seAxoeZPetcxH9HbFW21kGkLUM.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/jf0i7d0v867b"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/w6xxgsu5cd1z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 976852,
+          "tmdb_still_path": "/l2blY1Zh2zQF0UYaJaJ5N5w1eH0.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/li5s7r9kjyqt"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qc1mw8873zi7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 976853,
+          "tmdb_still_path": "/q8M9fVNjK237SmMiitjSo8Kiyhu.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ak1ldqw5a62u"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/9ozfpi77rua7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 976854,
+          "tmdb_still_path": "/xsVgwIR5kfSZk8ncUtiJLbMLPJZ.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/gb4b70dvux8y"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bwe06dhoxhcd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 976855,
+          "tmdb_still_path": "/ohrnLJsWsYTtFe7vW1MD8NZYbAp.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/bdylmz3t6mho"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/m5j7tznji0dm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 976856,
+          "tmdb_still_path": "/dSIkxbsuHYfWMEaImOj3J4ufeaR.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى.تابعو الأنمي واستمتعو",
+  "url": "/anime/kill-la-kill",
+  "story": "بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى.تابعو الأنمي واستمتعو",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ami Koshimizu، Ryoka Yuzuki، Aya Suzaki، Akio Nojima، Katsuyuki Konishi، Hiroyuki Yoshino",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "w9MRDWPZvYE",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kill la Kill",
+    "mainDescription": "بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى.تابعو الأنمي واستمتعو",
+    "metaDescription": "Kill la Kill أنمي 2013 | بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى | شاهد…",
+    "highlights": "تم تحديث بيانات Kill la Kill من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/60728"
+    }
+  },
+  "tmdb_id": 60728,
+  "tmdb_url": "https://www.themoviedb.org/tv/60728",
+  "original_title": "キルラキル"
+}

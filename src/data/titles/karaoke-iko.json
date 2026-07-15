@@ -1,0 +1,257 @@
+{
+  "slug": "karaoke-iko",
+  "clean_title": "Karaoke Iko!",
+  "raw_name": "انمي Karaoke Iko!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/karaoke-iko.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 5,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 5,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9673751726790"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tYrP9dsVodbkfpmR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nidf6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9673758280390"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9673763195590"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ereQj6JWoozCcfzR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5684739,
+          "tmdb_still_path": "/qP94xTrgCEuCmnkSTbQ3Rxu0XJT.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9693058632390"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Ay3pCc30O5KbV7YZ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nxxja"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9693071477446"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9693077965510"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eS44tdiwVuNVOxhB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-31",
+          "runtime": 24,
+          "tmdb_episode_id": 6341704,
+          "tmdb_still_path": "/1XddkKIN3YC9RlqO4ADxE5Dnnu3.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9712424716998"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pYiHNEgJkbTa3ddy"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9obu3q"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9712434088646"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9712437955270"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rNf0RPAlRYBXf6uH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-07",
+          "runtime": 24,
+          "tmdb_episode_id": 6341705,
+          "tmdb_still_path": "/67tKJruejOHXkQXPdjF0F7o0gUP.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9732599253702"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OjJRpWmW8uWIAyu5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9orgcm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9732605086406"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9732611705542"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gwa2L8LAec54Ol9R"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-14",
+          "runtime": 24,
+          "tmdb_episode_id": 6341707,
+          "tmdb_still_path": "/7mUNq6FdYjxg9pjmXmTpxN9a5Cv.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9884893579974"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=h2n2HTLzc3bN5YjE"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9r5u0e"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9884905179846"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9884915731142"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3IvyVNgGSCTpa8KK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-25",
+          "runtime": 24,
+          "tmdb_episode_id": 6341708,
+          "tmdb_still_path": "/A52G0LN59V88sAb4RGfv5WgF6mW.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Karaoke Iko! ضمن أجواء دراما، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و5 حلقة. تبدأ قصة Karaoke Iko! من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات موسيقى، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و5 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/karaoke-iko",
+  "story": "يدور أنمي Karaoke Iko! ضمن أجواء دراما، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و5 حلقة. تبدأ قصة Karaoke Iko! من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات موسيقى، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و5 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shun Horie، Daisuke Ono، Shinnosuke Tokudome، Hidenobu Kiuchi",
+  "genre": "أنمي، دراما، رسوم متحركة، كوميديا",
+  "trailerId": "sw6kD6f9l8M",
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Karaoke Iko!",
+    "mainDescription": "يدور أنمي Karaoke Iko! ضمن أجواء دراما، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و5 حلقة. تبدأ قصة Karaoke Iko! من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات موسيقى، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و5 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Karaoke Iko! أنمي 2025 | يدور أنمي Karaoke Iko | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Karaoke Iko! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/274546"
+    }
+  },
+  "tmdb_id": 274546,
+  "tmdb_url": "https://www.themoviedb.org/tv/274546",
+  "original_title": "カラオケ行こ!"
+}

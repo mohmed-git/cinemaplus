@@ -1,0 +1,475 @@
+{
+  "slug": "kancolle-itsuka-ano-umi-de",
+  "clean_title": "KanColle: Itsuka Ano Umi de",
+  "raw_name": "انمي KanColle: Itsuka Ano Umi de",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kancolle-itsuka-ano-umi-de.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4294072011339"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/65p9wi9lmpbi"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/eqde5x9v2j8n"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/qex3ii6nuzrr/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/6xphztaleaj6.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4294086560331"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Ma0WHIqY#1eiVQi-N_8yPux1zw2O_kBGGL9_kJh-Wu6ucFDz5raw"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/frsxe7sesux3.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4294090820171"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3754237,
+          "tmdb_still_path": "/eBDISjgnhwWeq30CemXN3ZYVPJw.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4323483191883"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/sjxr6u9rxlnl"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/clzsn1mwyreu/"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/98gy2vmn5zir.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4323497544267"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UDEkAKZA#ErL0H0aijw-Dbcerg3eGxNTCHmdepjEgu4QTVSCrmv4"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/y731oq6krv9y.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4323508292171"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3937761,
+          "tmdb_still_path": "/jJSMqVJcHY0mRVeOCdpVTOYVwPH.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4373769751115"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/vgrnp7ogxzbm"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/bf30tlpsb1im"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sblongvu.com/e/8a6upy84l2ey.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4373795048011"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BDNSURCA#Pcd-KlXNLD5uX6xHJS0tsT4UJu5LEgY565G8RFSOtCw"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sblongvu.com/e/pzt1bnhx20ub.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4373810514507"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3937762,
+          "tmdb_still_path": "/A51UZ2gW7CfraYXYyQvyDpiSmQI.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4490946284107"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/btkxvnq5p0ec"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/8y72rnpvopqw"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/e6atkcli7twx/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sblongvu.com/e/3fz6lkaql0qv.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4490963716683"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/2jYHHRxY#yLma64nciOgbHNmQTxbCtN-Pl5W2JJcuqGqii5kKRwk"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sblongvu.com/e/ta3oktw6dkvg.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4490974464587"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3937763,
+          "tmdb_still_path": "/h6TxXYJ2jEFxOyuSi2o1MV2cY0J.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4521153595979"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/bfe5uivvcwct"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/lkmf328ksi0m"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/wskcffruk4al/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sblongvu.com/e/r7stzqqhn3wp.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4521182956107"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/rrJRkSSJ#6IvdOFEo1iEY8w8Vyr5IY2za4rVTETPIT4C97P8G8Bc"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sblongvu.com/e/ziuh2s56ykvx.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4521192458827"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3937764,
+          "tmdb_still_path": "/75XJW8OS7855PyDF1MrRNGr5QZY.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4638686906955"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/hjikrkthlvnm"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.yt/e/bqoykwvcoc7rvehnnxducklpdpagpd21"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbchill.com/e/287hcjvyzrno.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4638693853771"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/QyYBTRgC#HV-nKZRRJ_ITlJqluh__poRw2rgI4EZevCEgbhRcb_U"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbchill.com/e/5vg5vo7e0j6z.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4638700145227"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/cv6sfjeweloe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3937765,
+          "tmdb_still_path": "/5tUO5lzrw6QfaG6KJRXKUgIRWao.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4713552742987"
+            },
+            {
+              "id": 2,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/kMx22h48f2e3"
+            },
+            {
+              "id": 3,
+              "label": "highload",
+              "url": "https://highload.to/e/zmvswk2h9tju"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4713573976651"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/zBwEWBCQ#9EGbcPwJKYwSm2f3u1qoEO82oI9qUvUyCiJvwPaBF5g"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4713583348299"
+            },
+            {
+              "id": 7,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/4qfWA1GgS3A2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 3937766,
+          "tmdb_still_path": "/xENCbpDYgV5NMnImT2LZpexva9e.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4984771250763"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4OI1x4atI8AxVPkB"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8jm90u"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4984797334091"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/CrZllZ7a#JdFXGpeYCIk4N7_wG2OZf6gTaql9FAJIWRq5oQNvk90"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4984810048075"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ahyTx6LZKBdItTZd"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8jm93b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 3937767,
+          "tmdb_still_path": "/rnvnKBL0gzYCtGcFfinsXDFIyR4.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي KanColle: Itsuka Ano Umi de ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و8 حلقة. يعتمد KanColle: Itsuka Ano Umi de على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف عسكري، خيال علمي، أكشن، مدرسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة KanColle: Itsuka Ano Umi de على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/kancolle-itsuka-ano-umi-de",
+  "story": "يدور أنمي KanColle: Itsuka Ano Umi de ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و8 حلقة. يعتمد KanColle: Itsuka Ano Umi de على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف عسكري، خيال علمي، أكشن، مدرسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة KanColle: Itsuka Ano Umi de على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Saki Fujita، Yumi Tanibe، Aya Suzaki، Yui Horie، Iori Nomizu، Yui Ogura",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "6.0",
+  "imdb_rating": "6.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "KanColle: Itsuka Ano Umi de",
+    "mainDescription": "يدور أنمي KanColle: Itsuka Ano Umi de ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و8 حلقة. يعتمد KanColle: Itsuka Ano Umi de على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف عسكري، خيال علمي، أكشن، مدرسي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة KanColle: Itsuka Ano Umi de على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "KanColle: Itsuka Ano Umi de أنمي 2022 | يدور أنمي KanColle: Itsuka Ano Umi de ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات KanColle: Itsuka Ano Umi de من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/203192"
+    }
+  },
+  "tmdb_id": 203192,
+  "tmdb_url": "https://www.themoviedb.org/tv/203192",
+  "original_title": "「艦これ」いつかあの海で"
+}

@@ -1,0 +1,665 @@
+{
+  "slug": "undead-girl-murder-farce",
+  "clean_title": "Undead Girl Murder Farce",
+  "raw_name": "انمي Undead Girl Murder Farce",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/undead-girl-murder-farce.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6150188239435"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9oJzLRuWWeBR4gcK"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6151682722379"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/1m03xAZL#Ej4O_jlA9v50q4sJDsvpVc37cf0Q3tb5KO3YtBBVaeY"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6151854033483"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GOKCBkBobWHhZPkp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-07-06",
+          "runtime": 23,
+          "tmdb_episode_id": 4312579,
+          "tmdb_still_path": "/nK2p82SzGh7H83dS5ww89U3zpjO.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6246613912139"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FwYcixgQtBzkqMz9"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mh31b"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6246634293835"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/I69B0brL#XS5mRgqXZFijijJS6aGs_aFAiuYoySAFRRErRL0Fq9o"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6246640978507"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9WWFuVOsKUGxUeDe"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8mh388"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-07-13",
+          "runtime": 23,
+          "tmdb_episode_id": 4522926,
+          "tmdb_still_path": "/uxJbaklCILLBu7l1icE2rZ1qa4c.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6392056515147"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pMm8tV4jBbK0GUpF"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mn3w7"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6392073554507"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/c71yxZQB#II3vRf8KfmF0-94pY1HpZ7-8DyILj3VesoJCV46OXMo"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6392080239179"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cUMm23Y5hJc1vrtM"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8mn444"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-07-20",
+          "runtime": 23,
+          "tmdb_episode_id": 4522927,
+          "tmdb_still_path": "/60BTebVo8vr96yv3PW6yaIv0Qv.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6451445762635"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kTpFr5kLDVZRGHiq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mv73m"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6451453299275"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Hr5Q3DYT#JYKM7dTb47JgBnpDAnFJJBFZQc1ZD4ObK-HYSL7iQEU"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6451457952331"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ip8LQnzjF63xjbNf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-07-27",
+          "runtime": 23,
+          "tmdb_episode_id": 4522928,
+          "tmdb_still_path": "/8ANFbaJPYS2tV5ZmJaZbRk5Sd1i.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6464832277067"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=T9b91zcCd9QuqABy"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mybgg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6464845777483"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/P24BgZTI#aSqanJKopmWmFoTI0gs3SDHf7FzlXt-_5oMEODW_Cko"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6464856984139"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kuOJDqeunqgmPxlb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-03",
+          "runtime": 23,
+          "tmdb_episode_id": 4522929,
+          "tmdb_still_path": "/4wqrxUVmkv8H26nEtOCXhN3UK1G.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6491257244235"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uxzEtwVWMN0sZ42J"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8n46vn"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6491271858763"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/WJ0iSDYC#zjQ7hTQlMgs1-UKv0cC9xFkTI4N6D4O7Dn7xyLEOrTQ"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6491287521867"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=REgupqhiw8D7WsNC"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8n472f"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-10",
+          "runtime": 23,
+          "tmdb_episode_id": 4522930,
+          "tmdb_still_path": "/c2hg7web8RKOc1ngI0GGcid0h1g.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6521046698571"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iDxhmEfSgu9k03Rx"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6521058298443"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/dndwjLQR#UmwkOCczB1UM_4S5WxWl1kg1Fz96Tqi-3qhmdPmU8Ws"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6521063148107"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0jZ5L4BPhUhl9Crs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-17",
+          "runtime": 23,
+          "tmdb_episode_id": 4522931,
+          "tmdb_still_path": "/4e8xlGyZGv5JpoMtNP79wSXuk0q.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6543943797323"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=hVuEOUV1ZZ0Q5pF0"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nfsw4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6543960640075"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/q2RWyRRR#HtCligKCPmeK3NRnA7ogwXW5eXlaww04GolNNqB5jeQ"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6543969225291"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KwB2ArDT75qiLVcO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-24",
+          "runtime": 23,
+          "tmdb_episode_id": 4522932,
+          "tmdb_still_path": "/1tYy4Z7S2CDeCQC5aVF8iiO71bj.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6576042216011"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=LRhxrQiVRgrWzLBC"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nl2hb"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6576058141259"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BnFEQIwT#KnzSY7mMuf4ILnhW9_b5JQFFh93UnZqd35LF6jHXqQc"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6576063777355"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IcV6nRT6cpgRHr3i"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8nl338"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-31",
+          "runtime": 23,
+          "tmdb_episode_id": 4522933,
+          "tmdb_still_path": "/e12fPkOFLyTvKdw5SJCIQc82Qtt.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6599767231051"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=b9gg03waAcWeqkkK"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ntw8e"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6599786170955"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/TQ0DSRpY#pQQ_jZVBp_QOPWkB9rK7LKNBj_tlp9WKCNZWON6ycNU"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6599795608139"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lySjdy4Q15Yu0cml"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8ntwk4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-09-07",
+          "runtime": 23,
+          "tmdb_episode_id": 4522934,
+          "tmdb_still_path": "/ooFKcoXGpqPS8Oak7JJAJQ4zDjD.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6622759291467"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CtlYT7f1PSunGYiI"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8o1wbn"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6622767352395"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/zrQniBZY#qy-Uqc3XTQ7eOLboEQtcyX6W88yYkV0XASg_8pfKlV4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6622774954571"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bFnLRHNgUNLs746U"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-09-14",
+          "runtime": 23,
+          "tmdb_episode_id": 4522936,
+          "tmdb_still_path": "/dQGufamSL1cH9fv2CQOjvPDNXCy.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6644916685387"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=g8XeebfNxAGfwVfX"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8o7efp"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6644930054731"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0i8RVKwS#tRLjx4t3RpI2gY-tyy_bYN0cq-zQlPkC0HbG10Cp4Y4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6644936936011"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nUUmCuYxjq6vkKyq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-09-21",
+          "runtime": 23,
+          "tmdb_episode_id": 4522938,
+          "tmdb_still_path": "/bPnZKrclYVKha5F2jzL1wpu0SOZ.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6668869110347"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fteyJB1UM0trPmOH"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8odbz6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6668888181323"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xnFyTCRL#1Bi4U38zSqyZcPUVf_V-jnvHrRW97tFJw4k5QlN-T_8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6668894931531"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Aj5vSQFcB3A6wIvF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-09-28",
+          "runtime": 23,
+          "tmdb_episode_id": 4522939,
+          "tmdb_still_path": "/wcErs5C6HNgP0MYeEoo8E7s46zZ.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Undead Girl Murder Farce ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Undead Girl Murder Farce على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، تاريخي، خارق للطبيعة، غموض العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/undead-girl-murder-farce",
+  "story": "يدور أنمي Undead Girl Murder Farce ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Undead Girl Murder Farce على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، تاريخي، خارق للطبيعة، غموض العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tomoyo Kurosawa، Taku Yashiro، Makoto Koichi",
+  "genre": "أنمي، رسوم متحركة، غموض، خيال علمي وفانتازيا",
+  "trailerId": "VY7pSxO5GFw",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Undead Girl Murder Farce",
+    "mainDescription": "يدور أنمي Undead Girl Murder Farce ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Undead Girl Murder Farce على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، تاريخي، خارق للطبيعة، غموض العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Undead Girl Murder Farce أنمي 2023 | يدور أنمي Undead Girl Murder Farce ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Undead Girl Murder Farce من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/222785"
+    }
+  },
+  "tmdb_id": 222785,
+  "tmdb_url": "https://www.themoviedb.org/tv/222785",
+  "original_title": "アンデッドガール・マーダーファルス"
+}

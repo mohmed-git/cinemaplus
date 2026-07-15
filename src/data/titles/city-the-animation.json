@@ -1,0 +1,585 @@
+{
+  "slug": "city-the-animation",
+  "clean_title": "City The Animation",
+  "raw_name": "انمي City The Animation",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/city-the-animation.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9632880593606"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tDPTpFVj0EqyQg8t"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mjrac"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9632886557382"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9632892848838"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=C15M1CQjbFYhb3SK"
+            }
+          ],
+          "overview": "\"سيتي\"، حيث يحدث شيء جديد كل يوم! يدسّ \"تسوروبيشي\" معكرونة مقلية مقرمشة في حقيبة أحد الزبائن وتشاهد \"ناغومو\" ذلك. الوضع يائس بالتأكيد! تستمتع \"ماتسوري\" و\"إيري\" بمغامراتهما بعد دوام المدرسة، بينما يواجه \"تودوروكي\" و\"أوني كامابوكو\" صعوبة في ابتكار نكتة مناسبة لـ\"راكوتان كون\". بعد سماع حلم \"نييكورا\"، تبدأ \"ناغومو\" بالتفكير فيما تريدان فعله. إنها بداية شيء جديد في \"سيتي\".",
+          "air_date": "2025-07-07",
+          "runtime": 27,
+          "tmdb_episode_id": 5612495,
+          "tmdb_still_path": "/8sb1d3Ev0JTyGfnLuIIKKVdAjmR.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9646050118342"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=daQlCjaKuCGaB9ft"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mur8s"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9646052805318"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9646053132998"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4LIyOSvSHrt8JO48"
+            }
+          ],
+          "overview": "تواجه \"ناغومو\" الدائمة الإفلاس \"نييكورا\" التي لا تريد سوى استرداد أموالها. حين تتدخل \"واكو\" في النزاع، تبلغ حياتهن الجامعية الفوضوية مستوى جديداً من الجنون. في هذه الأثناء، يناضل أفراد فريق كرة القدم \"مينامي إيليفن\" في \"سيتي\" لحماية مهاجمهم \"ساساغو\" المعرّض للإصابات باستمرار. يحاول \"تودوروكي\" التفاوض بشأن مصير \"راكوتان كون\" ويشكّل ذلك اختباراً للعلاقة بين المحرر والكاتب. وينتهي يوم آخر في \"سيتي\".",
+          "air_date": "2025-07-14",
+          "runtime": 27,
+          "tmdb_episode_id": 6362894,
+          "tmdb_still_path": "/xx3MYlhRSTKN1In0csXp0eUSrpl.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9664341150406"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Q5GBP7JA1NL6Cvco"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9na35u"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9664342985414"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9664346458822"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KgnzGdOqREIogr5Q"
+            }
+          ],
+          "overview": "مع اقتراب موعد العرض المسرحي، يحاول \"تيكاريداكي\"، قائد مسرح \"تيكاريداكي\" أن يشجّع أفراد فرقته غير المتحمسين. \"ريكو إيزومي\" التي تسير في نومها تسرق قلب \"تاتيواكو ماكابي\" البالغ من العمر 16 عاماً. فصل الربيع على الأبواب. تحاول \"ماتسوري\" و\"إيري\" نشر الخير للحفاظ على السلام في العالم، بينما تعثر \"ناغومو\" و\"نييكورا\" و\"واكو\" على خريطة كنز. فلتبدأ المعركة! يوم هادئ آخر في \"سيتي\".",
+          "air_date": "2025-07-21",
+          "runtime": 28,
+          "tmdb_episode_id": 6363070,
+          "tmdb_still_path": "/glb3lveyGvpWFTHebQ6VMDxA9qW.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9682229463750"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=8wQcKfEG5UO0IKBW"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9no7eg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9682231298758"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9682234772166"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EmoNOyrrx9O2wljp"
+            }
+          ],
+          "overview": "\"تانابي\" التي تعشق منح الجوائز لأي شيء وكل شيء، تبدأ الآن بالبحث عن \"ناغومو\"! يزور \"تسوروبيشي\" حانة \"يامابوشي\" متلهفاً لسماع الجملة الشهيرة، \"الطلب المعتاد أيها الرئيس!\" ويبدأ في ارتياد المكان. تسعى \"نييكورا\" وراء قلادة علقت بـ\"ميمينيكو\"، بينما تنطلق \"ماتسوري\" و\"إيري\" في مغامرة كبيرة لملاحقة الـ\"ميمينيكو\". وهكذا تتداخل حياة كل شخص في مدينة \"سيتي\".",
+          "air_date": "2025-07-28",
+          "runtime": 27,
+          "tmdb_episode_id": 6363071,
+          "tmdb_still_path": "/zZnFf48GcK9vkKHXPDx9cWXEtwv.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9701562124998"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=p7ZqppN5cjbA2wE7"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9o42qg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9701569071814"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9701569792710"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MZCUX2vfKpSBm4ZS"
+            }
+          ],
+          "overview": "تأخذ \"تانابي\" \"ناغومو\" وتتجهان إلى برجا الضيافة في مقر إقامة عائلة \"تانابي\". تحاول \"ناغومو\" و\"واكو\" الهرب بمساعدة شخص لطيف تقابلانه في طريقهما، لكن الحراس في كل طابق يحبطون محاولاتهما. في هذه الأثناء، تواصل \"نييكورا\" البحث بتهوّر عن الـ\"ميمينيكو\". تبدأ الأمور المتباعدة بالترابط في \"سيتي\"!",
+          "air_date": "2025-08-04",
+          "runtime": 29,
+          "tmdb_episode_id": 6363072,
+          "tmdb_still_path": "/rxYihcAcGkyW4U2D8YEMSkOp0qR.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9723906493126"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1qSxSriq6p7RTh1N"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ok1t6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9723912784582"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9723914554054"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CxJCbqCdkRsiuIEm"
+            }
+          ],
+          "overview": "الصباح حافل دائماً في منزل عائلة \"آداتارا\". \"أومي\" و\"سورا\" و\"كامومي\" و\"تاتسوتا\" و\"ريوتا\" يغادرون معاً كالعادة. تصل مخطوطة مجهولة بعنوان \"كانكي كون\" إلى مكتب تحرير مجلة \"سيتي\". يشعر \"تودوروكي\" بأنها مميزة ويقدّم اقتراحاً لـ\"أوني كامابوكو\". على ضفة النهر عند الغسق، تحاول \"إيري\" إفهام \"ماتسوري\" شيء ما. وتستمر الفصول في \"سيتي\" بالتغيّر.",
+          "air_date": "2025-08-11",
+          "runtime": 28,
+          "tmdb_episode_id": 6363073,
+          "tmdb_still_path": "/9VFSQ5u0jTdMxqg6k5482r8lPi7.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9744448752326"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HofNtDl2QCyecQvE"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9oxyx0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9744455305926"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9744465529542"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5Rg7wvVafMBEcLac"
+            }
+          ],
+          "overview": "يتولى \"تسوروبيشي\" إدارة مقهى \"يامابوشي\" بدلاً من صاحبه ويشرع في صنع أفضل طبق أرزّ مقلي. بكبريائه على المحك، ينطلق في رحلة للعثور على المكوّنات المثالية. في وقت متأخر من الليل، تشعر \"نييكورا\" بالجوع فتأكل أي شيء تطاله يداها. في هذه الأثناء، \"كوراتاكي\" الحلاق المعروف بأنه أسوأ رجل في \"سيتي\"، كان يبيع هدايا من زبائنه الدائمين، وكل ذلك لغرض معيّن. في \"سيتي\"، لا يلوح الأمل في الأفق من دون بعض المصاعب.",
+          "air_date": "2025-08-18",
+          "runtime": 27,
+          "tmdb_episode_id": 6363074,
+          "tmdb_still_path": "/9urgsLI7w0NgmxY6PfFbQiahGWS.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9770541386438"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=S31VLhQn5gv4PLvv"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9pdors"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9770543286982"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9770547022534"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eSkBUsQLJcX3QPMd"
+            }
+          ],
+          "overview": "لا تستطيع الفتاة المغرمة التوقف عن التنهد! بعد 18 عاماً من انتظار دعوة، يكتشف \"تانابي\" أخيراً الطعام المفضّل لدى الفتاة التي تثير إعجابه! يختار \"تيكاريداكي\" \"ناغومو\" لبطولة مسرحية \"الحلق\". رغم الهفوات الكثيرة، يستمر في بذل الجهود حتى رفع الستارة! يصبح أحد الشرطيين معجباً بـ\"ريكو إيزومي\"، كما يدعوها \"تاتيواكو\" في النهاية للخروج في موعد. إنها بداية شيء جديد في \"سيتي\".",
+          "air_date": "2025-08-25",
+          "runtime": 26,
+          "tmdb_episode_id": 6363075,
+          "tmdb_still_path": "/nRoCMog9qpg5aGXfhhv47dkrXfD.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9794529987270"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=80aTxGirxmAbGL9t"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9prkw0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9794542963398"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9794544995014"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=L5oZurnbAusFp2uA"
+            }
+          ],
+          "overview": "يبدأ سباق \"سيتي\" بجائزة المليون ين! \"ناغومو\" تنافس \"أوبابا\" بينما تحاول \"نييكورا\" سرقة القلادة من فريق \"مينامي إيليفن\" في \"سيتي\". يمضي \"تيكاريداكي\" قُدماً مع زميلتين، فيما تتقدم \"ماتسوري\" و\"إيري\" بتناغم تام، ويحتسي \"الغربان الثلاثة\" الساكي الفاخرة. بظهور المفاجآت عند كل منعطف، هذا السباق الذي لا يمكن توقّع نتائجه يبقي الجميع في حالة تشويق. من سيفوز؟ بينما يركض الجميع، تتسارع الأحداث في \"سيتي\"!",
+          "air_date": "2025-09-01",
+          "runtime": 28,
+          "tmdb_episode_id": 6363076,
+          "tmdb_still_path": "/x4anNRWMxUEgNW9lRtHgPtWhIzW.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9818833423046"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QjIoLTybc3OAhFsd"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9q5xgm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9818836437702"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9818837486278"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uJrqQtitIEUDxB1a"
+            }
+          ],
+          "overview": "تخطط \"ناغومو\" و\"نييكورا\" لتحقيق الثراء عبر البث المباشر، على الرغم من رد فعل \"ناغومو\" بشأن نص \"نييكورا\" العاطفي! بينما يعترض نادي معجبي \"ريكو إيزومي\" طريق \"تاتيواكو\"، يقود الكابتن \"أوبينا\" فريق \"مينامي إيليفن\" في \"سيتي\" لإيقاف ثورة \"تاتيواكو\"! في هذه الأثناء، ينطلق \"الغربان الثلاثة\" في إجازة قصيرة ويتحول الصيف في \"سيتي\" إلى نوبة جنون!",
+          "air_date": "2025-09-08",
+          "runtime": 28,
+          "tmdb_episode_id": 6363077,
+          "tmdb_still_path": "/z9Ipdn6niG6qYbEGeBHeeYiR7zh.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9844237601478"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BA2t7ErBPRbrOuyE"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qj5pi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9844248087238"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9844253526726"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=L05TgYJ9sedBXLd8"
+            }
+          ],
+          "overview": "تسجّل \"نييكورا\" مقطع فيديو للبث المباشر بحماس كبير. في الوقت نفسه، تصل \"ناغومو\"، بحضور \"توكي\" و\"توتشينوكو\" و\"ميمينيكو\" وكل مخلوقات \"سيتي\". في بطولة كأس \"شوغي\" المفاجئة، ينافس \"أراشيما\" من الدرجة الثامنة \"هيداري\" من الدرجة الرابعة. من سيسقط أولاً؟ بوسع صاحب متجر \"تودو\" للتحف الأثرية رؤية الأرواح في الأشياء القديمة. فيما يلمح بقايا سكان \"سيتي\" في بضائع \"كوراتاكي\"، تتسارع أحداث هذا الصيف في \"سيتي\".",
+          "air_date": "2025-09-15",
+          "runtime": 29,
+          "tmdb_episode_id": 6363078,
+          "tmdb_still_path": "/rGy1DBgq6yuYBK6SxNkSyGFzt1Q.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9870759955142"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EFnJLCczbQsNdOMw"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qxvjk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9870775093958"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9870777453254"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hJLvzzc0YQT5GaY7"
+            }
+          ],
+          "overview": "تشارك \"ناغومو\" و\"نييكورا\" و\"واكو\" في مسابقة للتصوير، حيث تقدّم كل منهن أفضل لقطاتها بانتظار النتائج! تزور \"إيري\" أماكن مليئة بذكرياتها مع \"ماتسوري\". أما \"الغربان الثلاثة\" فيمضون إجازتهم الصيفية في شرب الكحول بشكل متواصل في مطعم \"ماكابي\" الغربي الطراز. الصيف في \"سيتي\" لم يشارف على الانتهاء بعد.",
+          "air_date": "2025-09-22",
+          "runtime": 29,
+          "tmdb_episode_id": 6363079,
+          "tmdb_still_path": "/3Lznvmgy8v9oPx8kCoiVQ3W95mA.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9901431917254"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AyNl4ruSx9VvptFa"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9re4cs"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9901441157830"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9901450267334"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pxpWO6hF7B5RWmpA"
+            }
+          ],
+          "overview": "ترك \"إيري\" \"ماتسوري\" بصمت من دون قول أي شيء. تُسرع \"ماتسوري\" لرؤية \"إيري\" وتوديعها بشكل لائق! \"تسوروبيشي\" ومطعم \"ماكابي\" الغربي الطراز... هل هو تحوّل مفاجئ في الأحداث؟ بين الضحكات والدموع وكل ما يحدث خلال ذلك، تتضمن الحلقة الأخيرة الكثير من المفاجآت! بينما ينتهي الصيف في \"سيتي\"، يبدأ صيف آخر.",
+          "air_date": "2025-09-29",
+          "runtime": 26,
+          "tmdb_episode_id": 6363100,
+          "tmdb_still_path": "/qkwBc3Fx4DvRUlKYcq8vTZAbdY0.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "هذه ليست مجرد بلدة عادية. هناك ضحك وحب ولحظات عاطفية. حياة عادية لا يُمكن توقّعها ويقدّمها السكان! أمور مثيرة تتوالى. أهلاً بكم في \"سيتي\".",
+  "url": "/anime/city-the-animation",
+  "story": "هذه ليست مجرد بلدة عادية. هناك ضحك وحب ولحظات عاطفية. حياة عادية لا يُمكن توقّعها ويقدّمها السكان! أمور مثيرة تتوالى. أهلاً بكم في \"سيتي\".",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Mikako Komatsu، Aki Toyosaki، Yui Ishikawa",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "7LsfqDEfmng",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "City The Animation",
+    "mainDescription": "هذه ليست مجرد بلدة عادية. هناك ضحك وحب ولحظات عاطفية. حياة عادية لا يُمكن توقّعها ويقدّمها السكان! أمور مثيرة تتوالى. أهلاً بكم في \"سيتي\".",
+    "metaDescription": "City The Animation أنمي 2025 | هذه ليست مجرد بلدة عادية | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات City The Animation من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/272118"
+    }
+  },
+  "tmdb_id": 272118,
+  "tmdb_url": "https://www.themoviedb.org/tv/272118",
+  "original_title": "CITY THE ANIMATION"
+}

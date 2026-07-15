@@ -1,0 +1,244 @@
+{
+  "slug": "divine-gate",
+  "clean_title": "Divine Gate",
+  "raw_name": "انمي Divine Gate",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/divine-gate.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/626dx30nmeww"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-08",
+          "runtime": 23,
+          "tmdb_episode_id": 1198566,
+          "tmdb_still_path": "/y3h1XzH2WAYm3LdNrFVll8im7KM.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rv1ohb2cynbg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-15",
+          "runtime": 23,
+          "tmdb_episode_id": 1214403,
+          "tmdb_still_path": "/58v5sWysUJiB7Zb4nJMTWquEbkB.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wj2wcjec46cb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-22",
+          "runtime": 23,
+          "tmdb_episode_id": 1214406,
+          "tmdb_still_path": "/rCAo54L2GDxpFkX39ehv2kB8Q9Z.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2c9ow18wytxf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-29",
+          "runtime": 23,
+          "tmdb_episode_id": 1214407,
+          "tmdb_still_path": "/4R1vhWYsc4kOGSMtEN1nylpglI1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tdi5z9ol3vrq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-05",
+          "runtime": 23,
+          "tmdb_episode_id": 1214410,
+          "tmdb_still_path": "/mNUxP2OLe77WWIBelHgce0YrY2z.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/33v7vb5zzkwv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-12",
+          "runtime": 23,
+          "tmdb_episode_id": 1214411,
+          "tmdb_still_path": "/iDFx3uPAbyhe10BAy3AWpNbY1XY.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ykslugq0ob7s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-19",
+          "runtime": 23,
+          "tmdb_episode_id": 1214412,
+          "tmdb_still_path": "/5bAf2rFEfKKpMK9zgsXCQqsQW6x.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rbl11gxigo0i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-26",
+          "runtime": 23,
+          "tmdb_episode_id": 1214413,
+          "tmdb_still_path": "/tI5zads9Zulf6iC08ozLNFUbWNF.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hh18e0vedk23"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-04",
+          "runtime": 23,
+          "tmdb_episode_id": 1214414,
+          "tmdb_still_path": "/kOI6SV6BZ7IrDUGFtvq95wxUFqn.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/shha7zsbndsu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-11",
+          "runtime": 23,
+          "tmdb_episode_id": 1214415,
+          "tmdb_still_path": "/jhGCaqayI2aG2c733STj69LPa7d.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/uazj8qupulw6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-18",
+          "runtime": 23,
+          "tmdb_episode_id": 1214416,
+          "tmdb_still_path": "/gyJkiD1BdusK7fhPnzueOazEf1D.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pstz5bfswoih"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-25",
+          "runtime": 23,
+          "tmdb_episode_id": 1214417,
+          "tmdb_still_path": "/9mNGXslRtOnIbyHcM4khNkZ6sB0.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Divine Gate ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Divine Gate تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/divine-gate",
+  "story": "يدور أنمي Divine Gate ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Divine Gate تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tetsuya Kakihara، Soma Saito، Yuichi Nakamura، Hiroyuki Yoshino، Ayana Taketatsu، Kanae Itou",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "5.6",
+  "imdb_rating": "5.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Divine Gate",
+    "mainDescription": "يدور أنمي Divine Gate ضمن أجواء حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Divine Gate تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Divine Gate أنمي 2016 | يدور أنمي Divine Gate ضمن أجواء حركة ومغامرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Divine Gate من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/66730"
+    }
+  },
+  "tmdb_id": 66730,
+  "tmdb_url": "https://www.themoviedb.org/tv/66730",
+  "original_title": "ディバインゲート"
+}

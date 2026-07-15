@@ -1,0 +1,364 @@
+{
+  "slug": "just-because",
+  "clean_title": "Just Because!",
+  "raw_name": "انمي Just Because!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/just-because.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/3ewg-hm3k7e088z"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1nNc4X7WckPm1CdqVuCYrLw9d7emGk85q/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-vmtzvtykck1t.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-05",
+          "runtime": 23,
+          "tmdb_episode_id": 1370823,
+          "tmdb_still_path": "/gbjQ5YykjTzhaM5osURbun7HEpE.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/jd6l4fd20-led0d"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1ek37ohhBh8WKzF7yTmPMZI6E8KD7UozG/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-r1m87h9bjpsd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-12",
+          "runtime": 23,
+          "tmdb_episode_id": 1379064,
+          "tmdb_still_path": "/4zxGX0FRhifGWjfMoSxUygl5kbl.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/0qwy-il7k3k7dx2"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1CbR5O1vZDe-ttpsR_IS3XQpRq3RQ1XkK/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-wpyqt6i321ux.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-19",
+          "runtime": 23,
+          "tmdb_episode_id": 1379065,
+          "tmdb_still_path": "/paZqbLX1wk0N0f2N9T3kHBRuDKZ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/jd6l4fd20yp2r8-"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1XdeyQuXvL_2tf4CL5qmf2j6u14F94_fx/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6t2mdibx0i3s.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-26",
+          "runtime": 23,
+          "tmdb_episode_id": 1382018,
+          "tmdb_still_path": "/8XZIHmRW1iAgqR9Nzw9jk6chqCH.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/x8y1ef5kz7y0665"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/10eKAfWI9TaRPn7BocvEYYd6f2T2gAtfK/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-q2y76jeke11j.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-11-02",
+          "runtime": 23,
+          "tmdb_episode_id": 1382019,
+          "tmdb_still_path": "/7x564jYRfMm5IpK1Ow0ela1JYox.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/x8y1ef5kz7m43rm"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1XXKjIqUgA_-yfasjcdqIyoFaiLlPHYpY/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qgeheqvhty4w.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-11-09",
+          "runtime": 23,
+          "tmdb_episode_id": 1382020,
+          "tmdb_still_path": "/7Qime5aLz8FNOPwRic4C7n7x3m.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/jd6l4fd20yq-jq5"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/191g28nF3s18AEGHCjWL0dzG3pSTPetpl/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kxlstmumcgfx.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-11-23",
+          "runtime": 23,
+          "tmdb_episode_id": 1382021,
+          "tmdb_still_path": "/ff0FpwgOEjR32glmxDPijvyK7Jd.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r2z6kbe81n8-ym8"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1xs_o0o2mPv26AVDaC9kJWWseQ5JvSQ9A/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-06vbq1jbm5i4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-11-30",
+          "runtime": 23,
+          "tmdb_episode_id": 1382022,
+          "tmdb_still_path": "/dLWS6qcwhz9tRchlWOkQBwC0RYU.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r2z6kbe81ngyd06"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1T8yqfdvjedZj7hdvMv6ebOtFOvW23wmR/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-8xqhcmnih2lw.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-12-07",
+          "runtime": 23,
+          "tmdb_episode_id": 1382023,
+          "tmdb_still_path": "/454Tesf5C4SH6crRQigCG1z7tDI.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/dn82lax7mz5drj8"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1pcuR90Mv_gsOzbR4I8FLspRdoTbynohp/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-wgz359h10p84.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-12-14",
+          "runtime": 23,
+          "tmdb_episode_id": 1382024,
+          "tmdb_still_path": "/bIf8OqWfVu23xmL1xQOvHHu843I.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/2lw8-s238mw503w"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1bFL2b1gPvNDYSGa0CnxryRLb5_6Z8lMh/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-el1rfsw9iv5s.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-12-21",
+          "runtime": 23,
+          "tmdb_episode_id": 1382025,
+          "tmdb_still_path": "/wsa1XH0TRMFo1WYtDZBtQg8paJv.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/wxeplhnd0y3dqww"
+            },
+            {
+              "id": 2,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1GAZKEBXFHJ3g9zFgHxQQXpyOxhPnOJS0/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6tiok3t0g7dm.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-12-28",
+          "runtime": 23,
+          "tmdb_episode_id": 1382026,
+          "tmdb_still_path": "/vRavUZWfzDTweKbFrTT6IIZivu4.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Just Because! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Just Because! تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات شريحة من الحياة، دراما، رومانسي، مدرسي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/just-because",
+  "story": "يدور أنمي Just Because! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Just Because! تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات شريحة من الحياة، دراما، رومانسي، مدرسي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Aoi Ichikawa، Karin Isobe، Taishi Murata، Yuna Yoshino، Lynn، Arisa Sakuraba",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": null,
+  "rating": "6.6",
+  "imdb_rating": "6.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Just Because!",
+    "mainDescription": "يدور أنمي Just Because! ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Just Because! تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات شريحة من الحياة، دراما، رومانسي، مدرسي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Just Because! أنمي 2017 | يدور أنمي Just Because | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Just Because! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/74096"
+    }
+  },
+  "tmdb_id": 74096,
+  "tmdb_url": "https://www.themoviedb.org/tv/74096",
+  "original_title": "Just Because!"
+}

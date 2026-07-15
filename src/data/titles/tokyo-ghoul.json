@@ -1,0 +1,244 @@
+{
+  "slug": "tokyo-ghoul",
+  "clean_title": "Tokyo Ghoul",
+  "raw_name": "انمي Tokyo Ghoul",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tokyo-ghoul.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vYHN1LhGk0mUMwOS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-04",
+          "runtime": 26,
+          "tmdb_episode_id": 1019299,
+          "tmdb_still_path": "/lmgWmpMd9XK7cgeqqrHLBfnplc1.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=swSrarnc0TBhZ3kP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1019297,
+          "tmdb_still_path": "/uX0qfRjcoNxAep09hLB9LmK8Vit.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=V3QGvo9uKKQ1oGAM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1019298,
+          "tmdb_still_path": "/5dKSDjopKgNMNuSSvvcUlQPLmUV.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HHyEoktq8KCRK39q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1019300,
+          "tmdb_still_path": "/zOyyq7UUQKsqBn4ShBOILRBhZjT.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BYPbwC7CzTtlL6lW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1019301,
+          "tmdb_still_path": "/rzbVuZ8hs67YxYgtuRE8elxke1U.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tX0Q1lZtn1rxdsZf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1019302,
+          "tmdb_still_path": "/ebG6mnCMqGEu9mVGZttgGJaCCUP.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GqHoDl6vguAB7mZa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1019303,
+          "tmdb_still_path": "/gzc47ZP4u7JDCttwaLWtw4SVa3g.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vWncExbUCBDMcHfc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1019304,
+          "tmdb_still_path": "/6OX6ZDONloskho2g1rUfZNMS8oH.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RQ8yJF1UZljwcd9R"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1019305,
+          "tmdb_still_path": "/4tfZG8ktIrv3gWHGj8kAKqvFZmP.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YawGOfBIvtUykFqV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1019306,
+          "tmdb_still_path": "/aUcbRwYTpMpbAYaUSJIBESY4GhR.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AhiFX8sXCSxWct48"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1019307,
+          "tmdb_still_path": "/fZJ1mG6EM3ebv2y1kXWEizeBTpY.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iHLKoQBMrQdclpA5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1019308,
+          "tmdb_still_path": "/hyuG6G4gmKiBOMj7Ewcrzu4d9hq.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور احداث القصة في مدينة ” طوكيو ” حيث انتشرت في الأونة الاخيرة جرائم قتل بشعة يتم تنفيذه من قبل كائنات متوحشة تعرف بـ ( الغيلان ) وفي وسط تلك الكارثة يعيش فتى جامعي يمارس أعماله اليومية بشكل طبيعي الى ان يقابل فتاة تدرس معه في نفس الجامعة وتشاركه نفس هواياته لتتغير حياته من بعدها جذرياً ومن دون سابق إنذار فكيف سيكون حاله .",
+  "url": "/anime/tokyo-ghoul",
+  "story": "تدور احداث القصة في مدينة ” طوكيو ” حيث انتشرت في الأونة الاخيرة جرائم قتل بشعة يتم تنفيذه من قبل كائنات متوحشة تعرف بـ ( الغيلان ) وفي وسط تلك الكارثة يعيش فتى جامعي يمارس أعماله اليومية بشكل طبيعي الى ان يقابل فتاة تدرس معه في نفس الجامعة وتشاركه نفس هواياته لتتغير حياته من بعدها جذرياً ومن دون سابق إنذار فكيف سيكون حاله .",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Natsuki Hanae، Sora Amamiya، Shintaro Asanuma، Takahiro Sakurai، Sumire Morohoshi، Yuuya Uchida",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "I0-yFnbPdj0",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tokyo Ghoul",
+    "mainDescription": "تدور احداث القصة في مدينة ” طوكيو ” حيث انتشرت في الأونة الاخيرة جرائم قتل بشعة يتم تنفيذه من قبل كائنات متوحشة تعرف بـ ( الغيلان ) وفي وسط تلك الكارثة يعيش فتى جامعي يمارس أعماله اليومية بشكل طبيعي الى ان يقابل فتاة تدرس معه في نفس الجامعة وتشاركه نفس هواياته لتتغير حياته من بعدها جذرياً ومن دون سابق إنذار فكيف سيكون حاله .",
+    "metaDescription": "Tokyo Ghoul أنمي 2014 | تدور احداث القصة في مدينة ” طوكيو ” حيث انتشرت في الأونة الاخيرة جرائم قتل بشعة يتم تنفيذه من قبل كائنات متوحشة تعرف بـ (…",
+    "highlights": "تم تحديث بيانات Tokyo Ghoul من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61374"
+    }
+  },
+  "tmdb_id": 61374,
+  "tmdb_url": "https://www.themoviedb.org/tv/61374",
+  "original_title": "東京喰種トーキョーグール"
+}

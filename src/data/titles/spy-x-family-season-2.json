@@ -1,0 +1,528 @@
+{
+  "slug": "spy-x-family-season-2",
+  "clean_title": "Spy x Family Season 2",
+  "raw_name": "انمي Spy x Family Season 2",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/spy-x-family-season-2.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=x5VZ4Brwp7sXcMgy"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8oni1w"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WvBHIaXJJHNiSsZG"
+            },
+            {
+              "id": 4,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8oni54"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4698644,
+          "tmdb_still_path": "/mpVApVSbI1zxcjFoVDq9CmLGZz2.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6721837926987"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4ostqRoKKKKswLx3"
+            },
+            {
+              "id": 3,
+              "label": "dailymoiton",
+              "url": "https://www.dailymotion.com/embed/video/x8otr74"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6721854310987"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6721863354955"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=erWTmEHSv1ppmCwz"
+            },
+            {
+              "id": 7,
+              "label": "dailymoiton - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8otrez"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4698645,
+          "tmdb_still_path": "/5viUJ3xTB671VJPRcDF3NTPqnm2.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6744560765515"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=h4cXzd8SRJFhCLr2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p01f5"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6744581671499"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6744590191179"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=z8KYH4yW8hoJoxAh"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8p01m6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4698646,
+          "tmdb_still_path": "/dhTVyMbXdVn9YD5zkp0B0s3uoSK.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6767454194251"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=l01XDk1EczW5jSwd"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p62rk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6767474838091"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6767486634571"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ogopSiK5IOXF67GO"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8p6331"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4698648,
+          "tmdb_still_path": "/sVq8TsjDNBN1gHFSM77Xa0i7SK7.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6790167333451"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3f2L3w0p6efrf2ml"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pckwu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6790177622603"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6790187977291"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2T1ZU3gNhnfciG4v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4698649,
+          "tmdb_still_path": "/AfAnj59eaJJqLuv2rIbXGW8BDvx.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XiO09mBe0IXTx6ol"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pjrgb"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/RiNlRKxK#labA9rSfGKLHfqFsCc2IbX1_84lrryGItJ3LDcJBlak"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7yjkz1SlWiAEAkRv"
+            },
+            {
+              "id": 5,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8pjrq8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4698650,
+          "tmdb_still_path": "/2LQGL9Dy9Vu0YN6Xz0rZ5toKL5z.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6833442982475"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sRRQnCCHv81bZ8a7"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pqroy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6833453599307"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/zAFx2RoR#-UQPR0cBA2XWg6MoSAR_V9I1Ik5zD8CXtPiDCJqhuqs"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6833462250059"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VXFx5fCUXm8i7Don"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4698653,
+          "tmdb_still_path": "/czGd1jqRkC6jdb9O6F1W23PqVvU.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=25yJenuytkYi42Nr"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pybbv"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BrlWHJZZ#XULNnrXulSFtmy9CjenJ5rESZXHQoo0vRVARrhBAI6M"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YmX6OTsD5nGpZOoC"
+            },
+            {
+              "id": 5,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8pybgm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4698654,
+          "tmdb_still_path": "/10IDii3X575FA0D4L70ZTg7akG7.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KjEiNz39eU98GSsS"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q61ev"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/A7MThZya#zSbBPjxkUDFnMAY6fM6KZDz5wkPYmNY_9ngCc27f3YM"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BOhTjii4ON835ZG2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4698655,
+          "tmdb_still_path": "/eMaaFAg0sEptNGHArVFcx05jqw5.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iw6HLWpGHGgv1MEz"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/NH8F3azB#rTfuikDYvI3xCOveesVJIuxDZ6lKSNNZjjAz_7uoibY"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LC02IO9vZC5jhvoE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4698657,
+          "tmdb_still_path": "/8gr55smtH8io8p3X9kDIfZt1zH4.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kLiMXUbN0eWRbw0n"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/EHcRiRjD#mXOKfbxX-khjD9rqiDIQpmuvGG6_8QlZeIQbP0BoyGQ"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UMhVZ9PFd8uKDrGD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4698659,
+          "tmdb_still_path": "/z3b8l9AXiDWsiuaVAPXua7WEaGw.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=umDT6FAJYwatPPzi"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qtzjj"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/FT1DyZaL#yG1NTRVpp5xa2kRPTDxB_uREUaqb1YVZnL5f_DmdMMg"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iN7klJ3zkT7bOoNF"
+            },
+            {
+              "id": 5,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8qtzqj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4698660,
+          "tmdb_still_path": "/y6vAKe2G3eWJ4HmobVIShSZsQVY.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "سلام العالم على المحكّ ويجب على العميل السّرّيّ الشّفق القيام بأصعب مهمّة له حتّى الآن— التّظاهر أنّه رجل لديه عائلة. بعد التّظاهر بأنّه أب وزوج محبوب، عليه التّسلّل إلى مدرسة للنّخبة للتّقرّب من سياسيّ مهمّ. لديه تنكّر مثاليّ، لكنّ زوجته قاتلة محترفة، ولا يعرف أيّ أحد منهما بهويّة الآخر السّرّيّة. لكنّ هنالك من يعرف، ابنته الّتي تبنّاها والّتي تستطيع قراءة الأفكار.",
+  "url": "/anime/spy-x-family-season-2",
+  "story": "سلام العالم على المحكّ ويجب على العميل السّرّيّ الشّفق القيام بأصعب مهمّة له حتّى الآن— التّظاهر أنّه رجل لديه عائلة. بعد التّظاهر بأنّه أب وزوج محبوب، عليه التّسلّل إلى مدرسة للنّخبة للتّقرّب من سياسيّ مهمّ. لديه تنكّر مثاليّ، لكنّ زوجته قاتلة محترفة، ولا يعرف أيّ أحد منهما بهويّة الآخر السّرّيّة. لكنّ هنالك من يعرف، ابنته الّتي تبنّاها والّتي تستطيع قراءة الأفكار.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Takuya Eguchi، Atsumi Tanezaki، Saori Hayami، Kenichirou Matsuda",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا",
+  "trailerId": "JP6vBnazpWI",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Spy x Family Season 2",
+    "mainDescription": "سلام العالم على المحكّ ويجب على العميل السّرّيّ الشّفق القيام بأصعب مهمّة له حتّى الآن— التّظاهر أنّه رجل لديه عائلة. بعد التّظاهر بأنّه أب وزوج محبوب، عليه التّسلّل إلى مدرسة للنّخبة للتّقرّب من سياسيّ مهمّ. لديه تنكّر مثاليّ، لكنّ زوجته قاتلة محترفة، ولا يعرف أيّ أحد منهما بهويّة الآخر السّرّيّة. لكنّ هنالك من يعرف، ابنته الّتي تبنّاها والّتي تستطيع قراءة الأفكار.",
+    "metaDescription": "Spy x Family Season 2 أنمي 2022 | سلام العالم على المحكّ ويجب على العميل السّرّيّ الشّفق القيام بأصعب مهمّة له حتّى الآن— التّظاهر أنّه رجل لديه عائلة…",
+    "highlights": "تم تحديث بيانات Spy x Family Season 2 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/120089"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "spy-x-family-part-2",
+      "title": "Spy x Family Part 2",
+      "url": "/anime/spy-x-family-part-2",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/spy-x-family-part-2.jpg"
+    },
+    {
+      "slug": "spy-x-family-season-2",
+      "title": "Spy x Family Season 2",
+      "url": "/anime/spy-x-family-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/spy-x-family-season-2.jpg"
+    },
+    {
+      "slug": "spy-x-family-season-3",
+      "title": "Spy x Family Season 3",
+      "url": "/anime/spy-x-family-season-3",
+      "season": 3,
+      "seasonLabel": "الموسم 3",
+      "episodesCount": 13,
+      "poster": "/images/anime/spy-x-family-season-3.jpg"
+    }
+  ],
+  "tmdb_id": 120089,
+  "tmdb_url": "https://www.themoviedb.org/tv/120089",
+  "original_title": "SPY×FAMILY"
+}

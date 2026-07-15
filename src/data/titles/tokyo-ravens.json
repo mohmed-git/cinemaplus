@@ -1,0 +1,436 @@
+{
+  "slug": "tokyo-ravens",
+  "clean_title": "Tokyo Ravens",
+  "raw_name": "انمي Tokyo Ravens",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tokyo-ravens.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/56lve0po8nbw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1213557,
+          "tmdb_still_path": "/aBquk3WQ9ZQ3lReHsonj58ud1G7.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qc9awyh37adu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1213558,
+          "tmdb_still_path": "/zukMRbTBmej9FdpNjzWTAnCmGlS.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/osfmz41r8aln"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1213559,
+          "tmdb_still_path": "/vJe1LyHQdIFlmQhkTvNQtRYo2b1.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/76rtritvx1ea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1213560,
+          "tmdb_still_path": "/8q7glyOlN4zPjnYCh35NymThkOB.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2jf1dbqxoo14"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1213561,
+          "tmdb_still_path": "/aaIATlT3CjBgwlg55qsBmYNjEeM.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/yaxikc4bml40"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1213562,
+          "tmdb_still_path": "/trA0h2RXq8X1ogfGyC6zVaxB9el.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ex0lqcnmrnwm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1213563,
+          "tmdb_still_path": "/4uFQ6bBWGjupJw53kw6zsQzWV0L.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/oikdka5rse6o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1213564,
+          "tmdb_still_path": "/87MG8uxSaZxeQMfQmcM4oDGsY1V.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fv3qhspq0hhi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1213568,
+          "tmdb_still_path": "/3W8sBvbAe7IKt0eJF1TSX1BtJFK.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9aw3j7qe6pn3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1213569,
+          "tmdb_still_path": "/kFU0OI6TnCB5p7i6DNNc3vIsWCs.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ih4zxko2c70p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1213570,
+          "tmdb_still_path": "/xNIUbSjFfQ4ctdyjiAFT54fQ5m6.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/32515e9gkdyv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1213571,
+          "tmdb_still_path": "/wfZo8zheBchQu9eyomMVXIc8mo3.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/exotu5n61w56"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1213577,
+          "tmdb_still_path": "/q7SPL6Su64Wljt2DyinSmCrKVDB.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qjok7qq09tuu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1213578,
+          "tmdb_still_path": "/n0sYsbjQzIpvddT2Jzjhzlv1cZJ.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1uw2qiftwho4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1213579,
+          "tmdb_still_path": "/eDQA26hFFJGSXmgWqTf0T9SscKl.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/naao6flly6v4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1213581,
+          "tmdb_still_path": "/gDg4GuzDyG7HakN5gGr1F4ySJTe.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7p0uyf9vufx9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1213582,
+          "tmdb_still_path": "/zUGsDzy4Rijc3XEYf0LJAahK7Db.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/sniwy9f9k176"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1213583,
+          "tmdb_still_path": "/uhyoiomnRXspeQsWNgRfwQjEgJL.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/z1hkfwg8cag9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1213585,
+          "tmdb_still_path": "/FMxsqIayvrVpK7u0rQ2wqasKSk.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/slzaav5sl0a5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1213586,
+          "tmdb_still_path": "/ytdVWqlj1p1S0z2LDoDJTxXDYiH.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4t2frv95l861"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1213587,
+          "tmdb_still_path": "/qWifLEMwcDO0U57pG4EprdkWQXO.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/r73i1kd2xfqc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1213591,
+          "tmdb_still_path": "/sNBceuKF96aEwjI4SeAZqwnlv1e.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3on7kny6gpah"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1213593,
+          "tmdb_still_path": "/1bY4T35eHuD1qTosoTmJhizzHwO.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qagwku73m2l4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1213594,
+          "tmdb_still_path": "/tYICTxcqBD0uRolABySlTzeSs9j.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور أحداث الأنمي عن فتى يدعى هاروتورا تسوشيميكادو و الذي ينتمي لعائلة مشهورة تدعى أونميوجي و كل من ينتمي لهذه العائلة يمتلك قدرات خارقة تتمثل في القدرة على رؤية الطاقة الروحية و هذه الطاقة تعد مزيجا من العلم و التنجيم أو العرافة و الغريب في الأمر أن هاروتارو لا يمكنه رؤية هذه الطاقة لذلك فهو يبدو شخصا عاديا كبقية أصدقائه و لكن تتغير حياة هاروتارو بعد ظهور صديقة طفولته و التي تدعى تسوشيميكادو ناتسومي و التي تعد وريثة العائلة ترى كيف ستتغير حياة هاروتورواو ما المفاجئات الذي تخفيها هذه الفتاة...",
+  "url": "/anime/tokyo-ravens",
+  "story": "تدور أحداث الأنمي عن فتى يدعى هاروتورا تسوشيميكادو و الذي ينتمي لعائلة مشهورة تدعى أونميوجي و كل من ينتمي لهذه العائلة يمتلك قدرات خارقة تتمثل في القدرة على رؤية الطاقة الروحية و هذه الطاقة تعد مزيجا من العلم و التنجيم أو العرافة و الغريب في الأمر أن هاروتارو لا يمكنه رؤية هذه الطاقة لذلك فهو يبدو شخصا عاديا كبقية أصدقائه و لكن تتغير حياة هاروتارو بعد ظهور صديقة طفولته و التي تدعى تسوشيميكادو ناتسومي و التي تعد وريثة العائلة ترى كيف ستتغير حياة هاروتورواو ما المفاجئات الذي تخفيها هذه الفتاة...",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kaito Ishikawa، Kana Hanazawa، Ryohei Kimura، Hisako Kanemoto، Ayane Sakura، Aki Toyosaki",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "oTJjxWfczJQ",
+  "rating": "6.5",
+  "imdb_rating": "6.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tokyo Ravens",
+    "mainDescription": "تدور أحداث الأنمي عن فتى يدعى هاروتورا تسوشيميكادو و الذي ينتمي لعائلة مشهورة تدعى أونميوجي و كل من ينتمي لهذه العائلة يمتلك قدرات خارقة تتمثل في القدرة على رؤية الطاقة الروحية و هذه الطاقة تعد مزيجا من العلم و التنجيم أو العرافة و الغريب في الأمر أن هاروتارو لا يمكنه رؤية هذه الطاقة لذلك فهو يبدو شخصا عاديا كبقية أصدقائه و لكن تتغير حياة هاروتارو بعد ظهور صديقة طفولته و التي تدعى تسوشيميكادو ناتسومي و التي تعد وريثة العائلة ترى كيف ستتغير حياة هاروتورواو ما المفاجئات الذي تخفيها هذه الفتاة...",
+    "metaDescription": "Tokyo Ravens أنمي 2013 | تدور أحداث الأنمي عن فتى يدعى هاروتورا تسوشيميكادو و الذي ينتمي لعائلة مشهورة تدعى أونميوجي و كل من ينتمي لهذه العائلة يمتلك…",
+    "highlights": "تم تحديث بيانات Tokyo Ravens من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/67395"
+    }
+  },
+  "tmdb_id": 67395,
+  "tmdb_url": "https://www.themoviedb.org/tv/67395",
+  "original_title": "東京レイヴンズ"
+}

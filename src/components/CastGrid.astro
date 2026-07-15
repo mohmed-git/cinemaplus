@@ -1,0 +1,55 @@
+---
+/**
+ * Cast grid — renders the structured TMDB cast with photos.
+ * Real, crawlable textual + visual content (actor names + character names)
+ * is a strong indexing signal, so this section is only shown when the work
+ * has a structured `cast` array.
+ */
+import type { Title } from '../lib/types';
+import { cleanBrand } from '../lib/detailContent';
+
+interface Props {
+  title: Title;
+  kind: 'movie' | 'series' | 'anime';
+}
+
+const { title, kind } = Astro.props;
+const cast = Array.isArray(title.cast) ? title.cast.filter((c) => c && c.name).slice(0, 12) : [];
+const heading = kind === 'anime' ? 'طاقم الأداء الصوتي' : 'طاقم التمثيل';
+const PLACEHOLDER =
+  'data:image/svg+xml;utf8,' +
+  encodeURIComponent(
+    '<svg xmlns="http://www.w3.org/2000/svg" width="120" height="180" viewBox="0 0 120 180"><rect width="120" height="180" fill="#1e293b"/><circle cx="60" cy="66" r="30" fill="#334155"/><rect x="20" y="110" width="80" height="60" rx="30" fill="#334155"/></svg>',
+  );
+---
+
+{cast.length > 0 && (
+  <section class="glass-panel p-5 md:p-6" id="cast-section" aria-label={heading}>
+    <h2 class="mb-4 flex items-center gap-2 text-lg font-bold text-white">
+      <span class="flex h-6 w-1 rounded-full bg-gradient-to-b from-brand-400 to-gold-400"></span>
+      {heading}
+    </h2>
+    <ul class="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-6" role="list">
+      {cast.map((member) => (
+        <li class="cast-card text-center">
+          <div class="relative mx-auto aspect-[2/3] w-full overflow-hidden rounded-xl bg-surface-3 ring-1 ring-white/[0.06]">
+            <img
+              src={member.profilePath || PLACEHOLDER}
+              alt={`${cleanBrand(member.name)}${member.character ? ` بدور ${cleanBrand(member.character)}` : ''}`}
+              width="120"
+              height="180"
+              loading="lazy"
+              decoding="async"
+              referrerpolicy="no-referrer"
+              class="h-full w-full object-cover"
+            />
+          </div>
+          <div class="mt-2 truncate text-xs font-semibold text-white" title={cleanBrand(member.name)}>{cleanBrand(member.name)}</div>
+          {member.character && (
+            <div class="truncate text-[11px] text-gray-400" title={cleanBrand(member.character)}>{cleanBrand(member.character)}</div>
+          )}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

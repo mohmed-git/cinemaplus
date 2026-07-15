@@ -1,0 +1,484 @@
+{
+  "slug": "gamers",
+  "clean_title": "!Gamers",
+  "raw_name": "انمي !Gamers",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/gamers.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-hx5zbyuraod1.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xbqiv2gksiwv.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/bmlTJ2uNGk3D"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239017&hash=df81f3bb6bc31e44&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519763"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1330215,
+          "tmdb_still_path": "/pNFwinkH7EZaBW1fv1GIn7nbe8l.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ahmrgewh2fe1.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ya7h16czn8qw.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/m5E88Qob2tiE"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239018&hash=c69b1ab81187bae4&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519762"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1339406,
+          "tmdb_still_path": "/zQCEzGIXm0IMINQlPhjOKfR37oP.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-q1fmnnd2n1zw.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-lkhh4w5iw2en.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/262vLs4Esh84"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239019&hash=64152e0f6f6a5e81&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519764"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1339708,
+          "tmdb_still_path": "/rBuSQ3VMOWSJ5xEHc6zmBtOfjtU.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ph0n0c55zddp.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-y7l9yuywtfco.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/6dKE38nhI08B"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239020&hash=b6204b2b843f3143&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519765"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1339709,
+          "tmdb_still_path": "/yRC0lUOls7B9kizN4YED6FzjiMT.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-b4uakbkgkqpv.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-vl7q4l5e4pso.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/4VMD5DP6lYBH"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239021&hash=baf2215c414783d2&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519766"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1339710,
+          "tmdb_still_path": "/nBdSNemSWg6NBvBNh1FFGqjSYt2.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-vdb1d7a7z3km.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ffqoit0pqr6c.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/su2y64LLBALS"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239022&hash=3c486610d26e86a5&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519767"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1339711,
+          "tmdb_still_path": "/vDLd7dRBaVWTBIcG2v9wmcHeylF.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ajseyto5ckm6.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qqiftqnnyxvk.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/57pY7m1XNTu1"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239023&hash=fd7176b0af4a2194&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519768"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1339712,
+          "tmdb_still_path": "/1riO8Wu6SUL08jKgkERp53hOlGd.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-boblczjhgk8h.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-e4k6wb1liwbw.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/Wp4F4XQj21sW"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239024&hash=f5f56ed454dbc375&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519769"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1339713,
+          "tmdb_still_path": "/59CCyM0WaZ3eHnbskMJdwbtAoNz.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-wnkzq17omdo1.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-cdze9du56uak.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/2Nc4n7y80NdH"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239025&hash=3a49457d1858cfb0&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519770"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1339714,
+          "tmdb_still_path": "/jDTHzYDq2qJT2zmX8k4qr1TWWVV.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-6bj9nhkwrxbw.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ue5uogam0v88.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/pu6B1b4ux7ru"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239026&hash=4ea248e82c9ce7a2&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519771"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1339715,
+          "tmdb_still_path": "/x7EAIRfSzyOeY4oWkthTjfVlNg5.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-a7y06uh0zuho.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bfrc2b2437ki.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/TXq8U2g0NvnI"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239027&hash=3ec2066a585c17f9&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519772"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1339716,
+          "tmdb_still_path": "/fd4AfbJYJay9nK1NWkkO1NM3HgE.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-lzayx526rlp6.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ombvkowvykpk.html"
+            },
+            {
+              "id": 3,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/3YvdxTnxP03x"
+            },
+            {
+              "id": 4,
+              "label": "vk - FHD",
+              "url": "https://vk.com/video_ext.php?oid=879529217&id=456239028&hash=d5be73bb0259dec9&hd=1"
+            },
+            {
+              "id": 5,
+              "label": "mail - FHD",
+              "url": "https://my.mail.ru/video/embed/8241866980588519773"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1339717,
+          "tmdb_still_path": "/sSe2WTVhMWvG9rxcS6sXU4XzWgo.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي !Gamers ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي !Gamers حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف لعبة، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة !Gamers على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/gamers",
+  "story": "يدور أنمي !Gamers ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي !Gamers حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف لعبة، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة !Gamers على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Megumi Han، Hisako Kanemoto، Rumi Okubo، Toshiyuki Toyonaga، Manaka Iwami",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "HqkrousBhew",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "!Gamers",
+    "mainDescription": "يدور أنمي !Gamers ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي !Gamers حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف لعبة، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة !Gamers على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "!Gamers أنمي 2017 | يدور أنمي | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات !Gamers من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/72426"
+    }
+  },
+  "tmdb_id": 72426,
+  "tmdb_url": "https://www.themoviedb.org/tv/72426",
+  "original_title": "ゲーマーズ！"
+}

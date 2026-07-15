@@ -1,0 +1,544 @@
+{
+  "slug": "ballpark-de-tsukamaete",
+  "clean_title": "Ballpark de Tsukamaete!",
+  "raw_name": "انمي Ballpark de Tsukamaete!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ballpark-de-tsukamaete.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9349103225542"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NMof2zfnBMSiqKEe"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9h5g4m"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9349108730566"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9349114628806"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aCCgzB3698FQO2Xq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5759838,
+          "tmdb_still_path": "/nmppIgE7GyKHGU3R2Lbm2lSZWbw.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9370735807174"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=a9VyAUfC0zc7qTYr"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hk6ns"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9370742491846"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9370746751686"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ddF6eq30qWicKL9o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 6077304,
+          "tmdb_still_path": "/hFmCerravwYawdrnuo6rkF0h2aE.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9392946612934"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jLvofw1uqG2agsia"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hyclg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9392952183494"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9392956639942"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AwY4luVhW2FF7hv8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 6077305,
+          "tmdb_still_path": "/p8txxt52OgXzAeyhyCXFfcJUPcO.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9416281295558"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4vDQK7zVVsYsy8jG"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ibive"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9416287062726"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9416292895430"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=y54Zo0GzXkk8U2WC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 6077307,
+          "tmdb_still_path": "/umk9TbpDlawsi46m2HTG6iPQxkS.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9438355000006"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZV7T6zF21qXWdynn"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ipphm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9438361291462"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9438364175046"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eiQIgKaCNg7lGo8Z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 6114545,
+          "tmdb_still_path": "/2v5bVatJX3cLLk2Ofz9G1Dudu0C.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9460136348358"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MAsCV1Re1g1vl7ZZ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9j2kta"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9460142115526"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9460152535750"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WTcMeM5q3vb90MYi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 6114546,
+          "tmdb_still_path": "/w4J8gvgToJAJMFiaqoZRishqpt.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9481507637958"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FYHsdayRa0gpM2TN"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jg5po"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9481513077446"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9481519172294"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OnP7SczhOJSCPkAy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 6114547,
+          "tmdb_still_path": "/lNai5IGLADfbXiYGj0F6tMUeeO5.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9501569321670"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=065CkhN20lqEvg9I"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jumcg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9501576268486"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9501580790470"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HyJIbguSqRfExmyE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 6114548,
+          "tmdb_still_path": "/9I6OdXzWiwGRRJnMcgBYEewgrWb.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9520702819014"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=L0ChASAAFGRhjp54"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9kb6oe"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9520708389574"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9520713304774"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=u9hGFklga5vJMAnY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 6114550,
+          "tmdb_still_path": "/zh37TYzBrfPCw9REGDTdPCNawVj.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9539161557702"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dG6oaQ9pyud9gZv7"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9kqjeg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9539166407366"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9539170536134"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=K2p3W8Zk5yBAFlBG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 6114554,
+          "tmdb_still_path": "/5quhDUSL88MlZPSUd51C3QZjJ71.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9558139669190"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jYCFb9iLZ5vJmga6"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9l54qc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9558146878150"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9558150679238"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fugBr8MRnjVpXcTt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 6114557,
+          "tmdb_still_path": "/bYVQUOKV7TfW7OwkdkuE8Gp8eq7.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9576741997254"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2pQQ10gOW88l3uqT"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9lip84"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9576748092102"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9576752679622"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TXz5NrmXQcDOwzNl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 6114561,
+          "tmdb_still_path": "/ztqIfNUtLH1r73ficw3pluL8WLx.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Ballpark de Tsukamaete! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Ballpark de Tsukamaete! من رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، سينين، كوميدي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "url": "/anime/ballpark-de-tsukamaete",
+  "story": "يدور أنمي Ballpark de Tsukamaete! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Ballpark de Tsukamaete! من رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، سينين، كوميدي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Fairouz Ai، Satoshi Inomata",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "N610gSa68mA",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ballpark de Tsukamaete!",
+    "mainDescription": "يدور أنمي Ballpark de Tsukamaete! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Ballpark de Tsukamaete! من رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، سينين، كوميدي، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+    "metaDescription": "Ballpark de Tsukamaete! أنمي 2025 | يدور أنمي Ballpark de Tsukamaete | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ballpark de Tsukamaete! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/277222"
+    }
+  },
+  "tmdb_id": 277222,
+  "tmdb_url": "https://www.themoviedb.org/tv/277222",
+  "original_title": "ボールパークでつかまえて！"
+}

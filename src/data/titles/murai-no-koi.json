@@ -1,0 +1,484 @@
+{
+  "slug": "murai-no-koi",
+  "clean_title": "Murai no Koi",
+  "raw_name": "انمي Murai no Koi",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/murai-no-koi.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CbCazPtR1jNNOQeL"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/bekiz4ajl3k2"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/c76sgtebhjfr"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vQnXQ32WV6fNfZbj"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/i1uki4sk2w04"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-06",
+          "runtime": 24,
+          "tmdb_episode_id": 3785619,
+          "tmdb_still_path": "/FXghbAWMP3fgkszvODVzQ8nsh8.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ElBKlNFFcgJ8Zxnc"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/scpwq306q73z"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/iqxb8e4712al"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mjSkjir6JPiV6auY"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/ww19nrhg3uuz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5590985,
+          "tmdb_still_path": "/oNyQMOQNS9hu9YdRDcLwXUY99zV.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pSAXvHEYD8yMnlQb"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/317d9af6b3he"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/aazdi3gr68pc"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dijrmwFeUjjExve6"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/r7pgpqidlwch"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 5591027,
+          "tmdb_still_path": "/25PLw7ZZdDmaRnSm1ldKtVkN8YR.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mccVjp1h4oee1fKM"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/fngmqs5h4vnv"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/z3su1i1hjudo"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rcrEPoaHIdcmjNV4"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/nqqclwrt10ws"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 5591028,
+          "tmdb_still_path": "/bY4WJI2o4oC40CuqBoEoGAyheuz.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uKo5UhtA4gsEnYN9"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/zh334eo0g4ej"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/ee4jav1y3v2p"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ixtF6EwMUtNy0wkY"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/egf16hf5prgr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5606222,
+          "tmdb_still_path": "/2vTM2GxaoMa2LRl0WxEKE04jU5n.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Kf7N6Cw5XahXUKjO"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/f54n951nyzqv"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/gwkf5l6hyfs7"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2Hh9kO3yElNEPftF"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/hyeta3t2mhxj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5606223,
+          "tmdb_still_path": "/ewb2mBVeGjrEXzP6pKBNbtXuFXZ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OO49N3PEXW76ThT3"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/590i9hkmylf0"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/dde1qp3tv3x9"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=X9GV8M9JbQYKjaUz"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/fzln37v0975p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5606224,
+          "tmdb_still_path": "/v4jvakBXsHpZJc2u6dPvw1ehq1z.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MRNcI5I03bXbWv7g"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/3jq8frdw74r9"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/n3xpnzy6jsit"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=szLRxIA8wo7Fld9D"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/oqbv1fsheo4j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5606225,
+          "tmdb_still_path": "/kOwdDwy8Nnemgnz3wnXLpEHz7d7.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=h9ArM41lmsZWQikS"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/xava57n1vira"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/89n7fkmxh4rc"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hTjqYG24AZzymszO"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/xd94be2tbk2s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-01",
+          "runtime": 24,
+          "tmdb_episode_id": 5606226,
+          "tmdb_still_path": "/zVD1fz98sqZ8sUGVAgmhbQbzdvG.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FPW0QVVElgKD9zym"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/9h4iz35hduth"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/3s8na3o56q93"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zbXvKRBlmkagoUaX"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/kdbt75xghohc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5606227,
+          "tmdb_still_path": "/rj1SThCkAviXVzGPBiuwBO6zCje.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VRjHGJ1C6VQIxZMp"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swishsrv.com/e/u87oyywygkns"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swishsrv.com/e/9gkdrjk1uepo"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nnVLmeX15VQgvEdf"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swishsrv.com/e/hdjgpzjuom1x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5606228,
+          "tmdb_still_path": "/dtVTh6lvU5A2QA5eH32ynNtFY65.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=R8I6223JtTZAfaqd"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swishsrv.com/e/tq9y0bmamznm"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swishsrv.com/e/o6pmjioipk0i"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7Q3Crx9sgK2ebY6X"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swishsrv.com/e/2xjcjmwt543v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5606229,
+          "tmdb_still_path": "/8mEY2JdZXHLwWifNWqZh6eGs5sA.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Murai no Koi ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Murai no Koi على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/murai-no-koi",
+  "story": "يدور أنمي Murai no Koi ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Murai no Koi على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kengo Takanashi، Nobunaga Shimazaki، Yoko Hikasa، Kohei Amasaki، Haruki Ishiya، Masaya Matsukaze",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": null,
+  "rating": "6.3",
+  "imdb_rating": "6.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Murai no Koi",
+    "mainDescription": "يدور أنمي Murai no Koi ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Murai no Koi على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Murai no Koi أنمي 2024 | يدور أنمي Murai no Koi ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Murai no Koi من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/204098"
+    }
+  },
+  "tmdb_id": 204098,
+  "tmdb_url": "https://www.themoviedb.org/tv/204098",
+  "original_title": "村井の恋"
+}

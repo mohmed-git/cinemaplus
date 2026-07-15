@@ -1,0 +1,556 @@
+{
+  "slug": "tougen-anki",
+  "clean_title": "Tougen Anki",
+  "raw_name": "انمي Tougen Anki",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tougen-anki.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "دماء الأوني",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/8ez1lb2daf4h"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/koq6l3k2vwbh"
+            }
+          ],
+          "overview": "يكتشف شيكي نسبه المزدوج بين \"الأوني\" و\"الموموتارو\"، فهل ينجو من الصراع الدموي؟",
+          "air_date": "2025-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 5329017,
+          "tmdb_still_path": "/2GzS012iY43EIijGpk7vMQx8qd4.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "تحقيق المطلوب يتطلّب الفوز",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/t4s440e0vvhh"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6ptydoge483t"
+            }
+          ],
+          "overview": "يجد شيكي نفسه في أكاديمية غامضة للأوني، حيث يواجه تحديات قاسية ويُجبر على إتقان قواه الجديدة للنجاة والانتقام.",
+          "air_date": "2025-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 6364625,
+          "tmdb_still_path": "/wQqR7ohZVpQaGgqky3TkVsZSeO1.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "كسوف الدم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/irbcj9tavq9n"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7bzkcjqu8crk"
+            }
+          ],
+          "overview": "يواجه طلاب أكاديمية راسيتسو اختبارًا قاسيًا يكشف عن قواهم الخفية.",
+          "air_date": "2025-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 6383674,
+          "tmdb_still_path": "/kInybbaSdSPdFw4yZ9aUTuPlJvI.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "تعاون معي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/xvx0bi5bb4ko"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/trejgw9k8qth"
+            }
+          ],
+          "overview": "يواجه الأبطال تحديات قتالية وشخصية، ويكتشفون حقائق صادمة عن ماضيهم، قبل أن يتلقوا نداء استغاثة عاجل من كيوتو.",
+          "air_date": "2025-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 6391318,
+          "tmdb_still_path": "/pzpIfkSloYxiduWdc1friR8aMdH.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "خبر مزعج",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/fcs3p440dmc1"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/enljs36fl2pj"
+            }
+          ],
+          "overview": "تتجه منظمة الموموتارو إلى قاعدة الأوني السرية، بينما يواجه فريق الدعم تحديات طبية وعاطفية في إنقاذ المصابين.",
+          "air_date": "2025-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 6391319,
+          "tmdb_still_path": "/pRPYAQK14xBTOoX4RBQerlUrdkT.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "هناك حدود لكل شيء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/bdo4td8l23ej"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1ccwo1ueyytb"
+            }
+          ],
+          "overview": "يواجه الأبطال هجومًا مفاجئًا من جثث الأوني المتحكمة، ويكتشفون طريقة لإيقافها بينما يحاولون حماية المرضى.",
+          "air_date": "2025-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 6391320,
+          "tmdb_still_path": "/7ApHssm8Al5io22Ug7UIhFkSLu.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "‫الجميلة صعبة المراس",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/1ocuhrben4ux"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0v1hakfd38ku"
+            }
+          ],
+          "overview": "يواجه يوموجي وكوينا تحديات خطيرة داخل محرقة الجثث المحاصرة، حيث تظهر قدرات كوينا الفريدة في القتال.",
+          "air_date": "2025-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 6454795,
+          "tmdb_still_path": "/kJbrmuADG4gIMox8TdIB0FtImyB.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "‫بطل لا يُعوَّل عليه",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/fgmo7tbrzd2f"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mnnluvhl0rg0"
+            }
+          ],
+          "overview": "يتذكر روكورو ماضيه مع لولو وكيف أثرت وفاتها على شخصيته، بينما يواجه شيكي إيتشينوسي تسوباكيري في معركة حاسمة.",
+          "air_date": "2025-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 6454796,
+          "tmdb_still_path": "/jAl8pnnmjkwWTMlVW2DKhFMVxa6.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "‫روح الموموتارو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/gxgtrcynfg2b"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/du837hzvb2dm"
+            }
+          ],
+          "overview": "يواجه الأبطال تحديات خطيرة في مقر كيوتو، ويكتشفون حقائق صادمة عن ماضي أحدهم.",
+          "air_date": "2025-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 6474750,
+          "tmdb_still_path": "/aP9DzvfKhiC1pgVJA0ZKGONL7jQ.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "طفل كيشين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/pgxjqrv7qth6"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0pw5qlykt1ty"
+            }
+          ],
+          "overview": "هينا تتعرف على أبناء كيشين، وشيكي يقاتل لحماية أحبائه.",
+          "air_date": "2025-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 6474751,
+          "tmdb_still_path": "/tRr5ZzZ3ONK7OrcHIR1npaXoD1t.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "شكرًا لك",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/pxz6ik3t7w01"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/p3lrh204zthu"
+            }
+          ],
+          "overview": "شيكي يهزم تسوباكي ويفقد وعيه، بينما ينقذ مودانو رفاقه، وتُعالج أوي رانزاكا شيكي الذي يستعيد وعيه.",
+          "air_date": "2025-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 6534843,
+          "tmdb_still_path": "/ir83eQh8vGz7sGP7DPXI6KIskYG.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "يوم العاصفة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/97gx5pjvc6s1"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2b0c2ktl7lok"
+            }
+          ],
+          "overview": "يجتمع طلاب أكاديمية راسيتسو في الصالة الرياضية أثناء عاصفة، حيث يحاولون الانسجام رغم خلافاتهم.",
+          "air_date": "2025-09-26",
+          "runtime": 24,
+          "tmdb_episode_id": 6548130,
+          "tmdb_still_path": "/lmPJ118wfFKyZz3Fn3jOaupSRsO.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "ميكادو وبوابة الحكام",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/2ukpw7flwtn7"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/c3wj03r4rgt3"
+            }
+          ],
+          "overview": "في طوكيو، يتنكر الأوني ويقومون بجولات تدريبية، بينما يلتقي ناتسو بضابط شرطة ودود في مهرجان محلي.",
+          "air_date": "2025-10-03",
+          "runtime": 23,
+          "tmdb_episode_id": 6558852,
+          "tmdb_still_path": "/ej71zJZ1wNJAMM4n8MJ0UyOwB7o.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "قاعدة شخصية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/qc8ubc6wojcv"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/92sjipamczvm"
+            }
+          ],
+          "overview": "الأوني الذي أنقذ الطفلتين يواجه مطاردة الموموتارو، بينما يخطط شينيا مومويوا لاستغلال الموقف.",
+          "air_date": "2025-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 6558853,
+          "tmdb_still_path": "/eOmlT7q3eXDtos41M3kaMuThcmF.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "وجدتك",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/4ggnxalmd5bd"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/q4u0chpy0i48"
+            }
+          ],
+          "overview": "تتجه وحدة الاستطلاع ووحدة القتال لإنقاذ كوجاساكي، ولكن يواجهون تحديات غير متوقعة في مهمتهم.",
+          "air_date": "2025-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 6558854,
+          "tmdb_still_path": "/z8NC3dLzbVr4KJa2i8ubhFaU7eV.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "ليس سيئًا",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/j7r0bj1ye11b"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hklawdmlauxl"
+            }
+          ],
+          "overview": "في خضم الفوضى والنيران، يتحد الأوني لإنقاذ الرهائن، بينما يواجه ميكادو ضيفًا غير مدعو في مواجهة مثيرة!",
+          "air_date": "2025-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 6558858,
+          "tmdb_still_path": "/pFJsGgZXnuwo72MHN6YEguzB1P4.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/ndspkifiac6k"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6elyep6ko8tk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 6558860,
+          "tmdb_still_path": "/55ACWUo2GUE6RyYzE5LHBLzpyTW.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/6358jo6pf8li"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0q6z9vw4pesx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 6558863,
+          "tmdb_still_path": "/97oimAncHfsPfUaS9raWYWrVhHq.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/qg9rz4mz6jpt"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/awps0vr8yhii"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 6558864,
+          "tmdb_still_path": "/s0vAuM9ohXBy18snjY9Ydg7wz8I.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/mee262xzpzck"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hynd2l86o2iu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 6558866,
+          "tmdb_still_path": "/72KoiqgwzOU6RbCvOkDkphWYgYf.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/6jskedf5s7yw"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/grfz8tcgh0h4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 6558869,
+          "tmdb_still_path": "/zUJ4tEzruTgoUmFT9DGcogucVuG.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/gaxr6sk66s5j"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/o1cjfulx59zo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 6558872,
+          "tmdb_still_path": "/tV2yq6dChBxLMwddddQxdoL5vfT.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/sbqlfkwbesxu"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/y5ymbavhm8w1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 6558876,
+          "tmdb_still_path": "/koAPeZjUErtn9TozcoZNLAPZOks.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/rdxw7inrf017"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1415b3zbehx5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-12-26",
+          "runtime": 24,
+          "tmdb_episode_id": 6558879,
+          "tmdb_still_path": "/hsENUWU3QG5g8daioIl9iKntvcL.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور القصة حول صراع قديم بين الـ\"موموتارو\" والـ\"أوني\"، حيث يمثل الموموتارو النظام وحماية البشر، بينما يُعرف الأوني بالفوضى والاندفاع والخروج عن السيطرة. شيكي إيتشينوسي، مراهق متهور وطائش، يعيش حياة مليئة بالعصيان والفوضى، حتى أنه طُرد من المدرسة ويفتخر بذلك. رغم سلوكه، إلا أن والده بالتبني، *تسويوشي، يحبه بصدق ويعتني به. يتضح حجم هذا الحب عندما يهاجم أحد الموموتارو المنزل بحثًا عن شيكي، ليكشف تسويوشي الحقيقة: أنه كان يخفي عن شيكي أصله الأوني كل تلك السنين، وأنه هو نفسه موموتارو. في لحظة بطولية، يضحي تسويوشي بحياته لإنقاذ شيكي، وفي لحظاته الأخيرة، يعترف له بكل شيء. يفقد شيكي السيطرة على نفسه، وتستيقظ داخله دماء الأوني، فيتحول إلى وحش جامح يملؤه الغضب والرغبة في الانتقام. تجذب قوته الجديدة انتباه  نايتو مودانو، معلم أوني في أكاديمية راكشاسا، وهي مؤسسة مخصصة لتدريب الأوني على التحكم في قواهم. قبل أن يثأر شيكي لموت والده، عليه أولاً أن يتعلم السيطرة على نفسه، ومحاربة شياطينه الداخلية. القصة تمزج بين الأكشن، والدراما، والهوية، في صراع داخلي وخارجي بين الخير والشر الكامن في الدم.",
+  "url": "/anime/tougen-anki",
+  "story": "تدور القصة حول صراع قديم بين الـ\"موموتارو\" والـ\"أوني\"، حيث يمثل الموموتارو النظام وحماية البشر، بينما يُعرف الأوني بالفوضى والاندفاع والخروج عن السيطرة. شيكي إيتشينوسي، مراهق متهور وطائش، يعيش حياة مليئة بالعصيان والفوضى، حتى أنه طُرد من المدرسة ويفتخر بذلك. رغم سلوكه، إلا أن والده بالتبني، *تسويوشي، يحبه بصدق ويعتني به. يتضح حجم هذا الحب عندما يهاجم أحد الموموتارو المنزل بحثًا عن شيكي، ليكشف تسويوشي الحقيقة: أنه كان يخفي عن شيكي أصله الأوني كل تلك السنين، وأنه هو نفسه موموتارو. في لحظة بطولية، يضحي تسويوشي بحياته لإنقاذ شيكي، وفي لحظاته الأخيرة، يعترف له بكل شيء. يفقد شيكي السيطرة على نفسه، وتستيقظ داخله دماء الأوني، فيتحول إلى وحش جامح يملؤه الغضب والرغبة في الانتقام. تجذب قوته الجديدة انتباه  نايتو مودانو، معلم أوني في أكاديمية راكشاسا، وهي مؤسسة مخصصة لتدريب الأوني على التحكم في قواهم. قبل أن يثأر شيكي لموت والده، عليه أولاً أن يتعلم السيطرة على نفسه، ومحاربة شياطينه الداخلية. القصة تمزج بين الأكشن، والدراما، والهوية، في صراع داخلي وخارجي بين الخير والشر الكامن في الدم.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kazuki Ura، Hiroshi Kamiya، Koutaro Nishiyama، Manaka Iwami، Shogo Sakata، Natsuki Hanae",
+  "genre": "أنمي، رسوم متحركة، غموض، حركة ومغامرة",
+  "trailerId": "j_0eK6R7fm8",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tougen Anki",
+    "mainDescription": "تدور القصة حول صراع قديم بين الـ\"موموتارو\" والـ\"أوني\"، حيث يمثل الموموتارو النظام وحماية البشر، بينما يُعرف الأوني بالفوضى والاندفاع والخروج عن السيطرة. شيكي إيتشينوسي، مراهق متهور وطائش، يعيش حياة مليئة بالعصيان والفوضى، حتى أنه طُرد من المدرسة ويفتخر بذلك. رغم سلوكه، إلا أن والده بالتبني، *تسويوشي، يحبه بصدق ويعتني به. يتضح حجم هذا الحب عندما يهاجم أحد الموموتارو المنزل بحثًا عن شيكي، ليكشف تسويوشي الحقيقة: أنه كان يخفي عن شيكي أصله الأوني كل تلك السنين، وأنه هو نفسه موموتارو. في لحظة بطولية، يضحي تسويوشي بحياته لإنقاذ شيكي، وفي لحظاته الأخيرة، يعترف له بكل شيء. يفقد شيكي السيطرة على نفسه، وتستيقظ داخله دماء الأوني، فيتحول إلى وحش جامح يملؤه الغضب والرغبة في الانتقام. تجذب قوته الجديدة انتباه  نايتو مودانو، معلم أوني في أكاديمية راكشاسا، وهي مؤسسة مخصصة لتدريب الأوني على التحكم في قواهم. قبل أن يثأر شيكي لموت والده، عليه أولاً أن يتعلم السيطرة على نفسه، ومحاربة شياطينه الداخلية. القصة تمزج بين الأكشن، والدراما، والهوية، في صراع داخلي وخارجي بين الخير والشر الكامن في الدم.",
+    "metaDescription": "Tougen Anki أنمي 2025 | تدور القصة حول صراع قديم بين الـ\"موموتارو\" والـ\"أوني\" | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tougen Anki من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/253811"
+    }
+  },
+  "tmdb_id": 253811,
+  "tmdb_url": "https://www.themoviedb.org/tv/253811",
+  "original_title": "桃源暗鬼"
+}

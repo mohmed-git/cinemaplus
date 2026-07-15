@@ -1,0 +1,470 @@
+---
+/**
+ * Detailed SUB-CATEGORY listing page (SSR / on-demand).
+ *
+ * Lists the newly-ingested works for one sub-category (e.g. Netflix series,
+ * Asian movies, Turkish series …). These works are NOT statically built, so
+ * this page is rendered on demand and pulls only its own slim subcat index
+ * (public/_data/subcat/<sub>.json) at request time — the Worker never bundles
+ * the catalogue.
+ *
+ * Filters (genre / year / sort) run fully client-side on a slim payload so the
+ * sub-category sections get the same filtering UX as the main /x/f /x/d /x/n
+ * listings. The filter bar is COLLAPSED by default and expands on click.
+ */
+export const prerender = false;
+
+import Base from '../../../layouts/Base.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import Pagination from '../../../components/Pagination.astro';
+import { SITE } from '../../../lib/site';
+import { SUB_BY_CODE, subcatRoute } from '../../../lib/subcategories';
+import { loadSubcat, type SubcatCard } from '../../../lib/newWorks';
+import { PRIMARY_GENRES, splitGenres } from '../../../lib/filters';
+
+const { code } = Astro.params;
+const def = code ? SUB_BY_CODE[code] : undefined;
+if (!def) return new Response('Not found', { status: 404 });
+
+const PAGE_SIZE = 36;
+const pageParam = Number(Astro.url.searchParams.get('p') || '1') || 1;
+
+const all = await loadSubcat(def.sub, Astro.url);
+const totalPages = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
+const current = Math.min(Math.max(1, pageParam), totalPages);
+const start = (current - 1) * PAGE_SIZE;
+const slice = all.slice(start, start + PAGE_SIZE);
+const section = def.category === 'movie' ? 'movies' : def.category === 'anime' ? 'anime' : 'series';
+
+// ── Build filter facets from this sub-category's own data ──────────────────
+const genreCounts = new Map<string, number>();
+const yearSet = new Set<number>();
+for (const e of all) {
+  for (const g of splitGenres(e.genre)) genreCounts.set(g, (genreCounts.get(g) || 0) + 1);
+  const y = Number(e.year);
+  if (Number.isFinite(y) && y >= 1900 && y <= 2100) yearSet.add(y);
+}
+const visibleGenres = PRIMARY_GENRES.filter((g) => (genreCounts.get(g) || 0) > 0);
+const allYears = [...yearSet].sort((a, b) => b - a);
+const recentYears = allYears.slice(0, 8);
+const decades = [...new Set(allYears.map((y) => Math.floor(y / 10) * 10))].sort((a, b) => b - a);
+const yearBuckets: { key: string; label: string }[] = [
+  ...recentYears.map((y) => ({ key: String(y), label: String(y) })),
+  ...decades
+    .filter((d) => allYears.some((y) => y >= d && y < d + 10 && !recentYears.includes(y)))
+    .map((d) => ({ key: `${d}s`, label: `${d}s` })),
+];
+
+// Slim client payload for filtering (slug-keyed, with the fields the chips need)
+const clientPayload = all.map((e) => ({
+  s: e.slug,
+  t: e.clean_title,
+  cl: e.category_label,
+  p: e.poster || null,
+  u: e.url,
+  y: e.year || '',
+  e: e.episodes_count || 0,
+  g: splitGenres(e.genre),
+  sr: e.sort_rating || 0,
+  sc: e.sort_recent || 0,
+  rt: e.rating || 0,
+  v: e.votes || 0,
+}));
+
+function pageHref(p: number): string {
+  return p <= 1 ? subcatRoute(def!.code) : `${subcatRoute(def!.code)}?p=${p}`;
+}
+function quality(slug: string): string {
+  let h = 0;
+  for (let i = 0; i < slug.length; i++) h = (h * 17 + slug.charCodeAt(i)) >>> 0;
+  return h % 5 === 0 ? '4K' : 'HD';
+}
+---
+
+<Base
+  title={current > 1 ? `${def.label} — صفحة ${current}` : `${def.label} مترجمة اون لاين`}
+  description={`تصفّح ${def.label} على ${SITE.name} — ${all.length.toLocaleString('ar-EG')} عمل مترجم بجودة عالية مع فلاتر التصنيف وسنة الإصدار والترتيب حسب التقييم.`}
+  section={section as any}
+>
+  <section class="relative overflow-hidden border-b border-white/[0.04] -mt-16 lg:-mt-[72px] pt-16 lg:pt-[72px]">
+    <div class="absolute inset-0 -z-10 bg-aurora opacity-70"></div>
+    <div class="orb h-72 w-72 -top-10 right-10 bg-brand-600"></div>
+    <div class="orb h-80 w-80 top-20 -left-20 bg-neon-fuchsia"></div>
+
+    <div class="container-app relative pt-8 pb-10 md:pt-12 md:pb-14">
+      <Breadcrumbs items={[{ label: 'الرئيسية', href: '/' }, { label: def.label }]} />
+
+      <div class="mt-6 flex items-end justify-between flex-wrap gap-6">
+        <div>
+          <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.25em] text-brand-400 mb-3">
+            <span class="h-px w-10 bg-gradient-to-l from-brand-400 to-transparent"></span>
+            {def.blurbEn}
+          </div>
+          <h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight">
+            <span class="gradient-text neon-glow">{def.label}</span>
+          </h1>
+          <p class="mt-3 max-w-2xl text-sm md:text-base text-gray-300/90 leading-relaxed">
+            مجموعة تضم {all.length.toLocaleString('ar-EG')} عملًا مترجمًا بجودة عالية،
+            مرتّبة في {totalPages} صفحة لتصفّح أسهل وأسرع.
+          </p>
+        </div>
+
+        <div class="glass-panel p-4 md:p-5 flex items-center gap-4">
+          <div class="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-brand-500 to-neon-fuchsia text-white shadow-[0_0_20px_-4px_rgba(168,85,247,0.6)]">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-5 w-5">
+              <path d="M15.6 11.6L22 7v10l-6.4-4.5v-1zM2 5a2 2 0 012-2h12a2 2 0 012 2v14a2 2 0 01-2 2H4a2 2 0 01-2-2V5z"/>
+            </svg>
+          </div>
+          <div>
+            <div class="text-3xl font-extrabold gradient-text">{all.length.toLocaleString('ar-EG')}</div>
+            <div class="text-xs text-gray-400 uppercase tracking-wider">عمل متاح</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="container-app py-8 md:py-10">
+    {all.length === 0 ? (
+      <div class="text-center py-20">
+        <h3 class="text-lg font-bold text-white mb-1">لا توجد نتائج بعد</h3>
+        <p class="text-sm text-gray-400">يتم تحديث هذا القسم تباعاً.</p>
+      </div>
+    ) : (
+      <>
+        <!-- Collapsible filter bar (collapsed by default; expands on click) -->
+        <div id="filter-bar" class="glass-panel-sm my-2 mb-6 overflow-hidden">
+          <button
+            id="filter-toggle"
+            type="button"
+            class="flex w-full items-center justify-between gap-3 p-4 sm:p-5 text-right"
+            aria-expanded="false"
+            aria-controls="filter-body"
+          >
+            <span class="flex items-center gap-2 text-sm font-bold text-white">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 text-brand-400">
+                <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+              </svg>
+              تصفية وترتيب
+              <span id="result-count" class="chip-surface text-[11px] !py-0.5 !px-2 mr-1">{all.length.toLocaleString('ar-EG')}</span>
+              <span id="active-badge" class="hidden rounded-full bg-brand-500/20 text-brand-200 text-[10px] font-bold px-2 py-0.5">فلاتر مفعّلة</span>
+            </span>
+            <svg id="filter-caret" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="h-5 w-5 text-gray-400 transition-transform duration-300">
+              <path d="M6 9l6 6 6-6"/>
+            </svg>
+          </button>
+
+          <div id="filter-body" class="hidden border-t border-white/[0.06] p-4 sm:p-5 space-y-4">
+            <div class="flex items-center justify-end">
+              <button id="clear-filters" type="button" class="hidden inline-flex items-center gap-1.5 text-xs font-semibold text-rose-300 hover:text-rose-200 transition-colors">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-3.5 w-3.5">
+                  <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+                </svg>
+                مسح الفلاتر
+              </button>
+            </div>
+
+            {visibleGenres.length > 0 && (
+              <div>
+                <p class="text-[11px] font-semibold text-gray-400 mb-2 tracking-wider">التصنيف</p>
+                <div class="flex flex-wrap gap-2" data-filter-group="genre">
+                  <button type="button" class="filter-chip filter-chip--active" data-value="">الكل</button>
+                  {visibleGenres.map((g) => (
+                    <button type="button" class="filter-chip" data-value={g}>
+                      {g}
+                      <span class="filter-chip__count">{genreCounts.get(g) || 0}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {yearBuckets.length > 0 && (
+              <div>
+                <p class="text-[11px] font-semibold text-gray-400 mb-2 tracking-wider">سنة الإصدار</p>
+                <div class="flex flex-wrap gap-2" data-filter-group="year">
+                  <button type="button" class="filter-chip filter-chip--active" data-value="">الكل</button>
+                  {yearBuckets.map((b) => (
+                    <button type="button" class="filter-chip" data-value={b.key}>{b.label}</button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            <div>
+              <p class="text-[11px] font-semibold text-gray-400 mb-2 tracking-wider">الترتيب</p>
+              <div class="flex flex-wrap gap-2" data-filter-group="sort">
+                <button type="button" class="filter-chip filter-chip--active" data-value="featured">مختارة</button>
+                <button type="button" class="filter-chip" data-value="latest">الأحدث</button>
+                <button type="button" class="filter-chip" data-value="top">الأعلى تقييماً</button>
+                <button type="button" class="filter-chip" data-value="alpha">أبجدي</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Server-rendered slice (current page) -->
+        <div id="results-server" class="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-4 xl:grid-cols-6">
+          {slice.map((e: SubcatCard, i: number) => (
+            <a href={e.url} class="group poster-card animate-fade-in" aria-label={`${e.category_label}: ${e.clean_title}`}>
+              <div class="relative aspect-[2/3] w-full overflow-hidden rounded-2xl bg-surface-3">
+                {e.poster ? (
+                  <img src={e.poster} alt={e.clean_title} loading={i < 6 ? 'eager' : 'lazy'} decoding="async" referrerpolicy="no-referrer" class="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"/>
+                ) : (
+                  <div class="flex h-full w-full items-center justify-center bg-gradient-to-br from-surface-3 to-surface-5 text-center text-sm text-gray-400"><span class="line-clamp-2 text-xs px-2">{e.clean_title}</span></div>
+                )}
+                <div class="absolute top-0 right-0 left-0 flex items-start justify-between p-2 z-10">
+                  <span class="badge-category">{e.category_label}</span>
+                  <span class="badge-hd shadow-[0_4px_12px_-4px_rgba(168,85,247,0.6)]">{quality(e.slug)}</span>
+                </div>
+                {e.rating > 0 && (e.votes || 0) >= 30 && (
+                  <div class="absolute bottom-[4.2rem] right-2 z-10 flex items-center gap-1 rounded-md bg-black/70 px-1.5 py-0.5 text-[10px] font-bold text-amber-300 backdrop-blur-sm" title="التقييم من TMDB">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3 w-3"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    {e.rating.toFixed(1)}
+                    <span class="text-[8px] font-semibold text-gray-300/80">TMDB</span>
+                  </div>
+                )}
+                <div class="absolute inset-0 bg-gradient-to-t from-surface-0 via-surface-0/40 to-transparent opacity-90"></div>
+                <div class="absolute inset-x-0 bottom-0 p-3 sm:p-3.5 z-10">
+                  <h3 class="line-clamp-2 text-[13px] sm:text-sm font-bold text-white drop-shadow-lg leading-tight">{e.clean_title}</h3>
+                  <div class="mt-1.5 flex items-center gap-1.5 text-[10px] sm:text-[11px] text-gray-300/90">
+                    <span class="flex items-center gap-1"><span class="h-1 w-1 rounded-full bg-brand-400"></span>{e.category_label}</span>
+                    {e.year ? (<><span class="text-gray-500">·</span><span>{e.year}</span></>) : null}
+                    {e.episodes_count > 1 ? (<><span class="text-gray-500">·</span><span>{e.episodes_count} حلقة</span></>) : null}
+                  </div>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+
+        <!-- Filtered results (client-side; hidden until a filter is applied) -->
+        <div id="results-filtered" class="hidden grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-4 xl:grid-cols-6"></div>
+
+        <!-- Empty state -->
+        <div id="empty-state" class="hidden text-center py-20">
+          <div class="inline-flex h-16 w-16 items-center justify-center rounded-2xl bg-gradient-to-br from-surface-3 to-surface-5 mb-4">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="h-8 w-8 text-gray-500">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-white mb-1">لا توجد نتائج</h3>
+          <p class="text-sm text-gray-400">جرّب تغيير الفلاتر أو إزالتها</p>
+        </div>
+
+        <div id="server-pagination">
+          <Pagination current={current} total={totalPages} hrefFor={pageHref} />
+        </div>
+
+        <!-- TMDB attribution (required by TMDB terms of use) -->
+        <p class="mt-8 text-center text-[11px] text-gray-500">
+          بيانات الأعمال (الملصقات، التقييمات، القصص) مأخوذة من
+          <a href="https://www.themoviedb.org/" rel="noopener nofollow" target="_blank" class="text-brand-400 hover:text-brand-300 underline">TMDB (The Movie Database)</a>.
+          هذا المنتج يستخدم TMDB API لكنه غير معتمد أو معتمَد من TMDB.
+        </p>
+      </>
+    )}
+  </section>
+
+  <script type="application/json" id="subcat-data" set:html={JSON.stringify(clientPayload)} />
+</Base>
+
+<script>
+  /* eslint-disable */
+  type Entry = {
+    s: string; t: string; cl: string; p: string | null; u: string;
+    y: string; e: number; g: string[]; sr: number; sc: number; rt: number; v: number;
+  };
+
+  const PAGE_SIZE = 36;
+  const dataEl = document.getElementById('subcat-data');
+  const itemsData: Entry[] = dataEl ? JSON.parse(dataEl.textContent || '[]') : [];
+
+  const filterBar = document.getElementById('filter-bar');
+  const toggleBtn = document.getElementById('filter-toggle');
+  const filterBody = document.getElementById('filter-body');
+  const caret = document.getElementById('filter-caret');
+  const resultsServer = document.getElementById('results-server');
+  const resultsFiltered = document.getElementById('results-filtered');
+  const emptyState = document.getElementById('empty-state');
+  const serverPagination = document.getElementById('server-pagination');
+  const resultCount = document.getElementById('result-count');
+  const clearBtn = document.getElementById('clear-filters');
+  const activeBadge = document.getElementById('active-badge');
+
+  if (filterBar && toggleBtn && filterBody) {
+    let activeGenre = '';
+    let activeYear = '';
+    let activeSort = 'featured';
+    let filterPage = 1;
+
+    // ── collapse / expand ──
+    toggleBtn.addEventListener('click', () => {
+      const open = filterBody.classList.toggle('hidden') === false;
+      toggleBtn.setAttribute('aria-expanded', String(open));
+      if (caret) caret.style.transform = open ? 'rotate(180deg)' : '';
+    });
+
+    function quality(slug: string): string {
+      let h = 0;
+      for (let i = 0; i < slug.length; i++) h = (h * 17 + slug.charCodeAt(i)) >>> 0;
+      return h % 5 === 0 ? '4K' : 'HD';
+    }
+    function esc(s: string): string {
+      return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function matchYear(e: Entry, key: string): boolean {
+      if (!key) return true;
+      if (key.endsWith('s')) {
+        const d = parseInt(key, 10);
+        const y = Number(e.y);
+        return Number.isFinite(y) && y >= d && y < d + 10;
+      }
+      return String(e.y) === key;
+    }
+
+    function sortEntries(list: Entry[]): Entry[] {
+      const arr = list.slice();
+      if (activeSort === 'featured') return arr; // server order
+      if (activeSort === 'alpha') {
+        arr.sort((a, b) => (a.t || '').localeCompare(b.t || '', 'ar'));
+        return arr;
+      }
+      const key = activeSort === 'latest' ? 'sc' : 'sr';
+      arr.sort((a, b) => {
+        const pb = Number((b as any)[key]) || 0;
+        const pa = Number((a as any)[key]) || 0;
+        if (pb !== pa) return pb - pa;
+        if ((b.v || 0) !== (a.v || 0)) return (b.v || 0) - (a.v || 0);
+        return (a.t || '').localeCompare(b.t || '', 'ar');
+      });
+      return arr;
+    }
+
+    function applyFilters(): Entry[] {
+      const filtered = itemsData.filter(
+        (e) => (!activeGenre || e.g.includes(activeGenre)) && matchYear(e, activeYear)
+      );
+      return sortEntries(filtered);
+    }
+
+    function renderCard(e: Entry): string {
+      const q = quality(e.s);
+      const title = esc(e.t);
+      const poster = e.p
+        ? `<img src="${esc(e.p)}" alt="${title}" loading="lazy" decoding="async" referrerpolicy="no-referrer" class="h-full w-full object-cover transition-transform duration-700 ease-out"/>`
+        : `<div class="flex h-full w-full items-center justify-center bg-gradient-to-br from-surface-3 to-surface-5 text-center text-sm text-gray-400"><span class="line-clamp-2 text-xs px-2">${title}</span></div>`;
+      // Only show the TMDB badge when the score is backed by enough votes
+      // (≥30); otherwise a 1-vote "10/10" would look fabricated/deceptive.
+      const ratingBlock = (e.rt > 0 && (e.v || 0) >= 30)
+        ? `<div class="absolute bottom-[4.2rem] right-2 z-10 flex items-center gap-1 rounded-md bg-black/70 px-1.5 py-0.5 text-[10px] font-bold text-amber-300 backdrop-blur-sm" title="التقييم من TMDB"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3 w-3"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>${e.rt.toFixed(1)}<span class="text-[8px] font-semibold text-gray-300/80">TMDB</span></div>`
+        : '';
+      const eps = e.e > 1 ? `<span class="text-gray-500">·</span><span>${e.e} حلقة</span>` : '';
+      return `<a href="${esc(e.u)}" class="group poster-card animate-fade-in" aria-label="${esc(e.cl)}: ${title}">
+        <div class="relative aspect-[2/3] w-full overflow-hidden rounded-2xl bg-surface-3">
+          ${poster}
+          <div class="absolute top-0 right-0 left-0 flex items-start justify-between p-2 z-10">
+            <span class="badge-category">${esc(e.cl)}</span>
+            <span class="badge-hd shadow-[0_4px_12px_-4px_rgba(168,85,247,0.6)]">${q}</span>
+          </div>
+          ${ratingBlock}
+          <div class="absolute inset-0 bg-gradient-to-t from-surface-0 via-surface-0/40 to-transparent opacity-90"></div>
+          <div class="absolute inset-x-0 bottom-0 p-3 sm:p-3.5 z-10">
+            <h3 class="line-clamp-2 text-[13px] sm:text-sm font-bold text-white drop-shadow-lg leading-tight">${title}</h3>
+            <div class="mt-1.5 flex items-center gap-1.5 text-[10px] sm:text-[11px] text-gray-300/90"><span class="flex items-center gap-1"><span class="h-1 w-1 rounded-full bg-brand-400"></span>${esc(e.cl)}</span>${e.y ? `<span class="text-gray-500">·</span><span>${esc(e.y)}</span>` : ''}${eps}</div>
+          </div>
+        </div>
+      </a>`;
+    }
+
+    function renderPagination(cur: number, total: number): string {
+      if (total <= 1) return '';
+      const nums: (number | '…')[] = [];
+      if (total <= 7) { for (let i = 1; i <= total; i++) nums.push(i); }
+      else {
+        nums.push(1);
+        const l = Math.max(2, cur - 1), r = Math.min(total - 1, cur + 1);
+        if (l > 2) nums.push('…');
+        for (let i = l; i <= r; i++) nums.push(i);
+        if (r < total - 1) nums.push('…');
+        nums.push(total);
+      }
+      const mid = nums.map((n) => n === '…'
+        ? `<span class="page-ellipsis">…</span>`
+        : n === cur ? `<span class="page-current" aria-current="page">${n}</span>`
+        : `<button type="button" class="page-btn" data-page="${n}">${n}</button>`).join('');
+      return `<nav class="mt-10 flex flex-wrap items-center justify-center gap-2" aria-label="ترقيم الصفحات">${mid}</nav>`;
+    }
+
+    function rerender() {
+      const filtered = applyFilters();
+      const hasFilter = !!activeGenre || !!activeYear || activeSort !== 'featured';
+      if (resultCount) resultCount.textContent = filtered.length.toLocaleString('ar-EG');
+      if (clearBtn) clearBtn.classList.toggle('hidden', !hasFilter);
+      if (activeBadge) activeBadge.classList.toggle('hidden', !hasFilter);
+
+      if (!hasFilter) {
+        resultsServer?.classList.remove('hidden');
+        resultsFiltered?.classList.add('hidden');
+        emptyState?.classList.add('hidden');
+        serverPagination?.classList.remove('hidden');
+        filterPage = 1;
+        return;
+      }
+      resultsServer?.classList.add('hidden');
+      serverPagination?.classList.add('hidden');
+      if (filtered.length === 0) {
+        resultsFiltered?.classList.add('hidden');
+        emptyState?.classList.remove('hidden');
+        return;
+      }
+      emptyState?.classList.add('hidden');
+      resultsFiltered?.classList.remove('hidden');
+      resultsFiltered?.classList.add('grid');
+      const totalP = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+      if (filterPage > totalP) filterPage = totalP;
+      const start = (filterPage - 1) * PAGE_SIZE;
+      const pageSlice = filtered.slice(start, start + PAGE_SIZE);
+      if (resultsFiltered) {
+        resultsFiltered.innerHTML = pageSlice.map(renderCard).join('') + renderPagination(filterPage, totalP);
+        resultsFiltered.querySelectorAll<HTMLButtonElement>('button[data-page]').forEach((b) => {
+          b.addEventListener('click', () => {
+            filterPage = Number(b.dataset.page) || 1;
+            rerender();
+            window.scrollTo({ top: (filterBar as HTMLElement).offsetTop - 80, behavior: 'smooth' });
+          });
+        });
+      }
+    }
+
+    function setActive(group: string, value: string) {
+      if (group === 'genre') activeGenre = value;
+      if (group === 'year') activeYear = value;
+      if (group === 'sort') activeSort = value || 'featured';
+      filterPage = 1;
+      filterBar.querySelectorAll<HTMLButtonElement>(`[data-filter-group="${group}"] button`).forEach((b) => {
+        b.classList.toggle('filter-chip--active', (b.dataset.value || '') === value);
+      });
+      rerender();
+    }
+
+    filterBar.querySelectorAll<HTMLButtonElement>('[data-filter-group] button').forEach((b) => {
+      b.addEventListener('click', () => {
+        const group = (b.parentElement as HTMLElement).dataset.filterGroup!;
+        setActive(group, b.dataset.value || '');
+      });
+    });
+
+    clearBtn?.addEventListener('click', () => {
+      activeGenre = ''; activeYear = ''; activeSort = 'featured'; filterPage = 1;
+      filterBar.querySelectorAll<HTMLButtonElement>('[data-filter-group="genre"] button, [data-filter-group="year"] button').forEach((b) => {
+        b.classList.toggle('filter-chip--active', (b.dataset.value || '') === '');
+      });
+      filterBar.querySelectorAll<HTMLButtonElement>('[data-filter-group="sort"] button').forEach((b) => {
+        b.classList.toggle('filter-chip--active', (b.dataset.value || '') === 'featured');
+      });
+      rerender();
+    });
+  }
+</script>

@@ -1,0 +1,364 @@
+{
+  "slug": "buddy-daddies",
+  "clean_title": "Buddy Daddies",
+  "raw_name": "انمي Buddy Daddies",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/buddy-daddies.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/zfyktiu3v2j3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/fvxt8jhmmt5l"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/dgixwkdqyzm4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4019769,
+          "tmdb_still_path": "/2rbPFzFE3rFOfgUGIASlcq7q7wO.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nz2qopv8egdv"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/sm9qbgxq5gvu"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/2wdo4d31tdi4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4108164,
+          "tmdb_still_path": "/6FrolvHRek3yqw3ESWXOKsL1Icg.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xhys1v7ruxxl"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/tcpkgeshklfg"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/g5m93vhh2id1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4108165,
+          "tmdb_still_path": "/k6EyRGqSQT02ugGGIsQb14NDa0m.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/jafdom6j3q2c"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/wb6pfim9a9j5"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/77n15c6ece8e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4108166,
+          "tmdb_still_path": "/6aFZCESEW4tDewkYORy5gSDLYvw.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/3x659ly86oia"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kqho88go70bm"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/3kqasi3thep1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4108167,
+          "tmdb_still_path": "/cCN2cyqwiwgkbyUY7sgC1RXZ37N.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/adl6dzyhsocn"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kvtdc6750c3p"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/599ef08b2cqh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4108168,
+          "tmdb_still_path": "/zAJcQ5b6HUUQqFhnJ6lp24hNsrc.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ku6mjstoj5hi"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/wkol9noufump"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/zzk8c5qd9eu8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4108169,
+          "tmdb_still_path": "/erd8LeHhH2e6s9PYUVBYbAMvApY.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xghespo06wq0"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/9d7jzfgdn4c0"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/76i5mrvzy4yq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4108170,
+          "tmdb_still_path": "/7JlNlufXBKreE9dudnFk05QCeYf.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/p3y2jwoj3pmb"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/padiol8r0dms"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/z0kyn16vgvxd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4108171,
+          "tmdb_still_path": "/3hYu8kNwErNTEIyqug7R4wihqUd.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/muqsv6kb2le3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/l3i49ekgljzi"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/2q9hwsr60rvz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4108172,
+          "tmdb_still_path": "/yPEKlsMCFlEbZ6vCz46EuXZPbx6.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/2smi2q55tdl7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/yvr1iur7zh40"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/5h7lrcfafc5x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4108173,
+          "tmdb_still_path": "/mhfsXbic1g4dKclKuMqxzASWeGs.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/a88veefnciup"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/s9p66jmuhbqp"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/zkjubml385kg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-01",
+          "runtime": 24,
+          "tmdb_episode_id": 4108174,
+          "tmdb_still_path": "/7ocTsTcnI7ogL4FaLueLsO4jd5x.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Buddy Daddies ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Buddy Daddies حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/buddy-daddies",
+  "story": "يدور أنمي Buddy Daddies ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Buddy Daddies حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Toshiyuki Toyonaga، Koki Uchiyama، Hina Kino، Toshiyuki Morikawa، Mitsuaki Madono، Nanako Mori",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، جريمة",
+  "trailerId": "Oqxm1mn917g",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Buddy Daddies",
+    "mainDescription": "يدور أنمي Buddy Daddies ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Buddy Daddies حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Buddy Daddies أنمي 2023 | يدور أنمي Buddy Daddies ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Buddy Daddies من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/212963"
+    }
+  },
+  "tmdb_id": 212963,
+  "tmdb_url": "https://www.themoviedb.org/tv/212963",
+  "original_title": "Buddy Daddies"
+}

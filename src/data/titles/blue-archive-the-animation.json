@@ -1,0 +1,304 @@
+{
+  "slug": "blue-archive-the-animation",
+  "clean_title": "Blue Archive the Animation",
+  "raw_name": "انمي Blue Archive the Animation",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/blue-archive-the-animation.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4aMYxOI9uRzsWW1h"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1mGJn1nNf2am3me8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4182310,
+          "tmdb_still_path": "/ygmEcErrtQ9HgSX6Nooe9csAyTv.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yVdnlQ6B6X3TS9DK"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4fSCh8kd5jW0SxBC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5261613,
+          "tmdb_still_path": "/2YrV12UZQTjhv30KLjeMlwykquk.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2OH6mGRSCwZmGVdu"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3g6GnFHpAhsECpwP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5261614,
+          "tmdb_still_path": "/zF61SYwcNKw8br1oXsFNYnXjtCZ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KQscn2m0xyop84Lg"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CFEjXZkSFqwbrWKQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5261615,
+          "tmdb_still_path": "/s09A3I2xUTVwoUxwhmgSvQp8KOF.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lEz2bTD8C3RL7rll"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KjA2Li3PG40AVvRp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5261616,
+          "tmdb_still_path": "/iOms3s3VZYGS8bLHxXUV6rrvVpy.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PTMm9eWpaRfk0IMe"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yslnYj2LNeBsxL7Y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5261617,
+          "tmdb_still_path": "/qSUucWBFKuzJl5JGfA0BLEuvTGw.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0dKEcMCi5MPkAEUP"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qELXGLiRaM1LIfL9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5261618,
+          "tmdb_still_path": "/c9aMhaLi1Z42DucBiLW5uMuWxJA.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bQwQCnrHDA4zsda2"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=i3KJZfdbKFz3Jf83"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-26",
+          "runtime": 24,
+          "tmdb_episode_id": 5261619,
+          "tmdb_still_path": "/vMbYNKWYzUpUMGlttDIcpPFY1mH.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5c6UCj4EGwQ7zJPo"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gDb9M5sQgjs6FMrQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5261620,
+          "tmdb_still_path": "/45oecOkfybDieBbht7REWzD8bzy.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZdkaiMXHEAKv7Xxb"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=We9ZPWh0ebwKkZXe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-09",
+          "runtime": 24,
+          "tmdb_episode_id": 5261621,
+          "tmdb_still_path": "/1DvEe1mldWyGLgqr0ZaOXFbQKuc.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Vq1udRjAPezgN8sf"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WxN11nAKbBgR9C7I"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-16",
+          "runtime": 24,
+          "tmdb_episode_id": 5261622,
+          "tmdb_still_path": "/e53nYceXPQ3McCDOgyzspq3vccx.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=c2iE95i296RU4nDs"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=18AnOGJyboc7Mgj1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-23",
+          "runtime": 24,
+          "tmdb_episode_id": 5261623,
+          "tmdb_still_path": "/oT9tWvIGhNn420u0RwSqWC9qnoQ.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Blue Archive the Animation ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Blue Archive the Animation على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/blue-archive-the-animation",
+  "story": "يدور أنمي Blue Archive the Animation ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Blue Archive the Animation على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yui Ogura، Yumiri Hanamori، Ayaka Ohashi، Chiyuki Miura، Sayaka Harada، Reina Kondo",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Blue Archive the Animation",
+    "mainDescription": "يدور أنمي Blue Archive the Animation ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Blue Archive the Animation على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات خيال علمي، أكشن العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Blue Archive the Animation أنمي 2024 | يدور أنمي Blue Archive the Animation ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Blue Archive the Animation من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/218833"
+    }
+  },
+  "tmdb_id": 218833,
+  "tmdb_url": "https://www.themoviedb.org/tv/218833",
+  "original_title": "ブルーアーカイブ The Animation"
+}

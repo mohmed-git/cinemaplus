@@ -1,0 +1,454 @@
+{
+  "slug": "tensei-kizoku-kantei-skill-de-nariagaru",
+  "clean_title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+  "raw_name": "انمي Tensei Kizoku, Kantei Skill de Nariagaru",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tensei-kizoku-kantei-skill-de-nariagaru.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GkNC0RKFtI3B9S7F"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ldL9mPx0W7yHp0LR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4816380,
+          "tmdb_still_path": "/bqT6Yffx1gZkkUAPs8mE8mjW1cU.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AUVcP1p7BMuv2hHY"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OELKkCfBa0TVBa4k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5254697,
+          "tmdb_still_path": "/a39jW1qSRxBN5fJKycBbKWkUHyw.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ViDvDLqsSevmZ2Bx"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QwFT5VZEC0jx96Yz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5254701,
+          "tmdb_still_path": "/1g7nulEuCJ0aqI2xIVAokCXcjSz.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7351186688587"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jYoALyAHRJ6wnVfp"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7351193569867"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7351197174347"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jTc7EahKQQN78rDi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5254702,
+          "tmdb_still_path": "/ezKspOjA0KhnvQ3qUdCSSkdEPGc.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7373728778827"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Kiq5fysX6YZsc6Cu"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7373736053323"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7373739723339"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zVDkaS3UvMRFdsWk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5254704,
+          "tmdb_still_path": "/dOzGS8ORpnarxzBTVpoXXs0yyVr.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7395574876747"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mOeiiK2JIB84Gmlk"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7395586869835"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7395590998603"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NnzSVyfUJ1e4jYzJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5254705,
+          "tmdb_still_path": "/tUpvx8nErabArphJ0r5ejvAygxf.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0CSwWQNUZmdoP6W2"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/3wrofi8zt0sz"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/brehovmss09y"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JGq1ZKulmIuFoGUc"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swhoi.com/e/rludr7ambdun"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5254706,
+          "tmdb_still_path": "/79EiTpqTQmjStXONjq7yPjqA66K.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PUUqUN0AfL2daQUP"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/pxfsw2860ygm"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/ltlok1bh91z9"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cTfUrUaGjBvxyU0o"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swhoi.com/e/zlz0s2r7k8o6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-26",
+          "runtime": 24,
+          "tmdb_episode_id": 5254707,
+          "tmdb_still_path": "/i5grx0y4jYzx64RO3HCJXKXoyIg.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BfH667QLje11w5D8"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/uwflglogz3yq"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/yrv8zi58y2wr"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=c5PkXaT7mH5Mnf5S"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/04f37v485wlh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5254708,
+          "tmdb_still_path": "/6hpEnH4yiFkJWoRZStrDiB8SYn2.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DiGi0pXXwz38n8oi"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/ofcxn2bkafiv"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/0s4yqx62cv24"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9IOUPw7OwMrhkxvm"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/70y2v7wjmbez"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-09",
+          "runtime": 24,
+          "tmdb_episode_id": 5254709,
+          "tmdb_still_path": "/oq2m6Ts2Qq2jzLCATldGvRaROGB.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sC12rUl1WwwTHHm8"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/c1zt23d9vb3z"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/9srzsyhd6z8n"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7UAVmVgs8dFXYVHB"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/vyox1ng9y8cf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-16",
+          "runtime": 24,
+          "tmdb_episode_id": 5254710,
+          "tmdb_still_path": "/hWeXrbzT9IUZ0bih9e3rUdbONz8.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qQRvI6QjjfG4QlIO"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/q5l72tmzcfah"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/l3zpgwt81ksb"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://swdyu.com/e/9uloyxf9z5c3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-23",
+          "runtime": 24,
+          "tmdb_episode_id": 5254711,
+          "tmdb_still_path": "/9G8dbozYQRdW60NO2HKImLMxZED.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Tensei Kizoku, Kantei Skill de Nariagaru ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Tensei Kizoku, Kantei Skill de Nariagaru على انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مغامرات، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Tensei Kizoku, Kantei Skill de Nariagaru على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru",
+  "story": "يدور أنمي Tensei Kizoku, Kantei Skill de Nariagaru ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Tensei Kizoku, Kantei Skill de Nariagaru على انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مغامرات، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Tensei Kizoku, Kantei Skill de Nariagaru على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Natsumi Fujiwara، Taito Ban، Narumi Kaho، Miho Okasaki، Kana Hanazawa، Hiroki Touchi",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا",
+  "trailerId": "QCtat7cw8CU",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "mainDescription": "يدور أنمي Tensei Kizoku, Kantei Skill de Nariagaru ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Tensei Kizoku, Kantei Skill de Nariagaru على انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مغامرات، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Tensei Kizoku, Kantei Skill de Nariagaru على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Tensei Kizoku, Kantei Skill de Nariagaru أنمي 2024 | يدور أنمي Tensei Kizoku, Kantei Skill de Nariagaru ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tensei Kizoku, Kantei Skill de Nariagaru من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/237150"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "tensei-kizoku-kantei-skill-de-nariagaru-part-2",
+      "title": "Tensei Kizoku Kantei Skill de Nariagaru Part 2",
+      "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru-part-2",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/tensei-kizoku-kantei-skill-de-nariagaru-part-2.png"
+    },
+    {
+      "slug": "tensei-kizoku-kantei-skill-de-nariagaru",
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+      "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/tensei-kizoku-kantei-skill-de-nariagaru.jpg"
+    }
+  ],
+  "tmdb_id": 237150,
+  "tmdb_url": "https://www.themoviedb.org/tv/237150",
+  "original_title": "転生貴族、鑑定スキルで成り上がる"
+}

@@ -1,0 +1,384 @@
+{
+  "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
+  "clean_title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+  "raw_name": "انمي Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vxt3cin1faz4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/33kkdirohulu"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/vz77kjxoj07u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1594897,
+          "tmdb_still_path": "/1tcnck8JUDtljCT8f621R00DXRz.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/bo2k9lwdrq2d"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/uj68e75ytg8p"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/p6ojgdy2023a"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1660153,
+          "tmdb_still_path": "/8UalRaM1N38WUabAgZ82KjxPGTV.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/oryv30xsjbcg"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ej2v03f1e4io"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/v1qzmn2knaic"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1660154,
+          "tmdb_still_path": "/zQQxttrevh1NOWkwC29TbKI9vPb.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/l7zihramagmx"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/6oh3h9nttv4g"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/mw8al1y6been"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1660155,
+          "tmdb_still_path": "/xWuhC8r0h9yhQAF6V8NZKbOYnQo.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/wkbx5t7iaveg"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/vrpr901bb6t2"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/i4vsg6mk7jvf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1660156,
+          "tmdb_still_path": "/bZmXdOVdVGGn5XkeJPBFLay1s2v.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/qnd7pzcag1nq"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/p3mpck0bbhwy"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/3drfqjn3uc39"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1660157,
+          "tmdb_still_path": "/ntPT6eX0q3dy1RjiLy0njG5ofsq.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/sq6hlss707lv"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/g4zy3jewfknj"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/olp4iiz9x3xk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1660158,
+          "tmdb_still_path": "/3iZOk8UqApftXkQm8gShyoH56R2.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/mo1xlmfw0ftf"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hdsa9ji51eha"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/adt0myfxhfqu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1660159,
+          "tmdb_still_path": "/mcLkDQq4Kvn6tMoDIPwv10RpuHd.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vw4e6r4lies2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/c77p1ujq5ufb"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/bacs19izeei9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1660160,
+          "tmdb_still_path": "/404snQhXnRVX6V53n47dKZYJcX2.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/i6p25sa0mka2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ffuq4fnlnfhz"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/kvax6kgum1sp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1660161,
+          "tmdb_still_path": "/5UajteOBwCobGfYKskOW1nlBdX0.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/wnca0usjeioz"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/h8p6h22kawb7"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/4uchqbi8x01x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1660162,
+          "tmdb_still_path": "/5VnnvaeTXp73ILbcWYxbPPzf7UZ.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/msma6r8g94bl"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kwy641j9yh8z"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/xrd3xz5hwy0o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-03-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1660163,
+          "tmdb_still_path": "/daGZCCl6AB8fxNug1Mxzq2VywYI.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تتحدث عن كاغويا شينوميا و ميوكي شيروغاني و هما عضوان في مجلس طلبة أكادمية شوتشين للنخبة، يحتلان موقعهما كعباقرة بين العباقرة. الوقت الذي يقضيانه معا دفعهما إلى تكوين مشاعر نحو الطرف الآخر، لكن كبرياء كل واحد منهما لا يسمح له بأن يكون أول من يعترف و يصبح الطرف الخاضع في العلاقة! الحب عبارة عن حرب، و معركتها في جعل الآخر يعترف قد بدأت الآن",
+  "url": "/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
+  "story": "تتحدث عن كاغويا شينوميا و ميوكي شيروغاني و هما عضوان في مجلس طلبة أكادمية شوتشين للنخبة، يحتلان موقعهما كعباقرة بين العباقرة. الوقت الذي يقضيانه معا دفعهما إلى تكوين مشاعر نحو الطرف الآخر، لكن كبرياء كل واحد منهما لا يسمح له بأن يكون أول من يعترف و يصبح الطرف الخاضع في العلاقة! الحب عبارة عن حرب، و معركتها في جعل الآخر يعترف قد بدأت الآن",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Makoto Furukawa، Aoi Koga، Konomi Kohara، Ryota Suzuki، Miyu Tomita، Yumiri Hanamori",
+  "genre": "أنمي، كوميديا، رسوم متحركة",
+  "trailerId": "IwpJJiQkZzI",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "mainDescription": "تتحدث عن كاغويا شينوميا و ميوكي شيروغاني و هما عضوان في مجلس طلبة أكادمية شوتشين للنخبة، يحتلان موقعهما كعباقرة بين العباقرة. الوقت الذي يقضيانه معا دفعهما إلى تكوين مشاعر نحو الطرف الآخر، لكن كبرياء كل واحد منهما لا يسمح له بأن يكون أول من يعترف و يصبح الطرف الخاضع في العلاقة! الحب عبارة عن حرب، و معركتها في جعل الآخر يعترف قد بدأت الآن",
+    "metaDescription": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen أنمي 2019 | تتحدث عن كاغويا شينوميا و ميوكي شيروغاني و هما عضوان في مجلس طلبة أكادمية شوتشين…",
+    "highlights": "تم تحديث بيانات Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/83121"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
+      "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+      "url": "/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen.jpg"
+    },
+    {
+      "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-2nd-season",
+      "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen 2nd Season",
+      "url": "/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 83121,
+  "tmdb_url": "https://www.themoviedb.org/tv/83121",
+  "original_title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+}

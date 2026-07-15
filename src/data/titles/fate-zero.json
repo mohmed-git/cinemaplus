@@ -1,0 +1,410 @@
+{
+  "slug": "fate-zero",
+  "clean_title": "Fate/Zero",
+  "raw_name": "انمي Fate/Zero",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/fate-zero.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/s0iin8faozz8"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/9qph4esascph"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/7e2w1au4rq8j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-02",
+          "runtime": 48,
+          "tmdb_episode_id": 1061685,
+          "tmdb_still_path": "/nrgBaAIwcfZzToAJIviBlcaEdBW.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nj7tshli6pk3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/p65ritxjx4f0"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/1fexs26fenex"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-09",
+          "runtime": 25,
+          "tmdb_episode_id": 1061686,
+          "tmdb_still_path": "/mGnsUdQHsMO4F9Rzu6DfiV2pn8B.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/k8ecza2nf3gd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/yo6hnufqblta"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/39t6jzakj2q7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1061687,
+          "tmdb_still_path": "/psd4VFig16mUwkw5YqUjJYZWX6f.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ie2q24fmwckn"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/t4ikbfua0wvd"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/26yvy5usnlc0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-23",
+          "runtime": 23,
+          "tmdb_episode_id": 1061688,
+          "tmdb_still_path": "/6ADxouvfopcx4OdXlHvZF6Bm0CD.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/lh4l2wyjt65o"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/jwh8qbtm8vx8"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/hb77upuq0wjo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-10-30",
+          "runtime": 23,
+          "tmdb_episode_id": 1061689,
+          "tmdb_still_path": "/uucBfl0550j6mkg40ALqwcDn8VX.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/15atkkpqkiwv"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/c7bbo6aihltm"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/3v3c4yw6af5t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1061690,
+          "tmdb_still_path": "/7saEYdNioTmlKtShOu6ZLGFTlAq.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8tmjk28ullpd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/8kfncza1bfll"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/8f4khxcd0mi9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1061691,
+          "tmdb_still_path": "/bj0pFZw095FgCO6mz8DTwal2rfH.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/crqoqko9d9ma"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/g23u1u16qquz"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/t767lejhtqsq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-20",
+          "runtime": 23,
+          "tmdb_episode_id": 1061692,
+          "tmdb_still_path": "/A80P1hZaoPJ9jXcVA3SHOIaqT5W.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/h1tqtudvt1e7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/tvowy1uk4djt"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/z9o3zhr2ckoh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-11-27",
+          "runtime": 26,
+          "tmdb_episode_id": 1061693,
+          "tmdb_still_path": "/7eWwJDmghLDekskTq9i9Mpv4SL6.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xuegup9dthvd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/besp7cwdc6j9"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/hwtrwokjze8p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-04",
+          "runtime": 23,
+          "tmdb_episode_id": 1061694,
+          "tmdb_still_path": "/jMIUqWanCtvOxhHzAeOMYadSg1C.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/nvdfjjo8ppw7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/t9jio0yheocl"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/6m93oijgv43u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-11",
+          "runtime": 29,
+          "tmdb_episode_id": 1061695,
+          "tmdb_still_path": "/NJkRrh2fouEQMJGpiUBFIhBuip.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xoc81r42l7he"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/1htidt1h05en"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/jaa9hh7ob3qd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-18",
+          "runtime": 28,
+          "tmdb_episode_id": 1061696,
+          "tmdb_still_path": "/mWnHifKpb07GK0p8qTAvFrS5ku0.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/9w825h07ntn8"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/g4nuun7912c1"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/0wzp5snd2jme"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-12-25",
+          "runtime": 26,
+          "tmdb_episode_id": 1061697,
+          "tmdb_still_path": "/x1u6DCirxsqHe4ih37hwPgdOoXt.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تحكي عن أحداث الحرب الرابعه للكأس المقدس في مدينة [ فيوكي ] “الكأس المقدسة” تمنح المُعجزات ، وبسببها حصلت حروبٌ كثيره ، وهي أيضاً عبارة عن مسابقة ، التي فيها يَستدعى سبعة من المجوسِ ( الأسياد ) سبعةُ أرواحِ بطوليةِ لتَنَافُس للحصول عليه تلك المعركةِ التي خاتمتِها أُجّلتْ ثلاث مراتِ، الآن قد بدأت المعركة الرابعة مجدداً",
+  "url": "/anime/fate-zero",
+  "story": "تحكي عن أحداث الحرب الرابعه للكأس المقدس في مدينة [ فيوكي ] “الكأس المقدسة” تمنح المُعجزات ، وبسببها حصلت حروبٌ كثيره ، وهي أيضاً عبارة عن مسابقة ، التي فيها يَستدعى سبعة من المجوسِ ( الأسياد ) سبعةُ أرواحِ بطوليةِ لتَنَافُس للحصول عليه تلك المعركةِ التي خاتمتِها أُجّلتْ ثلاث مراتِ، الآن قد بدأت المعركة الرابعة مجدداً",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Gen Urobuchi",
+  "stars": "Rikiya Koyama، Ayako Kawasumi، Akio Otsuka، Akira Ishida، Ayumi Tsunematsu، Daisuke Namikawa",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا",
+  "trailerId": "2G3voiNK8z0",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Fate/Zero",
+    "mainDescription": "تحكي عن أحداث الحرب الرابعه للكأس المقدس في مدينة [ فيوكي ] “الكأس المقدسة” تمنح المُعجزات ، وبسببها حصلت حروبٌ كثيره ، وهي أيضاً عبارة عن مسابقة ، التي فيها يَستدعى سبعة من المجوسِ ( الأسياد ) سبعةُ أرواحِ بطوليةِ لتَنَافُس للحصول عليه تلك المعركةِ التي خاتمتِها أُجّلتْ ثلاث مراتِ، الآن قد بدأت المعركة الرابعة مجدداً",
+    "metaDescription": "Fate/Zero أنمي 2011 | تحكي عن أحداث الحرب الرابعه للكأس المقدس في مدينة [ فيوكي ] “الكأس المقدسة” تمنح المُعجزات | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Fate/Zero من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45845"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "fate-zero",
+      "title": "Fate/Zero",
+      "url": "/anime/fate-zero",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/fate-zero.jpg"
+    },
+    {
+      "slug": "fate-zero-2nd-season",
+      "title": "Fate/Zero 2nd Season",
+      "url": "/anime/fate-zero-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/fate-zero-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 45845,
+  "tmdb_url": "https://www.themoviedb.org/tv/45845",
+  "original_title": "Fate/Zero"
+}

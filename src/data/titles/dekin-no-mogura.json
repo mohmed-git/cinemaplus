@@ -1,0 +1,424 @@
+{
+  "slug": "dekin-no-mogura",
+  "clean_title": "Dekin no Mogura",
+  "raw_name": "انمي Dekin no Mogura",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dekin-no-mogura.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9627108248262"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=og7E62yJ0pVwOaZs"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mfhw6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9627118668486"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9627120241350"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ALMMPbKTh74KvwUp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5772738,
+          "tmdb_still_path": "/LmYgYQEXEC47LHe1WOnNIGthDQ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9644844452550"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9cKBk5X9GBpPadzJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9muq0o"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9644849498822"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9644854414022"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wbuUKzXo5l5im9Nm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-14",
+          "runtime": 24,
+          "tmdb_episode_id": 6362772,
+          "tmdb_still_path": "/rtvCZI9NLIeXb5KIIeuwYgFciYh.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9663031151302"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kn6nUZsAQhTrk2Fn"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9n9hfg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9663037180614"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9663047666374"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HYSSzGcg1PU681tX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-21",
+          "runtime": 24,
+          "tmdb_episode_id": 6372100,
+          "tmdb_still_path": "/njKljwDYdCRByZeBIIWFX38BxKm.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9681199041222"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=N8nJPguV8TrFAGv7"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nndje"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9681202580166"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9681206119110"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uauNEnYP4LTkzadF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-28",
+          "runtime": 24,
+          "tmdb_episode_id": 6383640,
+          "tmdb_still_path": "/e7X1K2rVMzBkudp7P5pP8wCHmyW.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zDUQzaqviLDwPhFs"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9o3c9a"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=E8JoQskLRcChWtYk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-04",
+          "runtime": 24,
+          "tmdb_episode_id": 6383641,
+          "tmdb_still_path": "/uJbiBwYujLfliphIr74iQUpnbUF.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dpaUw0967UZBwkXT"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9oi0ic"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R7jOaOoeX1Zqawb1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-11",
+          "runtime": 24,
+          "tmdb_episode_id": 6383642,
+          "tmdb_still_path": "/2KFYbukdhl2nWg9OWShlh3y7oA3.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=D5VCLvmzcGoJYaa8"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9oxj8a"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=o3BGrW5AeE4LtHCn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-18",
+          "runtime": 24,
+          "tmdb_episode_id": 6424180,
+          "tmdb_still_path": "/toOzbLwLDtCNSesR6GcVfW3Lty1.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0YYFxpx1KQZjTStg"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9pd1bq"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=o4MAz4bb2gTtKIIh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-25",
+          "runtime": 24,
+          "tmdb_episode_id": 6424181,
+          "tmdb_still_path": "/dsM8WVTt75OCJalW2iIFaSJstaz.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BscvepatEHQf1n5N"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9pr6g6"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RWX1oRyv4iToqgN5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-01",
+          "runtime": 24,
+          "tmdb_episode_id": 6461541,
+          "tmdb_still_path": "/6ajq5zRXgjmh4riri25vFz4P2tP.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pLyUmyrbYsK0h3Hw"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9q5758"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uY4JvQP0NqsoPtpW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-08",
+          "runtime": 24,
+          "tmdb_episode_id": 6461542,
+          "tmdb_still_path": "/1zz9BtLC4cxCiamnmSTOxavIbNu.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DtKety5toIyGX3Df"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qiwa4"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zWLGATlcMzs8jmKg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-15",
+          "runtime": 24,
+          "tmdb_episode_id": 6461543,
+          "tmdb_still_path": "/2Ygwt1MMhbNiRbZ1hDyduxcqhqE.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4FHxP0QfbkVDbBnF"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qxidq"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=c3zQwNNcV9O9gpYA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-22",
+          "runtime": 24,
+          "tmdb_episode_id": 6461544,
+          "tmdb_still_path": "/mJ2on4Ujr1WzeHu0k3g1cWywsxR.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "(موغورا) حكيم أو ناسك، تم طرده أو منعه من الدخول إلى العالم الآخر لأسباب غامضة. الآن، يعيش (موغورا) في عالم البشر ويجمع \"الأضواء\" أو الأرواح الشريرة التي تمتلك كائنات ضوئية في فانوسه .. لم تصدر تسمية عربية له من الشركة لذلك يصح أن نطلق عليه اسم (الخلد المرتبط بالأرض) أو (الخلد المحظور) وهنا يعود الحظر في منعه من العودة للعالم الآخر",
+  "url": "/anime/dekin-no-mogura",
+  "story": "(موغورا) حكيم أو ناسك، تم طرده أو منعه من الدخول إلى العالم الآخر لأسباب غامضة. الآن، يعيش (موغورا) في عالم البشر ويجمع \"الأضواء\" أو الأرواح الشريرة التي تمتلك كائنات ضوئية في فانوسه .. لم تصدر تسمية عربية له من الشركة لذلك يصح أن نطلق عليه اسم (الخلد المرتبط بالأرض) أو (الخلد المحظور) وهنا يعود الحظر في منعه من العودة للعالم الآخر",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuichi Nakamura، Genki Okawa، Yukiyo Fujii",
+  "genre": "أنمي، رسوم متحركة، غموض، دراما",
+  "trailerId": "_NacAO8f3KQ",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dekin no Mogura",
+    "mainDescription": "(موغورا) حكيم أو ناسك، تم طرده أو منعه من الدخول إلى العالم الآخر لأسباب غامضة. الآن، يعيش (موغورا) في عالم البشر ويجمع \"الأضواء\" أو الأرواح الشريرة التي تمتلك كائنات ضوئية في فانوسه .. لم تصدر تسمية عربية له من الشركة لذلك يصح أن نطلق عليه اسم (الخلد المرتبط بالأرض) أو (الخلد المحظور) وهنا يعود الحظر في منعه من العودة للعالم الآخر",
+    "metaDescription": "Dekin no Mogura أنمي 2025 | (موغورا) حكيم أو ناسك | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dekin no Mogura من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/277581"
+    }
+  },
+  "tmdb_id": 277581,
+  "tmdb_url": "https://www.themoviedb.org/tv/277581",
+  "original_title": "出禁のモグラ"
+}

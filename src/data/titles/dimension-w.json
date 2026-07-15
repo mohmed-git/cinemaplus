@@ -1,0 +1,244 @@
+{
+  "slug": "dimension-w",
+  "clean_title": "Dimension W",
+  "raw_name": "انمي Dimension W",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dimension-w.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4OioxsUuEBOP9MJN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1169476,
+          "tmdb_still_path": "/irP1emQcjXjII0wlb38y22xvgx7.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wPUPmeWdQWmQtfG8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1169477,
+          "tmdb_still_path": "/sYjBqM6WjpjKvtP85xX8WHj4l7A.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IjCUnuM7hjYTeXSQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1169478,
+          "tmdb_still_path": "/pda6poOnXYilwGWS5hkrs9TSaYx.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=baJ8YYwyjpIgPhth"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1169479,
+          "tmdb_still_path": "/7hjYiuDyPXilQjsDYcX1HDeAFbA.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1m0vja9ghbJX1vrc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1169480,
+          "tmdb_still_path": "/ygP480YWceh0MXJjZdLrDTalrg7.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NQko5rJp2WLsMNvd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1169481,
+          "tmdb_still_path": "/fia3o8kSr4QOmNKyiAGt8dr9W5T.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vpFbQbAPqTNIMFG2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1169482,
+          "tmdb_still_path": "/ApmzwlkLaLZRQh5HRBgPEdUINdb.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Q9MC2TYrENtg6DMQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1169483,
+          "tmdb_still_path": "/fRkTJrDOzivxjBeR3DSzl8TXCwc.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WttRyHakdULVbFWM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1169484,
+          "tmdb_still_path": "/bFvrP8Im7jYOZSWOonprXGoYofs.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=RjnH9tpeEjtmvhNp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1169485,
+          "tmdb_still_path": "/ebDBjZXlPchr4bofX7DtfiJNHU7.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jJ9Xq8hcFVSiBFlb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1169486,
+          "tmdb_still_path": "/AhcYbWhXJ3h8WFUIDrCSYFtxusz.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qa3H3QX311TPOvQS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-03-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1169487,
+          "tmdb_still_path": "/kdJLARRtBevMmayS5IZoNJPjWlL.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Dimension W ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Dimension W على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال علمي، سينين العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/dimension-w",
+  "story": "يدور أنمي Dimension W ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Dimension W على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال علمي، سينين العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Daisuke Ono، Reina Ueda، Akira Ishida، Yuichi Nakamura، Kimiko Saito، Takaya Hashi",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا، جريمة",
+  "trailerId": "25d9hpbjOkM",
+  "rating": "6.7",
+  "imdb_rating": "6.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dimension W",
+    "mainDescription": "يدور أنمي Dimension W ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Dimension W على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال علمي، سينين العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Dimension W أنمي 2016 | يدور أنمي Dimension W ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dimension W من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/65712"
+    }
+  },
+  "tmdb_id": 65712,
+  "tmdb_url": "https://www.themoviedb.org/tv/65712",
+  "original_title": "Dimension W"
+}

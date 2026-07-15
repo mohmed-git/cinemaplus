@@ -1,0 +1,598 @@
+{
+  "slug": "little-busters",
+  "clean_title": "Little Busters!",
+  "raw_name": "انمي Little Busters!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/little-busters.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6109949332043"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Ad2QntB3dkJaGgiQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-06",
+          "runtime": 24,
+          "tmdb_episode_id": 924509,
+          "tmdb_still_path": "/lFFY1R7ma9sKHWrp9gx0Xa9MvKX.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110015064651"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oWd1JERvLkE1pVEP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 924506,
+          "tmdb_still_path": "/upiu4g3wUHVq37Y4s3ru4UEuxPd.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110028892747"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WaP4IGZLRPPYdkqg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 924502,
+          "tmdb_still_path": "/sgyQuBZpxGdhFk5y6kk5ncXNDQT.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110041803339"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=szZhNlBJP1XyWZu6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 924503,
+          "tmdb_still_path": "/5QAmZdJ9n36p6FcQAbhRu6dC24N.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110053796427"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=G0fuGfJoaBqTN1Ne"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 924504,
+          "tmdb_still_path": "/hgre5WT0IEtSrMtGICAhOFa7sFt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110066838091"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uXowIeNxNi19MQXS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 924505,
+          "tmdb_still_path": "/zQwirPqLvlIiwWcBdiTSioO6tFX.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110080338507"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=o50QeVHyqMwicPcL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 924500,
+          "tmdb_still_path": "/2hxvn7Rlmkc8hbmmdkIE4iezwYY.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110091217483"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nP7mIljNAJ13o2uz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-24",
+          "runtime": 24,
+          "tmdb_episode_id": 924501,
+          "tmdb_still_path": "/qpIJyHPEkCdokwpeARerqmkE87v.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110103931467"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yf0qZqA5R3oHt9I3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-01",
+          "runtime": 24,
+          "tmdb_episode_id": 924512,
+          "tmdb_still_path": "/6KgziwsakiCCm6aSWbq2GXX9aX9.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110120446539"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7BrWCjkSr31iWd1R"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-08",
+          "runtime": 24,
+          "tmdb_episode_id": 924516,
+          "tmdb_still_path": "/kauSR8VwKD0a3HTW6R1u3XSh0hF.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110132308555"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BhWupJmNDXEoPldb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-15",
+          "runtime": 24,
+          "tmdb_episode_id": 924511,
+          "tmdb_still_path": "/nr2OlOMreKioAZyPTXjHScjCBWd.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110151510603"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SjtwpJ7myzPMSiQ2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-22",
+          "runtime": 24,
+          "tmdb_episode_id": 924510,
+          "tmdb_still_path": "/lWDp4jpq3LywYMM5CxNxVqKKt7Y.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6110162324043"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RYv0YYwoAd5WCpOU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 924491,
+          "tmdb_still_path": "/oiDs1BrM9X7YmaDh2hwndwvfrgt.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116048505419"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=I7sRCNDeLtCtT6e5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-12",
+          "runtime": 24,
+          "tmdb_episode_id": 924496,
+          "tmdb_still_path": "/nRFFL9zbrUCFpdT7HW0i8jRMF2g.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116096281163"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Rmog8gdL9vjQH8Oi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 924497,
+          "tmdb_still_path": "/4RzWCBaQXWTEir5jV9HYgyNIPOB.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116110240331"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cxbwMIWBGf4OLsjy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 924498,
+          "tmdb_still_path": "/5lmFgTsXj6MqrIUdg3S1XhMzhuy.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116122495563"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cuocOtIE1XkoKD5u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 924499,
+          "tmdb_still_path": "/ybZVRl0JJZKqx3jgihEnN2kBxVt.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116136192587"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JObsRBpJfvjRP1Ay"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 924515,
+          "tmdb_still_path": "/7kOk17DwI2ZXCPQ01UudJZNtsfW.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116148906571"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gLGEblSp8MPvXuvF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 924493,
+          "tmdb_still_path": "/mKpHZitwqjbiMhamWRQ1KR1HgHO.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116161817163"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pso3mljiMvHSkpf8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 924494,
+          "tmdb_still_path": "/aORi38wPJiXwJj70y9ZXynxGktt.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116175383115"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=G0Zz4AapwRaKY4WF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 924495,
+          "tmdb_still_path": "/aF5HV41QVpM45iq544OkbgyMn19.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116191373899"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rCqQkxhdaBhcHGlN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 924492,
+          "tmdb_still_path": "/2RfGGN3e7hAuLspDSvg36iEPVBM.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116203498059"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=woJgI3JuG6XYkHCV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 924508,
+          "tmdb_still_path": "/3J8shx7nKVMtMKyeLgitQOoolQS.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116219226699"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eytMY6RRGXrfq8NW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 924507,
+          "tmdb_still_path": "/deQFdA5dcpXKsCvBVGZV8mF5JPo.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116235217483"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zx6F5HSD9uJswPhV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-03-30",
+          "runtime": 24,
+          "tmdb_episode_id": 924513,
+          "tmdb_still_path": "/hF7M7tngXIYok5xJL3HMrckiWXz.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6116255599179"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZOinjNSvNNo00jCS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 924514,
+          "tmdb_still_path": "/fgzFNhaKEQSXsx3Oaw2XTvRMTQW.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Little Busters! ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و39 حلقة. في أنمي Little Busters! تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، مدرسي، شريحة من الحياة، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Little Busters! على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/little-busters",
+  "story": "يدور أنمي Little Busters! ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و39 حلقة. في أنمي Little Busters! تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، مدرسي، شريحة من الحياة، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Little Busters! على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yui Horie، Tomoe Tamiyasu، Hikaru Midorikawa، Nobutoshi Canna، Yusei Oda، Natsumi Yanase",
+  "genre": "أنمي، كوميديا، رسوم متحركة",
+  "trailerId": "PyJilNDluYw",
+  "rating": "6.8",
+  "imdb_rating": "6.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Little Busters!",
+    "mainDescription": "يدور أنمي Little Busters! ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 2 موسم و39 حلقة. في أنمي Little Busters! تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، مدرسي، شريحة من الحياة، دراما يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Little Busters! على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Little Busters! أنمي 2012 | يدور أنمي Little Busters | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Little Busters! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/53715"
+    }
+  },
+  "tmdb_id": 53715,
+  "tmdb_url": "https://www.themoviedb.org/tv/53715",
+  "original_title": "リトルバスターズ!"
+}

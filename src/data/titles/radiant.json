@@ -1,0 +1,408 @@
+{
+  "slug": "radiant",
+  "clean_title": "Radiant",
+  "raw_name": "انمي Radiant",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/radiant.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 21,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 21,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fSDZcknY0kcDzkoi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-06",
+          "runtime": 25,
+          "tmdb_episode_id": 1586691,
+          "tmdb_still_path": "/uUEhQ3NaRtUrfOXhwaW0euf3w3S.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=F35pBS2oMfQjqeVl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-13",
+          "runtime": 25,
+          "tmdb_episode_id": 1586936,
+          "tmdb_still_path": "/bI3KzPt6r2D4CseSja01Ph5uOEO.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R8fdp9TqDQy9wimg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-20",
+          "runtime": 25,
+          "tmdb_episode_id": 1586937,
+          "tmdb_still_path": "/q9762gpdWi4l6BF46RsJpzDo4TB.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IGSQ10txi1CCvhla"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-27",
+          "runtime": 25,
+          "tmdb_episode_id": 1586938,
+          "tmdb_still_path": "/q8fNAnDopAmeEVUlQJWMXK3Bxv0.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=feJ9mc83QtI7GYVE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-03",
+          "runtime": 25,
+          "tmdb_episode_id": 1604918,
+          "tmdb_still_path": "/oS2dNx5NPonKxHsxe4fTJ37Katf.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SACoxS0LnATH3LfH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-10",
+          "runtime": 25,
+          "tmdb_episode_id": 1604919,
+          "tmdb_still_path": "/4NL3dnHJX48oOWtBEkxRZkqaGTu.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mYrMuWW1uGPSNhof"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-17",
+          "runtime": 25,
+          "tmdb_episode_id": 1604920,
+          "tmdb_still_path": "/u1gsDzRNcMUdHLVEoOoHzuZPOoC.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UNrwTvzLl4WrUQxE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-24",
+          "runtime": 25,
+          "tmdb_episode_id": 1604921,
+          "tmdb_still_path": "/wLBNeEHmy0C9FAtGqCbSmgRxv0B.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=awFxDsKRV4sQJFrk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-01",
+          "runtime": 25,
+          "tmdb_episode_id": 1604922,
+          "tmdb_still_path": "/3ncmG0A2yWsqGSFoGNKuX1iaDVV.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wpADVAHDPlSLkTTn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-08",
+          "runtime": 25,
+          "tmdb_episode_id": 1604923,
+          "tmdb_still_path": "/ewEe2ZghCHFAM92XvikIbx48SVi.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=E7DZWsB9biLtr5Zq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-15",
+          "runtime": 25,
+          "tmdb_episode_id": 1604924,
+          "tmdb_still_path": "/wwx2DXW79bA6LFgKFYh6GG8QeU.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yac7JWTg6wWXs8EN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-22",
+          "runtime": 25,
+          "tmdb_episode_id": 1604925,
+          "tmdb_still_path": "/863S8cUJz00Sbr0Mhy6jDMj9VmK.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SwoOAngHKZ6Up8Ur"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-29",
+          "runtime": 25,
+          "tmdb_episode_id": 1604926,
+          "tmdb_still_path": "/6YHJ76m0AO4OFBqoAF70v8VvU4u.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KaXmE3o6HpadV6Tw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1604927,
+          "tmdb_still_path": "/s1Lrkut45mCZb9e9RjsbcQjj16t.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=061PS14FD0NpSKGI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-12",
+          "runtime": 25,
+          "tmdb_episode_id": 1604928,
+          "tmdb_still_path": "/vDXiHNelcSyJeIaDXWp0XM6xBoG.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=S3zvZt9USzcl5myM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-19",
+          "runtime": 25,
+          "tmdb_episode_id": 1604929,
+          "tmdb_still_path": "/sewEaHGHPu0QLTD1H4iGD6TEIpF.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RNRTkT95nR3ehuKB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-01-26",
+          "runtime": 25,
+          "tmdb_episode_id": 1604930,
+          "tmdb_still_path": "/o7zLeQ2makDE6gTYouYEXL8kqUG.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SYjwlwKumTR210Pz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-02",
+          "runtime": 25,
+          "tmdb_episode_id": 1604931,
+          "tmdb_still_path": "/lZROWOSmRcyUCETOK6okNFNeXZs.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eGUOcba7aquYh3Mk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-09",
+          "runtime": 25,
+          "tmdb_episode_id": 1604932,
+          "tmdb_still_path": "/zUyu6BUmSe5acAEdPRfM3ofaxoH.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oBRKmV5sSAlZL9q6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-16",
+          "runtime": 25,
+          "tmdb_episode_id": 1604933,
+          "tmdb_still_path": "/8hnBiiVrkyT0i7jNTraFZJM9kNw.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FSmSpd3N4Wxhq2Eh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-02-23",
+          "runtime": 25,
+          "tmdb_episode_id": 1604934,
+          "tmdb_still_path": "/dYk5N0QlyyHqioHLkPD47TWPXDF.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Radiant ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 2 موسم و42 حلقة. يدور أنمي Radiant حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف سحر، مغامرات، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Radiant على CINMAPRO عبر 1 موسم و21 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/radiant",
+  "story": "يدور أنمي Radiant ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 2 موسم و42 حلقة. يدور أنمي Radiant حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف سحر، مغامرات، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Radiant على CINMAPRO عبر 1 موسم و21 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Tony Valente",
+  "stars": "Yumiri Hanamori، Aoi Yuuki، Koji Yusa، Makoto Koichi، Shintaro Ohata، Takehito Koyasu",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "qZwtUu3p1zg",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Radiant",
+    "mainDescription": "يدور أنمي Radiant ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 2 موسم و42 حلقة. يدور أنمي Radiant حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف سحر، مغامرات، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Radiant على CINMAPRO عبر 1 موسم و21 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Radiant أنمي 2018 | يدور أنمي Radiant ضمن أجواء حركة ومغامرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Radiant من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/82879"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "radiant",
+      "title": "Radiant",
+      "url": "/anime/radiant",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 21,
+      "poster": "/images/anime/radiant.jpg"
+    },
+    {
+      "slug": "radiant-2nd-season",
+      "title": "Radiant 2nd Season",
+      "url": "/anime/radiant-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 21,
+      "poster": "/images/anime/radiant-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 82879,
+  "tmdb_url": "https://www.themoviedb.org/tv/82879",
+  "original_title": "ラディアン"
+}

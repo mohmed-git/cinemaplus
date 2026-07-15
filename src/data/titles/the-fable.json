@@ -1,0 +1,702 @@
+{
+  "slug": "the-fable",
+  "clean_title": "The Fable",
+  "raw_name": "انمي The Fable",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/the-fable.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PEUyZhIF7zy2oHIx"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OtecIQCQKQF7OGNm"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/w0aaykx9klaz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-07",
+          "runtime": 22,
+          "tmdb_episode_id": 4891780,
+          "tmdb_still_path": "/tNuBRyaSD9tEcgfMLgTOKPpjxk4.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FS4eBHl4kdnO6oYI"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZZfrdYqgpeXOaASb"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7447m03z4ga9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-14",
+          "runtime": 23,
+          "tmdb_episode_id": 5264086,
+          "tmdb_still_path": "/xhRu0kQdw54vs3ArkK3tggUiLW.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=z7cxC3OjAgG2WOEb"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cSa5sAGpSdeFCpev"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2juefkmvfmf2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-21",
+          "runtime": 23,
+          "tmdb_episode_id": 5264087,
+          "tmdb_still_path": "/f0ohJWA5CfTJRXXHDt9TeMwMvra.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CzV2GW1l9LgT17ZC"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bV4jO4XKXCdQnBjH"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9hekdb9nzxe5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-28",
+          "runtime": 23,
+          "tmdb_episode_id": 5264088,
+          "tmdb_still_path": "/tsnA8ob6nohJmV191xOHDSsdpAD.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=RGZNdBfi53ReQHCj"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DYepfrfn8qcz3lap"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tr1tt7t0hbu5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-05",
+          "runtime": 23,
+          "tmdb_episode_id": 5264089,
+          "tmdb_still_path": "/3I2ujzVhQIrTKlI2zKJ5czNcn11.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eZu44bg9W3zIj665"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Z0vv3VdBqrw6QfJw"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/letmkqfz4i5m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-12",
+          "runtime": 23,
+          "tmdb_episode_id": 5264090,
+          "tmdb_still_path": "/uZilbjIa8DOgpEt7H7C9mnLPEay.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3UceSkDrkJEeLmI5"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=N4N9syPAGEmy95z2"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3371azrrej8j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-19",
+          "runtime": 23,
+          "tmdb_episode_id": 5339037,
+          "tmdb_still_path": "/h3EQb7vh3Xed0TvA6EXHSgnb33.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2DPiIO4mzkpFGjKC"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lfTXXYYrmAXNgp4f"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/175deo7scxr0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-26",
+          "runtime": 23,
+          "tmdb_episode_id": 5339050,
+          "tmdb_still_path": "/1Gzq7T0izTZBgL7NFXAmrtjq4Aq.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WIyRLobJD3KXMYwt"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qRwC1VcgbYw9VeUS"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9hrgwgrbl5ea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-02",
+          "runtime": 23,
+          "tmdb_episode_id": 5339341,
+          "tmdb_still_path": "/2CwUioSyXHTHX8TpriGlDcISrVu.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uPywYTBpzV0lnjzB"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zedsZbovMcAceoQL"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/x5j277yad19r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-09",
+          "runtime": 23,
+          "tmdb_episode_id": 5339343,
+          "tmdb_still_path": "/6eclMWQvcnuOaPn9WBFda1yAUbi.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Owa7IfYdRQutqxD7"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9jO4sGMmIbiDCjNE"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/c0jmptfli1lc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-16",
+          "runtime": 23,
+          "tmdb_episode_id": 5339348,
+          "tmdb_still_path": "/2e9wJxv5lP8TEPxMysZuUcBBKnM.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WXbA2mp6z7kwpPd5"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ts6o1UbK0sIv7TDW"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/9bzur4l941ou"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-23",
+          "runtime": 23,
+          "tmdb_episode_id": 5339357,
+          "tmdb_still_path": "/3ZDK9L0Vl0vsQUfAZynbCmfk3DY.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SjuipiGX5OPUiHbA"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mqSL1eHzAdyyJUMs"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/04mr9a7fz0bo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-30",
+          "runtime": 23,
+          "tmdb_episode_id": 5339360,
+          "tmdb_still_path": "/5OyveZcWpBJisRWiyAH1JaNDI1B.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DGyn9U9USscdK9q8"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fazSAxkXEiQo5FVE"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2gvqaxodkzox"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-07",
+          "runtime": 23,
+          "tmdb_episode_id": 5339364,
+          "tmdb_still_path": "/a0pmPt4GkeNhy9jhtc040WFEkgI.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qWN5mwORCXTt2dRU"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Gs8lI96M7ogTTsk7"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/p1otyykh7nb7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-14",
+          "runtime": 23,
+          "tmdb_episode_id": 5339368,
+          "tmdb_still_path": "/7uQwDpFRBoN089iTMZIWess5yFQ.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4or34LlK0ttLyboc"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SpnCg2Lkk9pgf2OO"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/uzbk5k2fbsgh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-21",
+          "runtime": 23,
+          "tmdb_episode_id": 5339374,
+          "tmdb_still_path": "/r8xCJlpLXsAKS70lXfOVu6gC7j5.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KH7vvBdFEiQEkw5S"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=p3oswZZrbqWX6ES9"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7nr6iurmqhmz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-28",
+          "runtime": 23,
+          "tmdb_episode_id": 5339380,
+          "tmdb_still_path": "/rafEVzkzaZcEdAJ4HxvE4P17dVf.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jQa2VzrYIv3xVzH2"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Lw6CB8tXl1GsTH4s"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ajsl7de17zb1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-04",
+          "runtime": 23,
+          "tmdb_episode_id": 5339382,
+          "tmdb_still_path": "/efBrwEuGbL6QRyJC2R6JXy33whz.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5PlyrhoK9lF2I4cj"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=a2Xww9JYN9GjVGj5"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zg7sqvumul7h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-18",
+          "runtime": 23,
+          "tmdb_episode_id": 5339410,
+          "tmdb_still_path": "/oJwcNer98E1tAkqV8Rkd6MG2Via.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=fgREy75jKBKHVwdG"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xy3X5IUWOmbjP5vZ"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/c5a4cl981qm6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-25",
+          "runtime": 23,
+          "tmdb_episode_id": 5339421,
+          "tmdb_still_path": "/pLVGt4e2qcW9bWr2gbmoE4zV9JZ.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MXW0KA5FbWY89H3m"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CJQaMOv9PYBWdR5P"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pghies8tp4o9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-25",
+          "runtime": 23,
+          "tmdb_episode_id": 5341526,
+          "tmdb_still_path": "/eOGCW1wqv8RLCGNRxJUQgWa9wch.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eT1EW0YU0FBzj3Ii"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lV4j0BHrzOd8emBi"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zxir1kfj4ebd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-08",
+          "runtime": 23,
+          "tmdb_episode_id": 5341527,
+          "tmdb_still_path": "/jV29WxkAAWOzWjO16iM8kVmlX5x.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=RPL8ShA6nS6CJ3Jw"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pV4K2RvsZoFyoIuQ"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wmewd3ielcyk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-15",
+          "runtime": 23,
+          "tmdb_episode_id": 5341528,
+          "tmdb_still_path": "/ol6UNfuykNRocWpg8ss44Te57I8.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sZHfCnWpmk9rLkse"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=P3ivRd6pG7RiFjRN"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hefkyg13ige5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-22",
+          "runtime": 23,
+          "tmdb_episode_id": 5341529,
+          "tmdb_still_path": "/nzAQ8dYVQ8tLW61ERwrkw8Jtyjd.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zg8jk9ju3kHlBVLo"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=i0vK4z7IFAAqynid"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4j1pdf8pddsm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-29",
+          "runtime": 23,
+          "tmdb_episode_id": 5343493,
+          "tmdb_still_path": "/jPAOqIibVwFRoS7CYErx2dIEzjq.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي The Fable ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و26 حلقة. يعتمد The Fable على مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء سينين، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/the-fable",
+  "story": "يدور أنمي The Fable ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و26 حلقة. يعتمد The Fable على مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء سينين، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kazuyuki Okitsu، Miyuki Sawashiro، Kana Hanazawa، Akio Otsuka",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، جريمة",
+  "trailerId": null,
+  "rating": "7.8",
+  "imdb_rating": "7.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "The Fable",
+    "mainDescription": "يدور أنمي The Fable ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، جريمة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 2 موسم و26 حلقة. يعتمد The Fable على مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. ينتمي العمل إلى أجواء سينين، كوميدي، لذلك يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "The Fable أنمي 2024 | يدور أنمي The Fable ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات The Fable من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/238843"
+    }
+  },
+  "tmdb_id": 238843,
+  "tmdb_url": "https://www.themoviedb.org/tv/238843",
+  "original_title": "ザ・ファブル"
+}

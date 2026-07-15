@@ -1,0 +1,323 @@
+{
+  "slug": "strike-the-blood-final",
+  "clean_title": "Strike the Blood Final",
+  "raw_name": "انمي Strike the Blood Final",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/strike-the-blood-final.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 4,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 4,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3742184639051"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/q4rx4ztu6fed"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/i6r0smkxjb7po6vlzv2ct5uaeixq445x"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/yj6kiq407elh"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-h94m7ojelq2o.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3742186867275"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/uoURAZjR#QTRTD1NVdhrWykEp0FKxkdxGjNgZfBZ6F-dV9o1o7x4"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-07qf9kv9t8s3.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3742187588171"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1010882,
+          "tmdb_still_path": "/hx1DH14t84zXQgyScETZMHuLXtL.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3742191716939"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/lzob1cpnjkd7"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/kgmsgba00mywqun8fctl6r7hym4hlyp4"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/wwxaqat5r4no"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-rxm3o0lwv4h8.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3742200760907"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Ds1TFRbB#aycTDeEc1hOciveGd0VrUVxF2p-6XaNmYNAQa-iOV8M"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-0810f2nakmhj.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3742202726987"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1207610,
+          "tmdb_still_path": "/sZROnoxMJbmwcnG9aF0pBlIKcnE.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4138057861707"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/wfkgb34funtz"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/1af4mx6w0fz3"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/w9hudyi3bfdi/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sblanh.com/e/ya24vnvpw6hv.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4138069985867"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/5PsDGKyZ#89AfbrUnQUXlr9tCujS3Fp6UuDbqBLC2NgKaYib3WQw"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sblanh.com/e/yb9ynoblubui.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4138082241099"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1207611,
+          "tmdb_still_path": "/h6h5T5igniZF3Vr7aTv8LxiDOIc.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4138119596619"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/pmjuuzvpxuw5"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/yahi9ol2kkfk"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/yu3gmlm3820z/"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sblanh.com/e/jczzwtux44yz.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4138139454027"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8Ds0lKQB#O_V39BsLL9LVyJEQRxnRlK8WdwgptIIvxk0dcjBTBB4"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sblanh.com/e/i60vz0kkdf5x.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4138171042379"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1207612,
+          "tmdb_still_path": "/kJ0piX4UxB0CX3yG17pRC0WMuK.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Strike the Blood Final ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. تبدأ قصة Strike the Blood Final من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، حريم، ايتشي، خارق للطبيعة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و4 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/strike-the-blood-final",
+  "story": "يدور أنمي Strike the Blood Final ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. تبدأ قصة Strike the Blood Final من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، حريم، ايتشي، خارق للطبيعة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و4 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoshimasa Hosoya، Risa Taneda، Asami Seto، Rina Hidaka، Ikumi Hayama، Ryota Osaka",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Strike the Blood Final",
+    "mainDescription": "يدور أنمي Strike the Blood Final ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. تبدأ قصة Strike the Blood Final من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات مصاصي دماء، حريم، ايتشي، خارق للطبيعة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و4 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Strike the Blood Final أنمي 2013 | يدور أنمي Strike the Blood Final ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Strike the Blood Final من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61440"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "strike-the-blood",
+      "title": "Strike the Blood",
+      "url": "/anime/strike-the-blood",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 24,
+      "poster": "/images/anime/strike-the-blood.png"
+    },
+    {
+      "slug": "strike-the-blood-final",
+      "title": "Strike the Blood Final",
+      "url": "/anime/strike-the-blood-final",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 4,
+      "poster": "/images/anime/strike-the-blood-final.jpg"
+    },
+    {
+      "slug": "strike-the-blood-ii",
+      "title": "Strike the Blood II",
+      "url": "/anime/strike-the-blood-ii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 8,
+      "poster": "/images/anime/strike-the-blood-ii.jpg"
+    },
+    {
+      "slug": "strike-the-blood-iii",
+      "title": "Strike the Blood III",
+      "url": "/anime/strike-the-blood-iii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 10,
+      "poster": "/images/anime/strike-the-blood-iii.jpg"
+    },
+    {
+      "slug": "strike-the-blood-iv",
+      "title": "Strike the Blood IV",
+      "url": "/anime/strike-the-blood-iv",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/strike-the-blood-iv.jpg"
+    }
+  ],
+  "tmdb_id": 61440,
+  "tmdb_url": "https://www.themoviedb.org/tv/61440",
+  "original_title": "ストライク・ザ・ブラッド"
+}

@@ -1,0 +1,484 @@
+{
+  "slug": "zenshuu",
+  "clean_title": "Zenshuu",
+  "raw_name": "انمي Zenshuu",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/zenshuu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9057253722822"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=im0dG1B8yWTJeWZO"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9057262570182"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9057275415238"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MH6ARambU0dnwhTu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5226884,
+          "tmdb_still_path": "/tUsDiWuaB2YC2B79FkvgF6H2LYd.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9081600740038"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iQ1eajcTHKtARsgW"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9081607031494"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9081612012230"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YYN1VyrMaP2LWDqJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5878507,
+          "tmdb_still_path": "/nfeJ2XEWs4mbZtCQovfU5TcqPC1.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9106910153414"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GupPrnfepTpzEnb3"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9106917624518"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9106924047046"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=M5HiaLh1bqreoGvM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5878508,
+          "tmdb_still_path": "/354J8w8FilYy5y2tGAOtTFyXN1y.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9129477147334"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=cXPhKpJcqFpvSq3G"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9129484225222"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9129488419526"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DN5KQ7TGjHf2KrTF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 5878509,
+          "tmdb_still_path": "/2Jq4zAYMA7l2eGspwLzGOGAHLma.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9152466455238"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JSCuMIywT5eFzF2h"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9152477792966"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9152480938694"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZoT1rGQKDSzcUGeH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5878511,
+          "tmdb_still_path": "/spRSw5k5i87MaaYrWnhwQmrV6tv.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9180036139718"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sOWTBdsxuMthkoRI"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9180042169030"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9180048919238"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bV3WMHrxGQCYVdmA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 5878513,
+          "tmdb_still_path": "/7bzRasGeaNSzV76VmJo3Rh74f3Y.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9203638078150"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0Vp0ICJsKqtuRmfs"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9203648760518"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9203654920902"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AHVQfmPzRi1UfpiR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 5878514,
+          "tmdb_still_path": "/8Zh2DdMLte3KjiTpIK9IY9hyXCi.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9225305000646"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vqA5FBTQxNo3W1mz"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9225309850310"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9225317649094"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "//videa.hu/player?v=YWCobjP6A0qUgq32"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 5878515,
+          "tmdb_still_path": "/v1WGAx3RHkve6LkDdo3rvIjoulS.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9250631387846"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "//videa.hu/player?v=jIWmN4drAVnegljo"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9250637351622"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9250642791110"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dtIhXm6wH8R8e6Uj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5878516,
+          "tmdb_still_path": "/82g5mT7GO5Fl0mpwzVslKmf6kFR.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9273302256326"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2rfxutK82N6xzEI5"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9273309661894"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9273316281030"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0JpestIPvnYV7TAp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 5878517,
+          "tmdb_still_path": "/zvA0v0FqFUM6D67kLuhGkYZbvBv.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9298264918726"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mhRwMZHa420wPmtk"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9298269571782"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9298279598790"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FQCRBkPbM4n2jMz3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 5878518,
+          "tmdb_still_path": "/mUnAtc73J6JS6m0Mxck9aKJXiTD.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9318955879110"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QXv4LJl1fSV5XNcd"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9318962760390"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9318969969350"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pRkrA5veqDopAhqU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 5878519,
+          "tmdb_still_path": "/97mgJgVTW3GmUokTtnisfNnSs95.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Zenshuu ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Zenshuu على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/zenshuu",
+  "story": "يدور أنمي Zenshuu ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Zenshuu على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Anna Nagase، Kazuki Ura، Rie Kugimiya، Minori Suzuki، Akio Suyama، Romi Park",
+  "genre": "أنمي، رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "SuKb2IymZfA",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Zenshuu",
+    "mainDescription": "يدور أنمي Zenshuu ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Zenshuu على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Zenshuu أنمي 2025 | يدور أنمي Zenshuu ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Zenshuu من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/249882"
+    }
+  },
+  "tmdb_id": 249882,
+  "tmdb_url": "https://www.themoviedb.org/tv/249882",
+  "original_title": "全修。"
+}

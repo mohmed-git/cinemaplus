@@ -1,0 +1,138 @@
+From badbc618ef94cdea7f88da27a6a64281744845c5 Mon Sep 17 00:00:00 2001
+From: "ya********@ry***.com" <yacib63974@ryzid.com>
+Date: Fri, 12 Jun 2026 13:01:49 +0000
+Subject: [PATCH] Remove episode static pages to stay within Cloudflare Pages
+ 20k file limit
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+- Delete src/pages/d/[slug]/c/[season]/e/[episode].astro
+- Delete src/pages/n/[slug]/c/[season]/e/[episode].astro
+- Add public/_redirects: redirect /d/.../c/:s/e/:e → /d/.../c/:s (301)
+- Update robots.txt: Disallow /n/*/c/*/e/ and /d/*/c/*/e/
+
+Episode detail content is now handled client-side via ?e= query param
+on the season page, reducing total build output from ~57k to ~9k files.
+---
+ public/_redirects                             |  5 +++
+ public/robots.txt                             |  2 +
+ .../d/[slug]/c/[season]/e/[episode].astro     | 37 -------------------
+ .../n/[slug]/c/[season]/e/[episode].astro     | 37 -------------------
+ 4 files changed, 7 insertions(+), 74 deletions(-)
+ create mode 100644 public/_redirects
+ delete mode 100644 src/pages/d/[slug]/c/[season]/e/[episode].astro
+ delete mode 100644 src/pages/n/[slug]/c/[season]/e/[episode].astro
+
+diff --git a/public/_redirects b/public/_redirects
+new file mode 100644
+index 0000000..0439bd5
+--- /dev/null
++++ b/public/_redirects
+@@ -0,0 +1,5 @@
++# تحويل صفحات حلقات الأنمي → صفحة الموسم (301 دائم)
++/n/:slug/c/:season/e/:episode  /n/:slug/c/:season  301
++
++# تحويل صفحات حلقات المسلسلات → صفحة الموسم (301 دائم)
++/d/:slug/c/:season/e/:episode  /d/:slug/c/:season  301
+diff --git a/public/robots.txt b/public/robots.txt
+index 41583dc..8e39a65 100644
+--- a/public/robots.txt
++++ b/public/robots.txt
+@@ -1,5 +1,7 @@
+ User-agent: *
+ Allow: /
+ Disallow: /g/
++Disallow: /n/*/c/*/e/
++Disallow: /d/*/c/*/e/
+ 
+ Sitemap: https://cinemanaplus.site/sitemap-index.xml
+diff --git a/src/pages/d/[slug]/c/[season]/e/[episode].astro b/src/pages/d/[slug]/c/[season]/e/[episode].astro
+deleted file mode 100644
+index b72c4a6..0000000
+--- a/src/pages/d/[slug]/c/[season]/e/[episode].astro
++++ /dev/null
+@@ -1,37 +0,0 @@
+----
+-import EpisodePage from '../../../../../../components/EpisodePage.astro';
+-import { getSimilarTitles, getTitlesByCategory, toIndexEntry } from '../../../../../../lib/titles';
+-import { getRouteSlug, hasEpisodePages, sortedSeasons } from '../../../../../../lib/episodeRoutes';
+-
+-export async function getStaticPaths() {
+-  return getTitlesByCategory('series')
+-    .filter(hasEpisodePages)
+-    .flatMap((title) =>
+-      sortedSeasons(title).flatMap((season) =>
+-        season.episodes.map((episode) => ({
+-          params: {
+-            slug: getRouteSlug(title, 'series'),
+-            season: String(season.season),
+-            episode: String(episode.episode),
+-          },
+-          props: {
+-            title,
+-            seasonNumber: season.season,
+-            episodeNumber: episode.episode,
+-            similar: getSimilarTitles(title, 12).map(toIndexEntry),
+-          },
+-        }))
+-      )
+-    );
+-}
+-
+-const { title, seasonNumber, episodeNumber, similar } = Astro.props;
+----
+-
+-<EpisodePage
+-  title={title}
+-  kind="series"
+-  seasonNumber={seasonNumber}
+-  episodeNumber={episodeNumber}
+-  similar={similar}
+-/>
+diff --git a/src/pages/n/[slug]/c/[season]/e/[episode].astro b/src/pages/n/[slug]/c/[season]/e/[episode].astro
+deleted file mode 100644
+index 6b49750..0000000
+--- a/src/pages/n/[slug]/c/[season]/e/[episode].astro
++++ /dev/null
+@@ -1,37 +0,0 @@
+----
+-import EpisodePage from '../../../../../../components/EpisodePage.astro';
+-import { getSimilarTitles, getTitlesByCategory, toIndexEntry } from '../../../../../../lib/titles';
+-import { getRouteSlug, hasEpisodePages, sortedSeasons } from '../../../../../../lib/episodeRoutes';
+-
+-export async function getStaticPaths() {
+-  return getTitlesByCategory('anime')
+-    .filter(hasEpisodePages)
+-    .flatMap((title) =>
+-      sortedSeasons(title).flatMap((season) =>
+-        season.episodes.map((episode) => ({
+-          params: {
+-            slug: getRouteSlug(title, 'anime'),
+-            season: String(season.season),
+-            episode: String(episode.episode),
+-          },
+-          props: {
+-            title,
+-            seasonNumber: season.season,
+-            episodeNumber: episode.episode,
+-            similar: getSimilarTitles(title, 12).map(toIndexEntry),
+-          },
+-        }))
+-      )
+-    );
+-}
+-
+-const { title, seasonNumber, episodeNumber, similar } = Astro.props;
+----
+-
+-<EpisodePage
+-  title={title}
+-  kind="anime"
+-  seasonNumber={seasonNumber}
+-  episodeNumber={episodeNumber}
+-  similar={similar}
+-/>
+-- 
+2.47.3
+

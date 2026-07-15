@@ -1,0 +1,544 @@
+{
+  "slug": "seiken-gakuin-no-makentsukai",
+  "clean_title": "Seiken Gakuin no Makentsukai",
+  "raw_name": "انمي Seiken Gakuin no Makentsukai",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/seiken-gakuin-no-makentsukai.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AiDGJpnzvcuYfvrD"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8on9tw"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/RiVWVaIT#9QIBWVEqPKHd4pZF8cH8OYxm-RH9UjadCe-hDqMd47g"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oULMv2iPdsKwI4fy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3295560,
+          "tmdb_still_path": "/rKd3NJblRLfrLb7I0VV2TkK640f.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ke4i3eEXDBcyxF4v"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8on9pk"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/YqsxGCxT#kCHFIdSYjr2yTyQm0182Y7K4bgkQF1MQEyc8WMc52QQ"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EpYYeKIhe8QexDsC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 4772689,
+          "tmdb_still_path": "/gcW7pCHa56hKXQTdq4pIHCbEjL3.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=cPnzNyAyyUmrScVp"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ou1jz"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/amxRiaRS#q3jBhuXJIl1BP3zUfD5hpofC37G2qmEcLuEzgG691Ag"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xGizGBxrZZZaDGeI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4772691,
+          "tmdb_still_path": "/tDprIn6g5YJxnaiJ3FHmxtxnyI8.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=K6ao3K2Q32lSDRJO"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p08ui"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/R38RkDqb#alZm6JrmtQXQGorIYUvBuWqUNhUosfp2HrP2qkSgQvs"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nB87rCsBEtgkwGAX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 4772692,
+          "tmdb_still_path": "/rcDF5aBr9kBj1Hf2IScxOn8mUPc.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=R2D7tq3b0qQ65voA"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p5wq4"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/zVBBVIBK#ZNUNNiKAaCeASlWbr_toKSr11MNX0yUaF21NBXJjavg"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CcsklBypg32afEZz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 4772693,
+          "tmdb_still_path": "/1at7bB1NWwG7yHwUrPkLbDHEcIr.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6787707308619"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ImVIgbAdVc5pW3Fr"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pc2xg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6787715566155"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/4zsgQDoJ#z06QajyNhCQ6DizE7DHwIikno3zmGVll8BxVB033dSw"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6787718908491"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QDlXFHttsddaf4pM"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8pc334"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 4772694,
+          "tmdb_still_path": "/qdDiRm9dty73msZAn2vMoW6nMpP.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UsyyvdI0YK4cCb51"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pj7dg"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gWdlzLzJ#-Uc3fg-adXULWQq7PX-nGf5BttJx6hhRMLR2g0S2JpM"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FIiaUxFxyvJft8bZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4772695,
+          "tmdb_still_path": "/2PEd38TZwY3gnHUMcfvmFVU1O8X.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6830526368331"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JFr1Ikdv5OPoEyOY"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pq286"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6830537312843"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/V3t0yLxS#CZzQ2TzuNxBpU5VwhAPr-WbOcG0DJmeh0mQwYXHKR08"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6830541572683"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=S8y7ov5VmOke1qFd"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8pq2go"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4772696,
+          "tmdb_still_path": "/8UN7MyaMNLVoF8udrUodTVBxfQc.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6857410546251"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=43nGhHAFS7woTWhE"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pylc6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6857418213963"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/In03kbbR#ohKuEt7L2Jbu3m_rk1ZWNUPyxcKNo9wYPFEI6MyBwlE"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6857420573259"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iyqOYaomm6Bt9jph"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8pylgi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4772697,
+          "tmdb_still_path": "/mRzOS4qikE72QIpo0OPIpzc99Vd.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6879247731275"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XVV5AirqNImwlaPl"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q6a8q"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6879259724363"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xrUUVLTA#KfdDOHk5vv3hdkYkXjgU2W5euanHUdz3f4X8TKnc9Lk"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6879262935627"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=B3PTuSje4O5EDutn"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8q6adv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4772698,
+          "tmdb_still_path": "/i3Tw6mw6y85wnf8ToKerfcXnaa1.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6898810620491"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TwfBB1aYST9LLvFw"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qdh95"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6898830674507"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gOlXCYpY#vFcQPubXL4gOXjE2tqBP7y-zPJUiD3N2cNirL7OWWQ8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6898834868811"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AmKIQtDFDDJ9OROp"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8qdhok"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4772699,
+          "tmdb_still_path": "/zPCzTBrmnlfpwbmorDzFqRDSnPN.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6922861546059"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UQ3MWxzqdOO2xGVv"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qmy1c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6922869803595"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/weMC3QJA#d14gmMHce0Q7VvikYG9glTHLxwk7x6Nx0TKgBS85oLk"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6922871573067"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uyjb2RBBGTxKXR1C"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8qmy5l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4772700,
+          "tmdb_still_path": "/mPDLNAzc3RBRD7Xe4tHoFGnKuZR.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Seiken Gakuin no Makentsukai ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Seiken Gakuin no Makentsukai حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، أكشن، مدرسي، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/seiken-gakuin-no-makentsukai",
+  "story": "يدور أنمي Seiken Gakuin no Makentsukai ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Seiken Gakuin no Makentsukai حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، أكشن، مدرسي، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Marina Inoue، Yui Ishikawa، Aya Suzaki، Hiromi Igarashi، Honoka Kuroki، Arisa Nakada",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "7.0",
+  "imdb_rating": "7.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Seiken Gakuin no Makentsukai",
+    "mainDescription": "يدور أنمي Seiken Gakuin no Makentsukai ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Seiken Gakuin no Makentsukai حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء حريم، أكشن، مدرسي، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Seiken Gakuin no Makentsukai أنمي 2023 | يدور أنمي Seiken Gakuin no Makentsukai ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Seiken Gakuin no Makentsukai من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/136840"
+    }
+  },
+  "tmdb_id": 136840,
+  "tmdb_url": "https://www.themoviedb.org/tv/136840",
+  "original_title": "聖剣学院の魔剣使い"
+}

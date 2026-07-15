@@ -1,0 +1,579 @@
+{
+  "slug": "temple",
+  "clean_title": "Temple",
+  "raw_name": "انمي Temple",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/temple.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6227905677899"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=N0kWmAtYBiuWB5dm"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mdedf"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6227913935435"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xCE22ayK#4gRh8P1CUHXcVNm3TQbLYeSvVZX2cefiH9bStorhbpA"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6227921013323"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hyna04XzT97krZGt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-13",
+          "runtime": 43,
+          "tmdb_episode_id": 1917367,
+          "tmdb_still_path": "/6Pv2BgyBkASbMUnEYAcX12n5lMK.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6336638028363"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0NhMYP2BVgZ4re7x"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mjlgl"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6336654543435"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/4TtwjL4a#-b5qdlmG0JXjG-fO9joj0a5DduXC53xso-bKTuM-xoE"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6336665750091"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Jc8n0QxYNg0DLhWa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-20",
+          "runtime": 43,
+          "tmdb_episode_id": 1928011,
+          "tmdb_still_path": "/5uEeWVG9gn4TLQ2btjTjmoCWDZZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6401059719755"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IurJygz6EIXRGme0"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mpne9"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6401072630347"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/2r4myRQY#mcN6qWQHjvttKA_sWVQv5xWdP0mGPpX1B0LHOAMlqW4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6401082985035"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NiLm8XekZsm0rrBe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-09-27",
+          "runtime": 43,
+          "tmdb_episode_id": 1928012,
+          "tmdb_still_path": "/xOWO18Vm2sJcwg2xQy0lTJJcKgg.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6451630508619"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rZzwwgBcslAJhkqP"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mv89f"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6451642829387"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/SqY3HDqR#62O0LHcX158g-O54odjSdVzZtiAGHRlwdUExo4pR6yM"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6451649776203"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dTyPjlNXTwUOTDGY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-04",
+          "runtime": 43,
+          "tmdb_episode_id": 1928013,
+          "tmdb_still_path": "/7mdwFbOCqvRvKGPrc8Gfz9aqNHZ.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6473830304331"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kYCLZI09wGwU7vhg"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6473842887243"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/6jg0RbRC#3JRpUYI-_Aqg092TU72Rp3MxM1f1FcHnAjPPAUoFGvc"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6473850423883"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=S8E3YNwkEETpTUEh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-11",
+          "runtime": 44,
+          "tmdb_episode_id": 1928014,
+          "tmdb_still_path": "/4ee41H3tDKxGx1Afpc74JY6O7bk.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6507573217867"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Je8wDUdoRXeAfSoJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8n65mn"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6507585997387"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8ztxxRZa#3qnSIbX9-Q0GPcC8L2oLiXsShma1omUFsXR89fJI5Tc"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6507594189387"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=geZbHrklhwsvao33"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-18",
+          "runtime": 43,
+          "tmdb_episode_id": 1928015,
+          "tmdb_still_path": "/4AuT2pj53ujgSBBFy1Z2HFPEfev.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6530621966923"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gpkhGwB4LbgccbZF"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ncdoy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6530636778059"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/az5BhaSI#WtwHqvDKzQLK4vRDUIJ2oplWT5sVjuAnYQxzZVJeoCo"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6530654931531"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=o3QtIVazdmCLTtQm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-25",
+          "runtime": 44,
+          "tmdb_episode_id": 1928016,
+          "tmdb_still_path": "/dQhFre8WwTTAtiWSt8jFNtz2IW1.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6553149835851"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=N3UMZf41PYsRTirz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ni2cs"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6553164319307"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/wzVw3QpY#fG-8sziMI76gOPgJ3D3ZzgvpnrArUsjKn_FwsfQQNsI"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6553169693259"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4bQ2OvQmykJ8lAip"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-01",
+          "runtime": 44,
+          "tmdb_episode_id": 1928017,
+          "tmdb_still_path": "/hUa0MzLImIwkgeLSykCjNkHeuv0.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6586641812043"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UtBbHtsuhhbm8hRG"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nocbo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6586657409611"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/A6syjTgD#efIUUkE5paBAc0GeHVr1E3z_-Gbqg2A_y8VmKDW4D1w"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6586669206091"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yqrIyKcdNubxKuTm"
+            }
+          ]
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6609303636555"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CsShyrI0cNMLLnsl"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nym0c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6609313860171"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BicRBJbL#qiEbbkvGIMo_w0C8QM4XOPIe3psV4yQhGHA67jimopM"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6609322838603"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7vIYIpurmcy1O8Bd"
+            }
+          ]
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6631967492683"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=P8kxaujSvXLBplqb"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8o484l"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6631981910603"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Q2E1xJpS#CEtW2bYSW_DPXW22pdhEnUGAVo8IyqtGDJ9pRXnGF7M"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6631992003147"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=d7aS9d6FsfZOa3MQ"
+            }
+          ]
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6655032429131"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=T8xxmVsSIUcXjP9u"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8o9twq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6655043504715"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Vjd2wQKR#A6uMz6Vz5nXE0GI84rYv823ZNiEsqd_jK0WM84xHS1s"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6655053597259"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=scI9RTWw7zTVfrUp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Temple ضمن أجواء دراما، غموض، جريمة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 2 موسم و15 حلقة. يدور أنمي Temple حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف حريم، ايتشي، شريحة من الحياة، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Temple على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/temple",
+  "story": "يدور أنمي Temple ضمن أجواء دراما، غموض، جريمة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 2 موسم و15 حلقة. يدور أنمي Temple حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف حريم، ايتشي، شريحة من الحياة، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Temple على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "الإنجليزية",
+  "country": "المملكة المتحدة",
+  "director": "Mark O'Rowe",
+  "stars": "Mark Strong، Carice van Houten، Daniel Mays",
+  "genre": "أنمي، دراما، غموض، جريمة، حركة ومغامرة",
+  "trailerId": "nyl7O1q1R64",
+  "rating": "6.5",
+  "imdb_rating": "6.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Temple",
+    "mainDescription": "يدور أنمي Temple ضمن أجواء دراما، غموض، جريمة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 2 موسم و15 حلقة. يدور أنمي Temple حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف حريم، ايتشي، شريحة من الحياة، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Temple على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Temple أنمي 2019 | يدور أنمي Temple ضمن أجواء دراما | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Temple من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/93177"
+    }
+  },
+  "tmdb_id": 93177,
+  "tmdb_url": "https://www.themoviedb.org/tv/93177",
+  "original_title": "Temple"
+}

@@ -1,0 +1,580 @@
+{
+  "slug": "kami-wa-game-ni-ueteiru",
+  "clean_title": "Kami wa Game ni Ueteiru.",
+  "raw_name": "انمي Kami wa Game ni Ueteiru.",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kami-wa-game-ni-ueteiru.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7267356445259"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yrAmtgTJKJ7rri6Y"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7267368307275"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7267373222475"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XpDtFCTzPMdwooKh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-01",
+          "runtime": 24,
+          "tmdb_episode_id": 3459855,
+          "tmdb_still_path": "/7o7cAhtrQ7y3QX9EDkHradJUWhx.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7292598618699"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=oObYf8Uew3Jygjpy"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7292605958731"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7292613036619"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AUWEw8aKZq4QPG6L"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5243945,
+          "tmdb_still_path": "/l1oVtorDukT5DrlmG9mJqB0aOOp.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7312559180363"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=c1Ei55yMdkaljpLj"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7312568224331"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7312575302219"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ligmfzLDrkJ5vzdV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5243947,
+          "tmdb_still_path": "/sfqj1CxAQ16iosZYH00EoEtKp3F.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7332486580811"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wNpGKFCgf3CzDXlQ"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7332494182987"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7332503423563"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vaGkrK5mzFPwYu0Z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-22",
+          "runtime": 23,
+          "tmdb_episode_id": 5243948,
+          "tmdb_still_path": "/y7LbyUmi8jTYC7Iqrlb2XasIaoN.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7353664342603"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=X0wJYXceskIBqYtY"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7353669323339"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/b1kR1LLI#hYVz9xZl1Re0xrrLUqsoWb1kfNPmaVyKdm1zvmgWdSY"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7353681381963"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gEuGfPrWeOaTVYIu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-29",
+          "runtime": 24,
+          "tmdb_episode_id": 5243951,
+          "tmdb_still_path": "/5G0Aiaab2cZQlSS1ci6s3y3Lc5r.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7376189196875"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VYLnr261riTMAjUs"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7376199813707"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7376211675723"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tXp78qMsQvfF45CL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5243952,
+          "tmdb_still_path": "/lb6dBN43JGmkxhbPwHgQWWJo5qL.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7399612746315"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NgnbGqJQenRxWFOx"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7399631948363"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7399635814987"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ChElnEusADdHu7Uo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5243954,
+          "tmdb_still_path": "/zMF1AUN8tt9x1gg7WMqJbmi4iK9.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7423139842635"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GzF4pQgeGrQvpy5e"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/sac6h4o56rxz"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7423145478731"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/5kfeqishfo0s"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7423153801803"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=s8xAGULqmx7TPZWK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-20",
+          "runtime": 24,
+          "tmdb_episode_id": 5243956,
+          "tmdb_still_path": "/dKj0CFD1uVyongpuJzeNpAvAaJs.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7442995153483"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=n9ivQHO2tJgBH6sq"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/wrzmngalik50"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7443003738699"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/v37j4bfmztou"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7443012520523"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iRdqbsWwORM1nRhe"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://swhoi.com/e/vilnb4iyll41"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-27",
+          "runtime": 24,
+          "tmdb_episode_id": 5243960,
+          "tmdb_still_path": "/wvimWdwrMrYRYshlbpuzV344sEi.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7464877689419"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9b7PeFsRq4cBcrt7"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/qir5bvxfcwrl"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7464883259979"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/l29zicdlv049"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7464888109643"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0ea2tWGRyAwi3ihT"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/l1o3lsvlqfma"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5243964,
+          "tmdb_still_path": "/8F8sbGzoDqZTVrToO0Q7wfeFS80.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7487859460683"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7LCpTkzBS9hvxliU"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/1tvqqhu0isb7"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7490137885259"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/1baeb15ao5iz"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7490247133771"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lrMbsZtZnDK2x5gE"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/7rxboy757qon"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5243967,
+          "tmdb_still_path": "/xf0EQUDoSJaxCZRE74FtEPDxjor.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jFjttbZbS1RZSqLb"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/ib3zjgls953h"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/sovx277x4074"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lH482vcHyWgm14ec"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/f8yo15v04ikw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5243970,
+          "tmdb_still_path": "/uA5d3lx2gFA9l4iBAHHQSzhR2bf.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TEbWbHaQhNueALYZ"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/o37yac5jhpaf"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/i3zo2iystq3e"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1onVzbv5TehNV6Gx"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/03eb9u9wfnl1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-06-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5420388,
+          "tmdb_still_path": "/wegOlJCw6MbHGHpYOe4LH1bqvW7.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kami wa Game ni Ueteiru. ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Kami wa Game ni Ueteiru. على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف ايتشي، إثارة، خيال، دراما يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kami wa Game ni Ueteiru. على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/kami-wa-game-ni-ueteiru",
+  "story": "يدور أنمي Kami wa Game ni Ueteiru. ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Kami wa Game ni Ueteiru. على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف ايتشي، إثارة، خيال، دراما يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kami wa Game ni Ueteiru. على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Akari Kito، Nobunaga Shimazaki، Hina Tachibana، Kanna Nakamura، Ami Koshimizu",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "jnfPYUrqFjg",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kami wa Game ni Ueteiru.",
+    "mainDescription": "يدور أنمي Kami wa Game ni Ueteiru. ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Kami wa Game ni Ueteiru. على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف ايتشي، إثارة، خيال، دراما يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Kami wa Game ni Ueteiru. على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Kami wa Game ni Ueteiru. أنمي 2024 | يدور أنمي Kami wa Game ni Ueteiru | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kami wa Game ni Ueteiru. من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/156057"
+    }
+  },
+  "tmdb_id": 156057,
+  "tmdb_url": "https://www.themoviedb.org/tv/156057",
+  "original_title": "神は遊戯に飢えている。"
+}

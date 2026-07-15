@@ -1,0 +1,1046 @@
+{
+  "slug": "dungeon-meshi",
+  "clean_title": "Dungeon Meshi",
+  "raw_name": "انمي Dungeon Meshi",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/dungeon-meshi.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "حلقة 1: قِدر ساخن\\فطيرة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6985142307403"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dDON1tszrLjtoZGX"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8r5nzp"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/live/livenews"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6985162951243"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Jv2MHj34trmlX7Z6"
+            }
+          ],
+          "overview": "بعد تعرضهم لخسارة فادحة، يعاود \"لايوس\" و\"مارسيل\" و\"تشيلشاك\" الدخول إلى الدهليز بسرعة من أجل إنقاذ \"فالن\"، إلا أنهم يملكون هذه المرة خطة محكمة تضمن نجاتهم.",
+          "air_date": "2024-01-04",
+          "runtime": 26,
+          "tmdb_episode_id": 3882309,
+          "tmdb_still_path": "/793CsCTp34OclTSKbVfIyfP7tE2.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "حلقة 2: البازيليسك المشوي \\ العجة \\ الكاكياغي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7007472061003"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YBJcmaNQliCSGhOH"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rd676"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7007482350155"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7007487920715"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jrvcomaleavf9OBW"
+            }
+          ],
+          "overview": "بعد الاستيقاظ على رائحة مثيرة، تتلقى \"مارسيل\" محاضرة من \"سينشي\" بشأن النظام الغذائي المتوازن. ويساعد الفريق شخصًا مغامرًا تسمم من كائن الـ\"بازيليسك\".",
+          "air_date": "2024-01-11",
+          "runtime": 26,
+          "tmdb_episode_id": 4789144,
+          "tmdb_still_path": "/A8jLhaALvOZFli7weOl579ifrWW.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "حلقة 3: الدرع الحي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7031338699339"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kWSb1gXp6VjoEpha"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rkkfa"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7031347612235"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7031355804235"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TdiHW4ff7PeCElbg"
+            }
+          ],
+          "overview": "يصل \"لايوس\" وفريقه إلى منطقة خفية يحرسها وحش \"الدرع الحي\" الغامض الذي يبدو أنه يحمي شيئًا قد يكون لذيذًا.",
+          "air_date": "2024-01-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4789145,
+          "tmdb_still_path": "/b58VzI9yL4nYWLLxUm60bj4R7Xu.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "حلقة 4: الملفوف المطبوخ \\ وحوش الأورك",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7054360578635"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jkFmZF7uFBN8Egx5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rs5u6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7054373227083"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7054383254091"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GaeILwO4GerZciu8"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8rs663"
+            }
+          ],
+          "overview": "عند وصوله إلى المستوى الثالث في الزنزانة، يقود \"سينشي\" الفريق إلى حديقة الخضراوات السرّية الخاصة به. ولاحقًا، تداهمهم مجموعة من مخلوقات الـ\"أورك\" الغاضبة واليائسة.",
+          "air_date": "2024-01-25",
+          "runtime": 26,
+          "tmdb_episode_id": 4789146,
+          "tmdb_still_path": "/7T7LPnuOlBHROIhfsTDn0tz2mGp.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "حلقة 5: مأكولات خفيفة \\ مثلجات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7076582263371"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NQ3YcsYGazL2ZT3V"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rzot0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7076592486987"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7076600547915"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=K13ZNK5LtxxnrSLS"
+            }
+          ],
+          "overview": "فيما تكتشف مجموعة أخرى من المغامرين صندوق كنز، يتعرض \"لايوس\" وفريقه للمطاردة من قبل سرب من الأشباح التي تقشعر لها الأبدان، لكن \"سينشي\" يفكر في خطة ذات مذاق حلو.",
+          "air_date": "2024-02-01",
+          "runtime": 25,
+          "tmdb_episode_id": 4789147,
+          "tmdb_still_path": "/l2YpbnO7MfUTn59lbFBaVH0FC3H.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "حلقة 6: مطبخ البلاط\\مغلي في ماء مالح",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7098849299019"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IrmV6qTQQehSsfdc"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8sdhrg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7098854607435"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7098813778507"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oSkgvY2XYW1bB92d"
+            }
+          ],
+          "overview": "أمام تضوّره من الجوع، يشعل \"لايوس\" غضب فتًى غامض من الجان خلال بحثه عن الطعام في \"اللوحات الحية\". ولاحقًا، يجد \"تشيلتشاك\" نفسه محبوسًا مع \"مقلّد\" سيئ المزاج.",
+          "air_date": "2024-02-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4789148,
+          "tmdb_still_path": "/6p3PpdQw7iKgQtWVuCq5Zoli3NU.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "حلقة 7: حصان الكيلبي \\ العصيدة \\ طبق مشوي مع الصلصة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7120211151435"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jlpwq87AZfBpXB4b"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8sr3c6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7120220981835"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7120225176139"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fjiui1uN09KbPKst"
+            }
+          ],
+          "overview": "هناك أشياء مريبة في هذا الطابق الدهليزي الجديد... فعندما يعبر الفريق بحيرة مجهولة المخاطر، يعثر في طريقه على أطعمة بحرية فتّاكة ومغامرات حافلة بالسقطات.",
+          "air_date": "2024-02-15",
+          "runtime": 27,
+          "tmdb_episode_id": 4789149,
+          "tmdb_still_path": "/oL4nCuNW9qWsmmmzmVjDRJ5yH4l.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "حلقة 8: توت العليق \\ لحم مشوي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7143926270539"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4qnPlxXo7T3AZ1Eb"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8t5o3y"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7143936035403"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7143942261323"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IpQmXYPZtJzXBLCD"
+            }
+          ],
+          "overview": "تتذكر \"مارسيل\" لقاءها لأول مرة بـ\"فالين\" خلال أعوام الدراسة المبكرة. وبعد اغتسال سريع، يوقعها خطأ غير مقصود في ورطة مع روح غاضبة.",
+          "air_date": "2024-02-22",
+          "runtime": 24,
+          "tmdb_episode_id": 4789150,
+          "tmdb_still_path": "/exjM7eaMpNoJUxCqX0up4oIMFKy.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "حلقة 9: المجسات \\ الحساء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7165408315979"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=51UEdou2l22WQHeb"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8tlalk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7165415524939"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7165421750859"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NWxJvLcZK6A8KzyW"
+            }
+          ],
+          "overview": "تجذب رائحة اللحم ضيوفًا لم تتم دعوتهم.... فيظهر من بينهم وجه مألوف. وفي سبيل المضي قدمًا، يتعين على الجميع العمل معًا للتغلب على \"الأوندين\".",
+          "air_date": "2024-02-29",
+          "runtime": 27,
+          "tmdb_episode_id": 4789151,
+          "tmdb_still_path": "/spQd1fcZMcYX6ZSbHE4cHAiwrse.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "حلقة 10: الضفادع العملاقة \\ فوق سطح الأرض",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7187935070795"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VmCAhz1HYpj1wf9u"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8u192m"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7187950144075"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7187957680715"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9hde3L7cM9t3F8aQ"
+            }
+          ],
+          "overview": "يتجنب الفريق النزول الأليم إلى بلدة القلعة حيث يتربص \"التنين الأحمر\". وفي سبيل هزيمته، تلزم خطة محكمة ووجبة لرفع الحالة المعنوية.",
+          "air_date": "2024-03-07",
+          "runtime": 25,
+          "tmdb_episode_id": 4789152,
+          "tmdb_still_path": "/vG9aAzrkKLFJPlmhzWThnb4rUHi.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "حلقة 11: التنين الأحمر 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7212936464971"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1gFp92bKYhpVGGb6"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ufq5y"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7212957895243"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7212962220619"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PP7oqE4ynuNxsMwW"
+            }
+          ],
+          "overview": "يواجه الفريق \"التنين الأحمر\" أخيرًا، لكن سرعان ما تفشل استراتيجيته الكبرى. وفي ظل تصاعد غضب الوحش، من تُراه يتمكن من تقطيع الآخر؟",
+          "air_date": "2024-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4789153,
+          "tmdb_still_path": "/6svHTxIqEhB8PPp6nktzdobO6tX.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "حلقة 12: التنين الأحمر 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7236049439307"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Pjuyb2CGRfVv3i45"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8v9s3g"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7236074605131"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7236081486411"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LBr15epiQoP9Zmxn"
+            }
+          ],
+          "overview": "يقود بحث مُضنٍ في مَعِدة التنين إلى اكتشاف مروع، يشير إلى أن سحر الإحياء وحده لن يكون كافيًا لاسترجاع \"فالين\".",
+          "air_date": "2024-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4789154,
+          "tmdb_still_path": "/uiPXtexfgpzBBWfgWWdIHDVULH1.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "حلقة 13: التنين الأحمر 3 \\ دواء جيد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7256588421707"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ahTTibXNnffG9Ucz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8vykqa"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7256594975307"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7256597334603"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SQDuFlZqjORLrpQH"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8vyl32"
+            }
+          ],
+          "overview": "تصدر عن \"فالين\" تصرفات غريبة في منتصف الليل، الأمر الذي يقود \"لايوس\" والفريق إلى كائن خطر يسعى للتخلص منهم.",
+          "air_date": "2024-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5024995,
+          "tmdb_still_path": "/1JcBVB2rsqZK4ky0FfquGOSrQwC.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "حلقة 14: ثعبان البحر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7276173134411"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NYU9tkARn422zpJ1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8wb9p6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7276179688011"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7276186438219"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MiMtlxMc82ZrrK73"
+            }
+          ],
+          "overview": "بالعودة إلى طابقٍ علوي من الدهليز، يستيقظ \"كابرو\" والفريق ليجدوا أن مؤونتهم قد اختفت، وأنه قد تم الإيقاع بهم وهم في طريق عودتهم إلى السطح.",
+          "air_date": "2024-04-04",
+          "runtime": 25,
+          "tmdb_episode_id": 5024996,
+          "tmdb_still_path": "/eSzWdLEFY0xiiu1vjGgrJxV0ANO.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "حلقة 15: حورية الغابة \\ أم طبق",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7301069146699"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=D2xkyvLRxeYBFlg4"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8wnt5c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7301080025675"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7301087300171"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=w6LlKjs6AERMoROQ"
+            }
+          ],
+          "overview": "بينما هو عالق في الدهليز، يطهو \"سينشي\" الذي يراوده القلق وجبة مغذية للفريق الذي يتضور جوعًا... الأمر الذي يمنح \"مارسيل\" الطاقة اللازمة للتفكير في خطة ما.",
+          "air_date": "2024-04-11",
+          "runtime": 26,
+          "tmdb_episode_id": 5024997,
+          "tmdb_still_path": "/fZWVNqUf1vzKj7UNJKDdCQxoQ0P.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "حلقة 16: المنظفون \\ مكوّن مجفف مع الساكي الحلو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7320937892427"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GsQl2lcrOtOGQiqy"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8x0fm0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7320945101387"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7320950213195"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TYCPgfUDPfJ7xmwy"
+            }
+          ],
+          "overview": "يتوصل \"تشيلتشاك\" إلى طريقة للخروج من الدهليز، لكن ثمة مصادفة غير متوقعة، مع صديق في حاجة ماسة إلى الطعام، تعرقل المجموعة أثناء صعودها.",
+          "air_date": "2024-04-18",
+          "runtime": 25,
+          "tmdb_episode_id": 5024998,
+          "tmdb_still_path": "/xgZTyzH2mXkY061SQ4qlmx4bhSR.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "حلقة 17: هاربي \\ كيميرا",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7341813860939"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3Fu1BLEJOq83nefS"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8xg83m"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7341833849419"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7341846104651"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZTF83WzZtAnBAUGK"
+            }
+          ],
+          "overview": "على الطرفين التكاتف للتصدي لهجوم تشنه وحوش الـ\"هاربيز\" الشريرة، غير أنّ الظهور غير المتوقع لـ\"فالين\" المتحولة يذهل الجميع.",
+          "air_date": "2024-04-25",
+          "runtime": 26,
+          "tmdb_episode_id": 5024999,
+          "tmdb_still_path": "/64V9yL32o6bNcjODcjoZxg6idSK.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "حلقة 18: متحوّل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7363567028811"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=00Jt7iXFp845EZal"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8xtxvi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7363580987979"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7363586951755"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uSrzg2rIM9fNXkRG"
+            }
+          ],
+          "overview": "أثناء اقتفائهم أثر \"فالين\"، يبحث \"لايوس\" والمجموعة عن ملجأ يحتمون فيه من عاصفة ثلجية، لكن تجتاحهم نسخ متحولة من أنفسهم، فكيف سيتمكنون من معرفة النُسخ المزيفة؟",
+          "air_date": "2024-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5025001,
+          "tmdb_still_path": "/pc1DteqkLltHzqkE3OEo2orKsQ8.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "حلقة 19: عفريتة \\ كابوس",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7386391579211"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gFfZRg4nAytwpcx4"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8y93s6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7386401671755"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7386412419659"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Cb9N4bJHjS8s2f1G"
+            }
+          ],
+          "overview": "تُضيّق إحدى المعارف الخناق على الطاقم، وتطلب مساعدتهم في حلّ مشكلة صعبة جدًا. فيما يجد \"لايوس\" نفسه لاحقًا وسط كابوس \"مارسيل\" ويكتشف أكبر مخاوفها.",
+          "air_date": "2024-05-09",
+          "runtime": 26,
+          "tmdb_episode_id": 5025002,
+          "tmdb_still_path": "/nD5kQQXgoHafnbWiSgsOVAphlB3.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "حلقة 20: المخلوق الجليدي \\ نبتة الحمَل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7408797485643"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iLEuGXRtMRegvBmE"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8yl08m"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7408806005323"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7408810854987"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=m1jvMDmWnefrylzJ"
+            }
+          ],
+          "overview": "تثبت \"إيزوتسومي\" أنها حليفة مفيدة على الرغم من آداب المائدة السيئة التي تتبعها وكرهها لأكل الوحوش... لكن لطف الفريق يساعدها على الانفتاح والتصرف بحرّية تدريجيًا.",
+          "air_date": "2024-05-16",
+          "runtime": 25,
+          "tmdb_episode_id": 5025003,
+          "tmdb_still_path": "/2cfacM7OIWkE89EOQC0YYdgB3I.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "حلقة 21: بيضة\\ الدولة الذهبية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7431461866059"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4bpNS2v1vvxqSJcS"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8yyiek"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7431468550731"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7431481068107"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cZnZ7C6Tqt50RUBy"
+            }
+          ],
+          "overview": "بينما يصبح مصير الدهليز على المحك، يتفاوض \"كابرو\" مع الجان. وفي تلك الأثناء، يستدرج أحد الأشباح كلًا من \"لايوس\" والفريق إلى \"المدينة الذهبية\" الملعونة.",
+          "air_date": "2024-05-23",
+          "runtime": 27,
+          "tmdb_episode_id": 5025004,
+          "tmdb_still_path": "/e9iHneeNnN6uxduP4FKQnISaBOo.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "حلقة 22: غريفين\\مألوفون",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7453040904779"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=j3vRk7Av1lG39SWq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8zca0a"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7453051980363"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7453057813067"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Q9FBHnx9m3QGhll7"
+            }
+          ],
+          "overview": "بعد مغادرته \"المدينة الذهبية\" الآمنة، يقع \"سينشي\" في براثن وحش غريفين شرس. ويتعين على أفراد الفريق طلب المساعدة إن كانوا يريدون إنقاذه.",
+          "air_date": "2024-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 5025005,
+          "tmdb_still_path": "/vQQLHLZPQzRm6x2iSGyUAUsQGtN.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "حلقة 23: حساء العنقاء \\ الدمبلينغ (1)",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7475577096779"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=na1fVXumBgHCSgtO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8zshp6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7475594725963"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7475605604939"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JPb1cmOEYsVrYzc3"
+            }
+          ],
+          "overview": "عند العودة إلى المخيم، يكشف \"سينشي\" أخيرًا عن تاريخه المؤلم مع الدهليز. وفي اليوم التالي، يستيقظ أفراد الفريق فزعين على تحوّل محيّر.",
+          "air_date": "2024-06-06",
+          "runtime": 28,
+          "tmdb_episode_id": 5025007,
+          "tmdb_still_path": "/u10BULQQRK4W3JAYqmXfpyHS6Y5.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "حلقة 24: الدمبلينغ (2) \\ اللحم المقدد والبيض",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7500339022411"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CBzSwnMIPUy2TGpK"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x909yvk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7500349966923"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7500354751051"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CTQXN3R6l5jwvnmc"
+            }
+          ],
+          "overview": "بينما لا يزال أفراد الفريق في صراع مع هيئاتهم الجديدة، يتوجب عليهم التغلب على الوحوش الحجرية. ولاحقًا، يتعمقون أكثر داخل الدهليز... فما الوحوش التي سيجربون طعمها تاليًا؟",
+          "air_date": "2024-06-13",
+          "runtime": 25,
+          "tmdb_episode_id": 5025008,
+          "tmdb_still_path": "/xP7qf9Y0jTCeIi7U0Uw8ux8M5yh.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "ما بين دهاليز وتنانين ويخنة وحوش لذيذة، يغزو المغامرون مملكة مدفونة وملعونة لإنقاذ صديقتهم، بينما يطبخون بحماسة ما لذ وطاب ويثيرون الجلبة طيلة رحلتهم.",
+  "url": "/anime/dungeon-meshi",
+  "story": "ما بين دهاليز وتنانين ويخنة وحوش لذيذة، يغزو المغامرون مملكة مدفونة وملعونة لإنقاذ صديقتهم، بينما يطبخون بحماسة ما لذ وطاب ويثيرون الجلبة طيلة رحلتهم.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kentaro Kumagai، Sayaka Senbongi، Asuna Tomari، Hiroshi Naka",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "aXfVHMILKJg",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Dungeon Meshi",
+    "mainDescription": "ما بين دهاليز وتنانين ويخنة وحوش لذيذة، يغزو المغامرون مملكة مدفونة وملعونة لإنقاذ صديقتهم، بينما يطبخون بحماسة ما لذ وطاب ويثيرون الجلبة طيلة رحلتهم.",
+    "metaDescription": "Dungeon Meshi أنمي 2024 | ما بين دهاليز وتنانين ويخنة وحوش لذيذة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Dungeon Meshi من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/207784"
+    }
+  },
+  "tmdb_id": 207784,
+  "tmdb_url": "https://www.themoviedb.org/tv/207784",
+  "original_title": "ダンジョン飯"
+}

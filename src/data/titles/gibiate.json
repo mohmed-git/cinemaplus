@@ -1,0 +1,244 @@
+{
+  "slug": "gibiate",
+  "clean_title": "Gibiate",
+  "raw_name": "انمي Gibiate",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/gibiate.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "اختفاء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-dp71gq2abhob.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-07-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1947602,
+          "tmdb_still_path": "/pU2vv9ryinfxm8O1PJkwW8YKGJO.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "ما وراء الدوامة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-fqxxuwu5n68o.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-07-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2336377,
+          "tmdb_still_path": "/66DQbPlwm5s12LWqWsDJe4j08J0.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الرجل الثالث",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-3lt0mwe2otdj.html"
+            }
+          ],
+          "overview": "بعد مهاجمة الجيبيا للمخيّم وخروج الجميع منه، يقرّر يوشيناغا ركوب حوَّامة والانطلاق نحو مكان آمن لمتابعة أبحاثه. أثناء القيام بذلك، يهاجمهم جيبيا فريد من نوعه في وضح النّهار. يتزامن ذلك مع ظهور راهب مقاتل يبدو أنّه خضع لنفس تجربة سينسِي وكينروكو قادماً من ماضٍ بعيد.",
+          "air_date": "2020-07-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2336378,
+          "tmdb_still_path": "/31OyK22UuLnVo6sGMPTFxySv03B.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "منطِقة خطر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qaiez3khg18m.html"
+            }
+          ],
+          "overview": "برايان يهاجم الطبيب يوشيناغا فيتبيّن أنّه أصيبَ بالسمِّ عندما هاجمه الميتيورا. يُحاصَر الجميع بواسطة مجموعة كبيرة من الطيور والسّحالي الجيبيا نتيجة هطول الأمطار وازدياد الظُلمة. يستذكر سينسِي ماضيه ولقاءه مع كينروكو.",
+          "air_date": "2020-08-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2336379,
+          "tmdb_still_path": "/iD5203jgcg4mdZlFcHwsFb2IDjf.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الشرّ ضدّ بوشيدو",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-6o6deqg0mk2r.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-08-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2336380,
+          "tmdb_still_path": "/l5MU51DyL3renCXOgFeOzHsAD3x.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "ظرف بائس",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-n3dj6l75wlwb.html"
+            }
+          ],
+          "overview": "تتعرّف كاثلين على شخصيّة جديدة تُدعى أيامي وهي شرطيّة سابقة. حيث تنجو كاثلين بفضل أيامي ثمّ تعرّفها لاحقاً على المجموعة التي قضت على الجيبيا في النفق وتمكّنت من الخروج. يذهب الجميع لاحقاً للاستجمام في نبع ساخن والكشف عن ماضي سينسِي.",
+          "air_date": "2020-08-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2336381,
+          "tmdb_still_path": "/gflqI3lryC6b4bSnMddvkFzFo7Z.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "طريق الحلم نحو الموت",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-bzdvhkyr7pxu.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-08-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2336382,
+          "tmdb_still_path": "/7wUeJSQfICY4V9J6DZweXM7qMwz.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "رسالة وداع",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-vj1rb1mldvt0.html"
+            }
+          ],
+          "overview": "بعد إصابة سينسِي، يُترَك على السّرير ليرتاح بينما يذهب كُل من كينروكو وأيامي لتأمين مستلزمات طبّية ومؤونات ويقاتلان السّحالي في هذه الأثناء ويبحثان عن والدة كاثلين التي أصيبَتْ بلدغة جيبيا وهربت كي لا تؤذي أحداً. وأمّا كاثلين ويوكينوجيو فهما الآخران يخوضان معركتهما الخاصّة.",
+          "air_date": "2020-09-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2336383,
+          "tmdb_still_path": "/shIJ7LEL9a1kBsVwRl8vDRwKvvG.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة إلى أن يحترق بالكامل",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-al2d3yvlavlf.html"
+            }
+          ],
+          "overview": "وفقاً لخرافة قديمة، عندما ترى قمراً أحمر فهذا نذير بأنَّ الموت قد اقترب. يخسر الفريق المكافح للجيبيا مزيداً من الأعزّاء ويشتدّ ألم الفُراق على الجميع.",
+          "air_date": "2020-09-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2336384,
+          "tmdb_still_path": "/9mj1OkjCAfBUDtuVy7cZUFfZbrg.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "حلفاء جدُد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-00te9n3jvfw2.html"
+            }
+          ],
+          "overview": "يتوجّه يوشيناغا رفقة سينسِي والآخرين نحو مركز البحث الجديد، لكن للدخول، يتوجّب عليهم شقّ طريقهم بالقوّة أمام عدد كبير من الجيبيا. أثناء استعدادهم لخوض هذه المعركة، ينضمّ إليهم حُلفاء جدُد غير مُتوقّعين.",
+          "air_date": "2020-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2336385,
+          "tmdb_still_path": "/afFbUKo2LCICnyazswV1lY01tOb.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "حبّ وهميّ",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ton55pn0neof.html"
+            }
+          ],
+          "overview": "يشارف يوشيناغا على إكمال اللُّقاح بينما يعمل باقي الأفراد المجموعة على حماية المقرّ من هجوم ميتيورا الذي هاجم من جديد. لكن بعد قتلهم للميتيورا، يتفاجأ الجميع بردّة فعل غريبة وغير متوقّعة من يوشيناغا...",
+          "air_date": "2020-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2336386,
+          "tmdb_still_path": "/A9eucI3h5f1qD6jNB7RONU7DHaa.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "نهاية حياة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-sq5kbp6db0wq.html"
+            }
+          ],
+          "overview": "تندلع معركة أخيرة بين يوشيناغا المتحوّل إلى جيبيا ذكيّ من جهة، وسينسِي وكينروكو من جهة أخرى. يروي يوشيناغا أخباراً صادمة، ولا سيّما بالنسبة إلى كاثلين. موقف بطولي وحقيقي من هاتونامي لأجل ابنته ولأجل أن تعيش البشرية جمعاء.",
+          "air_date": "2020-09-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2336387,
+          "tmdb_still_path": "/qf4kd6xogndM9Zoc1u0pPYYemKi.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "ينتشر مرض غريب يدعى جيبياتي في أنحاء العالم بسرعة هائلة ويتسبب في دمار العالم ولا تستطيع البشرية الصمود أمامه.",
+  "url": "/anime/gibiate",
+  "story": "ينتشر مرض غريب يدعى جيبياتي في أنحاء العالم بسرعة هائلة ويتسبب في دمار العالم ولا تستطيع البشرية الصمود أمامه.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tetsuya Kakihara، Yukiyo Fujii، Hiroki Touchi، Michio Hazama، Shuichi Ikeda، Hiroki Nanami",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة",
+  "trailerId": "rU6HjgMIIBs",
+  "rating": "7.0",
+  "imdb_rating": "7.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Gibiate",
+    "mainDescription": "ينتشر مرض غريب يدعى جيبياتي في أنحاء العالم بسرعة هائلة ويتسبب في دمار العالم ولا تستطيع البشرية الصمود أمامه.",
+    "metaDescription": "Gibiate أنمي 2020 | ينتشر مرض غريب يدعى جيبياتي في أنحاء العالم بسرعة هائلة ويتسبب في دمار العالم ولا تستطيع البشرية الصمود أمامه | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Gibiate من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/94388"
+    }
+  },
+  "tmdb_id": 94388,
+  "tmdb_url": "https://www.themoviedb.org/tv/94388",
+  "original_title": "ジビエート"
+}

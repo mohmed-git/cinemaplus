@@ -1,0 +1,556 @@
+{
+  "slug": "ragna-crimson",
+  "clean_title": "Ragna Crimson",
+  "raw_name": "انمي Ragna Crimson",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ragna-crimson.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GoWn0AS1ryzS3aU8"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=i24vzzu7pyO0mQEn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-01",
+          "runtime": 45,
+          "tmdb_episode_id": 3604989,
+          "tmdb_still_path": "/1pniXDtlnXZWbYaIcnldhealmfd.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GFvDEZ9PFErHvVYL"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gkNwmOPN0nF2Xg1e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-07",
+          "runtime": 22,
+          "tmdb_episode_id": 4698458,
+          "tmdb_still_path": "/dYFJC30C2yLnRjngQRSTHHIRPFU.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ozNqxR2rACCtt7LB"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=e3PPmnkbIxu3HyOj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-14",
+          "runtime": null,
+          "tmdb_episode_id": 4698461,
+          "tmdb_still_path": "/c7ZRPxZQ784DHa88MXKMK6thQZM.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aHylk1qXwqipPK30"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TPFJeaYZR91i70wh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-21",
+          "runtime": null,
+          "tmdb_episode_id": 4698462,
+          "tmdb_still_path": "/9io8tEyp0h9HKohG8BM4daZNCyC.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OjxtEvPAUhNJ41Ke"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ioqqEMNrLTcs8cUE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-28",
+          "runtime": null,
+          "tmdb_episode_id": 4698463,
+          "tmdb_still_path": "/vHGp7gfc01CRdsbG0nwea3p9D68.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=demKJ6Wlcdqp5vWL"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3zRtfjSDxtsqne2b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-04",
+          "runtime": null,
+          "tmdb_episode_id": 4698464,
+          "tmdb_still_path": "/AhvvyVB6ypdkfnPW21YocK3Ee3A.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Un71ao0zrmHLL0CZ"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OwfXVUEHrbuKiOqe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-11",
+          "runtime": 22,
+          "tmdb_episode_id": 4698465,
+          "tmdb_still_path": "/82gdXcb2QFfsxaGSYj3Tm4b2S9t.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OAOnSHaD9CPf2ClE"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KFMHc8by13rGEys7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4698466,
+          "tmdb_still_path": "/1ryTSQNpXbZOMtA8pesd9ekmJGX.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1QiKED2HlEVNhcZp"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OISzj0VEkg10hl8Z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4698467,
+          "tmdb_still_path": "/53jab5gjzmkbcsgIjkZQTKPiLBE.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Kv5vjrQ0qk5AsKYp"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZoeOPklOydu8We9s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4698468,
+          "tmdb_still_path": "/4LkcI9SMsShBYy4crKatB8ECSEg.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uujAxZoRCl14RY1x"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R3QFgkwcrC7tzDwr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4698469,
+          "tmdb_still_path": "/1ZRKfFHNWwmtHZ1KPConEwyPw6r.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=r2ZadhtoCLRu7Ji9"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vT0IXUzsG7dda2p9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4698472,
+          "tmdb_still_path": "/yaZMp4HKtlgS5ouVJ7gKIUeoGV6.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ftrvxmWXEtSQ7cxn"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3kzKuUWCUIgWpnD4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4698475,
+          "tmdb_still_path": "/hOtUT29knFaS6iEpT8KDv2Olj4Q.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lpTyM02yHazN1diq"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=r3hYpaJ6tiOWMVzf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4698476,
+          "tmdb_still_path": "/9ABaloFO9RAluVUDjessfvz3rn8.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=cyb8nhrKrxncAR5M"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MjcisY7uKR8iCMHB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4698478,
+          "tmdb_still_path": "/mG5OY9XGLYcKNLnRZJtfOjULevL.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Het9mLgbs292qBlk"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wXWFINH9czxh69tA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-03",
+          "runtime": 24,
+          "tmdb_episode_id": 4698479,
+          "tmdb_still_path": "/sQgqad29S1LHymYjTTewVut6W4C.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Eo6sYdR82sQBN9db"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1iBfwa3Abv2GF2hV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-10",
+          "runtime": 24,
+          "tmdb_episode_id": 4698482,
+          "tmdb_still_path": "/7JgPXqBH13LZJOWcbOw3lxPzGZp.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YMuzWt2HpNN0g23N"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tvpRsdHEgMOJ9zk3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4698483,
+          "tmdb_still_path": "/rkJqo3ouvFzL3HJ9q55K12p50FQ.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vcjbTxNZE6vGzEuN"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dwJ1FuqEvcrWai9S"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-24",
+          "runtime": 24,
+          "tmdb_episode_id": 4698484,
+          "tmdb_still_path": "/jViLlcN9z8WW3iiqfrxiKg1SkoL.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MeHYJcJckHlhL1jG"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Ap4sgdMpPQa5do36"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4698486,
+          "tmdb_still_path": "/tIBCIaAvShS6MlW6kqsYohklyQO.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xYNZ72n5iX1tNNCR"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Kgj10igoZLSf6V4V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4698487,
+          "tmdb_still_path": "/krj5RPWibgMXf7BNfIS4BwnVZnr.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CoZkxHOjZD2oqu5F"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gXvGDIiw3SGBtJab"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4698488,
+          "tmdb_still_path": "/dVKkHqC6CajIJoALABVIceWKqgK.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=oyvaCP0pODqxQDIR"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hFJSRVeuJl8kMRBS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-23",
+          "runtime": null,
+          "tmdb_episode_id": 4698490,
+          "tmdb_still_path": "/iQeSJvTSXIqMBlGAdsqLEY3Jzgl.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VFmnkQU0XAG9f4Yx"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QMeGXgiTTIVeRetG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-30",
+          "runtime": 24,
+          "tmdb_episode_id": 4698491,
+          "tmdb_still_path": "/dTy5Vu0yTxVpTihOsO1eMAnlHSa.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Ragna Crimson ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Ragna Crimson حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء شونين، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و24 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/ragna-crimson",
+  "story": "يدور أنمي Ragna Crimson ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Ragna Crimson حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء شونين، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و24 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chiaki Kobayashi، Ayumu Murase، Inori Minase، Mamiko Noto، Hiroki Touchi، Reina Ueda",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "p93OTcLPn84",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ragna Crimson",
+    "mainDescription": "يدور أنمي Ragna Crimson ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Ragna Crimson حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء شونين، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و24 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Ragna Crimson أنمي 2023 | يدور أنمي Ragna Crimson ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ragna Crimson من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/195459"
+    }
+  },
+  "tmdb_id": 195459,
+  "tmdb_url": "https://www.themoviedb.org/tv/195459",
+  "original_title": "ラグナクリムゾン"
+}

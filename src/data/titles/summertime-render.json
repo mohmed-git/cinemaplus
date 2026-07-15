@@ -1,0 +1,677 @@
+{
+  "slug": "summertime-render",
+  "clean_title": "Summertime Render",
+  "raw_name": "انمي Summertime Render",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/summertime-render.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DcQt23uFPlVPeXSo"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-r2osfdgugie3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-15",
+          "runtime": 25,
+          "tmdb_episode_id": 2698330,
+          "tmdb_still_path": "/7CtQvBS1f7e6pZcML2Sa6qVOyCB.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-syz45nuh7ja0.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-cbx370xif58m.html"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=buMbkEwqBXnvFAZK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-22",
+          "runtime": 23,
+          "tmdb_episode_id": 3399671,
+          "tmdb_still_path": "/vyn3snxDiBCAt3NND7wMPNCERya.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qu83ttojtumx.html"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/hzwgiCxa#VpNTb4iCTFjLz4v39OU9HMbkwGB5Khz_C-UxeW3TVqA"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-fi3z3e8zg86k.html"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-yvazqvxxipv7.html"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Dc0MHq9MQ1QgFkIi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-29",
+          "runtime": 23,
+          "tmdb_episode_id": 3399672,
+          "tmdb_still_path": "/aXECtzRw7zt4o1B7OQq4F6nWtyU.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qqdx6o5t7zuf.html"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/5jw3QACJ#wawft376WjjQG25GLdqxdySwVUeYNVjXUTlzHKtsqEU"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-rwpporfo06y6.html"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=htth2V238ZHWg0X0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-06",
+          "runtime": 23,
+          "tmdb_episode_id": 3399673,
+          "tmdb_still_path": "/ez3HnvCXgqxcx1xe1CO1VogGlJM.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ai74gfawbh22.html"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/6hFE0LiK#2Hs2EoNA1-dmcG4BUGyl2-cPxOjyug9XZVj2pl7HzgE"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-yxrq9kzkfae7.html"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hzzBxEd1XkmaMgqt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-13",
+          "runtime": 23,
+          "tmdb_episode_id": 3399674,
+          "tmdb_still_path": "/6sqKxUthp9cPHH3POJbaaOBbOJV.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-p5g4dxhfvqt9.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-iqznxwjbhthf.html"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R22BT7twXSTLQoKo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-20",
+          "runtime": 23,
+          "tmdb_episode_id": 3399675,
+          "tmdb_still_path": "/qIHdpsKuaFrz2bqxKz3hrcRFFOz.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-srb706q26fjq.html"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xPNS0CoB#bOadxOtjjVnhRK860cLG-VANH4adx3sYaUV5tIx_8_M"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-3xgfg2zbafmj.html"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dIeh0CvnHExCz23b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-27",
+          "runtime": 23,
+          "tmdb_episode_id": 3399676,
+          "tmdb_still_path": "/rAdIdJr3UvDvN5HNImrQiVrOVON.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-kzqun16j7h2x.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-o9f1vzwv40r8.html"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=z7UK8Wh2GZJ3NrV3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-03",
+          "runtime": 23,
+          "tmdb_episode_id": 3399677,
+          "tmdb_still_path": "/nrd9cgfzx558mhHcYbB3KEHnUuv.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-smo0vke65a1z.html"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/6c1k0bqb#cILZ9CEUZCtGKOuDCduRKzkRi3xQwQizHVNM-m_0DZU"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-gr3i6ev38r8n.html"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8dtOBVWiL5kcAU7n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-10",
+          "runtime": 23,
+          "tmdb_episode_id": 3399678,
+          "tmdb_still_path": "/7VXyaFg3eBZoHBLva19hfIg9AaN.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-bxjo2nxnn5b1.html"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/LMd2jRpY#E0DyhMNZwVErdUcuwl9V2WxdUdZU5aeHQw54tQ2KCZ0"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-bvkzigx13waj.html"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OTKFawqg4fnUxJmp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-17",
+          "runtime": 23,
+          "tmdb_episode_id": 3399679,
+          "tmdb_still_path": "/gnV6CZFm5HY9BX57fWqF8oNQZQf.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-8wr3wks2b77o.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-i5od325jn6i7.html"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-nb9ad7gylze0.html"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0z8Jn8nVBcvLm2BZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-24",
+          "runtime": 23,
+          "tmdb_episode_id": 3399680,
+          "tmdb_still_path": "/vQ1t2uOIQDzvNUmP8rzC3vwkfs8.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-w70xhyxy5b7m.html"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/5SUWkZRA#dps6yen884IIxsTXoolkqwfqf_K2qNBMiAvPeI-83rs"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-uwbzypinyziy.html"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7gnZn8SGYPPosh8R"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-01",
+          "runtime": 23,
+          "tmdb_episode_id": 3399681,
+          "tmdb_still_path": "/wbZRYlIiEjxBPN01TNB1bzd31ZF.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zmytn7ybphti.html"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UeNyzCCA#SpCXUGg84kcmDwxsS4S8QMm7oxhNG1bUQmytcmT20RY"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-jk988rztylx3.html"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=o7wpm5P4MEKcy7y1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-08",
+          "runtime": 23,
+          "tmdb_episode_id": 3399682,
+          "tmdb_still_path": "/tHILrZERamkHV9DW0jMxwTEuRQ.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=B5OB56rCVsicCGdA"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ZpJhESJB#Rz5rLxEzqfBcMtEV1ddy_wHSlXzWhfYMsy6WdB_z1l8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-15",
+          "runtime": 23,
+          "tmdb_episode_id": 3399683,
+          "tmdb_still_path": "/gBfmDiP2J6xcVXbynaMv1cAQILI.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=85i3AE5RKsici0P5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-22",
+          "runtime": 23,
+          "tmdb_episode_id": 3399684,
+          "tmdb_still_path": "/ovt972DZTdBudl8J00c9x3wIgwo.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=58RyaUtj8UBX7gaq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-29",
+          "runtime": 23,
+          "tmdb_episode_id": 3399686,
+          "tmdb_still_path": "/m6LoVAwK9AQsOA7Mhye6olVgNPU.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kxoX4LT5nGhyrs4p"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-9knivg01hitq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-05",
+          "runtime": 23,
+          "tmdb_episode_id": 3399687,
+          "tmdb_still_path": "/tJo1rWZ3jpWqVUBnb3ZPBVXgoej.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AgRk9cPGrLCRbFNI"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-z0q4b4i0l0l5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-12",
+          "runtime": 23,
+          "tmdb_episode_id": 3399688,
+          "tmdb_still_path": "/zuFFMYfJtJnPrTvBR6xdA4QtUg6.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xLkN9PwIeED7GyRt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-19",
+          "runtime": 23,
+          "tmdb_episode_id": 3399689,
+          "tmdb_still_path": "/oYlvDLYoiG0ZIzEDRlRuiLihY67.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ErWIa0Ww6OgqMXSB"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-tca1l7xwkwtx.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-26",
+          "runtime": 23,
+          "tmdb_episode_id": 3399690,
+          "tmdb_still_path": "/yj2ytWA9fhIA4QCzVmrn7cEgRna.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4DQ70NCHd0LCciRk"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-sxysz1jnsvjm.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-02",
+          "runtime": 23,
+          "tmdb_episode_id": 3399691,
+          "tmdb_still_path": "/n2gaUG665rQBUMdAxuwbQmhAxgv.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZbMed36iuIfCSg9Q"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rgva2a0npz77.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-09",
+          "runtime": 23,
+          "tmdb_episode_id": 3399692,
+          "tmdb_still_path": "/tVgw7sIhGPz4tpLBYLEd6QmminC.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ycmy3uoWgvyTzWKe"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/MLcDjB4A#yr5x1Ip-Yig_T1lfBwoi9fvCVAzXPKR7qmViuoHWtoc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3399693,
+          "tmdb_still_path": "/wYCEImkZ3Ed40TThZvSTy9v6vi9.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-6zs9sut4bfh4.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-n4xeutaryr5u.html"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=C7fsC5pdrNyE6Lam"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3399694,
+          "tmdb_still_path": "/zmeX60phHFAZnhHQJVjdkbotNhZ.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=D5AP5e7cERtj74ww"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/oa9Rja4T#Md_Jtgxc_X99VlFJWuHLpF74VpSX3fRpM-ThJuoW00I"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-30",
+          "runtime": 23,
+          "tmdb_episode_id": 3399695,
+          "tmdb_still_path": "/dte47isGfQJnjVyjZRMjwSdE6JX.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Summertime Render ضمن أجواء رسوم متحركة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. يدور أنمي Summertime Render حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، غموض، شونين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Summertime Render على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/summertime-render",
+  "story": "يدور أنمي Summertime Render ضمن أجواء رسوم متحركة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. يدور أنمي Summertime Render حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، غموض، شونين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Summertime Render على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Natsuki Hanae، Anna Nagase، Saho Shirasu، Yoko Hikasa، Jin Urayama، Kensho Ono",
+  "genre": "أنمي، رسوم متحركة، دراما، غموض",
+  "trailerId": null,
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Summertime Render",
+    "mainDescription": "يدور أنمي Summertime Render ضمن أجواء رسوم متحركة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. يدور أنمي Summertime Render حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خارق للطبيعة، غموض، شونين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Summertime Render على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Summertime Render أنمي 2022 | يدور أنمي Summertime Render ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Summertime Render من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/117933"
+    }
+  },
+  "tmdb_id": 117933,
+  "tmdb_url": "https://www.themoviedb.org/tv/117933",
+  "original_title": "サマータイムレンダ"
+}

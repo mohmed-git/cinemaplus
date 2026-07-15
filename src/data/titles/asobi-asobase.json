@@ -1,0 +1,244 @@
+{
+  "slug": "asobi-asobase",
+  "clean_title": "Asobi Asobase",
+  "raw_name": "انمي Asobi Asobase",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/asobi-asobase.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/307ely7ggm96"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1514153,
+          "tmdb_still_path": "/SNw18aimfDj9jJAGP8oG0PCvlp.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/695qxydz8ifx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1516903,
+          "tmdb_still_path": "/6xHfqKtBWjrW9J9SP46zKW7s17e.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/uw7xn24a0x08"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1516904,
+          "tmdb_still_path": "/yEieE1jM5vlve4Lbiw66GeqRB54.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mrz4m50lhwz5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1516905,
+          "tmdb_still_path": "/dps3iMcIvcL1U2AsEf8LLQ0SfF6.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/c8te6gcerxu3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1516906,
+          "tmdb_still_path": "/t3XLVnd1VwYY9SbVaIeahzfMd8k.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zcx46yidhm0n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1516907,
+          "tmdb_still_path": "/sfpcNZSzLcyuwhAMe0jRqKE54da.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/iksrw5gdmlhi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1516908,
+          "tmdb_still_path": "/aaQoSxFcTJsMSPrFwUYND59jIlg.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xpe07bgam717"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1516909,
+          "tmdb_still_path": "/g8RvHECPirVtwQio4NhK5AHUI2N.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/i5juy2g004mk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1516910,
+          "tmdb_still_path": "/ayrNlbGJ5fg08uOWXflXCyYYlgO.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/03r79no0sk85"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1516911,
+          "tmdb_still_path": "/9DWoHttr9U5Zza9KmVEsXgBdE5u.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tqt4nrctb6tv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1516912,
+          "tmdb_still_path": "/edBAeMgjaTiVsLwGt2MT1de8kHH.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/64dcwih66ihw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1516913,
+          "tmdb_still_path": "/apLYCkuMUUG3qMgO49pvZF2b4xb.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Asobi Asobase ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Asobi Asobase تتحرك الحكاية حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف مدرسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Asobi Asobase على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/asobi-asobase",
+  "story": "يدور أنمي Asobi Asobase ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Asobi Asobase تتحرك الحكاية حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف مدرسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Asobi Asobase على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Konomi Kohara، Rika Nagae، Hina Kino، Maki Izawa",
+  "genre": "أنمي، كوميديا، رسوم متحركة",
+  "trailerId": "fuK_XSYMBkw",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Asobi Asobase",
+    "mainDescription": "يدور أنمي Asobi Asobase ضمن أجواء كوميديا، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Asobi Asobase تتحرك الحكاية حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف مدرسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Asobi Asobase على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Asobi Asobase أنمي 2018 | يدور أنمي Asobi Asobase ضمن أجواء كوميديا | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Asobi Asobase من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/80539"
+    }
+  },
+  "tmdb_id": 80539,
+  "tmdb_url": "https://www.themoviedb.org/tv/80539",
+  "original_title": "あそびあそばせ"
+}

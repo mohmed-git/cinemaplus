@@ -1,0 +1,771 @@
+{
+  "slug": "date-a-live-iv",
+  "clean_title": "Date A Live IV",
+  "raw_name": "انمي Date A Live IV",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/date-a-live-iv.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3646913382987"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/ndlyzb2gqd0n8q4"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/tyqklgrziez5"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/l6xbqe4858h4"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-641dso4ohj9c.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3646928456267"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/RqB0XJTZ#5WvI5ejT987yKinNpvoRtqcyM93h9cWERbHCH1eV2q4"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-bi8ae7om18eh.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3646933633611"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 984486,
+          "tmdb_still_path": "/y7jFgDkgiuVp2VBECPnSqTJkbTb.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3662823230027"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/5z7dphdpnedr-xk"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/gp1y171xpqt9"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/62cc4ucaif00"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qwqqi78g949x.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3662834174539"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Yz5iiZII#wcjs4wRrht3yEx7brFarntAdRJ5qxhDWY7YKBiWeKus"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-0fsbho3f7few.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3662842301003"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 984487,
+          "tmdb_still_path": "/AmsQNyJdDiJmbplrVejFogtEqGy.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3680157370955"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/2d34pb2xd8qp760"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/6ypjmgleu3wf"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/a6cdttoco3rr"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-igxyr978s4px.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3680166218315"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/I9NTwaBD#5Gd-1qPb7r_iUzPoXMVz9jSsIHufDTO7RkCrrGh5Njw"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-qs76xjlbadi1.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3680171854411"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 984488,
+          "tmdb_still_path": "/hgpIPLl9TcGFDs2ISztwSw3O7p1.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3697238542923"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/3r46kbm-greneyz"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/qfvi7xetdliz"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.pm/e/63uxp8a1ugchjidlaoc4dl02ju2hjbb0"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-19pb4njwi9ms.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3697252633163"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xR0WlQxT#e-2YdmzUiy2W9RrDWRM1943m_DHQAwcdfrYuq-V7JfE"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-mza4z8wzot1i.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3697262266955"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 991781,
+          "tmdb_still_path": "/vjBmK2dhnbRYeEwaTHZ302LhFUL.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3714255489611"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/hg2rj2oovgok"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/sklladx7jhg6"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/mdvgn9hx6a2r"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-sexw9i0ohh74.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3714263222859"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BrgWWJaL#27L5WsNe7_-3DeymKZQa1LXhu0tHgAxDm4-p52ZrMQ8"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-us9l5bu8m52w.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3714269776459"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 991782,
+          "tmdb_still_path": "/zDWWIdSaEKe5XiGPruftbr0Sjmf.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3731123341899"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/vp3g5er4ej0h"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/0cbumy7tvqet"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/sxu9q66qnjxl"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-4cgpjeyny1zh.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3731136514635"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/uld0yZ5a#DisJ2mX5LUboAgTIUWI_1lVo2SMXobrv-GyVr2SNGeA"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-da8oq1zmug8v.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3731144116811"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 991783,
+          "tmdb_still_path": "/xRNj17DvTHyqqYcLCprKgdeF1PB.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/s6jxwavxldhn"
+            },
+            {
+              "id": 2,
+              "label": "streamsb",
+              "url": "https://sbfull.com/e/ad8h6gig5ufb.html"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/d69e0acdup7y"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/6bldxugrkrqg"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-fbm7zv7m4q9j.html"
+            },
+            {
+              "id": 6,
+              "label": "streamsb - SD",
+              "url": "https://sbfull.com/e/flu5xi8u7zc6.html"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BSdEFBpR#9-2lhY6NZjD3ttRzE_UHyqBUpxYUZVihBlBCyhSSKgg"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-og1qvxrrf66v.html"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/erk45cioyjoj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 991784,
+          "tmdb_still_path": "/R0JKjwArI5jVScMAj1jd8V0QgI.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/9hbkct8pvmll"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/2ju5qagpfjne"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/a3agyzxuzvzo/"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-53ngbbk5bt86.html"
+            },
+            {
+              "id": 5,
+              "label": "streamsb - SD",
+              "url": "https://sbfull.com/klk0i7zrliup.html"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UasR0bgD#qwepuMDAgjrh6QsyOHuJWPQ2DCVN0SlQYQGy2pFtm6g"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-1y7yn2hmtpbs.html"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - FHD",
+              "url": "https://sbfull.com/e/nl8z9sqrv3fv.html"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hanoukcq1lyf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 991785,
+          "tmdb_still_path": "/1XnLjBaHZliRrt4jiZ5B1lE4Y2b.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3792773122635"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/i1duvdf0ia60"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/53ukjmeaj779"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/dideugznniyi/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-h47zsxd3jwdn.html"
+            },
+            {
+              "id": 6,
+              "label": "streamsb - SD",
+              "url": "https://sbfull.com/e/q5jxgdvi3z0m.html"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/YW1nQJSQ#H2BzeGXPDMnewMibKmagOPJKMoRY5rnUY8KDsPW_bmo"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-i3vt6y75ryf5.html"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/6tyv0xrcgnx7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 991786,
+          "tmdb_still_path": "/aH7MIWIRNu7F02OBw5n9kH9Ne4h.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/xniwsal3f1as"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.pm/e/vbu7zavatq1top5rhp0pogebo8qfyg4k"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/dfae3cj7n2dv"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-iljz95a61851.html"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/XhJ3kRID#HFaWXOvNhWMmDgrIxMpZUkuyjbUAdwUdHWE7_rH-Mlc"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-nbl0kvylg3nw.html"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/8m3tu1tbblgt"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.pm/e/vs5xvc5ca83lmtrx2o3wkires8pftu8i"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/f6mqopfpmy6u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 991787,
+          "tmdb_still_path": "/xz27qboCSaNTll1ZzYCbw3XiEgD.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3829594917451"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/zshc83lgvv5f"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/50gk3gtfxhbx"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbfull.com/e/hf3b9uypg5ry.html"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-5poopb85c0jx.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3829602323019"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/hblhGA7b#a6tqkCt6rMFvBs-ug3E162MaShCCfbKKce5_q0qe7Bk"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-9iyh3f4v2ry6.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3829604878923"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 991788,
+          "tmdb_still_path": "/iVSXwd3RcBleFOnpF0pmKddCJul.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/vret1dxnsyuf"
+            },
+            {
+              "id": 2,
+              "label": "streamsb",
+              "url": "https://sbfull.com/e/tf8xqilyyh6b.html"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/ma7fplif4j3r"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/o6gkecbma8he/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-wxs5mb7d1o57.html"
+            },
+            {
+              "id": 6,
+              "label": "streamsb - SD",
+              "url": "https://sbfull.com/e/6si0l6krvmj5.html"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/sGMlSAYC#bc7AHzzeQm8RrBSL3lOVDcHZZ3ZEF_SMSipCe4zInFY"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-lubtwaucclg9.html"
+            },
+            {
+              "id": 9,
+              "label": "streamsb - FHD",
+              "url": "https://sbfull.com/e/3irldq4co9n7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 991789,
+          "tmdb_still_path": "/5JKw32c7Llb7Gk06RpyeiUMxUV2.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Date A Live IV ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يدور أنمي Date A Live IV حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف ميكا، حريم، خيال علمي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Date A Live IV على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/date-a-live-iv",
+  "story": "يدور أنمي Date A Live IV ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يدور أنمي Date A Live IV حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف ميكا، حريم، خيال علمي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Date A Live IV على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Nobunaga Shimazaki، Marina Inoue، Misuzu Togashi، Ayana Taketatsu، Iori Nomizu، Asami Sanada",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة",
+  "trailerId": "iz_sAWpBNrI",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Date A Live IV",
+    "mainDescription": "يدور أنمي Date A Live IV ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يدور أنمي Date A Live IV حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف ميكا، حريم، خيال علمي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Date A Live IV على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Date A Live IV أنمي 2013 | يدور أنمي Date A Live IV ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Date A Live IV من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/46004"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "date-a-live",
+      "title": "Date A Live",
+      "url": "/anime/date-a-live",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/date-a-live.jpg"
+    },
+    {
+      "slug": "date-a-live-ii",
+      "title": "Date A Live II",
+      "url": "/anime/date-a-live-ii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 10,
+      "poster": "/images/anime/date-a-live-ii.jpg"
+    },
+    {
+      "slug": "date-a-live-iii",
+      "title": "Date A Live III",
+      "url": "/anime/date-a-live-iii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/date-a-live-iii.png"
+    },
+    {
+      "slug": "date-a-live-iv",
+      "title": "Date A Live IV",
+      "url": "/anime/date-a-live-iv",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/date-a-live-iv.jpg"
+    },
+    {
+      "slug": "date-a-live-v",
+      "title": "Date A Live V",
+      "url": "/anime/date-a-live-v",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/date-a-live-v.jpg"
+    }
+  ],
+  "tmdb_id": 46004,
+  "tmdb_url": "https://www.themoviedb.org/tv/46004",
+  "original_title": "デート・ア・ライブ"
+}

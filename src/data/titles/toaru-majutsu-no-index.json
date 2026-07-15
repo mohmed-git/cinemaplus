@@ -1,0 +1,436 @@
+{
+  "slug": "toaru-majutsu-no-index",
+  "clean_title": "Toaru Majutsu no Index",
+  "raw_name": "انمي Toaru Majutsu no Index",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/toaru-majutsu-no-index.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj18yn7-p0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-05",
+          "runtime": 25,
+          "tmdb_episode_id": 749462,
+          "tmdb_still_path": "/o0wBri3WibVRP7g19RMQIK1rzP4.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj18y-mqmz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-12",
+          "runtime": 25,
+          "tmdb_episode_id": 749463,
+          "tmdb_still_path": "/nx0q8KYWbnzwuUd3tWdaZghX1K4.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-25r-ymrl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-19",
+          "runtime": 25,
+          "tmdb_episode_id": 749464,
+          "tmdb_still_path": "/lUKK39Bu0jKowauz6e5jGtTvUyL.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh36qy3e0jw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-26",
+          "runtime": 25,
+          "tmdb_episode_id": 749465,
+          "tmdb_still_path": "/d1tAAUxID3OCNZxavHcKOWntm6e.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/wry0-unl60zjg54"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-02",
+          "runtime": 25,
+          "tmdb_episode_id": 749466,
+          "tmdb_still_path": "/eUtafduLCMt6J7GHmZtycCFcLO0.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn7kqeq-6e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-09",
+          "runtime": 25,
+          "tmdb_episode_id": 749467,
+          "tmdb_still_path": "/1aTIEwIAYVCq4YY5xP22IfLR8Qb.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b8kj-ykg32"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-16",
+          "runtime": 25,
+          "tmdb_episode_id": 749468,
+          "tmdb_still_path": "/6u6FMNTrfShaiUA3VaLFoPQZlJb.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5j71-7-de"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-23",
+          "runtime": 25,
+          "tmdb_episode_id": 749469,
+          "tmdb_still_path": "/nMgN2UXcxIx5HcpEwmElaYfXp3U.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8teg-rm448y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-30",
+          "runtime": 25,
+          "tmdb_episode_id": 749470,
+          "tmdb_still_path": "/jQS56lYn5YfbD7saGOVeCwqZ1H9.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh20yl016z6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-07",
+          "runtime": 25,
+          "tmdb_episode_id": 749471,
+          "tmdb_still_path": "/dviE4eoh2VZ9T4QMXSDSeZQCXfb.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntlzmk2k2kx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-14",
+          "runtime": 25,
+          "tmdb_episode_id": 749472,
+          "tmdb_still_path": "/sMuHIEEyuaiVl9Pbb1RCsF4mSy.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/7m3n5cge8jpq55x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-21",
+          "runtime": 25,
+          "tmdb_episode_id": 749473,
+          "tmdb_still_path": "/6NXdRxn5EdDJRoLSzZXKc1xy4Vh.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt0n6d716j2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-28",
+          "runtime": 25,
+          "tmdb_episode_id": 749474,
+          "tmdb_still_path": "/yKl4HKalJ8UOMXTrfXiGFrSk2Dv.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/2r7pyu2w78z76nd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-01-08",
+          "runtime": 25,
+          "tmdb_episode_id": 749475,
+          "tmdb_still_path": "/ysElcJRLrO2Mi2Qmz6oQMeed6ra.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0ad4x08e6zy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-01-15",
+          "runtime": 25,
+          "tmdb_episode_id": 749476,
+          "tmdb_still_path": "/wiHulFIusZS5EilZLyWjkkU8Ynl.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/l851phn7kq425xx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-01-22",
+          "runtime": 25,
+          "tmdb_episode_id": 749477,
+          "tmdb_still_path": "/czgbqOd83Z1KOIaZseAaPyiSMvQ.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/mg571h5j7rpr3nx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-01-29",
+          "runtime": 25,
+          "tmdb_episode_id": 749478,
+          "tmdb_still_path": "/ckmPRnfPkZnl343bG0mJjlm68On.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5e-dn7qe4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-02-05",
+          "runtime": 25,
+          "tmdb_episode_id": 749479,
+          "tmdb_still_path": "/ppCEElREi4qXcKMf0LEtD8Vvm1d.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5e-dxrdnx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-02-12",
+          "runtime": 25,
+          "tmdb_episode_id": 749480,
+          "tmdb_still_path": "/vugEQs6Dse3zikBRNEsrpNR4dMu.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/q35q-se1x2dz21z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-02-19",
+          "runtime": 25,
+          "tmdb_episode_id": 749481,
+          "tmdb_still_path": "/e3Nm3PbVqB06PXuepk6lfCUNgx0.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/emr53c-25wwnjj4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-02-26",
+          "runtime": 25,
+          "tmdb_episode_id": 749482,
+          "tmdb_still_path": "/kkSkzJwXblZkTLTY9zHVGccQ31F.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/zkl6yujxe52l1pm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-03-05",
+          "runtime": 25,
+          "tmdb_episode_id": 749483,
+          "tmdb_still_path": "/bNOMVpoGWerMMoQgOBvfAg3ILuY.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/pwj6-cmp230n8gg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-03-12",
+          "runtime": 25,
+          "tmdb_episode_id": 749484,
+          "tmdb_still_path": "/1ZpoytWjAJRItTw4r9EbKFAUf4v.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh20ye-3gyx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-03-19",
+          "runtime": 25,
+          "tmdb_episode_id": 749485,
+          "tmdb_still_path": "/t2jjrKq8P4HBPxBjoY1l8Cs2ckh.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Toaru Majutsu no Index ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2008، وتوضح بيانات TMDB أنه يضم 3 موسم و74 حلقة. يعتمد Toaru Majutsu no Index على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، خيال علمي، قوة خارقة، سحر العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و24 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/toaru-majutsu-no-index",
+  "story": "يدور أنمي Toaru Majutsu no Index ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2008، وتوضح بيانات TMDB أنه يضم 3 موسم و74 حلقة. يعتمد Toaru Majutsu no Index على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، خيال علمي، قوة خارقة، سحر العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و24 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2008",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Atsushi Abe، Yuka Iguchi، Rina Sato، Nobuhiko Okamoto، Satoshi Hino",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، كوميديا، غموض",
+  "trailerId": "9tYlS81AVYM",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Toaru Majutsu no Index",
+    "mainDescription": "يدور أنمي Toaru Majutsu no Index ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2008، وتوضح بيانات TMDB أنه يضم 3 موسم و74 حلقة. يعتمد Toaru Majutsu no Index على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، خيال علمي، قوة خارقة، سحر العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و24 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Toaru Majutsu no Index أنمي 2008 | يدور أنمي Toaru Majutsu no Index ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Toaru Majutsu no Index من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/30980"
+    }
+  },
+  "tmdb_id": 30980,
+  "tmdb_url": "https://www.themoviedb.org/tv/30980",
+  "original_title": "とある魔術の禁書目録"
+}

@@ -1,0 +1,716 @@
+{
+  "slug": "kingdom",
+  "clean_title": "Kingdom",
+  "raw_name": "انمي Kingdom",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kingdom.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 38,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 38,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rWyiaeXXHCdILa3k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-04",
+          "runtime": 50,
+          "tmdb_episode_id": 1630010,
+          "tmdb_still_path": "/pockLHjj00wSxzcZR4oGgXSfWO1.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0K4llM7fJE66b66k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-11",
+          "runtime": 25,
+          "tmdb_episode_id": 1630011,
+          "tmdb_still_path": "/hN9n59vsEWVCu16EX0DSORUMhac.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eEpCFDUzhmn1jilH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-18",
+          "runtime": 25,
+          "tmdb_episode_id": 1630012,
+          "tmdb_still_path": "/xtQsxhJPiE2cLwlk76VUpfXsORt.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=t2pjmWlaEfpPJw1B"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-06-25",
+          "runtime": 25,
+          "tmdb_episode_id": 1630013,
+          "tmdb_still_path": "/vr3BFlbgdB1zUqM9bwT3UFTwFD7.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=suObYDrWjIB4Szhc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-02",
+          "runtime": 25,
+          "tmdb_episode_id": 1630014,
+          "tmdb_still_path": "/9YEgiJZisZ0jx44GWab2pUEb606.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rOlp5vDYXwhZVvhA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-09",
+          "runtime": 25,
+          "tmdb_episode_id": 1630015,
+          "tmdb_still_path": "/13hF0KrNYJlM4UAAWsfuxO9MGdx.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JdqEfL3WcGcmrOrr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-16",
+          "runtime": 25,
+          "tmdb_episode_id": 1630016,
+          "tmdb_still_path": "/6etlFDpGuD62GGeL2yu4ZBrxToe.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vUevvPkFEZPgEiXg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-23",
+          "runtime": 25,
+          "tmdb_episode_id": 1630017,
+          "tmdb_still_path": "/gjXjSmnYDduabO3lzesuUZT4fcx.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iLaiBMprFwz5ucNg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-30",
+          "runtime": 25,
+          "tmdb_episode_id": 1630019,
+          "tmdb_still_path": "/7Dfg2WHhGfWPuhc0nVFem1gLlq0.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IbnB3RdyH4OyYWQA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-06",
+          "runtime": 25,
+          "tmdb_episode_id": 1630020,
+          "tmdb_still_path": "/1TXMqA271UymrT41oAplbtombCH.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MSib27wNbZ3IWs3L"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-13",
+          "runtime": 25,
+          "tmdb_episode_id": 1630021,
+          "tmdb_still_path": "/9O0xeBym43IxRVepqa7IL3tSsr8.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XdTcjtyOFWZoqINf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-20",
+          "runtime": 25,
+          "tmdb_episode_id": 1630022,
+          "tmdb_still_path": "/m0jW0K9c298YgjPdOYYdrmwhIYu.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tN0vOtJciB8D5PAK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-27",
+          "runtime": 25,
+          "tmdb_episode_id": 1630023,
+          "tmdb_still_path": "/du6c6O3VsZb4Qzgmiw4CR8y5in1.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=992cNJvhbeNgGcZg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-03",
+          "runtime": 25,
+          "tmdb_episode_id": 1630024,
+          "tmdb_still_path": "/xyNtEsvd8wDMmAuvgbgK6nTXGTG.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Zk1ls7c3aO96mdzr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-10",
+          "runtime": 25,
+          "tmdb_episode_id": 1630025,
+          "tmdb_still_path": "/4xDkQrNghNOGdavzLfl1NxznCKT.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AREery816aXD3I6Z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-17",
+          "runtime": 25,
+          "tmdb_episode_id": 1630026,
+          "tmdb_still_path": "/cDvE4MvasdjuAPJuaOOMbz3nk36.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yNyrg42ntRTGaGFJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-24",
+          "runtime": 25,
+          "tmdb_episode_id": 1630028,
+          "tmdb_still_path": "/7cLQsbtoZMyFrO7Py7WjQDvoGI0.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mWc0lZSDzif3f4XQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-01",
+          "runtime": 25,
+          "tmdb_episode_id": 1630030,
+          "tmdb_still_path": "/rFAyqBKmShGJW0rdCIsjNehPj5r.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Q3ERZ6eD6dpcSWe9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-08",
+          "runtime": 25,
+          "tmdb_episode_id": 1630032,
+          "tmdb_still_path": "/a6woEbpz7U2bE5ytcD9TjylAHRh.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IBPjee8j2AnjDnC5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-15",
+          "runtime": 25,
+          "tmdb_episode_id": 1630033,
+          "tmdb_still_path": "/sX9jsR7w9BWfcYmEszOTsOXLCKs.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nYbgY4vfKAtVgDmS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-22",
+          "runtime": 25,
+          "tmdb_episode_id": 1630035,
+          "tmdb_still_path": "/ddTUfleyP9dITUebfpYMhINgzho.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=j77o0aFlR3vwsVUE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-10-29",
+          "runtime": 25,
+          "tmdb_episode_id": 1630037,
+          "tmdb_still_path": "/q19pFbhSYmYXZcQzJNK4yLY6YtB.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nw6o5iq1N3taEsPb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1630040,
+          "tmdb_still_path": "/qD82oa1W8gT4CD6hBSHZ4nzfZ3N.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sGvVxe0MnBjjPXwv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-12",
+          "runtime": 25,
+          "tmdb_episode_id": 1630042,
+          "tmdb_still_path": "/q8OWgXlXlut4VPbYGjOu4fe8ooH.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TvJPmRtb8t55YOKZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-19",
+          "runtime": 25,
+          "tmdb_episode_id": 1630043,
+          "tmdb_still_path": "/pf5c1nxCGpqnnpM6U44TstyfnXZ.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RCdDOeEMFfyYFK99"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-11-26",
+          "runtime": 25,
+          "tmdb_episode_id": 1630045,
+          "tmdb_still_path": "/8XNr7DJdx3CgIDZLt7bkS1LPHWb.jpg"
+        },
+        {
+          "episode": 27,
+          "title": "الحلقة 27",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SSU3rIgyizVOBvmA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-03",
+          "runtime": 25,
+          "tmdb_episode_id": 1630046,
+          "tmdb_still_path": "/feXqIRISJEYzcxBrbZwdXecOV9l.jpg"
+        },
+        {
+          "episode": 28,
+          "title": "الحلقة 28",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NHOIPXWO9NJrXLw4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-10",
+          "runtime": 25,
+          "tmdb_episode_id": 1630048,
+          "tmdb_still_path": "/fV3kv1GRzOb3YvCnKET8xaktHgW.jpg"
+        },
+        {
+          "episode": 29,
+          "title": "الحلقة 29",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=B0CocYfYyUJrwTGi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-17",
+          "runtime": 25,
+          "tmdb_episode_id": 1630050,
+          "tmdb_still_path": "/bAalxMhUlv0rSW4wswuXaJvSnfa.jpg"
+        },
+        {
+          "episode": 30,
+          "title": "الحلقة 30",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=acD9nusJNi2E2sBm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-12-24",
+          "runtime": 25,
+          "tmdb_episode_id": 1630052,
+          "tmdb_still_path": "/cINI0sCgQ4lU7EaJbzHc96Dmg82.jpg"
+        },
+        {
+          "episode": 31,
+          "title": "الحلقة 31",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qWtdl0mkCs3V3CeS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-07",
+          "runtime": 25,
+          "tmdb_episode_id": 1630053,
+          "tmdb_still_path": "/84Py3LUpiGVead9wGtCVK0QKu1E.jpg"
+        },
+        {
+          "episode": 32,
+          "title": "الحلقة 32",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mFzDyQ2ClhOSgRVT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-14",
+          "runtime": 25,
+          "tmdb_episode_id": 1630054,
+          "tmdb_still_path": "/wBMDCmw26MWdvCHU9NAr8WawOJs.jpg"
+        },
+        {
+          "episode": 33,
+          "title": "الحلقة 33",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QzsTLgXhWLm2cbNN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-21",
+          "runtime": 25,
+          "tmdb_episode_id": 1630055,
+          "tmdb_still_path": "/xx5mMMf9mPW8nRWqt4IjDoo56iG.jpg"
+        },
+        {
+          "episode": 34,
+          "title": "الحلقة 34",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6tWIpCLvomx64LJt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-01-28",
+          "runtime": 25,
+          "tmdb_episode_id": 1630056,
+          "tmdb_still_path": "/2Qf3zsCXghCsxpdWbacDanupUO6.jpg"
+        },
+        {
+          "episode": 35,
+          "title": "الحلقة 35",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dTfQhPLzBKHjAPap"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-04",
+          "runtime": 25,
+          "tmdb_episode_id": 1630057,
+          "tmdb_still_path": "/cfKp4VyOgQ5Giz9UmMzz2jQ5TTj.jpg"
+        },
+        {
+          "episode": 36,
+          "title": "الحلقة 36",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=h3EIt4u3dhe5zzfC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-11",
+          "runtime": 25,
+          "tmdb_episode_id": 1630058,
+          "tmdb_still_path": "/srsy02RNiYsprkbRhUdelj2EcQZ.jpg"
+        },
+        {
+          "episode": 37,
+          "title": "الحلقة 37",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=04w7Ph9wwSPQ6d4u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-18",
+          "runtime": 25,
+          "tmdb_episode_id": 1630059,
+          "tmdb_still_path": "/9vgAojMZy3XSLRNwNPUQ6gb6yiN.jpg"
+        },
+        {
+          "episode": 38,
+          "title": "الحلقة 38",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ba0Cmz1PpKtMsxm4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 1630060,
+          "tmdb_still_path": "/iNjDLzag5ILlVr6859xA4lUYL4l.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "مسلسل أنيمي تاريخي رائع تدور احداثه في حقبة الممالك المتحاربة في الصين القديمة. تبرز عدد من الشخصيات التي سيكون لها تأثير كبير على مجرى التاريخ، وأهمها شاب يافع يدعى شين الذي يكبر ليصبح رئيساً عسكرياً عظيماً.",
+  "url": "/anime/kingdom",
+  "story": "مسلسل أنيمي تاريخي رائع تدور احداثه في حقبة الممالك المتحاربة في الصين القديمة. تبرز عدد من الشخصيات التي سيكون لها تأثير كبير على مجرى التاريخ، وأهمها شاب يافع يدعى شين الذي يكبر ليصبح رئيساً عسكرياً عظيماً.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Masakazu Morita، Jun Fukuyama، Rie Kugimiya، Yoko Hikasa، Yoshimasa Hosoya، Hirofumi Nojima",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، دراما",
+  "trailerId": "Rx7K2K4BzUQ",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kingdom",
+    "mainDescription": "مسلسل أنيمي تاريخي رائع تدور احداثه في حقبة الممالك المتحاربة في الصين القديمة. تبرز عدد من الشخصيات التي سيكون لها تأثير كبير على مجرى التاريخ، وأهمها شاب يافع يدعى شين الذي يكبر ليصبح رئيساً عسكرياً عظيماً.",
+    "metaDescription": "Kingdom أنمي 2012 | مسلسل أنيمي تاريخي رائع تدور احداثه في حقبة الممالك المتحاربة في الصين القديمة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kingdom من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/46437"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "kingdom",
+      "title": "Kingdom",
+      "url": "/anime/kingdom",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 38,
+      "poster": "/images/anime/kingdom.jpg"
+    },
+    {
+      "slug": "kingdom-2nd-season",
+      "title": "Kingdom 2nd Season",
+      "url": "/anime/kingdom-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 39,
+      "poster": "/images/anime/kingdom-2nd-season.jpg"
+    },
+    {
+      "slug": "kingdom-3rd-season",
+      "title": "Kingdom 3rd Season",
+      "url": "/anime/kingdom-3rd-season",
+      "season": 3,
+      "seasonLabel": "الموسم 3",
+      "episodesCount": 26,
+      "poster": "/images/anime/kingdom-3rd-season.png"
+    },
+    {
+      "slug": "kingdom-4th-season",
+      "title": "Kingdom 4th Season",
+      "url": "/anime/kingdom-4th-season",
+      "season": 4,
+      "seasonLabel": "الموسم 4",
+      "episodesCount": 26,
+      "poster": "/images/anime/kingdom-4th-season.jpg"
+    },
+    {
+      "slug": "kingdom-5th-season",
+      "title": "Kingdom 5th Season",
+      "url": "/anime/kingdom-5th-season",
+      "season": 5,
+      "seasonLabel": "الموسم 5",
+      "episodesCount": 13,
+      "poster": "/images/anime/kingdom-5th-season.jpg"
+    },
+    {
+      "slug": "kingdom-6th-season",
+      "title": "Kingdom 6th Season",
+      "url": "/anime/kingdom-6th-season",
+      "season": 6,
+      "seasonLabel": "الموسم 6",
+      "episodesCount": 13,
+      "poster": "/images/anime/kingdom-6th-season.jpg"
+    }
+  ],
+  "tmdb_id": 46437,
+  "tmdb_url": "https://www.themoviedb.org/tv/46437",
+  "original_title": "キングダム"
+}

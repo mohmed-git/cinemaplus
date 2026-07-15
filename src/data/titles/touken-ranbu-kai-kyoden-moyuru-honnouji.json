@@ -1,0 +1,340 @@
+{
+  "slug": "touken-ranbu-kai-kyoden-moyuru-honnouji",
+  "clean_title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+  "raw_name": "انمي Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7317730101835"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Ie6A9gAmJJVmZFIZ"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7317736262219"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7317738031691"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wDemP15dCqXLd5yW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5098184,
+          "tmdb_still_path": "/sC8920dm9anInDzzCDPsP05QCVP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7317757561419"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QQjivWbrc9eUGiWS"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7317766081099"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7317768571467"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7nJCdqao0wy3Lvsq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 5128208,
+          "tmdb_still_path": "/mP8yV4zOrGLoeEz4pVQwPceO4py.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7317779778123"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=i4Q0hGWURFP2GiFP"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7317784431179"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7317786724939"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=y5UaqpMGQdLEuv3m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 5128209,
+          "tmdb_still_path": "/f4XeVIEHd7bPX9UmpvdUNRwHVI7.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7335694699083"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qrAR1Eq8KKzRpYyU"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7335700335179"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7335704726091"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=r8pDgLjcENo0Xl0V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 5128210,
+          "tmdb_still_path": "/pksthVuulVkmiDBrB553ideUX0S.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7359281105483"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sIAKwT7DAbtBV1mi"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7359285299787"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7359288511051"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=s6sICguIICpoY1yK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 5128211,
+          "tmdb_still_path": "/d300ROrYAHcg7KC02ZLCg3eQovT.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7379437226571"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4RFEhKm5pg57APjn"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7379447777867"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7379450399307"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LAums2RZKcF4kJ8l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5128212,
+          "tmdb_still_path": "/qNKmlgQuRsiQsKGf6MRAR869NHi.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7403304913483"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GMLKpAmrvCkFIwu3"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7403308649035"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7403313039947"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Lb39F6hX6H5P52OE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5128213,
+          "tmdb_still_path": "/9YZcFXwwTXZOuwYhNkOwCmHj1HN.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7426080442955"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=A5kQBWx03EShXFLs"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7426086668875"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7426093681227"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oDd0gausUbza2E6m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5128214,
+          "tmdb_still_path": "/e3NrxBRZBa3u8ef0WgpFAQ0EE8W.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Touken Ranbu Kai: Kyoden Moyuru Honnouji ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و8 حلقة. يدور أنمي Touken Ranbu Kai: Kyoden Moyuru Honnouji حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات تاريخي، ساموراي، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و8 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/touken-ranbu-kai-kyoden-moyuru-honnouji",
+  "story": "يدور أنمي Touken Ranbu Kai: Kyoden Moyuru Honnouji ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و8 حلقة. يدور أنمي Touken Ranbu Kai: Kyoden Moyuru Honnouji حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات تاريخي، ساموراي، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و8 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kohsuke Toriumi، Tomoaki Maeno، Tarusuke Shingaki، Yuuki Tai، Daisuke Sakaguchi، Seiichiro Yamashita",
+  "genre": "أنمي، رسوم متحركة",
+  "trailerId": null,
+  "rating": "6.0",
+  "imdb_rating": "6.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+    "mainDescription": "يدور أنمي Touken Ranbu Kai: Kyoden Moyuru Honnouji ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و8 حلقة. يدور أنمي Touken Ranbu Kai: Kyoden Moyuru Honnouji حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات تاريخي، ساموراي، أكشن، خيال العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و8 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Touken Ranbu Kai: Kyoden Moyuru Honnouji أنمي 2024 | يدور أنمي Touken Ranbu Kai: Kyoden Moyuru Honnouji ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Touken Ranbu Kai: Kyoden Moyuru Honnouji من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/244435"
+    }
+  },
+  "tmdb_id": 244435,
+  "tmdb_url": "https://www.themoviedb.org/tv/244435",
+  "original_title": "刀剣乱舞 廻 -虚伝 燃ゆる本能寺-"
+}

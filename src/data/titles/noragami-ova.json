@@ -1,0 +1,634 @@
+{
+  "slug": "noragami-ova",
+  "clean_title": "Noragami OVA",
+  "raw_name": "انمي Noragami OVA",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/noragami-ova.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1848980933195"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1_Ngd1FVtAzJ_Y7qg4-wlvO8aAKDxAqhZ/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-51b4k61w0ppu.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/xplm-i5jnrxxq7l"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/dNRQCJKD#KA51_Y31rI355xqHdVQZqFslSvcQkXcejFfJa-IMfAk"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1FMW-SO8WrQj40wo3o27VovxwMEudLVBH/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-533n159x9mlb.html"
+            },
+            {
+              "id": 8,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/7m3n5cgp27nqg0e"
+            },
+            {
+              "id": 9,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/cagwma7wtrlh"
+            },
+            {
+              "id": 10,
+              "label": "mega",
+              "url": "https://mega.nz/embed/4VoFjaqJ#mqg6Cc43ZHB3_FgN5VW8mkEAuFIrrqxBiaMSB8nqhyE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1148089,
+          "tmdb_still_path": "/6fpGewGVeiKSbtB1DYJnIIY8sXo.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1850552552011"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1w8k5XPn9PTEmLnL2ZGZon_JvekxGic_m/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-755qzu1luis7.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntl240612qk"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/JUxAQKTY#Wwu1DebRmEOThU2zIjaVPUHk6Wzz2N41Y4ucCw46OuA"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1yg3Q-z_ErOAkzrcbgo8i8GvSojRo7DyJ/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-v0sc0f3nj0oz.html"
+            },
+            {
+              "id": 8,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/2r7pyu26ne1gmgy"
+            },
+            {
+              "id": 9,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/dofwtdgsgnko"
+            },
+            {
+              "id": 10,
+              "label": "mega",
+              "url": "https://mega.nz/embed/sBhk0apK#UyPQhqDdUBKXdngnlHeTrcQF-QzDOmeV5nlvexKuezg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1148091,
+          "tmdb_still_path": "/tmnrJud12gSR1bzDif3FIqgti3X.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1850565659211"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1LFheSgsgzY2laRO7fj-pfkhzfSfXTxqV/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-recx5v4ywb70.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8tex5zrnzdy"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/ZEpGiaJI#KxvWPdE9G0muuzQPXJwIOORlPEKX_iOpQnKeRBok3ac"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1XEacddfBj6I6FU9UEj9nlsN3-azZPQ5c/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-c4zl7gzs89ti.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1148096,
+          "tmdb_still_path": "/cK1bj4IpJFoO5wginWzKFeM7RsA.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1850626476619"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1pw4NDrZuWwcWrnhObvi1YG0y4eK-p41H/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-42ywa5c67get.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/8q4m5b81grq8400"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/MdgkDDya#MbXDZtY3gJu-NKx2h9aOI6udfzkKY-WqcZ-HATpMG4w"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1U0UqbYqpB6M0aXfPNEd8WtXpSXjohBSN/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-tlvb33xfh1y4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1148098,
+          "tmdb_still_path": "/xovVOC9pF1oVhOkSkuueH2PFA8Y.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1850640894539"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ZKmwEc1nga0AQ9KKhfDc1XMwe24-0gve/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-5iv0etkt6fvh.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-8nm4-7jk"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/hdYjlITI#UA43I-h7VMRSOW3yznud2ZZ5gTdhaOtLXs7h_O5L3uo"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1KM7uVMGLZsdiObuBQ3pg2d-kjNCOS77p/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-23r2olxp7xt7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1148099,
+          "tmdb_still_path": "/ntbtgD3zF7Hl7eWgIOTH1yw6grC.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1850646137419"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1FBi_FQu-eIXr4MY5DY2SGEKfVSs3z1VC/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-jn53xqtuho5a.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/0d40ntl240d5736"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/NQRBBCLa#ZQ8MOJrkBMKotN3srTyYdk4oHL2GtdnZPBd8EudET7M"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/13TAElQyz0VwSY7EmlLMxNXSvnW6F8A3L/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-etw0i9p9nd5c.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1148102,
+          "tmdb_still_path": "/ikG9mF39z7UJlq3bZK6rkzpVZcs.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1850654394955"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1B1-270vTtQfdr7K02lnM9eOla7Tn1Y0_/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-dbvr4sugq7ab.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/dz0egtxk3jl-78w"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/ERIHDIpY#Z_Snc1UrNs3KjX6MRg5gsaB4gO22W6ryeV5pBM21-GE"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1f65L-LsJ1FYQYNPJdV9IWTxAuLD2RTsU/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-2a7uxvxcqcbr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1148103,
+          "tmdb_still_path": "/1Le9u6PGn6NvTrCaRkMnJITtqr0.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1852328053323"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1uBEoH1874mt60dHq19kfKdijTxBDbjzg/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-atepjdoboqyt.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh32r14zxz5"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/Q51zAA5L#-xnhau6Q_NVfGBCoDaSFeFJIKCD5Y5_yrEzN1W5jQgM"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1l4VR6Ckbp5s1p6MafPyF0HjD7Oq18aJN/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-jqe4bv3qb1r8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1148104,
+          "tmdb_still_path": "/xauF7mPlu0NBS6Ah8GRK9hgTKep.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1852359445067"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1UMyioG9OluxQrIry7WpRO_b-6K09aRSB/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-pz7ye6r414gk.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/kx53rh32d8gkj2j"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/dM5SGJ6J#Vi6_kKrng67Bz2JBeeMD6DK0dL4NTkiHmQq72ZJOq-E"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1wxfOQLSGdYSAVLSOEC7nynsWEZvvE3sZ/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qkdoqynmzgoq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1148105,
+          "tmdb_still_path": "/dLbOpeXZ6KKrt6pvugSmhorfUMH.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1852369996363"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1hNQG4gxkKQ-RXGbeJq747iFPcUAUdPsy/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-agysi4w2vdvh.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/3pdkxim70jeme6n"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/UFQnCYCD#pvLNwMty_CsgDPz6aCEKdEnr0mPgCIpsM7MWpACZ45Q"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/12AYzzWTMqQuUXUd590-rq1pLYv8h75Yb/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-eve0nukhbhxv.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1148106,
+          "tmdb_still_path": "/prli0EXw0MbnlRfI7TQokJvxRDv.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1852384938571"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1baCLV6vKUq8p52m1q1glZCOIQeIPdLsd/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-w4dw7aekaee2.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt0r-enld7-"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/lIwwxBrT#2ljXpyqOUPvCA0Usbg1hiRezMIeJj52VAwQmGjGMPE4"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1T8ird1XCwLJ_KSqbf5OkpL2i24AN_Qui/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-t3uv8d0decan.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1148107,
+          "tmdb_still_path": "/or0P0Cf6rz9Nbi2yKQVMPiF6rK0.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/1852430486091"
+            },
+            {
+              "id": 2,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1B53thPOsmCkj9uEbydxSLGO_B52gkQ5S/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-eda4i90h3hw9.html"
+            },
+            {
+              "id": 4,
+              "label": "vivystream - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adz7kze76k"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/cJxkFBjL#EDCRgGMsCOM6tU0fJFrFyJxdnr-0QtG9zHFawevfCTI"
+            },
+            {
+              "id": 6,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1bDWmgP-JKnF_Xl3RjziyLKzsJDgTWAOk/preview"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-gda2i4ir3ul5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1148108,
+          "tmdb_still_path": "/m1YSiuSNbcrjuwJ2nR4YWPizCgb.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "القصة حول الحدود بين هذا العالم والعالم الاخر،ويعيش حوالي ثمنية ملاين إله وارواح ميتة تخدمهم وارواح مختلة تساعد وتتدخل في شؤن البشر ، فتاة تدعى [ إيكي هيوري ] بعد ان قامت بإنقاذ فتى متشرد من حادثة مرور إتضح فيما بعد انه إله يدعى [ ياتو ] و يقوم بحل جميع مشاكل مقابل 5 ين ،بعدها تطلب الفتاة [ إيكي هيوري ] مساعدته لحل مشكلة جسدها العالق بين العالمين . .",
+  "url": "/anime/noragami-ova",
+  "story": "القصة حول الحدود بين هذا العالم والعالم الاخر،ويعيش حوالي ثمنية ملاين إله وارواح ميتة تخدمهم وارواح مختلة تساعد وتتدخل في شؤن البشر ، فتاة تدعى [ إيكي هيوري ] بعد ان قامت بإنقاذ فتى متشرد من حادثة مرور إتضح فيما بعد انه إله يدعى [ ياتو ] و يقوم بحل جميع مشاكل مقابل 5 ين ،بعدها تطلب الفتاة [ إيكي هيوري ] مساعدته لحل مشكلة جسدها العالق بين العالمين . .",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Adachitoka",
+  "stars": "Hiroshi Kamiya، Maaya Uchida، Yuki Kaji، Aki Toyosaki",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "IQnnwUXd_0U",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Noragami OVA",
+    "mainDescription": "القصة حول الحدود بين هذا العالم والعالم الاخر،ويعيش حوالي ثمنية ملاين إله وارواح ميتة تخدمهم وارواح مختلة تساعد وتتدخل في شؤن البشر ، فتاة تدعى [ إيكي هيوري ] بعد ان قامت بإنقاذ فتى متشرد من حادثة مرور إتضح فيما بعد انه إله يدعى [ ياتو ] و يقوم بحل جميع مشاكل مقابل 5 ين ،بعدها تطلب الفتاة [ إيكي هيوري ] مساعدته لحل مشكلة جسدها العالق بين العالمين . .",
+    "metaDescription": "Noragami OVA أنمي 2014 | القصة حول الحدود بين هذا العالم والعالم الاخر | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Noragami OVA من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/64710"
+    }
+  },
+  "tmdb_id": 64710,
+  "tmdb_url": "https://www.themoviedb.org/tv/64710",
+  "original_title": "ノラガミ"
+}

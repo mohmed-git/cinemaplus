@@ -1,0 +1,424 @@
+{
+  "slug": "high-card-season-2",
+  "clean_title": "High Card Season 2",
+  "raw_name": "انمي High Card Season 2",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/high-card-season-2.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6999671835211"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6Cq2xauIaBOcITSq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rab15"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6999683435083"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6999688677963"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tM46Y03ePGfZ2v10"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8rabas"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4961680,
+          "tmdb_still_path": "/mqGf5gPoyXxCpk0uUCbCaGF5VCw.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7027894782539"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7Ar2nXpbH5et9wB3"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rjf3h"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7027899042379"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7027902253643"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5058477,
+          "tmdb_still_path": "/vQGTLQXtClurnS61aX4m8JV2dz4.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7048725006923"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qzWnTlxcs0PR20LV"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rq3yt"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7048734837323"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7048740801099"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mcF3F7ovZpfcV0fH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5058478,
+          "tmdb_still_path": "/p0wfgON1sP5S67sSSPM8KULUbqY.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7080878344779"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yTZKZ89Av4QXVxMJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8s2saq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7080882473547"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7080884243019"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=glxfGSTswBYYCk0s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 5058479,
+          "tmdb_still_path": "/47sKjp25xmM5EXLiqImifSbbKkN.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7090754030155"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=LYvIh0WmE9viMFNn"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8s7x5o"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7090755668555"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7090756717131"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=V0dhyc08oFFBr5vX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5058480,
+          "tmdb_still_path": "/2TaFAWYYAi38C8fiAz87qE0OArk.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jEjgaKPcxZjin3Wbhttps://www.mediafire.com/file/z69msf9uf2qonn7/%5BWitanime.com%5D+HCS2+EP+06+FHD.zip/file"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/888hhzfmdn8a"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5058481,
+          "tmdb_still_path": "/nnEH01WYAwkrtNvZML0fjhlIgfC.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1c6oGx9hglwc0tKV"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/nki1c73w6gbi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5058482,
+          "tmdb_still_path": "/b0uG9UEsQjo6RnWKSHkAz7gR9sv.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2CO8ithM19kzTFWt"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/3ka50h1qrr89"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 5058483,
+          "tmdb_still_path": "/6DiaUx2UXRvgwt5br9Nfg1XnLXz.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kpisJxWeuuwYUzsU"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/ubwpf8sfc26g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-04",
+          "runtime": 24,
+          "tmdb_episode_id": 5058484,
+          "tmdb_still_path": "/2IhwjkJD46R91lpIoBECRZMdEoc.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zhMjcSGJhm6u843j"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/kyzl972cqa3d"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-11",
+          "runtime": 24,
+          "tmdb_episode_id": 5058485,
+          "tmdb_still_path": "/d5GOGhYUEnNm4gr4EOPm6ZUSGYH.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8NsyFvIrHTFPFZCX"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/8w4maxsdyhky"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-18",
+          "runtime": 24,
+          "tmdb_episode_id": 5058486,
+          "tmdb_still_path": "/eMF43Nk0Til3EQo1mXkigC4Wcbx.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5KkF5Vzpdzpn2ag0"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/zpjc8uwd1zwg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-25",
+          "runtime": 24,
+          "tmdb_episode_id": 5058487,
+          "tmdb_still_path": "/nPlKjHbfgejGssS9ogpmtnZQs5e.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي High Card Season 2 ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد High Card Season 2 على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء قوة خارقة، أكشن، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/high-card-season-2",
+  "story": "يدور أنمي High Card Season 2 ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد High Card Season 2 على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء قوة خارقة، أكشن، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoshitsugu Matsuoka، Miyuki Sawashiro",
+  "genre": "أنمي، رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "5AwYxzF_R-k",
+  "rating": "6.8",
+  "imdb_rating": "6.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "High Card Season 2",
+    "mainDescription": "يدور أنمي High Card Season 2 ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد High Card Season 2 على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء قوة خارقة، أكشن، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "High Card Season 2 أنمي 2023 | يدور أنمي High Card Season 2 ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات High Card Season 2 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/194665"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "high-card",
+      "title": "High Card",
+      "url": "/anime/high-card",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/high-card.jpg"
+    },
+    {
+      "slug": "high-card-season-2",
+      "title": "High Card Season 2",
+      "url": "/anime/high-card-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/high-card-season-2.jpg"
+    }
+  ],
+  "tmdb_id": 194665,
+  "tmdb_url": "https://www.themoviedb.org/tv/194665",
+  "original_title": "HIGH CARD"
+}

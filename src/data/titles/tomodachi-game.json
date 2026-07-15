@@ -1,0 +1,724 @@
+{
+  "slug": "tomodachi-game",
+  "clean_title": "Tomodachi Game",
+  "raw_name": "انمي Tomodachi Game",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tomodachi-game.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/edjlllcg750q"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/xjlb1vnsawaq"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/yvlabna8neo0"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-4ywxyijgbbuz.html"
+            },
+            {
+              "id": 5,
+              "label": "streamsb - SD",
+              "url": "https://sbfast.com/e/m2twq02rcf9a.html"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-7zx3kzxp81n6.html"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/mzzludolxdkp"
+            },
+            {
+              "id": 8,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/gvxoxrerehfb"
+            },
+            {
+              "id": 9,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/tru2vqwixk3y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-06",
+          "runtime": 23,
+          "tmdb_episode_id": 3317638,
+          "tmdb_still_path": "/sszG61Yxq2CAeYlRqPexRojMOVQ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/kxhkb7iciwiy"
+            },
+            {
+              "id": 2,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/rfu3c2jhoah6"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/vfbdf004kbf3"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-n3d4drxepo2i.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3657204894283"
+            },
+            {
+              "id": 6,
+              "label": "streamsb - SD",
+              "url": "https://sbfast.com/e/dzvulssy42ni.html"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-nmjmsd2vgwg0.html"
+            },
+            {
+              "id": 8,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/tvnlzjjlg1i2"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/hstdr9jyuqu4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-13",
+          "runtime": 23,
+          "tmdb_episode_id": 3630764,
+          "tmdb_still_path": "/hce3tOxQlOL9iTOEZ3EgcwM50VP.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/eylublwac5yq"
+            },
+            {
+              "id": 2,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/vqoy7wlndcby"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/q678t72s5qho"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-pqlfmxf3fl8p.html"
+            },
+            {
+              "id": 5,
+              "label": "streamsb - SD",
+              "url": "https://sbfast.com/e/j2gb1ym4x3uj.html"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UZ8CSKyD#lciXtfTt7tGat89jIXEqdng5oPEYxxCYpoYz9ngn204"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-zq47ihwvsxq6.html"
+            },
+            {
+              "id": 8,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hxfvosiclga2"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/h6bxkd3deoyi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-20",
+          "runtime": 23,
+          "tmdb_episode_id": 3630765,
+          "tmdb_still_path": "/wok7huBS55WdV635gCUmuj5EksH.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/rdizx42o4gwn"
+            },
+            {
+              "id": 2,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/l5o3uk8qc2l3"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/tn04voy9i4fu"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-nw3ha6yhlwib.html"
+            },
+            {
+              "id": 5,
+              "label": "streamsb - SD",
+              "url": "https://sbfast.com/e/zrdp4ocx21df.html"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/dRVwQC6Z#uOkM5T26ESUBsqZYlV0IcqQHLLUl2Rh25Zw8ICPILwA"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-jnv8kscvlv2w.html"
+            },
+            {
+              "id": 8,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/oezfq2uxmoxo"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/7wpjk7xxiu0p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-27",
+          "runtime": 23,
+          "tmdb_episode_id": 3630766,
+          "tmdb_still_path": "/mbLBELYhMbD4cL4GSoPdMfEGRW6.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/hv6lbzxalb8x"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/23b5x6ok3wav"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/9pem7psxjtho"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-5ipolnliqmm5.html"
+            },
+            {
+              "id": 5,
+              "label": "streamsb - SD",
+              "url": "https://sbfast.com/e/s1s46y4bwk7e.html"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/sU1jgZyT#oqDcvYtCiEcbIoUmGBMjuyvN1tR_OARbfL7KgNjadZg"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-wjcjpk37ot5g.html"
+            },
+            {
+              "id": 8,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/vrchrk83kszj"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/yg9ctalxajvd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-04",
+          "runtime": 23,
+          "tmdb_episode_id": 3630767,
+          "tmdb_still_path": "/zEUeoJBcQVHnIGAhSaS5t1nfhvH.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/sgcbabxx0jsy"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/26i7fv4c7737"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/metyiniatjb6"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-cn5fql3iig1u.html"
+            },
+            {
+              "id": 5,
+              "label": "streamsb - SD",
+              "url": "https://sbfull.com/e/o332q5ok4frl.html"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/TqYiUTTS#bOH7t_rl5kHOTm8Ng1cRrL-Di1XUJf3v1MtZTc047k8"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-r2z2nkz75t9a.html"
+            },
+            {
+              "id": 8,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/asun0ovgraur"
+            },
+            {
+              "id": 9,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/f9u16pnme3p1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-11",
+          "runtime": 23,
+          "tmdb_episode_id": 3630768,
+          "tmdb_still_path": "/qYfrXcCWSdcDuNgPujldesONhZV.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3739858963019"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/nne5tup2udhs"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/0rhjmp888tfg"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/yo7cowbpr0t9"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zk2advq9utax.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3739867417163"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/q2hXnRjY#pNRsF2YtJtO-ckKe2wkqB_b_aLhMyJdYNvEhimTsc18"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-sbez21tb4ynp.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3739871480395"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-18",
+          "runtime": 23,
+          "tmdb_episode_id": 3630769,
+          "tmdb_still_path": "/oQcCc48XAT8NJwtM8FQIPavUwlD.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "highload",
+              "url": "https://highload.to/e/rfhaum8ilsq8"
+            },
+            {
+              "id": 2,
+              "label": "streamsb",
+              "url": "https://sbfull.com/e/okyciwa0f24o.html"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/ts8ueo88e5hx"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/bmgx17tmj3lo"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-t4vj2otkbikm.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3755607329355"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gXs1TACD#ey2HwPam6MsKi68JQd9ugKdwVhMa2xIlbT3XoU2Fz3w"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-utfnlzlyi03s.html"
+            },
+            {
+              "id": 9,
+              "label": "streamsb - FHD",
+              "url": "https://sbfull.com/e/7u4oh2nahiqr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-25",
+          "runtime": 23,
+          "tmdb_episode_id": 3630770,
+          "tmdb_still_path": "/8LfESAMHHMvwAsiHFM9rLIeYIkI.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3773482404427"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/yi1pbyqmg55a"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/9xdt2ndscac1"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/aoia632n8smw"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-3qdiopz3agwh.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3773497936459"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/JCMXwRrQ#8mpHfRxVDjY180FzamNPDw-Wux574qicYak2SEVHeGY"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-cmo5emjur1ef.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3773505079883"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-01",
+          "runtime": 23,
+          "tmdb_episode_id": 3630771,
+          "tmdb_still_path": "/5dpv7nSPKSbbEqHB6SooB71NxuB.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3792844950091"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/ncnzzs2g3qio"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/kgtnjclphp2o"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/fbi4tzeb1b8b/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-rwkv0bzumenq.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3792853469771"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/EGdWTJzL#IKN9IEET7dxkgM4YfIXO7S_l6I0KDgN1OEQo8seOOA4"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-uex5qkmoxpej.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3792858647115"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-08",
+          "runtime": 23,
+          "tmdb_episode_id": 3630772,
+          "tmdb_still_path": "/2pZz5yV1hABjRkYhwoTVLZXNUsJ.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3818656238155"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/h8ys2qtv0ios"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/h4nrr7lxddfnchkpgb34zw17vyhspdri"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/8ehpyeurhet6"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-s65nedn31lbs.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3818667182667"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0QtnxLDA#Co3TXdMHpPT7TVNommLOQVxfCi7_YBWGXQnoT_lbr5w"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-fw96nwjd6o9m.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3818680486475"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-15",
+          "runtime": 23,
+          "tmdb_episode_id": 3630773,
+          "tmdb_still_path": "/5Gp0cbHv4K4TlDzMOk12qoAj2P8.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3841991051851"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/bwqexiotxzdl"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/6va5yy3didvs"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/aokgl1fl2hvd/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-5j4xn0bypmpj.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3842003241547"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/wec0WQwJ#W0jOiGoDTqt7qwiJ85mqlHDPyDnua863JGx4sPk4bvI"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-035fcpkmnwbv.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3842009729611"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-22",
+          "runtime": 23,
+          "tmdb_episode_id": 3630774,
+          "tmdb_still_path": "/jikuPpJLjyJzl3y3oh1yTaKW7aY.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Tomodachi Game ضمن أجواء رسوم متحركة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Tomodachi Game حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات لعبة، شونين، نفسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/tomodachi-game",
+  "story": "يدور أنمي Tomodachi Game ضمن أجواء رسوم متحركة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Tomodachi Game حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات لعبة، شونين، نفسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chiaki Kobayashi، Daiki Hamano، Yume Miyamoto، Tomohiro Ono، Satomi Amano، Minami Takayama",
+  "genre": "أنمي، رسوم متحركة، دراما، غموض",
+  "trailerId": "iEfVqefGUU0",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tomodachi Game",
+    "mainDescription": "يدور أنمي Tomodachi Game ضمن أجواء رسوم متحركة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Tomodachi Game حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات لعبة، شونين، نفسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Tomodachi Game أنمي 2022 | يدور أنمي Tomodachi Game ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tomodachi Game من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/137718"
+    }
+  },
+  "tmdb_id": 137718,
+  "tmdb_url": "https://www.themoviedb.org/tv/137718",
+  "original_title": "トモダチゲーム"
+}

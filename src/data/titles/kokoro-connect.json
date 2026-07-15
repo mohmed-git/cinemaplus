@@ -1,0 +1,325 @@
+{
+  "slug": "kokoro-connect",
+  "clean_title": "Kokoro Connect",
+  "raw_name": "انمي Kokoro Connect",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kokoro-connect.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856590309963"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-1gqlvim1c4va.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-08",
+          "runtime": 24,
+          "tmdb_episode_id": 904592,
+          "tmdb_still_path": "/rzim3LMpkWOPRS4bJzJaKrvLzBq.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856663251531"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fahu1xc4naty.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-15",
+          "runtime": 24,
+          "tmdb_episode_id": 904593,
+          "tmdb_still_path": "/uK6L9vXBuER00mEnrVTdvHofZPr.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856673344075"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-qt8iwvrug5bp.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-22",
+          "runtime": 24,
+          "tmdb_episode_id": 904594,
+          "tmdb_still_path": "/3LJyJPwq8aFwuMS0fmmS8YynEAO.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856677800523"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-5oxj5hcwhufy.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-07-29",
+          "runtime": 24,
+          "tmdb_episode_id": 904595,
+          "tmdb_still_path": "/h8B4wH1Q8h5TT790MPmPGupzWUT.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856684419659"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-s2njnn95y6io.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-05",
+          "runtime": 24,
+          "tmdb_episode_id": 904596,
+          "tmdb_still_path": "/6LzlvnAbs9Lz1Ypgdcc1VwVwG79.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856689859147"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0phi7g1lrr6c.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-12",
+          "runtime": 24,
+          "tmdb_episode_id": 904597,
+          "tmdb_still_path": "/cZMRqXxYtWTaPlX2hjxfjGR0Tj0.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856695167563"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-hj43uavoj01w.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-19",
+          "runtime": 24,
+          "tmdb_episode_id": 904598,
+          "tmdb_still_path": "/cXcrmDrzgNhn2w4KZLch3toQLYO.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856698837579"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-arq1y5oqukib.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-08-26",
+          "runtime": 24,
+          "tmdb_episode_id": 904599,
+          "tmdb_still_path": "/rFTfpWDnXLjTiFt5MSVumeEeFs0.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856702835275"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-79wdxr1ng4vt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-02",
+          "runtime": 24,
+          "tmdb_episode_id": 904600,
+          "tmdb_still_path": "/bj8hLRYHMKUeU3zKqVJckxkcvuv.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856707684939"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ipsr5u6mbqxq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-09",
+          "runtime": 24,
+          "tmdb_episode_id": 904601,
+          "tmdb_still_path": "/h5LmZ6X371NZGpQn19zHtnhOtkn.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856712665675"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fphhhrpoeun7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 904602,
+          "tmdb_still_path": "/5KBiN6M0k5WpHkeJ4wRbXRaVZC1.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856719088203"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-f4bx75rmn5sr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 904603,
+          "tmdb_still_path": "/brhXGcxPhVnvq5xHPOVZhMHLu3c.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3856724068939"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-o197ed6ioxlz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2012-09-30",
+          "runtime": 24,
+          "tmdb_episode_id": 904605,
+          "tmdb_still_path": "/yRLgszhRJpk2gsOA9arQF96UIZb.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kokoro Connect ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Kokoro Connect من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، مدرسي، دراما، رومانسي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/kokoro-connect",
+  "story": "يدور أنمي Kokoro Connect ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Kokoro Connect من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، مدرسي، دراما، رومانسي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2012",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Takahiro Mizushima، Aki Toyosaki، Miyuki Sawashiro، Hisako Kanemoto، Takuma Terashima، Asuka Ohgame",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "2R9VmRtuNwo",
+  "rating": "6.6",
+  "imdb_rating": "6.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kokoro Connect",
+    "mainDescription": "يدور أنمي Kokoro Connect ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2012، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Kokoro Connect من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، مدرسي، دراما، رومانسي، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Kokoro Connect أنمي 2012 | يدور أنمي Kokoro Connect ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kokoro Connect من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45807"
+    }
+  },
+  "tmdb_id": 45807,
+  "tmdb_url": "https://www.themoviedb.org/tv/45807",
+  "original_title": "ココロコネクト"
+}

@@ -1,0 +1,364 @@
+{
+  "slug": "rail-wars",
+  "clean_title": "Rail Wars!",
+  "raw_name": "انمي Rail Wars!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/rail-wars.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342316477003"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/rivkwugwywsa2xgcg2j70ptymgzv56s6"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-irvktsl7r8v1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1314907,
+          "tmdb_still_path": "/azYH9qXtEoa2O1qC5vo30ZT1Xtk.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342363466315"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/1bjb5o2vg9hukxoxoczcehatzowdbpo3"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-734k1m7zj1pz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1454281,
+          "tmdb_still_path": "/hWpt2miw9JuRSqVjRWdSCyICLnP.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342409275979"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/2hyesjzm80tcpdubsuw5hsua4jja25le"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-xsxziwwlgxfo.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1454282,
+          "tmdb_still_path": "/uDQgFxI3iDQjbs3MAJf0B7q1JS9.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342427822667"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/o6v3k4xh5tlots9j95vt76977encsxyp"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-lz61l0ly28di.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1454283,
+          "tmdb_still_path": "/6SYaqW6vhA0KQoTRH5ThFBI9uMX.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342449121867"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/md9pjz1x1ymq2yvruihi9kp2xjr3yqi9"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-a9kx4mwndbfw.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1454285,
+          "tmdb_still_path": "/lco1fv02BSrGYURxJXxZxxAAp8I.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342454954571"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/d13wz3kybcrozchyhakzg68ygv0m8egm"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-k5msuzgxmjxr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1454286,
+          "tmdb_still_path": "/pW3vjn79PAQTvs0MBhh762h8Xvm.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342458821195"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/hwj5kino74xzfnclxstk6inq0hjngui4"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-a7sxt8evv73k.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1454287,
+          "tmdb_still_path": "/rDIyDqKpeaNnIKlSPDTlPpjXYfm.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342463998539"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/goxw2dk24e88qf0m3nkoo9xbbk1eowmp"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-i8wa7qthgmon.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1454288,
+          "tmdb_still_path": "/qZB6GjCKhc7tJGzKrIWEYvHhquC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342467996235"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/ofc7eeay6ia4rzetyr5j7kex7dt0pwi0"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-2ewcsggl8m8q.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1454289,
+          "tmdb_still_path": "/vEzugSc5J6MpVSpbpmkZNEthMax.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342475467339"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/4s5fw9p3ebh66qdj9b89gsqtwrqhz3rg"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ze8n626uoqhr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1454290,
+          "tmdb_still_path": "/jrygesDM8arthuZ0KzL0Iuz9y0D.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342480841291"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/pevkcrr8wpnx3byggfpk22zpcah1av71"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-1kcmvefte0j1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1454291,
+          "tmdb_still_path": "/zzVMJ7EIs4ENS6sYVH5sHU5Enxm.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2342485494347"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/cy77oyfydxpqfj33lbyt0truxmenxolr"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ofk7xjlss930.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1256048,
+          "tmdb_still_path": "/nHIYloCntNqYgACjn8Sj8tBkZkm.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Rail Wars! ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Rail Wars! على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، حريم، بوليسي، ايتشي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Rail Wars! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/rail-wars",
+  "story": "يدور أنمي Rail Wars! ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Rail Wars! على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، حريم، بوليسي، ايتشي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Rail Wars! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Satoshi Hino، Maaya Uchida، Manami Numakura، Jun Fukuyama، Hiromi Igarashi، Mai Nakahara",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، كوميديا",
+  "trailerId": "gNI1s3vYoQw",
+  "rating": "5.7",
+  "imdb_rating": "5.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Rail Wars!",
+    "mainDescription": "يدور أنمي Rail Wars! ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Rail Wars! على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، حريم، بوليسي، ايتشي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Rail Wars! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Rail Wars! أنمي 2014 | يدور أنمي Rail Wars | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Rail Wars! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/69607"
+    }
+  },
+  "tmdb_id": 69607,
+  "tmdb_url": "https://www.themoviedb.org/tv/69607",
+  "original_title": "レールウォーズ"
+}

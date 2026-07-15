@@ -1,0 +1,514 @@
+{
+  "slug": "guilty-crown",
+  "clean_title": "Guilty Crown",
+  "raw_name": "انمي Guilty Crown",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/guilty-crown.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 22,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 22,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "البداية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uis4f4tsi6ys"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/je8k7fnqg4qq"
+            }
+          ],
+          "overview": "تقع اليابان تحت سيطرة منظمة \"جي إتش كيو\" بعد تفشّي فيروس وبائي مميت. ويقابل \"شو\"، طالب الثانوية، مطربته المفضلة \"إنوري\"، ولكن الجيش يعتقلها.",
+          "air_date": "2011-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 885492,
+          "tmdb_still_path": "/bw21oDAVzjpf0tp6hP0BwaDKfU1.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "البقاء للأقوى",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/dm29smuf91mc"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/cpz1kk95nheq"
+            }
+          ],
+          "overview": "تتسبب أسلحة جينية في اندلاع معركة مفاجئة بين منظمتي \"فيونيرال بارلور\" و\"جي إتش كيو\"، ويدمر \"شو\" آلة \"إندلاف\" ويفرّ، ويجبره \"غاي\" على القتال.",
+          "air_date": "2011-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 885491,
+          "tmdb_still_path": "/qYIJverQ3GOHmX2yM76J9iiWEQR.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "أخذ عيّنة الفويد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/901qa84udnof"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qziytynr44by"
+            }
+          ],
+          "overview": "تضع الحرب أوزارها... ويظنّ \"شو\"، الذي رفض الانضمام لـ\"فيونيرال بارلور\"، أن بإمكانه العودة لحياته الطبيعية الهادئة، فيجد أن عليه حماية حريته.",
+          "air_date": "2011-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 885494,
+          "tmdb_still_path": "/5QTm8RNgEo5Sv97sm8x9WbtUNDz.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "حالة تذبذب",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/w5we9y79cvp9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/00farhmmt96l"
+            }
+          ],
+          "overview": "يُقبَض على \"شو\" للاشتباه في تورّطه في عمل إرهابي بسبب خيانة \"ياهيرو\"، ويرتاب \"شو\" في مصداقية الرائد \"سيغاي\"، ويتعرّض السجن لهجوم.",
+          "air_date": "2011-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 885493,
+          "tmdb_still_path": "/yi3NMdLm582HVcVkgSiet7MERdu.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الاستعداد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ca4v5qym02zf"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/89lh67k26ca8"
+            }
+          ],
+          "overview": "يهرب \"شو\" من سجن منظمة \"جي إتش كيو\" إلى مخبأ \"غاي\" حيث يتدرّب هناك، بينما يرتدي جهاز إرسال أعطاه له سرًّا \"سيغاي\" الذي يريد القبض على \"غاي\".",
+          "air_date": "2011-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 885495,
+          "tmdb_still_path": "/kxyutMY050gSAg2n4PrzQXMda8V.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "لوكاسايت",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/g9qjgv1f25zr"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/p50p7zq5l4dt"
+            }
+          ],
+          "overview": "يدمّر هجوم القمر الصناعي \"لوكاسايت\" جميع تعزيزات منظمة \"فيونيرال بارلور\" ويُصاب \"غاي\"، ولكنّ الفريق يستعدّ لتوجيه ضربة انتقاميّة.",
+          "air_date": "2011-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 885496,
+          "tmdb_still_path": "/hTN2pmoS4HOUGSGWU2KRx696uLz.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الإغواء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/7zygexxbaegx"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kexcucbh1qi1"
+            }
+          ],
+          "overview": "يترتّب على اتفاق بين \"غاي\" و\"سيغاي\" حذف كلّ معلومات الحادث من منظمة \"جي إتش كيو\". ويعود \"شو\" لحياته الطبيعية، ويرحب زملاؤه في الفصل بعودته.",
+          "air_date": "2011-11-24",
+          "runtime": 24,
+          "tmdb_episode_id": 885497,
+          "tmdb_still_path": "/6gtXy3nTNV0J2zNS6QexprD69V0.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "المُلاطفة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/v4w4c8bgh7p3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qba7sdy5917o"
+            }
+          ],
+          "overview": "يواجه \"شو\" مشاكل مع \"سوتا تامادايت\"، لكن الـ\"فويد\" الخاص به ضروري لمهمة \"فيونيرال بارلور\"، ويتوجه \"شو\" إلى \"أوشيما\" مع \"سوتا\" لتنفيذ مهمّته.",
+          "air_date": "2011-12-01",
+          "runtime": 24,
+          "tmdb_episode_id": 885498,
+          "tmdb_still_path": "/sfg2BwzQnUSLI1hKw4vggaDQV23.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الفريسة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5qnu8b4lp2bk"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/98hr749r8ydw"
+            }
+          ],
+          "overview": "تزداد ثقة \"شو\" بنفسه بعد مهمّة \"فيونيرال بارلور\"، ويلتقي بـ\"ياهيرو\" الهارب مع شقيقه \"جون\" مجددًا، ويواجه \"شو\" هجوم \"سيغاي\" بمفرده.",
+          "air_date": "2011-12-08",
+          "runtime": 24,
+          "tmdb_episode_id": 885499,
+          "tmdb_still_path": "/c5orwDTr4Rqa8wWcQw92F0dJ8q3.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الانسحاب",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/filc9hcdivjd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/o9f8ljfke6gi"
+            }
+          ],
+          "overview": "لا يتمكّن \"شو\" من إنقاذ \"جون\" ويمنعه الخوف من استخدام الـ\"فويد\" بسبب الأخطاء التي سبّبها غروره. وحين تتعرض \"طوكيو\" لهجوم، فإنّ عليه أن يقرر.",
+          "air_date": "2011-12-15",
+          "runtime": 24,
+          "tmdb_episode_id": 885500,
+          "tmdb_still_path": "/m5kyFJTCTxp5mDoKuQfmKbx5riO.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الرّنين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0t6iwixumt56"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ag723695of9w"
+            }
+          ],
+          "overview": "فيما ينتشر الفيروس بين الأعداء والحلفاء على السواء، تعمّ \"طوكيو\" فوضى عارمة. ويقوم \"كيدو\" بانقلاب ويُلقي باللوم على منظمة \"فيونيرال بارلور\".",
+          "air_date": "2011-12-22",
+          "runtime": 24,
+          "tmdb_episode_id": 885501,
+          "tmdb_still_path": "/7ARZtCvYD1YhTSDP9ilBEPb3wn4.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "لوست كريسماس",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uug6mqnblqc4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/gd7xo6246mne"
+            }
+          ],
+          "overview": "يستخدم \"يوو\"، مبعوث منظّمة \"داث\"، نصل الـ\"فويد\" للقضاء على \"غاي\"، ويختطف \"إنوري\". كما يتعقّبهما \"شو\"، ليجد أنّ \"كيدو\" على وشك بدء طقس مشؤوم.",
+          "air_date": "2012-01-12",
+          "runtime": 24,
+          "tmdb_episode_id": 885502,
+          "tmdb_still_path": "/xOm0W0Zm5W43XCTSg9KWySKX5Fv.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "العزلة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/0bk9isq0byvl"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ipxsyb7vk5v0"
+            }
+          ],
+          "overview": "في هذه الحلقة، تختفي \"مانا\" ويرحل \"غاي\"، ويمضى أسبوعان على اندلاع الكارثة، ويعيش \"شو\" في مأوى مع الناجين الآخرين.",
+          "air_date": "2012-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 885503,
+          "tmdb_still_path": "/2p5aDq7DW6c2h1no0IrkogOJNNL.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الانتخابات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/h7e6xuqh43h3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/h9nubrsygs9q"
+            }
+          ],
+          "overview": "يُعلن \"كيدو\" عدم وجود ناجين في \"طوكيو\" التي تعيش تحت الحصار. ويلوح حصار الخط الأحمر في الأفق، ويقرّر \"شو\" اتخاذ إجراء لتهدئة الحشد الطلابيّ.",
+          "air_date": "2012-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 885504,
+          "tmdb_still_path": "/4RVk8xDYLZBLyv5c89dsYsAtMlp.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "التّضحية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/6zghq6yys8ap"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/tfvurkpmbswc"
+            }
+          ],
+          "overview": "يعود النظام بين الطلاب مع تنصيب \"شو\" رئيسًا جديدًا لمجلس الطلاب، ولكن يُتوقّع حدوث مشاكل كثيرة. وتجبر المأساة \"شو\" على مراجعة نفسه.",
+          "air_date": "2012-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 885505,
+          "tmdb_still_path": "/lWR8qSxWje77cR3cvVnn707lHCK.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الطّاغية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ye92dafid2up"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/n17p2vztrtw6"
+            }
+          ],
+          "overview": "يتسلّل \"أرغو\" إلى \"طوكيو\" الواقعة تحت الحصار لإنقاذ \"أريسا\"، ولكن ماذا سيجد حين يصل؟ وترتبك \"شو\" بشدّة من الحقيقة التي تُكتشَف.",
+          "air_date": "2012-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 885506,
+          "tmdb_still_path": "/pTDrCdiVudWAjlfg23w6YgUSRo9.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الخروج",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5csa5zy5fsng"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/j5vtjsqnve2b"
+            }
+          ],
+          "overview": "تكتشف \"أريسا\" السرّ للإطاحة بطغيان \"شو\"، وتُرغَم على أن تلزم الصمت. ولكنّ الشائعات تستمرّ في الانتشار، ويبدأ \"شو\" بـ\"خطة الهروب\".",
+          "air_date": "2012-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 885508,
+          "tmdb_still_path": "/rQM8fT950xdaDxRTyB4dWP8n9E.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "عزيزي ...",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kqalpi24umce"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/k630ji1ph8jm"
+            }
+          ],
+          "overview": "يدفع \"شو\" ثمن خطاياه العديدة. وفجأةً، يظهر أمامه \"غاي\"، الذي أُذيع خبر وفاته، وقد تغيّر، الأمر الذي يُغرق \"شو\" في بحر من اليأس.",
+          "air_date": "2012-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 885507,
+          "tmdb_still_path": "/aIRvjFrRpNY3E5WI1hI2voohZvN.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "ميلاد جديد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/cabrrwgn528c"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/8n90vseq72ep"
+            }
+          ],
+          "overview": "تُسامح \"إنوري\" \"شو\" على خطاياه أخيرًا وبعد معاناة. ويواجه \"شو\" \"غاي\" بمفرده، فيكشف كلّ شيء، وتنسج قوّته الخارقة قدرًا جديدًا.",
+          "air_date": "2012-03-01",
+          "runtime": 24,
+          "tmdb_episode_id": 885510,
+          "tmdb_still_path": "/wWD7v4tnxw4SafpVrmVmNHEvb6b.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "يوميّات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/469mnyih5pit"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/8nhzh3nzzi2q"
+            }
+          ],
+          "overview": "في ديسمبر من عام 2039، ينتهي العالم الذي نعهده ويُولد عالم جديد. ويُعلَن عن نهاية العالم الرابعة للعالم أجمع، بينما يواجه \"شو\" عدوّه الحتمي.",
+          "air_date": "2012-03-08",
+          "runtime": 24,
+          "tmdb_episode_id": 885509,
+          "tmdb_still_path": "/5SpOxxwu4nMWHnTqULamaXS1WJt.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "قدوم القوّات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/viv5gc1g6yj0"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/24fezbki69r9"
+            }
+          ],
+          "overview": "تبدأ معركة سوف تحدّد مصير البشرية... وبينما تتصادم قوًى هائلة، يُداهم \"شو\" الجناح 24 حيث ينتظره \"غاي\" كي ينقذا \"إنوري\".",
+          "air_date": "2012-03-15",
+          "runtime": 24,
+          "tmdb_episode_id": 885511,
+          "tmdb_still_path": "/5dW4mMAUTsUTAN2ctRbsLXU7xHf.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "التّقارُب",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/cze6vr4du1d0"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/dkcficmlsvor"
+            }
+          ],
+          "overview": "تقترب نهاية العالم الرابعة لتُسلّط نور التطوّر والانتقاء على الكائنات التي تعيش على الأرض... ولا بُد أن يُسوّي كلاهما خلاف الماضي.",
+          "air_date": "2012-03-22",
+          "runtime": 24,
+          "tmdb_episode_id": 885512,
+          "tmdb_still_path": "/5tuqZ14Nmc5v2vtyYGLeBPk5YvD.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "بعد دمار فيروسي، تفقد اليابان استقلالها لصالح \"مقرّ القيادة العامة\". وحين يكتسب طالب المرحلة الثانويّة \"شو\" قوّة غريبة، ينجذب لقوى المقاومة.",
+  "url": "/anime/guilty-crown",
+  "story": "بعد دمار فيروسي، تفقد اليابان استقلالها لصالح \"مقرّ القيادة العامة\". وحين يكتسب طالب المرحلة الثانويّة \"شو\" قوّة غريبة، ينجذب لقوى المقاومة.",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuki Kaji، Yuichi Nakamura، Ai Kayano، Kana Hanazawa، Ayana Taketatsu، Kazuhiko Inoue",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": "JToS6gmWzgw",
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Guilty Crown",
+    "mainDescription": "بعد دمار فيروسي، تفقد اليابان استقلالها لصالح \"مقرّ القيادة العامة\". وحين يكتسب طالب المرحلة الثانويّة \"شو\" قوّة غريبة، ينجذب لقوى المقاومة.",
+    "metaDescription": "Guilty Crown أنمي 2011 | بعد دمار فيروسي | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Guilty Crown من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/43125"
+    }
+  },
+  "tmdb_id": 43125,
+  "tmdb_url": "https://www.themoviedb.org/tv/43125",
+  "original_title": "ギルティクラウン"
+}

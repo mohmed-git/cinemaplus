@@ -1,0 +1,988 @@
+{
+  "slug": "mugen-gacha",
+  "clean_title": "Mugen Gacha",
+  "raw_name": "انمي Mugen Gacha",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mugen-gacha.jpg",
+  "note": "تستخدم لجميع 12 حلقة من الموسم 1",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=k0APxlPqAFyrM2Am"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/6tsoh73xf0s4"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/d0hab5oe1kb7"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AlpaA9BBhOyN2yPT"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/6oqyldcgz0hy"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-58ynlzri5r75.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-17oy35cnomau-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/hijmd59goirm"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/mciqwmi612oq"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/gvtt4sbfd8yd"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/ydrxqkWqVKt1ro0"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/gcotsogc0m5v"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-elxf01qtvpxh.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/l1v8jjj95gl3"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/pjmrx48qizzg8l"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OMOLUVpcBNYrcZng"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/3endh7cyw3hg"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/awm1a95jw3mq"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R2rHRWGL3B2CrQN1"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/et45msj01r7v"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-1t7k7n5wlfgp.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-6ekga0ei59e6-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/bf445zs2hq3r"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/fbdp1y7qh295"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/gmjurr1xcb96"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/2BzG64Mo8riZLPa"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/ecyt7wng4vph"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-ewjpm7vofws5.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/p5st42ovpogk"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/vkq9kew0sg6p0w"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IIvSpQRajAUBrKZp"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/9pwbp19zvypx"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/b0du1lgxxxwf"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=l7lHZohMKpmvfvKr"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/4xy3q9li7o02"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-nie1yk33q1cl.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-5ajij6cyjwel-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/bdxhqsv02pa7"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/r7cdo7oz8jki"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/ja623fa3orv6"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/QJK8xJ6oGBF0jDB"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/s16frpu0r210"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-yn05cswuxzy1.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/5rhg2l5xbfux"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/4d9rxk9os1lm6n"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KH4wNppU26piZ1ND"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/60a8h7dulizx"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/msgiu9v79kun"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Rizq8GfABpqJuodr"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/tz9e4ey6e75q"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-yu129car3p0e.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-jtd5nkfj9o62-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/702v9204eaqc"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/4443xrza6oa3"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/ypijj1a5bihf"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/oWoxA2K28PFJkQb"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/sx02hbtr85tf"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-f3kv863rn0zk.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/oadu90c4g3mv"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/8ljj9ge1t647v1n"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pFnaCjMu4Dp3XKbv"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/qqiddjom3d2q"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/f5rzwtnnhvho"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wN19bZZAd54mZ9Bg"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/4rnf6w8dwkkl"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-66fd0nnr5nrq.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-kdelaq83r14t-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/7i0cbe2o8fuh"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/x58f8nys3euv"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/tmcsx0fnqrwl"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/qJWBd38R72IwOL"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/jeql4ehigj59"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-tg0afux8edau.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/y9d0k6u1fyzc"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/1novzm97u9keed"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZR30hU4jC29njHfm"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/sk394u0lbb6t"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/efavo1irszts"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GBdAsfzaL3JyGS2j"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/l5udphbht1iw"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-tn1jsfqfpwun.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-0t81z3karzu3-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/5evb6aw4yt71"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/s7ooz7uecyed"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/y8e56xxzl6h1"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/k0O7eWkd6gSOkzo"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/hz59ka7cps02"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-x61w1fvz31lz.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/dpvm8uf79kd6"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/pj6kgrrdbeegkw"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sfkVrUloL5lCLsiP"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/xmt0gd91ys1w"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/nri7wmhm6s5e"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=s0BycVji5Vb8GZAM"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/3m8r9vtu7tvk"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-s81q9bk6srea.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-n7h6b0jeaxao-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/tr9cdc62hzwb"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/qy3g0d8y0ql0"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/8mp9bdhqdfix"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/jP3Gwz2A0wCzyPW"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/scaosvgong6r"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-lv4e2enq3309.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/dhc8l9sh4tzb"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/9wx67peea971l1"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mXNXo82hXfSDWd6P"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/hmdt7r5hfoon"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/kt1c8rsy4x73"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vu7QE8nQfzRRXBF4"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/fnd7ns7ish2w"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-8jup2kmxqofi.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-3kn9u1crolxg-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/5hvmy9kbwk1k"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/0718c6n9a340"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/2liay31jmi25"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/wDRvjP0yvaUeMe"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/c249l35qndyv"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-f6s9wursi3sl.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/95pkb453j6d5"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/xw9vqe43illgezz"
+            }
+          ]
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=47q0EdmSo2oK1pLd"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/xqaqxu7ksfr1"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/te3wzxitgpkr"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0sJu2KRZzCTgqmCx"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/veiaumtw1tti"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-2pze65qn1kw4.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-vm0grdv62lqf-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/8pgyssl919ef"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/dzk3f7ri0237"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/oxpfadr8zeat"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/jAKWMpqrKZSzVp2"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/en4qgrqsokxl"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://uqload.cx/embed-6jolgua8aurf.html"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://filemoon.sx/e/87n0dw7re8op"
+            },
+            {
+              "id": 15,
+              "label": "سيرفر 10",
+              "url": "https://mixdrop.ps/e/9wxzwej7cnl7mk"
+            }
+          ]
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=irQgzIuzeTk9Am5F"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/7aamut3qinr0"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/r0lurddk4pav"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=07jHxnFEJgRMFvOW"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/q6d3kqba3p7m"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-638z0c85kx5p.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-obihthqkhn41-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/5yomreok8y88"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://earnvids.xyz/v/qvutca3dp5q6"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://streamtape.cc/e/YVVAzzj0bpSvVLM"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://luluvdo.com/e/pgpbsxjak0cs"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://uqload.cx/embed-bxcfxibqpj3n.html"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://filemoon.sx/e/7q63n4mcxf2x"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://mixdrop.ps/e/wlw6vqjrt76906"
+            }
+          ]
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5MyGEipGN3caLNEh"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/p1gx9hmmu5ru"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/dicml4fx7olf"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8xuAteeLvFq9VklI"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/i5h53bb1cryh"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-7ouseq2usvvw.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-604cpiaknglf-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/xskkxgluamt3"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/wxl2wzzzmie4"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/1wn9yw67jgth"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/BagwYGWlB3FyqaJ"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/touzkdjn75r3"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://filemoon.sx/e/8g0ahgqfbeu7"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://mixdrop.ps/e/r60j4q11cr8ww6"
+            }
+          ]
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0JUqYTQe8usk3xaR"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/wg2w95kkzk2f"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/amh54zal4sjv"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nzPc9VsUzD0Y382q"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/ky3c7fgjj4xr"
+            },
+            {
+              "id": 6,
+              "label": "سيرفر 1",
+              "url": "https://vidtube.one/embed-yild5wfwi6eo.html"
+            },
+            {
+              "id": 7,
+              "label": "سيرفر 2",
+              "url": "https://updown.icu/embed-nppcla9mvng7-1280x640.html"
+            },
+            {
+              "id": 8,
+              "label": "سيرفر 3",
+              "url": "https://streamwish.fun/e/ty6kp2iov6wp"
+            },
+            {
+              "id": 9,
+              "label": "سيرفر 4",
+              "url": "https://d0o0d.com/e/hwhgajuizhub"
+            },
+            {
+              "id": 10,
+              "label": "سيرفر 5",
+              "url": "https://earnvids.xyz/v/c957kfdvn2fb"
+            },
+            {
+              "id": 11,
+              "label": "سيرفر 6",
+              "url": "https://streamtape.cc/e/XjKDPr1yp1iDV80"
+            },
+            {
+              "id": 12,
+              "label": "سيرفر 7",
+              "url": "https://luluvdo.com/e/lpodfat2v3c8"
+            },
+            {
+              "id": 13,
+              "label": "سيرفر 8",
+              "url": "https://filemoon.sx/e/olt8gwv3ubgz"
+            },
+            {
+              "id": 14,
+              "label": "سيرفر 9",
+              "url": "https://mixdrop.ps/e/8ljnx8z3u6d8oxv"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "قصة انمي Mugen Gacha بعد أن طُرد لايت من اتحاد القبائل، انقلب عليه رفاقه السابقون على الفور. ينجو بصعوبة من هذا الخيانة الشيطانية، ليجد نفسه في أعماق الهاوية، أخطر زنزانة في العالم! ولتفادي افتراسه من قِبل الوحوش الكاسرة، يستخدم مهارته السحرية الوحيدة: الـ\"غاتشا غير المحدود\". لكن بينما كانت هذه القدرة تنتج سابقًا أشياء عديمة القيمة، يظهر هذه المرة مفاجأة مذهلة—\"مي\"، مقاتلة مذهلة بمستوى 9999 في زي خادمة! بعد مرور ثلاث سنوات، يكون لايت قد أسس مملكته الخاصة في أعماق هذا الدانجن، مستدعيًا المزيد من المحاربات الجميلات بمستوى 9999 اللواتي يقسمن له بالولاء المطلق. والآن، بعدما أصبح هو نفسه سيدًا بمستوى 9999، يخطط لايت للصعود إلى السطح والانتقام من كل من خانه، واحدًا تلو الآخر!",
+  "url": "/anime/mugen-gacha",
+  "story": "قصة انمي Mugen Gacha بعد أن طُرد لايت من اتحاد القبائل، انقلب عليه رفاقه السابقون على الفور. ينجو بصعوبة من هذا الخيانة الشيطانية، ليجد نفسه في أعماق الهاوية، أخطر زنزانة في العالم! ولتفادي افتراسه من قِبل الوحوش الكاسرة، يستخدم مهارته السحرية الوحيدة: الـ\"غاتشا غير المحدود\". لكن بينما كانت هذه القدرة تنتج سابقًا أشياء عديمة القيمة، يظهر هذه المرة مفاجأة مذهلة—\"مي\"، مقاتلة مذهلة بمستوى 9999 في زي خادمة! بعد مرور ثلاث سنوات، يكون لايت قد أسس مملكته الخاصة في أعماق هذا الدانجن، مستدعيًا المزيد من المحاربات الجميلات بمستوى 9999 اللواتي يقسمن له بالولاء المطلق. والآن، بعدما أصبح هو نفسه سيدًا بمستوى 9999، يخطط لايت للصعود إلى السطح والانتقام من كل من خانه، واحدًا تلو الآخر!",
+  "year": "2025",
+  "quality": "1080p WEB-DL",
+  "duration": null,
+  "language": "مترجم",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ayumi Mano، Hana Hishikawa، Ikumi Hasegawa، Katsuya Miyamoto",
+  "genre": "اكشن، كرتون، مغامرة"
+}

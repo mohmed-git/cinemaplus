@@ -1,0 +1,715 @@
+{
+  "slug": "watashi-no-shiawase-na-kekkon",
+  "clean_title": "Watashi no Shiawase na Kekkon",
+  "raw_name": "انمي Watashi no Shiawase na Kekkon",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/watashi-no-shiawase-na-kekkon.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "اللقاء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6145659701835"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FJ9XEtQ3EMovQ9L0"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8maez9"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6145673923147"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6145684933195"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dcRI2FtaCY8FvqCk"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8maf7a"
+            }
+          ],
+          "overview": "تُعامَل \"ميو\"، التي تحتقرها زوجة أبيها وأختها، كخادمة في منزلها. وفي أحد الأيام، يتصل بها والدها لمناقشة مستقبلها.",
+          "air_date": "2023-07-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3646592,
+          "tmdb_still_path": "/xZ8A6dDTyH4xqBWmOV29X2PsvcC.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "بشأن زوجي المستقبلي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6241288260171"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1MgksOH3CNNxMmo0"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mgyez"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6241303398987"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6241316112971"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=X2fYuV7FoVYaNqnh"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8mgyoq"
+            }
+          ],
+          "overview": "تعقد \"ميو\" العزم على أن تكون مفيدة ومتعاونة فتستيقظ مبكرًا وتعدّ وجبة الفطور، لكن \"كيوكا\" يتّهمها بمحاولة تسميمه ويرفض تمامًا تناول الطعام.",
+          "air_date": "2023-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4545549,
+          "tmdb_still_path": "/llNzvIbhUTMc5HQv2DFzWSqHXoS.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "موعدنا الغرامي الأول",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6391545530955"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MKFYXtqAKJxOqIfV"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mmz2r"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6391560276555"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gjdhEBDI#w8G9swFsmbGzw5NPr7Lp2GU6aEZLWVHR8oxNW_WjIKA"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6391567747659"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CKgqcWYLM3P5HyuM"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8mmzdp"
+            }
+          ],
+          "overview": "بينما يصطحب \"كيوكا\" خطيبته \"ميو\" إلى البلدة، سرعان ما يلاحظ أنها تتصرّف بطريقة مختلفة تمامًا عن الفتيات الثريات اللواتي صادفهنّ في حياته.",
+          "air_date": "2023-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4545550,
+          "tmdb_still_path": "/aMhz3HJ7TttfaeVYB1eGYI9NUxW.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الهدية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6442100984395"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gXvfcixaNl9UP7i2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8mssch"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6442111208011"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gyE2QajD#G81CcWllfelRWKkH3vd5Vfcx2UdvjpqaeBmsCkCW2xc"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6442120579659"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7yCxvk5vIhV9hvPY"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8mssjc"
+            }
+          ],
+          "overview": "تتوجه \"ميو\" إلى البلدة لشراء ما تحتاج إليه لصنع هدية يدوية تفاجئ بها \"كيوكا\"، ويذهب هو أثناء ذلك لزيارة والديها.",
+          "air_date": "2023-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 4545551,
+          "tmdb_still_path": "/wNNRs0g1LTn9hAN1uHb3nh4VOAk.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "تموجات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6464449088075"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YA5HVvqQLvGXwq2J"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8my7qf"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6464463047243"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/I2Uy0a4Q#M4RnOg9zaUo3Ol0WpeLw_MGjhMlQE3e95DUbZIUisR4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6464468879947"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WtXwF0cCdZCebNZw"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8my7x1"
+            }
+          ],
+          "overview": "تحاول \"كايا\" عرقلة خطوبة \"ميو\" من \"كيوكا\" بسبب الغيرة التي تعتمل في صدرها. وتغادر \"ميو\" المنزل وتنسى أن تأخذ معها تميمة الحظ السعيد التي أعطاها إياها \"كيوكا\".",
+          "air_date": "2023-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4545552,
+          "tmdb_still_path": "/hthcbyEwPtvsl8jQyTFrlJFgJPk.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "العزم والرعد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6486395390539"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5SBT8g1NAxQnTG9M"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8n4325"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6486990654027"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/CEU1lbhT#aGlvUUhltNlJDwc_Y_YChdUi37tOU_9OWtGcEIKmIc8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6487476734539"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=81B4VAKXI1ZKYp6n"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8n43ht"
+            }
+          ],
+          "overview": "تستيقظ \"ميو\" على تهديدات شقيقتها وزوجة أبيها، لكن \"كيوكا\" يصل إلى منزل \"سايموري\" برفقة \"كوجي\" ويطالب برؤية خطيبته.",
+          "air_date": "2023-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4545553,
+          "tmdb_still_path": "/hsEzuzDmI1rESaAAedbe0GwHLEY.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "سيدة الصيف الفاتنة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6520598628939"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JNWNmZOBeV2nvDjl"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8n9e3i"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6520611408459"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/MmsBFSgb#Jr0dh2vuxKNiFdY08L00FfouJ3OPt5ElyiqskNOMXwo"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6520621894219"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=41bsVSK5OiWVGCjZ"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8n9eqd"
+            }
+          ],
+          "overview": "يصطحب \"كيوكا\" الآنسة \"ميو\" إلى أطلال منزل \"سايموري\" نزولًا عند رغبتها، وتزورهما لاحقًا امرأة فاتنة في بيتهما.",
+          "air_date": "2023-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4545554,
+          "tmdb_still_path": "/bnP5m3C3fSLj1dCdy2V29aCans.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "كوابيس وظلال مشؤومة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6543285488203"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mOSW5g66lHei5B1O"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nfnv4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6543303182923"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/XuQ2mKxC#nkLV48jV7J-WBwz3qbRBUh6jTMqXjwJUV0tO1_wi-OI"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6543324809803"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cIJNcCnCqnwuWiFm"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8nfo4v"
+            }
+          ],
+          "overview": "يزداد تقرب \"هازوكي\" و\"ميو\" من بعضهما خلال دروسهما اليومية. ويشعر \"كيوكا\" بالقلق نحو \"ميو\"، فيحاول أن يكتشف السبب وراء الكوابيس القاسية التي تراودها باستمرار.",
+          "air_date": "2023-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4545555,
+          "tmdb_still_path": "/nI2aLMCUNL7wad70Qn9NRGwTPU.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الغرق في الأحلام",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6575545977419"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DfXILNwtupJu1t2m"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8nkxbi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6575560329803"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/YzcFGAqC#tw9VV7Ou_HL0FnvSERlUVZaSTVuB7MfDijAO2MwLGSU"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6575570487883"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sdWIuzj9OjcEIlvR"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8nkxjk"
+            }
+          ],
+          "overview": "رغم تعاستها بسبب الكوابيس التي تقض مضجعها، تواصل \"ميو\" بذل قصارى جهدها لتكون زوجة داعمة. وفي وقت لاحق، يأتي \"أراتا تسوروكي\" ليتحدث إليها في غياب \"كيوكا\".",
+          "air_date": "2023-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 4545556,
+          "tmdb_still_path": "/AhU2XhYgeaBHwJKwY9iYfoHye0J.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "أزهار الكرز في الصيف والخطأ",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6599366019659"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=I65R3hqN9i5EcpKO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ntne6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6599378471499"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Kd8ABAYR#SF6uU6Te_BHjKNj7RizAZT--t8bIL1xdLIkuwAe61Fs"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6599387318859"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hBhL2kulyL23ZyUP"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8nto02"
+            }
+          ],
+          "overview": "يكشف \"آراتا\" عن هويته الحقيقية ويقدّم إلى \"ميو\" جدّها الذي لم تعرفه أو تقابله قط، ويخبرها الاثنان بقدرتهما على علاج كوابيسها... لكن بشرط.",
+          "air_date": "2023-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4545557,
+          "tmdb_still_path": "/kqU1QKhEWdAadJN4M4lRI5v4QXl.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "إرث أمي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6622287366731"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DCgfEr1bgHSVHnAC"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8o1rtg"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6622303881803"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/xz8DCSID#ToNwbJc47zTCXnt6sHGf3Ujls2mK4R4fl5C_gSX0yGk"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6622313974347"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=l5jBcBniNanptRDg"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8o1s0k"
+            }
+          ],
+          "overview": "يوضّح \"يوشيرو أوسبا\" لـ\"ميو\" كيف تزوجت والدتها من والدها... ولماذا أقدمت على اتخاذ قرار غيّر حياة ابنتها الوحيدة للأبد.",
+          "air_date": "2023-09-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4545558,
+          "tmdb_still_path": "/c8tFCJWLMtNg4wBiGwA3Wcgxxtq.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "ضوء في الظلمة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6644418415179"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Ng1S1NwXzdFDZHH2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8o79ym"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6644436372043"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/a7hwHKxa#w-GzZTsBcdTuwvofMhC3mCVFjXKWVy7vn9EpXFXaqLs"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6644442466891"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FNogwbrDvluQiP5N."
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8o7amw"
+            }
+          ],
+          "overview": "يضع الجميع أملهم الأخير في قوى \"ميو\" لإيقاظ \"كيوكا\" من غيبوبته، لكن يتعين عليها أولًا أن تواجه الجانب المظلم من ماضيها قبل أن تتمكن من إنقاذه.",
+          "air_date": "2023-09-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4545559,
+          "tmdb_still_path": "/o3kvujHUjIiAymkbl0XLfawjARH.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7239920192075"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nw6PGk4O04GKkilY"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8vfgj6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7239928580683"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7239932906059"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=i1Sm22XScmi1v0H6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5896531,
+          "tmdb_still_path": "/7hwZrKC2nLv4tvDxLbWP0ZoihvT.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "عائلة \"ميو\" المسيئة تعدّها معدومة القيمة... ولكن برفقة زوجها المنتظر الذي يتمتع بالقوة والنفوذ، تبدأ شخصيتها الحقيقية وقواها الخفية في التألق شيئًا فشيئًا.",
+  "url": "/anime/watashi-no-shiawase-na-kekkon",
+  "story": "عائلة \"ميو\" المسيئة تعدّها معدومة القيمة... ولكن برفقة زوجها المنتظر الذي يتمتع بالقوة والنفوذ، تبدأ شخصيتها الحقيقية وقواها الخفية في التألق شيئًا فشيئًا.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Reina Ueda، Kaito Ishikawa، Hiro Shimono، Ryohei Kimura",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "LHkn20xqybk",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Watashi no Shiawase na Kekkon",
+    "mainDescription": "عائلة \"ميو\" المسيئة تعدّها معدومة القيمة... ولكن برفقة زوجها المنتظر الذي يتمتع بالقوة والنفوذ، تبدأ شخصيتها الحقيقية وقواها الخفية في التألق شيئًا فشيئًا.",
+    "metaDescription": "Watashi no Shiawase na Kekkon أنمي 2023 | عائلة \"ميو\" المسيئة تعدّها معدومة القيمة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Watashi no Shiawase na Kekkon من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/196944"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "watashi-no-shiawase-na-kekkon",
+      "title": "Watashi no Shiawase na Kekkon",
+      "url": "/anime/watashi-no-shiawase-na-kekkon",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/watashi-no-shiawase-na-kekkon.jpg"
+    },
+    {
+      "slug": "watashi-no-shiawase-na-kekkon-2nd-season",
+      "title": "Watashi no Shiawase na Kekkon 2nd Season",
+      "url": "/anime/watashi-no-shiawase-na-kekkon-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 13,
+      "poster": "/images/anime/watashi-no-shiawase-na-kekkon-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 196944,
+  "tmdb_url": "https://www.themoviedb.org/tv/196944",
+  "original_title": "わたしの幸せな結婚"
+}

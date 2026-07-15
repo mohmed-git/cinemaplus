@@ -1,0 +1,804 @@
+{
+  "slug": "nana",
+  "clean_title": "Nana",
+  "raw_name": "انمي Nana",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/nana.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 47,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 47,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cgn28kqti2xg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-05",
+          "runtime": 23,
+          "tmdb_episode_id": 939462,
+          "tmdb_still_path": "/jXkop5KO8BV3yARnQDUdzYvejue.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/bncctcthlv7i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-12",
+          "runtime": 23,
+          "tmdb_episode_id": 939463,
+          "tmdb_still_path": "/qGdzPOIsipbB8pFvvz8YJiklS4Y.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/e8mv7u0r7w9l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-19",
+          "runtime": 23,
+          "tmdb_episode_id": 939464,
+          "tmdb_still_path": "/xb71USsOGF6YTgwFwJmUWbWXMpa.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/lzhy6ekfpzpt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-26",
+          "runtime": 23,
+          "tmdb_episode_id": 939465,
+          "tmdb_still_path": "/mJm66YUJpDAfnhLMaPIkFiSzwd1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ti6sgdhn9u4l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-03",
+          "runtime": 23,
+          "tmdb_episode_id": 939451,
+          "tmdb_still_path": "/e2tLlaJwHwnqMjFMzApOYOWvlyw.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/48qrjzr5wuzy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-10",
+          "runtime": 23,
+          "tmdb_episode_id": 939452,
+          "tmdb_still_path": "/uHoOkUsa0gswzxfhzWphxjddibQ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hplprd86e8jg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-17",
+          "runtime": 23,
+          "tmdb_episode_id": 939466,
+          "tmdb_still_path": "/tlRGQmyhzcNItwaQ5uXxGUwr5Qz.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/28hg45g09ftt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-24",
+          "runtime": 23,
+          "tmdb_episode_id": 939453,
+          "tmdb_still_path": "/tmrgwtL7HhKJkiRCHC3dFus1JHM.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1knetscse7yb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-31",
+          "runtime": 23,
+          "tmdb_episode_id": 939454,
+          "tmdb_still_path": "/acsZIVhIAld4zEhxFKUzUteMwNl.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wev0kvgg0bqq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-07",
+          "runtime": 23,
+          "tmdb_episode_id": 939446,
+          "tmdb_still_path": "/ubSSnLj8UPq9hvT5HoI4gsbo8Cd.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/enrv6mp1ui86"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-14",
+          "runtime": 23,
+          "tmdb_episode_id": 939447,
+          "tmdb_still_path": "/eYgyS6AJYjez7uIfNveprslLruP.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/h1w71hotjrwc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-28",
+          "runtime": 23,
+          "tmdb_episode_id": 939448,
+          "tmdb_still_path": "/v5EQdy7hXeK0jpmooHMAaZwLaQi.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/yaefn7nkufce"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-07-05",
+          "runtime": 23,
+          "tmdb_episode_id": 939449,
+          "tmdb_still_path": "/cqgoo5zhPU7LgpRTTUCuWFDIYJ8.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/m63y2mzlgutu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-07-05",
+          "runtime": 23,
+          "tmdb_episode_id": 939450,
+          "tmdb_still_path": "/u02zbrvTenSUQ1NaOE2IDlUllIy.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/eeku33a3xeyh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-07-19",
+          "runtime": 23,
+          "tmdb_episode_id": 939455,
+          "tmdb_still_path": "/lHAhIDBhh8mKq168gAaec3uv7jL.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/os7ln7y2quhg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-07-26",
+          "runtime": 23,
+          "tmdb_episode_id": 939457,
+          "tmdb_still_path": "/zCb5meqqIMHG2kGmkbnK8Srf7RX.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/apo4kvc736u3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-08-02",
+          "runtime": 23,
+          "tmdb_episode_id": 939456,
+          "tmdb_still_path": "/oSGMpRLxWTpYhuWxxhGol1LJ4c4.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/q5owkwmp28v0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-08-09",
+          "runtime": 23,
+          "tmdb_episode_id": 939458,
+          "tmdb_still_path": "/q9qjEXCJknizR5k1fheEwL3ZRPs.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/edewgs4okjvu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-08-16",
+          "runtime": 23,
+          "tmdb_episode_id": 939459,
+          "tmdb_still_path": "/bY83vLBPkFjBIB6A6BnesLX5Hhw.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fpf4nrn0qa0m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-08-23",
+          "runtime": 23,
+          "tmdb_episode_id": 939460,
+          "tmdb_still_path": "/hX0F3SiO2zsWzxsy2pkqzbZ3O7n.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/v0dd1pilh4z4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-08-30",
+          "runtime": 23,
+          "tmdb_episode_id": 939461,
+          "tmdb_still_path": "/kcrDP9fiHNtDKcQ1B0nMPun4gOV.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/445twcf4e7yt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-09-13",
+          "runtime": 23,
+          "tmdb_episode_id": 939491,
+          "tmdb_still_path": "/opRowkQsRZYqnj2ZsX0SsLgqffi.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/c23wo2cuabcm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-09-20",
+          "runtime": 23,
+          "tmdb_episode_id": 939492,
+          "tmdb_still_path": "/7q0cOeiR0cZ4AKj2NZh5ro85mal.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zrdv0gdo35nm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-09-27",
+          "runtime": 23,
+          "tmdb_episode_id": 939468,
+          "tmdb_still_path": "/iyhwiQUqEWptYv7nW0r7yikBD6A.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/nv8yv77ct1jl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-10-01",
+          "runtime": 23,
+          "tmdb_episode_id": 939469,
+          "tmdb_still_path": "/vgvnCcUTJ0Fo0mecHBqPaXTtotf.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/b8ilmyr2uec4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-10-10",
+          "runtime": 23,
+          "tmdb_episode_id": 939470,
+          "tmdb_still_path": "/A5j7WfWJgQeuL9Jn3zS7RUtlLQa.jpg"
+        },
+        {
+          "episode": 27,
+          "title": "الحلقة 27",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/chut05dwuam3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-10-18",
+          "runtime": 23,
+          "tmdb_episode_id": 939471,
+          "tmdb_still_path": "/1qB7eLeSl9LEy48iNDF6OSQO2Pq.jpg"
+        },
+        {
+          "episode": 28,
+          "title": "الحلقة 28",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/r7xqx239zvtn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-10-25",
+          "runtime": 23,
+          "tmdb_episode_id": 939472,
+          "tmdb_still_path": "/qZhcj1J5B9G2Z295YAi0IBbrddF.jpg"
+        },
+        {
+          "episode": 29,
+          "title": "الحلقة 29",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/l34romib3ntz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-11-01",
+          "runtime": 23,
+          "tmdb_episode_id": 939473,
+          "tmdb_still_path": "/6DBvJ9W1LY0ZEPv6mxTyi6w580p.jpg"
+        },
+        {
+          "episode": 30,
+          "title": "الحلقة 30",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3ankf0ai64so"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-11-08",
+          "runtime": 23,
+          "tmdb_episode_id": 939474,
+          "tmdb_still_path": "/nwTHHpXQU3FDGkt76UeWAur7sOB.jpg"
+        },
+        {
+          "episode": 31,
+          "title": "الحلقة 31",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/r0ts4gma5kzx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-11-15",
+          "runtime": 23,
+          "tmdb_episode_id": 939475,
+          "tmdb_still_path": "/9Lfkcte1JvZbc42ITTUYQQ4fa05.jpg"
+        },
+        {
+          "episode": 32,
+          "title": "الحلقة 32",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pzmdkeedu765"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-11-20",
+          "runtime": 23,
+          "tmdb_episode_id": 939476,
+          "tmdb_still_path": "/1JXSec7wFpdZtK7np1Pag4LAwdt.jpg"
+        },
+        {
+          "episode": 33,
+          "title": "الحلقة 33",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/od2hpcj0t6db"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-11-29",
+          "runtime": 23,
+          "tmdb_episode_id": 939477,
+          "tmdb_still_path": "/yg7z268x69DfFAnc13Elav8W3Ro.jpg"
+        },
+        {
+          "episode": 34,
+          "title": "الحلقة 34",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/82mrfmp6pfg7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-12-06",
+          "runtime": 23,
+          "tmdb_episode_id": 939478,
+          "tmdb_still_path": "/xVzCzOD3fh9pS0c7PenFpKc4ZHJ.jpg"
+        },
+        {
+          "episode": 35,
+          "title": "الحلقة 35",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ppfes3151ndy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-12-13",
+          "runtime": 23,
+          "tmdb_episode_id": 939467,
+          "tmdb_still_path": "/tb0khBqWmWKKwdrKTpDX81rsKgj.jpg"
+        },
+        {
+          "episode": 36,
+          "title": "الحلقة 36",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rq44y5mt7sx6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-12-20",
+          "runtime": 23,
+          "tmdb_episode_id": 939479,
+          "tmdb_still_path": "/1DUWOZ6JZTSBlRuDs0MUhkD2VEm.jpg"
+        },
+        {
+          "episode": 37,
+          "title": "الحلقة 37",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/n3cp583v30te"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-01-17",
+          "runtime": 23,
+          "tmdb_episode_id": 939480,
+          "tmdb_still_path": "/53Bh2mUgaphDjqHWJ9ncre632En.jpg"
+        },
+        {
+          "episode": 38,
+          "title": "الحلقة 38",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/nw47bwfqxscl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-01-24",
+          "runtime": 23,
+          "tmdb_episode_id": 939481,
+          "tmdb_still_path": "/saJy8UhPGj2weMl4VjvoSCftUWU.jpg"
+        },
+        {
+          "episode": 39,
+          "title": "الحلقة 39",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fdm1iz7nh20v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-01-31",
+          "runtime": 23,
+          "tmdb_episode_id": 939482,
+          "tmdb_still_path": "/8vr7laTwS3x43TZyX0OGSK71Sw0.jpg"
+        },
+        {
+          "episode": 40,
+          "title": "الحلقة 40",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/zidotfiegm3o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-02-07",
+          "runtime": 23,
+          "tmdb_episode_id": 939483,
+          "tmdb_still_path": "/Apr24HKgzIH7qlu7yjlyGhER288.jpg"
+        },
+        {
+          "episode": 41,
+          "title": "الحلقة 41",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/btyhg3q09t5f"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-02-14",
+          "runtime": 23,
+          "tmdb_episode_id": 939484,
+          "tmdb_still_path": "/46kmZeWdw2Gv2L6RID9jgFG5hMv.jpg"
+        },
+        {
+          "episode": 42,
+          "title": "الحلقة 42",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0lxirruyi5nt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-02-21",
+          "runtime": 23,
+          "tmdb_episode_id": 939485,
+          "tmdb_still_path": "/lXlPvb8Q23cKghVQc3h2mRYbTPW.jpg"
+        },
+        {
+          "episode": 43,
+          "title": "الحلقة 43",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/fg0b81zcexnf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-02-28",
+          "runtime": 23,
+          "tmdb_episode_id": 939486,
+          "tmdb_still_path": "/iozu4zeOlDLH4e5lKv5Am7pMBZb.jpg"
+        },
+        {
+          "episode": 44,
+          "title": "الحلقة 44",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/45a4jiqw8j0h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-03-07",
+          "runtime": 23,
+          "tmdb_episode_id": 939487,
+          "tmdb_still_path": "/j5WNExCWHs2AW4EacEZTf5rLVJr.jpg"
+        },
+        {
+          "episode": 45,
+          "title": "الحلقة 45",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/bo1czqvem22c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-03-14",
+          "runtime": 23,
+          "tmdb_episode_id": 939488,
+          "tmdb_still_path": "/d3tVZx7D6t19OQpBd2U5MKcCB6e.jpg"
+        },
+        {
+          "episode": 46,
+          "title": "الحلقة 46",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7ul7xxgk0oc5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-03-21",
+          "runtime": 23,
+          "tmdb_episode_id": 939489,
+          "tmdb_still_path": "/aosLMKMsHPoAm3QgpH1PIJH7ddC.jpg"
+        },
+        {
+          "episode": 47,
+          "title": "الحلقة 47",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8ckv1k9lywbu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-03-28",
+          "runtime": 23,
+          "tmdb_episode_id": 939490,
+          "tmdb_still_path": "/9WKvXtL2QTW2bOz9cz5bqSionGa.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Nana ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2006، وتوضح بيانات TMDB أنه يضم 1 موسم و47 حلقة. تبدأ قصة Nana من علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات شوجو، موسيقى، شريحة من الحياة، دراما العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و47 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/nana",
+  "story": "يدور أنمي Nana ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2006، وتوضح بيانات TMDB أنه يضم 1 موسم و47 حلقة. تبدأ قصة Nana من علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات شوجو، موسيقى، شريحة من الحياة، دراما العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و47 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2006",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Ai Yazawa",
+  "stars": "Romi Park، KAORI، Akira Ishida، Megumi Kojima، Anna Tsuchiya، Aya Hirano",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "Tad-n4Xh3nI",
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Nana",
+    "mainDescription": "يدور أنمي Nana ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2006، وتوضح بيانات TMDB أنه يضم 1 موسم و47 حلقة. تبدأ قصة Nana من علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات شوجو، موسيقى، شريحة من الحياة، دراما العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و47 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Nana أنمي 2006 | يدور أنمي Nana ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Nana من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/56568"
+    }
+  },
+  "tmdb_id": 56568,
+  "tmdb_url": "https://www.themoviedb.org/tv/56568",
+  "original_title": "NANA"
+}

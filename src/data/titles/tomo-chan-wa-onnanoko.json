@@ -1,0 +1,390 @@
+{
+  "slug": "tomo-chan-wa-onnanoko",
+  "clean_title": "Tomo-chan wa Onnanoko!",
+  "raw_name": "انمي Tomo-chan wa Onnanoko!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tomo-chan-wa-onnanoko.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ecyg3ekngwkd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/un185vn0jl6m"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/r98klgdqo7d3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3903916,
+          "tmdb_still_path": "/kw8OqUhlcxD4MCAVtyH7jCjzbNy.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/sw7g3bu1t142"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/01fmckiedb3m"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/s7u1fsx6f1fu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4122504,
+          "tmdb_still_path": "/yZyIZTuHunS3i2Tcsqsa6OoM7Ia.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ihgn3tr720if"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/x19i855vitmt"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/534ij0wu01b4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4159401,
+          "tmdb_still_path": "/jplnsTQzXCNFoZL12qxsSU6gxwM.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4tmyxyjge9if"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/h8xculqh65c9"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/dumnb6yl8qoh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-26",
+          "runtime": 24,
+          "tmdb_episode_id": 4159404,
+          "tmdb_still_path": "/s5O3b2HEQuCMcmAACghgrG8go2p.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/6878gm1ch0u1"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/po7izu8xq9tx"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/g31uhkkrkfk4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4159411,
+          "tmdb_still_path": "/ifpS2NWw5WDpHLiaI1cZG9bGeAt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/b1mqdppmoxm6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/g3pq2z3evleo"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/ef4hwsiuphs9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4209311,
+          "tmdb_still_path": "/1NJR63PmaPQNfblkjYwn5ONOiWQ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/l3jl70ya03g9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/lcs4llq9jqs1"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/r4za6fyzdnwm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4222230,
+          "tmdb_still_path": "/h252Yt2umjdrkSGfYwkx7nQyHpO.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/i6gmbxiurlus"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/eq0h4okdj5jb"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/le8x6bnigd9p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4238019,
+          "tmdb_still_path": "/vc7WVi6ljpa6BQqPeCNd2fxmqCz.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uu08oi0fvu1v"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kbl2w0vup2ui"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/2tsdkpp3e7n3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4267911,
+          "tmdb_still_path": "/yr6WmNzK5TASYjYNgkJTRXiM0fk.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kypfrjeeioz4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/62z7iwnwwkpx"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/69ix6fa6zbfp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4267912,
+          "tmdb_still_path": "/mikgeMdRwl1XGzHj3ZJpk6Bklpf.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/wax7po6xoe26"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ylnthqga2r72"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/e0gvjx3b1amq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4300412,
+          "tmdb_still_path": "/8kEFnvz3OgQx72WhXiWQsk5Uxxy.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/pfiyp2oz5cab"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xxc17lpkwa4p"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/mkugpxcisy7t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4300414,
+          "tmdb_still_path": "/x512E3kbBXiOybFBq9d02MMAfMI.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/reian20dn9j3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/5xiheifhj8sh"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/4tb8hr8dg8cd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-30",
+          "runtime": 24,
+          "tmdb_episode_id": 4311537,
+          "tmdb_still_path": "/vlf0YYLSaQcACizSgeUEcmlV222.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Tomo-chan wa Onnanoko! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Tomo-chan wa Onnanoko! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات مدرسي، رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/tomo-chan-wa-onnanoko",
+  "story": "يدور أنمي Tomo-chan wa Onnanoko! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Tomo-chan wa Onnanoko! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات مدرسي، رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Rie Takahashi، Kaito Ishikawa، Rina Hidaka، Sally Amaki، Kohei Amasaki، Yoshitsugu Matsuoka",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "Oy4qgFGU0no",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tomo-chan wa Onnanoko!",
+    "mainDescription": "يدور أنمي Tomo-chan wa Onnanoko! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Tomo-chan wa Onnanoko! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات مدرسي، رومانسي، كوميدي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Tomo-chan wa Onnanoko! أنمي 2023 | يدور أنمي Tomo-chan wa Onnanoko | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tomo-chan wa Onnanoko! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/205308"
+    }
+  },
+  "tmdb_id": 205308,
+  "tmdb_url": "https://www.themoviedb.org/tv/205308",
+  "original_title": "トモちゃんは女の子！"
+}

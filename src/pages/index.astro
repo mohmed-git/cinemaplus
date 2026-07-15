@@ -1,0 +1,531 @@
+---
+import Base from '../layouts/Base.astro';
+import Grid from '../components/Grid.astro';
+import SectionHeader from '../components/SectionHeader.astro';
+import PosterCard from '../components/PosterCard.astro';
+import { getAllTitles, getTitlesByCategory, sortByLatest, sortByTopRated, sortFeatured, toIndexEntry } from '../lib/titles';
+import { SITE } from '../lib/site';
+import { listingRoute } from '../lib/routes';
+
+const all = getAllTitles();
+
+function pickFeatured(arr: ReturnType<typeof getAllTitles>, n: number) {
+  return [...arr]
+    .map((t, i) => ({ t, k: (i * 2654435761) >>> 0 }))
+    .sort((a, b) => a.k - b.k)
+    .slice(0, n)
+    .map((x) => x.t);
+}
+
+const unsafeHeroTitlePattern = /(حملت|حامل|الرئيس التنفيذي|عشيق|إغواء|اغواء|جنس|sex|erotic|إيتشي|ايتشي|حريم)/i;
+function isSafeForHero(t: ReturnType<typeof getAllTitles>[number]) {
+  const text = `${t.clean_title} ${t.raw_name || ''} ${t.genre || ''}`;
+  return t.poster && !t.is_special && !unsafeHeroTitlePattern.test(text);
+}
+
+const movies = getTitlesByCategory('movie');
+const series = getTitlesByCategory('series');
+const anime = getTitlesByCategory('anime');
+
+/**
+ * Curation helper — a work is "attractive" (worth surfacing on the homepage to
+ * drive engagement) when it has a real poster, a credible TMDB rating with a
+ * minimum number of votes, and is not a special/OVA or sensitive entry. We use
+ * this for the hero slider, the editor's picks and the top-rated rail so the
+ * landing page leads with high-quality, click-worthy titles.
+ */
+function isAttractive(
+  t: ReturnType<typeof getAllTitles>[number],
+  minRating = 6.5,
+  minVotes = 30
+) {
+  const rating = Number((t as any).sort_rating ?? t.rating ?? 0);
+  const votes = Number((t as any).tmdb_votes ?? 0);
+  return (
+    !!t.poster &&
+    !t.is_special &&
+    isSafeForHero(t) &&
+    rating >= minRating &&
+    votes >= minVotes
+  );
+}
+
+const attractiveMovies = movies.filter((t) => isAttractive(t));
+const attractiveSeries = series.filter((t) => isAttractive(t));
+const attractiveAnime = anime.filter((t) => isAttractive(t, 6.5, 10));
+
+// Hero slider items — lead with the most attractive, credible works across all
+// three kinds so the first impression is strong and varied (movie + series + anime).
+const heroPool = sortByTopRated([...attractiveMovies, ...attractiveSeries, ...attractiveAnime]);
+function interleave<T>(...lists: T[][]): T[] {
+  const out: T[] = [];
+  const max = Math.max(...lists.map((l) => l.length), 0);
+  for (let i = 0; i < max; i++) for (const l of lists) if (l[i]) out.push(l[i]);
+  return out;
+}
+// Mix one of each kind round-robin (top-rated within each) → a balanced hero.
+const heroMixed = interleave(
+  sortByTopRated(attractiveMovies),
+  sortByTopRated(attractiveSeries),
+  sortByTopRated(attractiveAnime)
+);
+const heroItems = (heroMixed.length >= 6 ? heroMixed : sortFeatured([...movies, ...series, ...anime].filter(isSafeForHero))).slice(0, 6);
+
+// Deterministic year fallback (no fake ratings)
+function fakeYear(slug: string): number {
+  let h = 0;
+  for (let i = 0; i < slug.length; i++) h = (h * 17 + slug.charCodeAt(i)) >>> 0;
+  return 2018 + (h % 8);
+}
+
+const posterTitles = all.filter((t) => t.poster);
+// Trending rail — prefer attractive (well-rated) works so the Top-10 strip is
+// genuinely click-worthy; fall back to featured order if too few qualify.
+const trendingPool = sortByTopRated([...attractiveMovies, ...attractiveSeries, ...attractiveAnime]);
+const trending = (trendingPool.length >= 10 ? trendingPool : sortFeatured(posterTitles)).slice(0, 12);
+
+// ── Editor's picks: a balanced, attractive mix (movies + series + anime) to
+//    pull viewers straight into a work from the landing page. ──
+const editorsPicks = interleave(
+  sortByTopRated(attractiveMovies),
+  sortByTopRated(attractiveSeries),
+  sortByTopRated(attractiveAnime)
+).slice(0, 18).map(toIndexEntry);
+
+// Show 18 items per home section (3 rows × 6 cols) with a clear 'See more' link.
+// Lead each kind with its attractive titles, then top up with latest if needed.
+function topUp(primary: typeof movies, fill: typeof movies, n: number) {
+  const seen = new Set(primary.map((t) => t.slug));
+  return [...primary, ...fill.filter((t) => !seen.has(t.slug))].slice(0, n);
+}
+const latestMovies = topUp(sortByTopRated(attractiveMovies), sortByLatest(movies.filter((t) => t.poster)), 18).map(toIndexEntry);
+const latestSeries = topUp(sortByTopRated(attractiveSeries), sortByLatest(series.filter((t) => t.poster)), 18).map(toIndexEntry);
+const latestAnime = topUp(sortByTopRated(attractiveAnime), sortFeatured(anime.filter((t) => t.poster && !t.is_special)), 18).map(toIndexEntry);
+const featured = (editorsPicks.length >= 18 ? editorsPicks : sortFeatured(posterTitles).slice(0, 18).map(toIndexEntry));
+const topRated = sortByTopRated(posterTitles.filter((t) => Number((t as any).tmdb_votes ?? 0) >= 30)).slice(0, 18).map(toIndexEntry);
+
+const stats = {
+  movies: movies.length,
+  series: series.length,
+  anime: anime.length,
+  total: all.length,
+};
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: `${SITE.url}/`,
+  description: 'منصة عربية لمشاهدة الأفلام والمسلسلات والأنمي مترجم اون لاين مجاناً',
+  inLanguage: 'ar',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: `${SITE.url}/search?q={search_term_string}`,
+    },
+    'query-input': 'required name=search_term_string',
+  },
+};
+
+const heroDataJson = JSON.stringify(heroItems.map(h => ({
+  title: h.clean_title,
+  poster: h.poster,
+  description: h.description?.slice(0, 200) || SITE.tagline,
+  category: h.category,
+  category_label: h.category === 'movie' ? 'فيلم' : h.category === 'series' ? 'مسلسل' : 'أنمي',
+  url: h.url,
+  episodes_count: h.episodes_count,
+  seasons_count: h.seasons?.length || 1,
+  year: h.year || String(fakeYear(h.slug)),
+  genre: h.genre || (h.category === 'anime' ? 'أنمي / مغامرات' : h.category === 'movie' ? 'دراما / إثارة' : 'دراما / تشويق'),
+})));
+
+const trendingDataJson = JSON.stringify(trending.map(t => ({
+  title: t.clean_title,
+  poster: t.poster,
+  url: t.url,
+  category_label: t.category === 'movie' ? 'فيلم' : t.category === 'series' ? 'مسلسل' : 'أنمي',
+  year: t.year || String(fakeYear(t.slug)),
+})));
+---
+
+<Base title={null} description={SITE.description} jsonLd={jsonLd} section="home">
+
+  <!-- ============================================
+       HERO SECTION — Cinematic full-bleed slider
+       ============================================ -->
+  <section id="hero-section" class="relative overflow-hidden -mt-16 lg:-mt-[72px] pt-16 lg:pt-[72px]">
+    <!-- Backdrop image (full bleed, blurred) -->
+    <div id="hero-bg" class="absolute inset-0 -z-10 transition-opacity duration-1000">
+      {heroItems[0]?.poster && (
+        <img
+          src={heroItems[0].poster}
+          alt=""
+          aria-hidden="true"
+          loading="eager"
+          referrerpolicy="no-referrer"
+          class="h-full w-full object-cover scale-110 blur-2xl opacity-50"
+          id="hero-bg-img"
+        />
+      )}
+      <div class="absolute inset-0 hero-overlay"></div>
+      <!-- Decorative neon orbs -->
+      <div class="orb h-72 w-72 -top-20 -right-10 bg-brand-600 animate-pulse-glow" style="animation-duration: 6s;"></div>
+      <div class="orb h-96 w-96 top-40 -left-20 bg-neon-fuchsia animate-pulse-glow" style="animation-duration: 8s;"></div>
+    </div>
+
+    <div class="container-app relative pt-10 pb-16 md:pt-16 md:pb-24 lg:pt-20 lg:pb-32">
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-8 md:gap-10 items-center">
+        <!-- Info side -->
+        <div class="md:col-span-7 lg:col-span-7 order-2 md:order-1 animate-slide-up">
+          <div class="flex flex-wrap items-center gap-2 mb-5">
+            <span id="hero-cat-badge" class="chip-brand text-xs">
+              {heroItems[0] ? (heroItems[0].category === 'movie' ? 'فيلم' : heroItems[0].category === 'series' ? 'مسلسل' : 'أنمي') : ''}
+            </span>
+            <span id="hero-year" class="chip-surface">
+              {heroItems[0]?.year || (heroItems[0] ? fakeYear(heroItems[0].slug) : '')}
+            </span>
+            <span id="hero-genre" class="chip-surface text-[11px]">
+              {heroItems[0]?.genre || 'دراما / إثارة'}
+            </span>
+          </div>
+
+          <h1 id="hero-title" class="font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-[1.1] text-white animate-hero-slide">
+            {heroItems[0]?.clean_title || SITE.name}
+          </h1>
+
+          <p id="hero-en-title" class="mt-3 text-base text-gray-400 font-medium tracking-wide">
+            {heroItems[0]?.clean_title || SITE.name}
+          </p>
+
+          <p id="hero-desc" class="mt-4 max-w-2xl text-sm sm:text-base leading-relaxed text-gray-200/90 line-clamp-3">
+            {heroItems[0]?.description?.slice(0, 220) || SITE.tagline}
+          </p>
+
+          <div class="mt-7 flex flex-wrap items-center gap-3">
+            <a id="hero-watch-btn" href={heroItems[0]?.url || '/'} class="btn-primary text-base px-7 py-3.5">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5"><path d="M8 5v14l11-7z"/></svg>
+              شاهد الآن
+            </a>
+            <button class="btn-icon hidden sm:inline-flex !rounded-full !p-3 border border-white/[0.08]" aria-label="مشاركة">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4">
+                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+                <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Slider dots -->
+          <div id="hero-dots" class="mt-9 flex items-center gap-2">
+            {heroItems.map((_, i) => (
+              <button
+                type="button"
+                class={`hero-dot h-1.5 rounded-full transition-all duration-500 ${i === 0 ? 'hero-dot-active w-12' : 'w-2 bg-white/20 hover:bg-white/40'}`}
+                style={i === 0 ? 'background: var(--gradient-primary); box-shadow: 0 0 12px var(--glow);' : ''}
+                data-index={i}
+                aria-label={`الانتقال إلى العنصر ${i + 1}`}
+              />
+            ))}
+          </div>
+        </div>
+
+        <!-- Poster side -->
+        <div class="md:col-span-5 lg:col-span-5 order-1 md:order-2 flex justify-center md:justify-end">
+          <div class="relative animate-scale-in">
+            <a id="hero-poster-link" href={heroItems[0]?.url || '/'} class="block group">
+              {heroItems[0]?.poster && (
+                <img
+                  id="hero-poster"
+                  src={heroItems[0].poster}
+                  alt={heroItems[0].clean_title}
+                  loading="eager"
+                  referrerpolicy="no-referrer"
+                  class="h-[320px] w-[220px] sm:h-[400px] sm:w-[270px] md:h-[440px] md:w-[300px] lg:h-[500px] lg:w-[340px] rounded-3xl object-cover shadow-2xl ring-1 ring-white/10 transition-all duration-700 group-hover:scale-[1.02] group-hover:ring-brand-500/40"
+                />
+              )}
+            </a>
+            <!-- Glow halo behind poster -->
+            <div class="absolute -inset-6 -z-10 rounded-[2rem] bg-gradient-to-br from-brand-600/30 via-neon-violet/25 to-neon-fuchsia/30 blur-3xl"></div>
+            <div class="absolute -inset-2 -z-10 rounded-[2rem] bg-gradient-to-br from-brand-500/20 to-neon-fuchsia/20 blur-xl"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================
+       TRENDING NUMBERED SECTION (TOP 10 STYLE)
+       ============================================ -->
+  <section class="relative py-12 md:py-16 border-y border-white/[0.04]">
+    <div class="container-app">
+      <div class="flex items-end justify-between gap-4 mb-8">
+        <div>
+          <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.2em] text-brand-400 mb-2">
+            <span class="h-px w-8 bg-gradient-to-l from-brand-400 to-transparent"></span>
+            TRENDING
+          </div>
+          <h2 class="font-display text-2xl md:text-3xl font-extrabold text-white">
+            رائج <span class="gradient-text">الآن</span>
+          </h2>
+          <p class="mt-1.5 text-sm text-gray-400">الأعلى مشاهدة هذا الأسبوع</p>
+        </div>
+      </div>
+
+      <div id="trending-rail" class="scroll-rail gap-4 md:gap-5">
+        {trending.slice(0, 10).map((item, i) => (
+          <a href={item.url} class="group relative flex items-end gap-2 sm:gap-3 w-[180px] sm:w-[230px] md:w-[260px] shrink-0 snap-start">
+            <!-- Big rank number -->
+            <span class="rank-number text-[80px] sm:text-[110px] md:text-[140px] -mr-2 sm:-mr-3 md:-mr-5 leading-[0.85] shrink-0">{i + 1}</span>
+
+            <!-- Poster -->
+            <div class="relative aspect-[2/3] w-[110px] sm:w-[140px] md:w-[160px] shrink-0 overflow-hidden rounded-xl bg-surface-3 transition-all duration-500 group-hover:scale-105 group-hover:shadow-[0_0_30px_-8px_rgba(168,85,247,0.6)] ring-1 ring-white/5 group-hover:ring-brand-500/40">
+              {item.poster ? (
+                <img src={item.poster} alt={item.clean_title} loading="lazy" referrerpolicy="no-referrer" class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110" />
+              ) : (
+                <div class="flex h-full w-full items-center justify-center bg-surface-4 text-xs text-gray-500 p-2 text-center">{item.clean_title}</div>
+              )}
+              <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+              <span class="absolute top-1.5 right-1.5 badge-hd shadow-[0_2px_8px_rgba(168,85,247,0.5)]">HD</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================
+       CONTENT SECTIONS
+       ============================================ -->
+  <div class="container-app py-12 md:py-16 space-y-14 md:space-y-20">
+
+    <!-- Editor's picks — balanced attractive mix (movies + series + anime) -->
+    <section id="editors-picks">
+      <SectionHeader
+        title="اخترنا لك"
+        subtitle="مزيج متنوّع من أقوى الأفلام والمسلسلات والأنمي الأعلى تقييماً"
+      />
+      <Grid items={featured} priorityCount={6} />
+    </section>
+
+    <!-- Latest Movies -->
+    <section>
+      <SectionHeader
+        title="أحدث الأفلام"
+        subtitle={`${stats.movies} فيلم متاح بجودة عالية`}
+        href={listingRoute('movie')}
+        hrefLabel="تصفّح كل الأفلام"
+      />
+      <Grid items={latestMovies} />
+      <div class="mt-6 flex justify-center">
+        <a href={listingRoute('movie')} class="btn-secondary text-sm px-6 py-3">
+          تصفّح جميع الأفلام ({stats.movies.toLocaleString('ar-EG')})
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 rtl:rotate-180">
+            <path d="M9 6l6 6-6 6"/>
+          </svg>
+        </a>
+      </div>
+    </section>
+
+    <!-- Latest Series -->
+    <section>
+      <SectionHeader
+        title="أفضل المسلسلات"
+        subtitle={`${stats.series} مسلسل بجودة استثنائية`}
+        href={listingRoute('series')}
+        hrefLabel="تصفّح كل المسلسلات"
+      />
+      <Grid items={latestSeries} />
+      <div class="mt-6 flex justify-center">
+        <a href={listingRoute('series')} class="btn-secondary text-sm px-6 py-3">
+          تصفّح جميع المسلسلات ({stats.series.toLocaleString('ar-EG')})
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 rtl:rotate-180">
+            <path d="M9 6l6 6-6 6"/>
+          </svg>
+        </a>
+      </div>
+    </section>
+
+    <!-- Latest Anime -->
+    <section>
+      <SectionHeader
+        title="الأنمي الشائع"
+        subtitle="مختارات أنمي غير خاصة مرتبة حسب الشعبية والتقييم"
+        href={listingRoute('anime')}
+        hrefLabel="تصفّح كل الأنمي"
+      />
+      <Grid items={latestAnime} />
+      <div class="mt-6 flex justify-center">
+        <a href={listingRoute('anime')} class="btn-secondary text-sm px-6 py-3">
+          تصفّح جميع الأنمي ({stats.anime.toLocaleString('ar-EG')})
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 rtl:rotate-180">
+            <path d="M9 6l6 6-6 6"/>
+          </svg>
+        </a>
+      </div>
+    </section>
+
+    <!-- Top Rated -->
+    <section>
+      <SectionHeader title="الأعلى تقييماً" subtitle="وفق تقييمات موثوقة وليس حسب عدد الحلقات" />
+      <Grid items={topRated} />
+    </section>
+
+    <!-- Stats banner -->
+    <section class="glass-panel relative overflow-hidden p-6 md:p-10">
+      <div class="orb h-64 w-64 -top-20 -left-10 bg-brand-600"></div>
+      <div class="orb h-72 w-72 -bottom-20 -right-10 bg-neon-fuchsia"></div>
+
+      <div class="relative grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-10 text-center">
+        <div>
+          <div class="font-display text-4xl md:text-5xl font-extrabold gradient-text">{stats.total}</div>
+          <p class="mt-1.5 text-xs sm:text-sm text-gray-400 uppercase tracking-wider">إجمالي الأعمال</p>
+        </div>
+        <div>
+          <div class="font-display text-4xl md:text-5xl font-extrabold gradient-text">{stats.movies}</div>
+          <p class="mt-1.5 text-xs sm:text-sm text-gray-400 uppercase tracking-wider">فيلم</p>
+        </div>
+        <div>
+          <div class="font-display text-4xl md:text-5xl font-extrabold gradient-text">{stats.series}</div>
+          <p class="mt-1.5 text-xs sm:text-sm text-gray-400 uppercase tracking-wider">مسلسل</p>
+        </div>
+        <div>
+          <div class="font-display text-4xl md:text-5xl font-extrabold gradient-text">{stats.anime}</div>
+          <p class="mt-1.5 text-xs sm:text-sm text-gray-400 uppercase tracking-wider">أنمي</p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Hero slider data for client -->
+  <script id="hero-data" type="application/json" set:html={heroDataJson} />
+
+  <script>
+    type HeroItem = {
+      title: string;
+      poster: string;
+      description: string;
+      category: string;
+      category_label: string;
+      url: string;
+      episodes_count: number;
+      seasons_count: number;
+      year: string | number;
+      genre: string;
+    };
+
+    const heroData: HeroItem[] = JSON.parse(
+      document.getElementById('hero-data')?.textContent || '[]'
+    );
+
+    function themeForCategory(cat: string): string {
+      return cat === 'movie' ? 'movies' : cat === 'series' ? 'series' : 'anime';
+    }
+
+    // Set initial hero theme on body so the first slide colours match its category
+    if (heroData[0]) {
+      document.body.setAttribute('data-section', themeForCategory(heroData[0].category));
+    }
+
+    if (heroData.length > 1) {
+      const titleEl = document.getElementById('hero-title')!;
+      const enTitleEl = document.getElementById('hero-en-title')!;
+      const descEl = document.getElementById('hero-desc')!;
+      const posterEl = document.getElementById('hero-poster') as HTMLImageElement;
+      const bgImg = document.getElementById('hero-bg-img') as HTMLImageElement;
+      const watchBtn = document.getElementById('hero-watch-btn') as HTMLAnchorElement;
+      const posterLink = document.getElementById('hero-poster-link') as HTMLAnchorElement;
+      const catBadge = document.getElementById('hero-cat-badge')!;
+      const yearEl = document.getElementById('hero-year')!;
+      const genreEl = document.getElementById('hero-genre')!;
+      const dots = document.querySelectorAll<HTMLButtonElement>('.hero-dot');
+
+      let current = 0;
+      let timer: number;
+
+      function updateHero(idx: number) {
+        const item = heroData[idx];
+        if (!item) return;
+
+        // Switch the whole-page theme to match this slide's category
+        document.body.setAttribute('data-section', themeForCategory(item.category));
+
+        // Fade out
+        [titleEl, enTitleEl, descEl, posterEl].forEach(el => {
+          if (el) {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(8px)';
+          }
+        });
+
+        setTimeout(() => {
+          titleEl.textContent = item.title;
+          enTitleEl.textContent = item.title;
+          descEl.textContent = item.description || '';
+          catBadge.textContent = item.category_label;
+          yearEl.textContent = String(item.year);
+          genreEl.textContent = item.genre;
+          watchBtn.href = item.url;
+          posterLink.href = item.url;
+
+          if (posterEl && item.poster) {
+            posterEl.src = item.poster;
+            posterEl.alt = item.title;
+          }
+          if (bgImg && item.poster) {
+            bgImg.src = item.poster;
+          }
+
+          // Fade in
+          [titleEl, enTitleEl, descEl, posterEl].forEach(el => {
+            if (el) {
+              el.style.opacity = el === enTitleEl ? '0.7' : '1';
+              el.style.transform = 'translateY(0)';
+            }
+          });
+        }, 350);
+
+        // Update dots — active dot uses the active theme's CSS-var gradient
+        dots.forEach((d, i) => {
+          if (i === idx) {
+            d.classList.add('hero-dot-active', 'w-12');
+            d.classList.remove('w-2', 'bg-white/20');
+            d.style.background = 'var(--gradient-primary)';
+            d.style.boxShadow = '0 0 12px var(--glow)';
+          } else {
+            d.classList.remove('hero-dot-active', 'w-12');
+            d.classList.add('w-2', 'bg-white/20');
+            d.style.background = '';
+            d.style.boxShadow = '';
+          }
+        });
+
+        current = idx;
+      }
+
+      function nextHero() {
+        updateHero((current + 1) % heroData.length);
+      }
+
+      function startTimer() {
+        timer = window.setInterval(nextHero, 6000);
+      }
+
+      // Dot clicks
+      dots.forEach((d) => {
+        d.addEventListener('click', () => {
+          clearInterval(timer);
+          updateHero(Number(d.dataset.index));
+          startTimer();
+        });
+      });
+
+      // Add CSS transition
+      [titleEl, enTitleEl, descEl, posterEl].forEach(el => {
+        if (el) el.style.transition = 'opacity 0.4s ease, transform 0.5s cubic-bezier(0.16,1,0.3,1)';
+      });
+
+      startTimer();
+    }
+  </script>
+</Base>

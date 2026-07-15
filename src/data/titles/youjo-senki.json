@@ -1,0 +1,414 @@
+{
+  "slug": "youjo-senki",
+  "clean_title": "Youjo Senki",
+  "raw_name": "انمي Youjo Senki",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/youjo-senki.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1WyRmSgn3g3WprMX2g0iiFhmYAVWZ4Wkl/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/420x5tz7wljgymr"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700396329547"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/lvygqtkiyjcz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-01-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1251379,
+          "tmdb_still_path": "/jDQj52zrqdhOmI1HWjY8irPWRqa.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1e5LcgqrkCm32vt2E9kspDGnhtSjlxH58/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/jy5z0ad5q1k3dzg"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700409764427"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rqgbw6gdrgzk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-01-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1256348,
+          "tmdb_still_path": "/bZ4OAX20yrc96Ow97rPkiBlQIaX.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1eWZg-y8_YglChmFKsrSE6wIH4fb6Mxvi/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/jy5z0ad5q1k-l1j"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700412189259"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ncxx3ar1eifn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-01-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1258711,
+          "tmdb_still_path": "/9RBlEegROfMcureAo1odlupmGID.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1kDul3KhwX5kLkLNnHqocjLk71fM6cP46/preview"
+            },
+            {
+              "id": 2,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700413762123"
+            },
+            {
+              "id": 3,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hzbbvvzkalpl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-01-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1261006,
+          "tmdb_still_path": "/fLyxiVTWekRfz1kDxSguIKSnDAL.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/10nAqPszWzgvrW6Th5tB1yGwDRztcbR9_/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/7m3n5cg65ygpl6j"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700414548555"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/dl9hhxxertft"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-02-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1263818,
+          "tmdb_still_path": "/sqCcjtzBVEdUfwDZXldN9CfzhmL.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1xgimONPArIQ_yBeq_Nd9ViyR98reaLQN/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/l851phnpzy5lkp1"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700416514635"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/bmjrtdxwbstt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-02-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1264701,
+          "tmdb_still_path": "/cx6VpJvhKpfu5oxHMyPOCKv493z.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1Oyiy1xEV4dr_2y-5ALFlKE5EpzOyQuww/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/8q4m5b87w6ppjez"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700417890891"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/l9lesizgddvx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-02-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1264703,
+          "tmdb_still_path": "/1Xqe499SVeQP3OqmgzEa23Z9SS.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1BiU5m9VzyFy-0d6rZiHVMZfanOlF8Why/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/0d40ntlndw82pnj"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700424837707"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/gerdipuxe1le"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1264704,
+          "tmdb_still_path": "/nFcxEBQNyAhLIU46ODYRpJCNAgX.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1h9DPkgEfmpWvW-h9xx9iHkRzuhGNH-KD/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/kx53rh31j-wz8n1"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700426869323"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/jt7aesvn9kx2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1264706,
+          "tmdb_still_path": "/n7eU7qVjuZCWbbx5pGFaTae1NYZ.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1k6wxnEvEcNUonyUnupvtsozdsKL_ePcR/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/kx53rh31j-wp54x"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700428114507"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/kiapihozp18p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1264708,
+          "tmdb_still_path": "/dcpuzPxU6Y5FyPJeP3hTVlboJiZ.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1BXeU9QFIxuoXqB1zueq6TnEBU4kERTzJ/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/wry0-unr78z8l7x"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700430277195"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1264710,
+          "tmdb_still_path": "/AuTDbAACG6UR6U4BWuQe57w8NSw.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1Z5TPNMn1jdfXqZ8MQr5BJ62DTg4NVPK7/preview"
+            },
+            {
+              "id": 2,
+              "label": "vivystream",
+              "url": "https://suzihazarpc.com/v/7m3n5cg65y33ngw"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3700432636491"
+            },
+            {
+              "id": 4,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/zpv0r72qfqhr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-03-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1264711,
+          "tmdb_still_path": "/zfs4WaQpSrm8NLNtm9MoLfWV5bt.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور القصة حول (تانيا دوغريف) وهي فتاة شقراء ذات عينين زرقاوتين وبشرة بيضاء صافية كالخزف الصيني تُدعى (تانيا) (دِغورِتشاف) ومهمتها هي قيادة الجيش وعليها أن تُقاتل بضراوة  لتغدو الأعتى  بين المقاتلين والسحرة، تملك روح هذه الفتاة ماضٍ مختلف عن واقعها الحالي.",
+  "url": "/anime/youjo-senki",
+  "story": "تدور القصة حول (تانيا دوغريف) وهي فتاة شقراء ذات عينين زرقاوتين وبشرة بيضاء صافية كالخزف الصيني تُدعى (تانيا) (دِغورِتشاف) ومهمتها هي قيادة الجيش وعليها أن تُقاتل بضراوة  لتغدو الأعتى  بين المقاتلين والسحرة، تملك روح هذه الفتاة ماضٍ مختلف عن واقعها الحالي.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Aoi Yuuki، Saori Hayami، Shin-ichiro Miki، Tessyo Genda، Hochu Otsuka، Daiki Hamano",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا، حرب وسياسة",
+  "trailerId": "hc8fErNQNHc",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Youjo Senki",
+    "mainDescription": "تدور القصة حول (تانيا دوغريف) وهي فتاة شقراء ذات عينين زرقاوتين وبشرة بيضاء صافية كالخزف الصيني تُدعى (تانيا) (دِغورِتشاف) ومهمتها هي قيادة الجيش وعليها أن تُقاتل بضراوة  لتغدو الأعتى  بين المقاتلين والسحرة، تملك روح هذه الفتاة ماضٍ مختلف عن واقعها الحالي.",
+    "metaDescription": "Youjo Senki أنمي 2017 | تدور القصة حول (تانيا دوغريف) وهي فتاة شقراء ذات عينين زرقاوتين وبشرة بيضاء صافية كالخزف الصيني تُدعى (تانيا) (دِغورِتشاف)…",
+    "highlights": "تم تحديث بيانات Youjo Senki من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/69346"
+    }
+  },
+  "tmdb_id": 69346,
+  "tmdb_url": "https://www.themoviedb.org/tv/69346",
+  "original_title": "幼女戦記"
+}

@@ -1,0 +1,313 @@
+{
+  "slug": "kuroshitsuji-kishuku-gakkou-hen",
+  "clean_title": "Kuroshitsuji: Kishuku Gakkou-hen",
+  "raw_name": "انمي Kuroshitsuji: Kishuku Gakkou-hen",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kuroshitsuji-kishuku-gakkou-hen.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 11,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://jodwish.com/e/j7lpma3ikf6b"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://jodwish.com/e/au0x2n2o7z7o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-02",
+          "runtime": 24,
+          "tmdb_episode_id": 919017,
+          "tmdb_still_path": "/6V9FLEgDKpBke3Yg43ANAxPkbO2.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://jodwish.com/e/rn5ej8m5g2un"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://jodwish.com/e/yq1u0ldfg60r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-09",
+          "runtime": 24,
+          "tmdb_episode_id": 919018,
+          "tmdb_still_path": "/mXasAWwBpYgDeFXUddjNzKo4RQx.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/4gpnthziyjzx"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/j69666g5ko9b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-16",
+          "runtime": 24,
+          "tmdb_episode_id": 919019,
+          "tmdb_still_path": "/fhlRNZfnx2WS7deBQDwW25ZGAMh.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/w4c7hoepm2yz"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/74ncy6ttg4za"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 919020,
+          "tmdb_still_path": "/vHNVJhwoG6Fa5lJtJT94CiZrYYB.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/1ap81epmtgx2"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/z1wvu12ebvoh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 919021,
+          "tmdb_still_path": "/2NKd68EUVC7h4zaXS5J10iXzfJs.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swhoi.com/e/qr5assx19cr4"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swhoi.com/e/uwraku3b2f1v"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://swhoi.com/e/44pjkyojm1aa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 919022,
+          "tmdb_still_path": "/7qE7DeGBmR6XDh5WqZylqQckCmW.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/iw7y4z11g1j6"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/39tpi7xmu8rk"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/3f4b4ruvvz4t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 919023,
+          "tmdb_still_path": "/yweKCtv2trDFoYXgh6VIEbtjfRe.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/odr8k21y6fx1"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/f5i8dezkjr9n"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/qkp5xhfkeuny"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 919024,
+          "tmdb_still_path": "/pVvQF2nxsxdzZ7NxCTX2YQexg7f.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/dgxq2cbflwve"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/40vidjsixau7"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/rbobnxgbo1xy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 919025,
+          "tmdb_still_path": "/o83S6xkzjOj4wlyV1W9beK7jASR.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/2znm0ql55o5i"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/nm7c4g1t14p7"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/nc3zdxd3fah7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 919026,
+          "tmdb_still_path": "/lOJ7RgjIwGMg2eQuYFHQ47uFBNO.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swdyu.com/e/gxgitriogvfu"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swdyu.com/e/kfljm2llqqip"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://swdyu.com/e/u7jlo5rse6g6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2008-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 919027,
+          "tmdb_still_path": "/9O5GCHlW9QDz8Qm79MeUiFZ3aCU.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Kuroshitsuji: Kishuku Gakkou-hen ضمن أجواء رسوم متحركة، كوميديا، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2008، وتوضح بيانات TMDB أنه يضم 5 موسم و70 حلقة. تبدأ قصة Kuroshitsuji: Kishuku Gakkou-hen من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء تاريخي، غموض، أكشن، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و11 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/kuroshitsuji-kishuku-gakkou-hen",
+  "story": "يدور أنمي Kuroshitsuji: Kishuku Gakkou-hen ضمن أجواء رسوم متحركة، كوميديا، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2008، وتوضح بيانات TMDB أنه يضم 5 موسم و70 حلقة. تبدأ قصة Kuroshitsuji: Kishuku Gakkou-hen من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء تاريخي، غموض، أكشن، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و11 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2008",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Daisuke Ono، Maaya Sakamoto",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما، غموض، خيال علمي وفانتازيا",
+  "trailerId": "EoipHZFNXv0",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "mainDescription": "يدور أنمي Kuroshitsuji: Kishuku Gakkou-hen ضمن أجواء رسوم متحركة، كوميديا، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2008، وتوضح بيانات TMDB أنه يضم 5 موسم و70 حلقة. تبدأ قصة Kuroshitsuji: Kishuku Gakkou-hen من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء تاريخي، غموض، أكشن، خيال، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و11 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Kuroshitsuji: Kishuku Gakkou-hen أنمي 2008 | يدور أنمي Kuroshitsuji: Kishuku Gakkou-hen ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kuroshitsuji: Kishuku Gakkou-hen من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/50712"
+    }
+  },
+  "tmdb_id": 50712,
+  "tmdb_url": "https://www.themoviedb.org/tv/50712",
+  "original_title": "黒執事"
+}

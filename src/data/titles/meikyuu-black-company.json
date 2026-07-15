@@ -1,0 +1,714 @@
+{
+  "slug": "meikyuu-black-company",
+  "clean_title": "Meikyuu Black Company",
+  "raw_name": "انمي Meikyuu Black Company",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/meikyuu-black-company.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2702824376907"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/jdjjphdgd2zx5pm"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/TQQzCIpJ#uV0d7Nsn2yPMJN-U1tvXr86gDETQY8_5EYVcXtNvp2E"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-3tk5d4a4hm18.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2702959643211"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/7gpp4uglg67yg8q"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/aExFHSDA#e91f9HS_6mZILmJW362sigRD-pQwlhmP_AmfGvXKmeU"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rghsi4ckqpcg.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2702954793547"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2331801,
+          "tmdb_still_path": "/pXbIYCzP4ZpB1Ur1yJOBQTviuDe.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2714116688459"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/r277rhegdpe24kl"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-hvxtn1d56vbk.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2714132417099"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/5x001fdjkn4wnj3"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-e5rgnmb4q78b.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2714126518859"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-zaplxy6iobti.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3055151,
+          "tmdb_still_path": "/qWs0WyBGyM49gmXaI8IRMCKGV9y.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2738129472075"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/lrjj2tnjjlx2pg8"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/AsRxjIKQ#_zc0KprMzY6dtUeO1tMD51FaEOu_gR7864hxIoSXSQ4"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-leyc2vy0uoll.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2738148608587"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/x8kk7b588x4r3w0"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/J0g22ZYR#PMtIgxc_p-SQ9PCl9MYZnS410VxL0PgUrZ_REgl8mJw"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-sin3otf678tu.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2738144741963"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3055152,
+          "tmdb_still_path": "/ceSmI4F82bYWpAqj9FsT6KbCxMQ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2746917390923"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/ygzzdue3mz47xp5"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/mz5gRbIQ#NtL29PlAhMF8cSJqgiz0WlEoBrTA9ZNKVyF2mlLV21Y"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-eru9gv50fj0z.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2746920733259"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/3e772bmxem03p3w"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/u7BjEShR#Dps042wOx7RtzxQBvgTnB66cFRf9iejyfr3cGJJQN_I"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6uft44vojics.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2746919619147"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 3055153,
+          "tmdb_still_path": "/eX2QSv8Zhy5tnWKjg4qjWV3Uyf0.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2784197085771"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/lrjj2tnjglq345x"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/4EgjQI7I#3KtEHKhbVAACF583-tbqe5upor77otp8IrBJhQ6LJWE"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-khbyk3nt5yev.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2784201345611"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/g4jjdf-l3jrknd-"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/YRwCWQaa#nWDmRPNlxaEoB0VtLlsibboYvzkFZg1HkJX_j2E8-J8"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rsq1elqxs0cu.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2784200231499"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 3055154,
+          "tmdb_still_path": "/nBAEDWSMFkdHL7LtG6pCsJPBuzP.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2784205670987"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/qm660begrpmr2zp"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/FJoWGSRL#HH9JqmzuRwADU4-5mioGdUtz2F-GDeVK0wkoFE_M0tA"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-b2mqmdvbndf8.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2784208685643"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/x8kk7b586x-6j8z"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/4R5BxADZ#OTmg9BqthLSo9Zgt9-i4sVsMaZmVQgeqJ0vTvGW3mZA"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-dercnzub6ltc.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2784207178315"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 3055155,
+          "tmdb_still_path": "/8hhlzVXo5Nxk7xtQqlNFovHeVnP.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2793624373835"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/qm660beg-jd2741"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/SV4AWI4D#4sMFPqjDjdw26DuaOF800HJ4KPpDcGYxFauIzSONOu0"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-eswm82yvw8zd.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2793631058507"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/qm660beg-j2gd4m"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/2BxSzAhb#2hagW89jbmbGqAI-gbRBjFwpZauDihBGMt_FSRmZ6YU"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2793628437067"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/HZpQXDqD#p97mcZFpVWWm20g-drsUaHEwU-VqQ0ACUSuNaT9muZI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 3055156,
+          "tmdb_still_path": "/12BCkPU3TKILDW1wwCbD4W85DjY.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2809020549707"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/68rr3b01qymzgl7"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/YtokSYjJ#2I6wpM_-yNeVfEmCf34o11eOEu28cq5URZsMDqPykTk"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1n_cofG-fmYpL7vD7ip-t1MOCfxujRgcq/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-816t1l2kl581.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2809027562059"
+            },
+            {
+              "id": 7,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r277rhe-253z051"
+            },
+            {
+              "id": 8,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1rZah7ytwCkAz2Nt-lQVf_nSvVf4W1loM/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/8pgkWApY#bZ51RJKb6TuH290SkVGNEN8u8EYUUDdlnnAy6ZIh_G4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 3055157,
+          "tmdb_still_path": "/N5GjJMcNiDPYsfEctahzau1nCb.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2824959429195"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/lrjj2tnwxdg1k71"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/WiYmmT7L#bNHMsVXjqgCweW69c7GjaUVo4SPiS4qLpw2XoGqzJwk"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-63msa12vx1ro.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2824963033675"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/2l660t2lep5z3pn"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/SyQ0xZgQ#SG8ISAOIW2ve0b5vyetvyRVjXgRro9KV4W78OXjdOj8"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-yghk17dj532d.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2824961002059"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3055158,
+          "tmdb_still_path": "/iTicGMQZoKeRcxOHoCeCjoy82hn.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2840738400843"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/4yddpszylq4632j"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/bJBjkS4C#UchZNJ8DFN86jJMJIJf676vcxQtXllpm6s7ou9mV-kc"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/170Jw4ZWNvjIyYnApNraK3OUSGCbjUNx-/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-i335g4npcvl2.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2840748100171"
+            },
+            {
+              "id": 7,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/5x001fdyglqr0ld"
+            },
+            {
+              "id": 8,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/120STywD8bJewzvrQUGBKdXDHlcD7WJMb/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/2cRVXCgA#gExBim4dTBEPAuRbRfF3xI1G9RUvhLjq4memUdVtKjk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 3055159,
+          "tmdb_still_path": "/wy8Wt62ftHdvRBzZ7Ts8uLTXfHM.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2857800370763"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/jdjjphdekqr01p8"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-k6967h94rzhe.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2857804237387"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-k223ipk52n-dn1"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-sh1brxtibq7k.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2857802271307"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-iu36jzz7vywg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-17",
+          "runtime": 24,
+          "tmdb_episode_id": 3055160,
+          "tmdb_still_path": "/aINU6MR3TiNCkjhue8jhiyRhSJc.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/2874214320715"
+            },
+            {
+              "id": 2,
+              "label": "fmplay",
+              "url": "https://www.fembed.com/v/e-jj6t-l861jrl3"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/LodkkJ7I#eoLz9bFdUzVVYukJGsJ2hryE_YWfrukCBYULpUSnWbQ"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-m7ibtyc21nsh.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2874221660747"
+            },
+            {
+              "id": 6,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/n1jj6u2m7g7ykm5"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/fxMkyT4A#BqmHDgUjN9QZPKegmCRV6rxggoeOsru0FFuDPSrLatY"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ljo7b95rn1cn.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/2874218252875"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-24",
+          "runtime": 24,
+          "tmdb_episode_id": 3055161,
+          "tmdb_still_path": "/5ulI51ATnlIep1xfSlWnqAyWEeV.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Meikyuu Black Company ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Meikyuu Black Company حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف كوميدي، خيال، مغامرات يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Meikyuu Black Company على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/meikyuu-black-company",
+  "story": "يدور أنمي Meikyuu Black Company ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Meikyuu Black Company حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف كوميدي، خيال، مغامرات يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Meikyuu Black Company على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Katsuyuki Konishi، Misaki Kuno، Hiro Shimono، Satomi Sato، Wataru Takagi، Megumi Toda",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "7.4",
+  "imdb_rating": "7.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Meikyuu Black Company",
+    "mainDescription": "يدور أنمي Meikyuu Black Company ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Meikyuu Black Company حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف كوميدي، خيال، مغامرات يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Meikyuu Black Company على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Meikyuu Black Company أنمي 2021 | يدور أنمي Meikyuu Black Company ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Meikyuu Black Company من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/105476"
+    }
+  },
+  "tmdb_id": 105476,
+  "tmdb_url": "https://www.themoviedb.org/tv/105476",
+  "original_title": "迷宮ブラックカンパニー"
+}

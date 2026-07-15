@@ -1,0 +1,280 @@
+{
+  "slug": "rewrite",
+  "clean_title": "Rewrite",
+  "raw_name": "انمي Rewrite",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/rewrite.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/4n7wc4jl4x31"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1183411,
+          "tmdb_still_path": "/bakRbJGF3oJNfy7aD87vaO1ChQt.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/z67v3itiy4sm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1221317,
+          "tmdb_still_path": "/9bS3IU5W07SQKagrzlDw4piv4DC.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vafdh2csmdbl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1221318,
+          "tmdb_still_path": "/6L5LvIsAv9hpaKpiclZffiZf2iv.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/riksyyh3sggg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1221319,
+          "tmdb_still_path": "/oLIQIrjSnn8pPiZ5HMitRPboQdb.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/49ea44vv50ih"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1221320,
+          "tmdb_still_path": "/hurk745ZISkU04G8pr0YO6ZH0GN.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vofkjg50i3wd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1221321,
+          "tmdb_still_path": "/8HPswTh3lQ8CAr0zkKidJ09mQse.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/nygjpfnan8wi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1221322,
+          "tmdb_still_path": "/yIERkv7a4FAJDvfL9aJEiYzjKEy.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6jsroirakcl0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1221323,
+          "tmdb_still_path": "/kj3jCfKKdr1QZdgoadgO46mO2Oe.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wkdviu11tqw6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1221324,
+          "tmdb_still_path": "/7PhluRyTUud47t8300gbqwqA96H.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jce7c1j2sbrn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1221325,
+          "tmdb_still_path": "/humIQAjRFtCOdkPonTFIKJymsQY.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/pzwho1byf0i3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1221326,
+          "tmdb_still_path": "/zrTa2uHFDERZavv7NaKQfxM1FjT.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/kmh66awylos8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1221327,
+          "tmdb_still_path": "/lBzLm8eqDA1IFQ91jrCnLtz9LPs.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hk6lnxq7ppcx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-09-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1221328,
+          "tmdb_still_path": "/7LO9FrYbrmNGkh5XbHXIMWWoF97.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Rewrite ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد Rewrite على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء سحر، أكشن، خيال، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/rewrite",
+  "story": "يدور أنمي Rewrite ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد Rewrite على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء سحر، أكشن، خيال، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Masakazu Morita، Eri Kitamura، Chiwa Saito، Kana Hanazawa، Risa Asaki، Katsuyuki Konishi",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة",
+  "trailerId": null,
+  "rating": "5.1",
+  "imdb_rating": "5.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Rewrite",
+    "mainDescription": "يدور أنمي Rewrite ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2016، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يعتمد Rewrite على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء سحر، أكشن، خيال، رومانسي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Rewrite أنمي 2016 | يدور أنمي Rewrite ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Rewrite من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/66101"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "rewrite",
+      "title": "Rewrite",
+      "url": "/anime/rewrite",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/rewrite.jpg"
+    },
+    {
+      "slug": "rewrite-2nd-season",
+      "title": "Rewrite 2nd Season",
+      "url": "/anime/rewrite-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 11,
+      "poster": "/images/anime/rewrite-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 66101,
+  "tmdb_url": "https://www.themoviedb.org/tv/66101",
+  "original_title": "リライト"
+}

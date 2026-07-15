@@ -1,0 +1,474 @@
+{
+  "slug": "kenja-no-mago",
+  "clean_title": "Kenja no Mago",
+  "raw_name": "انمي Kenja no Mago",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/kenja-no-mago.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Gc1BkVWpea"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/ap0v4ssrfltv"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1YeaUB5oYOoWuBrfBrLvhdfeC0cB1Ij0W/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1eXgqhG_PCQtV91KQWpcz7_7nIjNhHszk/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-k82uuaq7h8e3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1672494,
+          "tmdb_still_path": "/wnAbZwInPK1eWefgxJRDGmAkXeU.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/XI91iox_ea"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/n832rdc6youz"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1gXlYU9dS_ghpshIvUOlkyc9cKIjDqhxT/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1CBgP2SFbN99R2uEJrMklXPddOPujlcYX/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-50nbmzonxseg.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1732603,
+          "tmdb_still_path": "/eHIj35fhTckFIgRLd51oOx4uCTZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/KMDWxXfZea"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/sq6vu1olspuo"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1Yjco1HsB4XK02GSIPYaGjtSfUyZs1arb/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1L4VqLkFnVsyRDpWtJkzXJrJTMrxhnfPi/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-flz86nhu4bp8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-04-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1732604,
+          "tmdb_still_path": "/uT1atrXLrvvsrb664as6XcCUT3a.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/2qZNwOZIiq"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/l9bekdkda2gj"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1L3RbluAsgnv--jCS9cKYM4LDyaZDaboh/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1I_YXiE46xNHbXmoR97A2nccp4sw1u16q/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ctnuwnn904mo.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1732605,
+          "tmdb_still_path": "/gYC9P6OFQhRd2boL5pVGAGDv7Nn.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/2X90d6g-iq"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/oaavjdxdx7hy"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1V_QfFoCWdoEzHh1Lz1tgqP_t7mhrMtYS/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1zJ4SNO7_eA2J6yp62on_Njx4miSxYCEC/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-lk8k9yx7xnyn.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1732606,
+          "tmdb_still_path": "/dMQS76mGPkvODnfFIxj8IrM6AV2.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Ob_Gr1HXea"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/pxiz5zvqa1oa"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1HNhvbumNBCEqBr-fUGuJ3AiPjE9m5zGV/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1bQ_WVXTN0PxH-QbKmOEUWPLLyh1IwC47/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-a6ado9pjc1l5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1732607,
+          "tmdb_still_path": "/sZsm5PntBw1EjEvMiRrpJwpnEHO.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/U9dFOzr3iq"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/vynlq9q0xdei"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1QnjLY-sxZNe-p7U-dijvYv9K27ndDIHn/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1a-IF7or8w_8nAfSu9IzDTOtpxBiAEdMX/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-s4k0ny7uf9tq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1732608,
+          "tmdb_still_path": "/5OJOGhIU5uTB9rZrXzLAGguODam.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/hWB_5EPlea"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/oohm1hvcnwuh"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1S_h5dS3Le_G1Mw9JYhu3V5HwDtE9WBeF/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1-_5kWXN9rEORId34l8feoHF5F37tnhha/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7qt2f9m7pxl1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1732609,
+          "tmdb_still_path": "/rzOkTjgrRPk4VWZgd0VzRXIBIKy.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/p3q_FEjfiq"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/uroqoxjzq0ut"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1DvyEc8BB4wnDX0m0l8Cbt2HWUxglE0zw/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1mFzkVlYHCjrSqmdrYHeDpfJ_LY1DsY21/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-839kfs51hmyz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1732610,
+          "tmdb_still_path": "/c6pSRmIlYjXqeXpjehwPhve4WNz.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/5ifnk28_iq"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/ffhjfhixjamu"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/14bRIPXx5veJt9PW9V3jHvky7SQfeh0ar/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1jQHWe68hw_uNTsmWDEDY2TlaqGqYqF5j/preview"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-1dtlcnu5l49o.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1732611,
+          "tmdb_still_path": "/pgHM7C78G5aRdKABBk1sOVQEV4f.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/tr2kPrS3ea"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/3raohkanul1p"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1hioGI85vtlTXbe8Ig4i8gTDoJZ0lP-KY/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1fnNLPKcNBZeKuPAYEl_gGQFaLD9GyfMZ/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1732612,
+          "tmdb_still_path": "/up1f3rOK80BIbvqflrhIXNxyrcM.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/uRT6Qo4hiq"
+            },
+            {
+              "id": 2,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/h1b5qrysbqvr"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1UxYYN5-ms18rppyqKPDPgQW1g0jdE1WC/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1meYD6OU5IfduucBYu4rzx4E2PRrjIwQd/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1732613,
+          "tmdb_still_path": "/mzx0kTVG8RbZGmwI2bvXYvMWSTY.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "شاب مات في حادث، ثم ولد من جديد في عالم آخر وهو طفل! بعد ذلك، تم اختياره من قبل البطل الوطني  ميرلين ولفورد وحصل على اسم شين.",
+  "url": "/anime/kenja-no-mago",
+  "story": "شاب مات في حادث، ثم ولد من جديد في عالم آخر وهو طفل! بعد ذلك، تم اختياره من قبل البطل الوطني  ميرلين ولفورد وحصل على اسم شين.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yusuke Kobayashi، Shohei Komatsu، Rina Honnizumi، Yuuki Wakai، Yusaku Yara، Gara Takashima",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "gy-78Y-chds",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Kenja no Mago",
+    "mainDescription": "شاب مات في حادث، ثم ولد من جديد في عالم آخر وهو طفل! بعد ذلك، تم اختياره من قبل البطل الوطني  ميرلين ولفورد وحصل على اسم شين.",
+    "metaDescription": "Kenja no Mago أنمي 2019 | شاب مات في حادث | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Kenja no Mago من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/85844"
+    }
+  },
+  "tmdb_id": 85844,
+  "tmdb_url": "https://www.themoviedb.org/tv/85844",
+  "original_title": "賢者の孫"
+}

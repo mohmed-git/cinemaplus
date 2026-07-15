@@ -1,0 +1,325 @@
+{
+  "slug": "engage-kiss",
+  "clean_title": "Engage Kiss",
+  "raw_name": "انمي Engage Kiss",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/engage-kiss.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/zadramkduuu6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/pqavrq0csjne"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-03",
+          "runtime": 24,
+          "tmdb_episode_id": 3620602,
+          "tmdb_still_path": "/5zYejrzeBC1xa0fb4lxTaDOyrPT.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uepd9hu95xzx"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/bp27kn4bm6ok"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-10",
+          "runtime": 24,
+          "tmdb_episode_id": 3815866,
+          "tmdb_still_path": "/2Mr2ITeKhrWeTsTg2SpUWoqH1KJ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/2ksvj9pc5lyu"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qglpk47n08xw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-17",
+          "runtime": 24,
+          "tmdb_episode_id": 3815867,
+          "tmdb_still_path": "/dZ53hqy6BLo27fLZTqjBltcrUus.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/9tb5wxeelbui"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/n9y39vs09ok0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-24",
+          "runtime": 24,
+          "tmdb_episode_id": 3815868,
+          "tmdb_still_path": "/whWHsw9EYtD2RjMstXzWBM11nZq.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/150o87diuje7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/2tav1ffabglj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-31",
+          "runtime": 24,
+          "tmdb_episode_id": 3815869,
+          "tmdb_still_path": "/kkNqHZBlPSBj5jt5HNNuAB5X3Xw.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/pxyjpjicdok5"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/jq6f80vn4sye"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3815870,
+          "tmdb_still_path": "/zgbc6UgDsF7LkH6d9B3CuIqYJmN.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ubrdtmwojsxd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/5yq9awgocdth"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-14",
+          "runtime": 24,
+          "tmdb_episode_id": 3815871,
+          "tmdb_still_path": "/6VwlWDZodtWzhTBg0ySYiYlvMKX.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/2nakfdv04oez"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/99ngqxgzqqnt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-21",
+          "runtime": 24,
+          "tmdb_episode_id": 3815872,
+          "tmdb_still_path": "/g6JnqOSWTPCYNuC4iRSWSO174lf.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/2ec2xib6agpj"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/a944ku4cksey"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-28",
+          "runtime": 24,
+          "tmdb_episode_id": 3815909,
+          "tmdb_still_path": "/hCrO6HNBX3GAr8vSlP4Qx9L2t1J.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ln7e1mp5uaqu"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/5u9jij7mv44c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3815910,
+          "tmdb_still_path": "/oFFFKsSRCVXUQFVO8QrRuYWWP4S.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/95hkt251yvf2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/88cki08zv0qy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3815911,
+          "tmdb_still_path": "/lEYiUoGEtwcEBRMti6wzp5Oo2U9.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/t7teoofa14ql"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/zxkyzvdbz52q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3815912,
+          "tmdb_still_path": "/xFYRgAA9GHoRaSDt2Un1PZghZuD.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/tuo1j9eepfgj"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hichbizvfp2u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-25",
+          "runtime": 24,
+          "tmdb_episode_id": 3815913,
+          "tmdb_still_path": "/AuLOFZoJibUkwSQhUEObfJEDJ8p.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Engage Kiss ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Engage Kiss على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خارق للطبيعة، رومانسي، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/engage-kiss",
+  "story": "يدور أنمي Engage Kiss ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Engage Kiss على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خارق للطبيعة، رومانسي، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Soma Saito، Saya Aizawa، Lynn، Rumi Okubo، Akeno Watanabe، Kenichirou Matsuda",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "P7HPMH8x4rg",
+  "rating": "6.1",
+  "imdb_rating": "6.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Engage Kiss",
+    "mainDescription": "يدور أنمي Engage Kiss ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Engage Kiss على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خارق للطبيعة، رومانسي، كوميدي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Engage Kiss أنمي 2022 | يدور أنمي Engage Kiss ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Engage Kiss من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/196040"
+    }
+  },
+  "tmdb_id": 196040,
+  "tmdb_url": "https://www.themoviedb.org/tv/196040",
+  "original_title": "Engage Kiss"
+}

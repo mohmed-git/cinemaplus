@@ -1,0 +1,515 @@
+{
+  "slug": "classic-stars",
+  "clean_title": "Classic Stars",
+  "raw_name": "انمي Classic Stars",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/classic-stars.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jJK5BzsRihE4flzd"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/8nx7z3hzsdve"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/u0j02552442y"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Td8FuYq7neJkaUoW"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/x0iko3yr66yu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 5951319,
+          "tmdb_still_path": "/tFTla7JkjepuYxb9xDz3g5WCBFw.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5wcvQXXv2uAWZgyz"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/nptkx8u1mh9s"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/5nk4yil0ptay"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XrEdu3JWjRAkU92m"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/k8sqnjdru11z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 6093156,
+          "tmdb_still_path": "/4jKMqZ0LkdijAbFOxvXXPvXcxoJ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "//videa.hu/player?v=dEKnwvfvAROPhfcj"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/8w7zoi2mycab"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/c3tddpkg0tqw"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TXMdBZNy1yFzfzBf"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/8unqk7u7vo7t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 6093157,
+          "tmdb_still_path": "/e8IT4NByC2rbl5O95VRuAIQT5Fq.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IXtRKQwailREXBSE"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/40pmjlq1e7mk"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/sy0l15cfuwuc"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rdX8PHurFszsQKL1"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/e32e6wswt4qh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 6093158,
+          "tmdb_still_path": "/pA28QtYZMazimQrNnEoGoYYRlZH.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dNC2m6CAMiH31a3c"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/m0d2m0lucki6"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/11sknhmuf4ue"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QZaPzI1PEsQSaraL"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/665eqi3kpp88"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 6169786,
+          "tmdb_still_path": "/hXbrBcvu8Pzy2CZjISPKIQOOD2u.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5pOeG4gF7CMg3X3J"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/rhneb9i8rbev"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/uiwv3m877l6k"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=u3H87fI8KrFT6mrW"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/y291vq40zeik"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 6169788,
+          "tmdb_still_path": "/6NGPGeEknVXIqF43CyN6QnQ9OQC.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=b4CAAZKgq2qODXNB"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/w8uf1bhfuvar"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/32zxy57b5zbw"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DjHl95VOF9O7Jbqe"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/3h24fxppjcsy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 6212274,
+          "tmdb_still_path": "/jbxwOaIpZhh9O0RRvwQAaBtf3Df.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GRdoWzuha5sUloJZ"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/oxn9vj6mmzo6"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/jw90hvc2phyo"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ahwVwuJq2yr6f3fg"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/ihnhqw2785m7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 6212275,
+          "tmdb_still_path": "/zBZL9lNO1QkMGAxdz8aqIJZrZQS.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xabl8VOOBnoAJS3z"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/txiukmxqqv2y"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/ot2bp019sko8"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7C0YpgOMvGcz462q"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/211mw0bceejc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 6212276,
+          "tmdb_still_path": "/bGbjvzct1vFHO1J3rHItkeWMP3I.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=W5X8o6nLNT2rmvLF"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/ezte90j7t814"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WufPuWy1z3hFB0i9"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/pck93wn7don4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 6212277,
+          "tmdb_still_path": "/n90b9mnb0xZJF4X7OEw0SJ2IjaE.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CId9bP5jkvIbqIoZ"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/l8taruyat0h7"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/xefxyjxabks5"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BXCQaF7nUiQa3Bo8"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/5buaw8lls75c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 6212278,
+          "tmdb_still_path": "/xzQ5e7COSNY4pbBJEvaOcHQNCm9.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=w9kZZXPF8ha47Mxp"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/lo2gsaidv8k7"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/0vvzhb9yj0r8"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=A3yOBAT8oYjoFEqv"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/q3fymdqlp95h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 6212279,
+          "tmdb_still_path": "/u4DIKsSkKJVUc8XbtCdiJBYYOxp.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OauFygMMFVTCNg08"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/wdagaa6zi59x"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/0j00g8afjykj"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SUTumXabPnID0g4C"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/h6ajhnzjekzm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 6212280,
+          "tmdb_still_path": "/jpqngJj9bDDwEnFe6s7CPTzJuJG.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Classic Stars ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Classic Stars على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. ينتمي العمل إلى أجواء موسيقى، مدرسي، لذلك يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "url": "/anime/classic-stars",
+  "story": "يدور أنمي Classic Stars ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Classic Stars على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. ينتمي العمل إلى أجواء موسيقى، مدرسي، لذلك يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuma Uchida، Shun Abe، Shoya Ishige، Akari Tadano، Kent Ito",
+  "genre": "أنمي، رسوم متحركة",
+  "trailerId": "BnI0BqkjOrw",
+  "rating": "4.4",
+  "imdb_rating": "4.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Classic Stars",
+    "mainDescription": "يدور أنمي Classic Stars ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يعتمد Classic Stars على تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. ينتمي العمل إلى أجواء موسيقى، مدرسي، لذلك يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+    "metaDescription": "Classic Stars أنمي 2025 | يدور أنمي Classic Stars ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Classic Stars من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/283360"
+    }
+  },
+  "tmdb_id": 283360,
+  "tmdb_url": "https://www.themoviedb.org/tv/283360",
+  "original_title": "クラシック★スターズ"
+}

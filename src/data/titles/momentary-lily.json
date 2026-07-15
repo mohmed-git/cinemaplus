@@ -1,0 +1,546 @@
+{
+  "slug": "momentary-lily",
+  "clean_title": "Momentary Lily",
+  "raw_name": "انمي Momentary Lily",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/momentary-lily.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 14,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 14,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=w9yi4m9683XtqTzX"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/o98huiksf7b2"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/n4r8miqyjrbt"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "//videa.hu/player?v=b0KxwAPEdp1gVEGO"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/im6voosw6wu0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5448301,
+          "tmdb_still_path": "/eSfTxEKAziBVB55FVldlqyk7QOM.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=yuQ6XOdZvS84wlWx"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/six7catx2y4r"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/mugxjthktnoy"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tdNtnDwfmPB2bMwT"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/bl13i4ttl5je"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5872237,
+          "tmdb_still_path": "/wTMezFc1BK07hBJDx0nzc4MJHb1.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FhaRWB1CFIEUhVGV"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://ghbrisk.com/e/fz1rwn8qec2h"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://ghbrisk.com/e/88u9fak9wybr"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ooCZGw64pWOMaIFB"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://ghbrisk.com/e/29n1nmz3ykcp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5872238,
+          "tmdb_still_path": "/yq5mCGoHoMRSpovmWXDrElVBXgD.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=l7jD19sBkHkkcOBp"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://ghbrisk.com/e/vb2zzwy3m8zc"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://ghbrisk.com/e/fvcgso6vj5jk"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1AECtPz5TGYIH1KI"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://ghbrisk.com/e/h2l9uj8g3uy1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5874333,
+          "tmdb_still_path": "/zuvJI533Ixe7lmeGlohTiSuCS8j.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DxyhXW0rKelxTXCt"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://ghbrisk.com/e/ryf6yenr7lf9"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://ghbrisk.com/e/eibr6brv4idf"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mq0iQBMSYPPvufOV"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://ghbrisk.com/e/ahwd10x69h58"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5874335,
+          "tmdb_still_path": "/8y1MG3VDO2TAlL44iyIdgUS8opG.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=f8wCMLTBmdFV6nD7"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://ghbrisk.com/e/mym5h1qt5knl"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://ghbrisk.com/e/low0ssemnrps"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YH5XOyeTA9bi5UUA"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://ghbrisk.com/e/5f2mp5avvlnj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5874336,
+          "tmdb_still_path": "/jufNKHZ8j7mx20rXAERUk0mMWnp.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=28Ysf9eajKGtdcsb"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://ghbrisk.com/e/1z1ogydevdzm"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://ghbrisk.com/e/1ym76i3kgzub"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EB52J8WGnO16LhOu"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://ghbrisk.com/e/s2jddv0fhoy2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5874337,
+          "tmdb_still_path": "/7z7p8hndPeiOMWK0BehX6AKWUdb.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7cukCXp0ZeLVgeB2"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://ghbrisk.com/e/wt3ava46jsgz"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://ghbrisk.com/e/8u2fs2yz25pt"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - FHD",
+              "url": "https://ghbrisk.com/e/wp1l3r9nu8gh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5874909,
+          "tmdb_still_path": "/zpK8ocZOP4pPA3eGhf28JuN9ENo.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZFsBCV2Er0DZZ2G0"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://ghbrisk.com/e/qteeyrq5h70"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://ghbrisk.com/e/any9go0vz6xr"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lFRS6hCiBiov4cXo"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://ghbrisk.com/e/km71opqka02h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5874910,
+          "tmdb_still_path": "/nTZaaSc2KZGQJmLDgIlNUbSvYxh.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PB2clMbyWL8zBltj"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/93989q2gaou2"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/6wam518f3bjb"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RVLrkeuI2dlTsvuC"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/x7dlnylatc9j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5874911,
+          "tmdb_still_path": "/d3q065eWupQPgCGpLhdsuvg0DaG.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=McK1SAJ74iZY4OBE"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/ahwx5j2xfw2i"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/hvq4bsm6qu5y"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=y7hUomheBfsaomas"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/pmdmjoqkoyry"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5874912,
+          "tmdb_still_path": "/fwpIJVOlr22MKiEjuSUMmRTsfV6.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GXJAS7T454Js1wnn"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/b022r1hphihz"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/isamigguz6n6"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=w6I27JuocuGgV1AP"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/72aefzyst1or"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5874913,
+          "tmdb_still_path": "/fypHo4CzE0KtKwXAFs87a0zc0Uj.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=V7oMyuRAMcxBzL7V"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/vb4z11w77zeq"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/ys8quxf0mrpk"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EBKRHTrB8eNE23m7"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/33rgeg12du0q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5966865,
+          "tmdb_still_path": "/itm80cfiZIRkGQM1rdI1H0JsBTm.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dk5kPWPKA3GdzU7p"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/7qo8uxniy6x4"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/09nnhithvhdk"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PGKnzxoSyQR3Qrjy"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/n3g5grlaexpm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Momentary Lily ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Momentary Lily حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خيال علمي، قوة خارقة، أكشن، شريحة من الحياة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و14 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/momentary-lily",
+  "story": "يدور أنمي Momentary Lily ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Momentary Lily حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خيال علمي، قوة خارقة، أكشن، شريحة من الحياة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و14 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Natsuko Abe، Tsugumi Sakuragi، Shion Wakayama، Manatsu Murakami، Misaki Kuno، Miyuri Shimabukuro",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "qfmzZi6z7wo",
+  "rating": "5.8",
+  "imdb_rating": "5.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Momentary Lily",
+    "mainDescription": "يدور أنمي Momentary Lily ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Momentary Lily حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خيال علمي، قوة خارقة، أكشن، شريحة من الحياة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و14 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Momentary Lily أنمي 2025 | يدور أنمي Momentary Lily ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Momentary Lily من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/258228"
+    }
+  },
+  "tmdb_id": 258228,
+  "tmdb_url": "https://www.themoviedb.org/tv/258228",
+  "original_title": "もめんたりー・リリィ"
+}

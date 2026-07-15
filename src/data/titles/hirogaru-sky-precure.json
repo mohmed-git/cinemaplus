@@ -1,0 +1,262 @@
+{
+  "slug": "hirogaru-sky-precure",
+  "clean_title": "Hirogaru Sky! Precure",
+  "raw_name": "انمي Hirogaru Sky! Precure",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hirogaru-sky-precure.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4901899733579"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5EsvOycbk2TTWrWI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-05",
+          "runtime": 25,
+          "tmdb_episode_id": 4041172,
+          "tmdb_still_path": "/e4H67GXWNhZVTSdriMJO4p3RrMf.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4901919263307"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PhuJQAkFpSp8AJLh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-12",
+          "runtime": 25,
+          "tmdb_episode_id": 4214183,
+          "tmdb_still_path": "/uDH8Kg5FeKrwjVZrhn5LkBZcVO5.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4901958847051"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DIl95gSDCUX7CiLE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-19",
+          "runtime": 25,
+          "tmdb_episode_id": 4214184,
+          "tmdb_still_path": "/txDXe2NexfXZobiJ6RvumAlKb4f.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4901967956555"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gBfIdVbHePinHY5g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-26",
+          "runtime": 25,
+          "tmdb_episode_id": 4214185,
+          "tmdb_still_path": "/29PiLgYZC3tOFcTsPVfhRNF3aN0.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4901979621963"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Eq5xsgajdTn5HPpm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-05",
+          "runtime": 25,
+          "tmdb_episode_id": 4214186,
+          "tmdb_still_path": "/wNvyBrgHJaP7hMzUFkAxEinDRMw.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4901988010571"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mD3EH2Yrw4uHbJ4B"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-12",
+          "runtime": 25,
+          "tmdb_episode_id": 4214187,
+          "tmdb_still_path": "/dAY8l2izDrbAxTfaQOOFAiWAQHf.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4902012521035"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=d5mDMGbjMTPmE65o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-19",
+          "runtime": 25,
+          "tmdb_episode_id": 4214188,
+          "tmdb_still_path": "/fe0e2iIjKNwgtNJIa9mirsNm4h1.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4949411105355"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0S4oI87fQNL4Tioo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-26",
+          "runtime": 25,
+          "tmdb_episode_id": 4214189,
+          "tmdb_still_path": "/1yhwLxT92djOPByJURTCciQVh75.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5006341376587"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=A3RRmz318zZlDR2z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-02",
+          "runtime": 25,
+          "tmdb_episode_id": 4214190,
+          "tmdb_still_path": "/oNvuBsG7OlSIdxLnYGbvUVbs8qC.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5067463395915"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IekDsls5QcEh3ySB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-09",
+          "runtime": 25,
+          "tmdb_episode_id": 4214191,
+          "tmdb_still_path": "/TMJhu6pLTXQTTR6w8rG0i2vCuQ.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hirogaru Sky! Precure ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و50 حلقة. تبدأ قصة Hirogaru Sky! Precure من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شوجو، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يمكن متابعة Hirogaru Sky! Precure على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/hirogaru-sky-precure",
+  "story": "يدور أنمي Hirogaru Sky! Precure ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و50 حلقة. تبدأ قصة Hirogaru Sky! Precure من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شوجو، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يمكن متابعة Hirogaru Sky! Precure على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Akira Sekine، Ai Kakuma، Aoi Koga، Ayumu Murase، Ayaka Nanase، Yasuhiro Mamiya",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا، أطفال، عائلي",
+  "trailerId": "IKncxKXrlA8",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hirogaru Sky! Precure",
+    "mainDescription": "يدور أنمي Hirogaru Sky! Precure ضمن أجواء رسوم متحركة، حركة ومغامرة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و50 حلقة. تبدأ قصة Hirogaru Sky! Precure من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف شوجو، أكشن، خيال يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يمكن متابعة Hirogaru Sky! Precure على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Hirogaru Sky! Precure أنمي 2023 | يدور أنمي Hirogaru Sky | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hirogaru Sky! Precure من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/213883"
+    }
+  },
+  "tmdb_id": 213883,
+  "tmdb_url": "https://www.themoviedb.org/tv/213883",
+  "original_title": "ひろがるスカイ！プリキュア"
+}

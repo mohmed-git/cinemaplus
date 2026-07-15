@@ -1,0 +1,56 @@
+---
+/**
+ * AdBanner — يعرض إعلان بانر مناسب حسب الجهاز
+ * type: 'wide' = 728x90 (ديسكتوب) | 'square' = 300x250 | 'mobile' = 320x50
+ */
+interface Props {
+  type?: 'wide' | 'square' | 'mobile-strip';
+  class?: string;
+}
+const { type = 'square', class: cls = '' } = Astro.props;
+---
+
+{type === 'wide' && (
+  <div class={`ad-banner ad-wide hidden lg:flex justify-center my-3 ${cls}`}>
+    <div class="ad-wrap">
+      <script is:inline>
+        atOptions = { 'key': 'd8fc084357e85725329760162e8a56ae', 'format': 'iframe', 'height': 90, 'width': 728, 'params': {} };
+      </script>
+      <script src="https://www.highperformanceformat.com/d8fc084357e85725329760162e8a56ae/invoke.js" is:inline></script>
+    </div>
+  </div>
+)}
+
+{type === 'square' && (
+  <div class={`ad-banner ad-square flex justify-center my-4 ${cls}`}>
+    <div class="ad-wrap">
+      <script is:inline>
+        atOptions = { 'key': 'ee64d0baeb1684057012862e7e2cbd62', 'format': 'iframe', 'height': 250, 'width': 300, 'params': {} };
+      </script>
+      <script src="https://www.highperformanceformat.com/ee64d0baeb1684057012862e7e2cbd62/invoke.js" is:inline></script>
+    </div>
+  </div>
+)}
+
+{type === 'mobile-strip' && (
+  <div class={`ad-banner ad-mobile-strip flex lg:hidden justify-center my-2 ${cls}`}>
+    <div class="ad-wrap">
+      <script is:inline>
+        atOptions = { 'key': '0a73b8f05deec5d047f905bd0d996e93', 'format': 'iframe', 'height': 50, 'width': 320, 'params': {} };
+      </script>
+      <script src="https://www.highperformanceformat.com/0a73b8f05deec5d047f905bd0d996e93/invoke.js" is:inline></script>
+    </div>
+  </div>
+)}
+
+<style>
+  .ad-wrap {
+    display: inline-block;
+    border-radius: 8px;
+    overflow: hidden;
+    line-height: 0;
+  }
+  .ad-banner {
+    width: 100%;
+  }
+</style>

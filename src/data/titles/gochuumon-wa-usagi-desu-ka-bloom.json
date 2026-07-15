@@ -1,0 +1,244 @@
+{
+  "slug": "gochuumon-wa-usagi-desu-ka-bloom",
+  "clean_title": "Gochuumon wa Usagi Desu ka? Bloom",
+  "raw_name": "انمي Gochuumon wa Usagi Desu ka? Bloom",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/gochuumon-wa-usagi-desu-ka-bloom.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ovX1fAfRZxRsGVH9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 985568,
+          "tmdb_still_path": "/uwrjqq8wBNocvLa5Qp9sI8wJ7KB.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uz42aUyqV0RDFKCR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-17",
+          "runtime": 24,
+          "tmdb_episode_id": 985567,
+          "tmdb_still_path": "/hEqmbGc7P1vVI1IYl3N3O0zGblz.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BuIX9TmXfqgP59iS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-24",
+          "runtime": 24,
+          "tmdb_episode_id": 985566,
+          "tmdb_still_path": "/5Gl7ZzeLOeLC260qMaFCpxfKPRa.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rap2PdpiHtGed1pK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-01",
+          "runtime": 24,
+          "tmdb_episode_id": 985565,
+          "tmdb_still_path": "/2waJUtI0Q5a1G1QqttdfXGbkNdU.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JjafQytrpPP7QmaA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-08",
+          "runtime": 24,
+          "tmdb_episode_id": 985564,
+          "tmdb_still_path": "/4kaMYtc2Ip9G9YFvEMQcalMsfTC.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OUzdlzh3gWPfbCOL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-15",
+          "runtime": 24,
+          "tmdb_episode_id": 985563,
+          "tmdb_still_path": "/daClTKi66HeqFYiiUlloTleLN2f.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aALRvtAspz8XUZ0b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-22",
+          "runtime": 24,
+          "tmdb_episode_id": 985562,
+          "tmdb_still_path": "/w4QIosS6DjFfH5BbrVVEW5vBiLs.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=13GwPTpyllpMLWgf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-29",
+          "runtime": 24,
+          "tmdb_episode_id": 985561,
+          "tmdb_still_path": "/qVau6OmSmeBrOrnyyXBb4JUHkEt.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FP5muxThbsEyZH38"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-05",
+          "runtime": 24,
+          "tmdb_episode_id": 985560,
+          "tmdb_still_path": "/n3QFSIeMcaUrK60X4HyFu6c3Mgu.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Kka2tgFsY8SXEzXY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-12",
+          "runtime": 24,
+          "tmdb_episode_id": 985559,
+          "tmdb_still_path": "/fGIpTSKfANvNGdM8WkGfmxLBcC.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YCEWExNlpi7g2fS0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-19",
+          "runtime": 24,
+          "tmdb_episode_id": 985558,
+          "tmdb_still_path": "/p03z4RFFzWgJY5nl7y6XKJWgQUx.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AtMf13sr5LKhF6Hx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-26",
+          "runtime": 24,
+          "tmdb_episode_id": 985557,
+          "tmdb_still_path": "/ieeyVtD81EPOZR44prq1GIz6SJu.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Gochuumon wa Usagi Desu ka? Bloom ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 3 موسم و36 حلقة. يدور أنمي Gochuumon wa Usagi Desu ka? Bloom حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات شريحة من الحياة، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/gochuumon-wa-usagi-desu-ka-bloom",
+  "story": "يدور أنمي Gochuumon wa Usagi Desu ka? Bloom ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 3 موسم و36 حلقة. يدور أنمي Gochuumon wa Usagi Desu ka? Bloom حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات شريحة من الحياة، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ayane Sakura، Inori Minase، Risa Taneda، Satomi Sato، Maaya Uchida، Sora Tokui",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "V67pVb3o4nc",
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Gochuumon wa Usagi Desu ka? Bloom",
+    "mainDescription": "يدور أنمي Gochuumon wa Usagi Desu ka? Bloom ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 3 موسم و36 حلقة. يدور أنمي Gochuumon wa Usagi Desu ka? Bloom حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تمنح تصنيفات شريحة من الحياة، كوميدي العمل نبرة واضحة، فهو يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Gochuumon wa Usagi Desu ka? Bloom أنمي 2014 | يدور أنمي Gochuumon wa Usagi Desu ka? Bloom ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Gochuumon wa Usagi Desu ka? Bloom من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/60843"
+    }
+  },
+  "tmdb_id": 60843,
+  "tmdb_url": "https://www.themoviedb.org/tv/60843",
+  "original_title": "ご注文はうさぎですか？"
+}

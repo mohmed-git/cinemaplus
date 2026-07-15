@@ -1,0 +1,220 @@
+{
+  "slug": "tokyo-mew-mew-new",
+  "clean_title": "Tokyo Mew Mew New ♡",
+  "raw_name": "انمي Tokyo Mew Mew New ♡",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tokyo-mew-mew-new.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 3,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 3,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3892893059659"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/lrwxlaecthha"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/c4z23mh5u6ki"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/uj19bkn2lv89/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-atjcdao3r4rr.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3892896205387"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/NTUjiAbY#DKQ-9yHM48H2X24yREseq7yMlKpN-PkW356tI7os4fM"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-t9ovqst16clo.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3892898040395"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2702490,
+          "tmdb_still_path": "/dwTnnhz0JkZq6U6W0hiBT1FHoj2.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3910948948555"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/wqmy8cmbmbdj"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/0quqvmqgl867"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/6epcuxtc5hfw/"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3910952290891"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/IF8QVSyJ#QR8ALWTQISWxd7CewVdEKP_7BKLp02GQtGJt7a_Gm4M"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/mx8rbmarxmic.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3910962645579"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/qykthlpanooi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 3820948,
+          "tmdb_still_path": "/dnfj0ZNHK4LlD55NfIc2ZMw2BEy.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3940017244747"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/16o2uknjxp0s"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/y2w4irf120x3cqn2c0nnaz517uwnwlut"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/5ttflrc8rzo5"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/6ljyp5l9db0t.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3940060432971"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/AkgGWDSB#HFWBkS4jABX48z8LcrhTVfku79MrcpUi_PwDGkyiNsQ"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/qo7695ezu73l.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3940082518603"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 3820949,
+          "tmdb_still_path": "/8OAzlAMRNzGqRq0G7mgOYGv6r6x.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Tokyo Mew Mew New ♡ ضمن أجواء رسوم متحركة، عائلي، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. في أنمي Tokyo Mew Mew New ♡ تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف خيال علمي، خيال، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يمكن متابعة Tokyo Mew Mew New ♡ على CINMAPRO عبر 1 موسم و3 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/tokyo-mew-mew-new",
+  "story": "يدور أنمي Tokyo Mew Mew New ♡ ضمن أجواء رسوم متحركة، عائلي، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. في أنمي Tokyo Mew Mew New ♡ تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف خيال علمي، خيال، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يمكن متابعة Tokyo Mew Mew New ♡ على CINMAPRO عبر 1 موسم و3 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuuki Temma، Mirai Hinata، Ryouko Jyuni، Rian Toda، Momoka Ishii، Yuma Uchida",
+  "genre": "أنمي، رسوم متحركة، عائلي، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، دراما",
+  "trailerId": "kZX-MpTbcts",
+  "rating": "7.5",
+  "imdb_rating": "7.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tokyo Mew Mew New ♡",
+    "mainDescription": "يدور أنمي Tokyo Mew Mew New ♡ ضمن أجواء رسوم متحركة، عائلي، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. في أنمي Tokyo Mew Mew New ♡ تتحرك الحكاية حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف خيال علمي، خيال، رومانسي، كوميدي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي يعرض الان. يمكن متابعة Tokyo Mew Mew New ♡ على CINMAPRO عبر 1 موسم و3 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Tokyo Mew Mew New ♡ أنمي 2022 | يدور أنمي Tokyo Mew Mew New ♡ ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tokyo Mew Mew New ♡ من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/118017"
+    }
+  },
+  "tmdb_id": 118017,
+  "tmdb_url": "https://www.themoviedb.org/tv/118017",
+  "original_title": "東京ミュウミュウ にゅ～♡"
+}

@@ -1,0 +1,390 @@
+{
+  "slug": "delicos-nursery",
+  "clean_title": "Delicos Nursery",
+  "raw_name": "انمي Delicos Nursery",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/delicos-nursery.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://wishonly.site/e/z85ciwjr9inu"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://wishonly.site/e/qqdpaytm3zkj"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://wishonly.site/e/zpsuop0b9g88"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4635439,
+          "tmdb_still_path": "/1XVXWvOR0q9YKCU9njBRPxCsOjW.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://wishonly.site/e/qnt0b5msmnv9"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://wishonly.site/e/jbo28a4pknjf"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://wishonly.site/e/tf8lsu8b8286"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5520207,
+          "tmdb_still_path": "/lBbXBjqDcXz5SqQlJSO5pizVm9Y.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://wishonly.site/e/dwghjt2uvzj6"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://wishonly.site/e/qahseeyxyanb"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://wishonly.site/e/jvx8klynknqi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5520208,
+          "tmdb_still_path": "/iIrjbKa4Cmy4obkoulZNB3f07nl.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/hk9k10ezwvyc"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/j0wvd5zkwbi6"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/ipvvfjtpbl6i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 5520292,
+          "tmdb_still_path": "/4SSX5g1qirpN4FrHay9NbZrLyf1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/gy0x8zsvaxfg"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/bs8c35kqj60b"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/f4i4hjhexbvx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5520293,
+          "tmdb_still_path": "/vaJlAy3u19xNAYQUU8aqahn5Swk.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/yj9gyxdvvbaj"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/wwfwxwmu28qy"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/vz90hwjv7nrl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5520294,
+          "tmdb_still_path": "/hlu8ett23tk5o2z3jgkovG76zPv.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/d21pzsukw22w"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/qrynb8nq4o0f"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/t5lvb2qyn34i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5591958,
+          "tmdb_still_path": "/94nfAdCwTySqUk4nMOM0PsAYmfq.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/f1recuxep8mp"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/acxb7pn1bj8k"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/0wa63xeylvhf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5681795,
+          "tmdb_still_path": "/99lUu98FJWJQG6n8d34KQsH8yWD.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/wx7s72eu4l5u"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/1xli8jd9ohxx"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/qpdf4xxbdscz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5714477,
+          "tmdb_still_path": "/qtUveZcSgIx19TZFiiLH7lFlHDN.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/6nnl2k6jiu1q"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/w1ct19nid26w"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/8b34g1o4czwj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5716409,
+          "tmdb_still_path": "/fASZyXZxsPJtCvRL1wFewPIX1jz.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swishsrv.com/e/251gurdsd1pr"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swishsrv.com/e/1ibnjzrjfj2z"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://swishsrv.com/e/rc1n4vc6a90h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5716410,
+          "tmdb_still_path": "/c0vP9pSMZgz9Pk2ap2qizlpJduO.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://swishsrv.com/e/1rtfyxoozttd"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://swishsrv.com/e/kv6k2xs639cl"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://swishsrv.com/e/4xe39vrxdz6a"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5716412,
+          "tmdb_still_path": "/7633Kcm1y1QBZbrn8AO6wbVCKBK.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://iplayerhls.com/e/3omkpu5x1r07"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://iplayerhls.com/e/iqu70bxl05vt"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://iplayerhls.com/e/q515014mxnwl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5716413,
+          "tmdb_still_path": "/cAZWievVUqs9jRgYu1QwtfWqE4.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Delicos Nursery ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Delicos Nursery من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مصاصي دماء، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Delicos Nursery على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/delicos-nursery",
+  "story": "يدور أنمي Delicos Nursery ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Delicos Nursery من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مصاصي دماء، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Delicos Nursery على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Masakazu Morita، Katsuyuki Konishi، Hiro Shimono، Takuya Sato، Rina Hidaka، Konomi Kohara",
+  "genre": "أنمي، رسوم متحركة، غموض، خيال علمي وفانتازيا",
+  "trailerId": "wRmrQj57gPw",
+  "rating": "6.5",
+  "imdb_rating": "6.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Delicos Nursery",
+    "mainDescription": "يدور أنمي Delicos Nursery ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. تبدأ قصة Delicos Nursery من انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف مصاصي دماء، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Delicos Nursery على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Delicos Nursery أنمي 2024 | يدور أنمي Delicos Nursery ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Delicos Nursery من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/232252"
+    }
+  },
+  "tmdb_id": 232252,
+  "tmdb_url": "https://www.themoviedb.org/tv/232252",
+  "original_title": "デリコズ・ナーサリー"
+}

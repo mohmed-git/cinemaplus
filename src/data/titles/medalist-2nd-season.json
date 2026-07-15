@@ -1,0 +1,506 @@
+{
+  "slug": "medalist-2nd-season",
+  "clean_title": "Medalist 2nd Season",
+  "raw_name": "انمي Medalist 2nd Season",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/medalist-2nd-season.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 9,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 9,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/11362456439494"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NU72GkuOr7xvJmNK"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/63nqqfpbzpgt"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/11362501659334"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/y80dqjtn40xd"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/11362515028678"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=siomySjEVOKXjMPP"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/0dia6xdlz8ob"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-01-25",
+          "runtime": 23,
+          "tmdb_episode_id": 6752576,
+          "tmdb_still_path": "/3MEH4Lg0ZpRImnQ27waGfkHFSpz.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/11529033616070"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IE5p7LKCMKMhRUB9"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/d9uz00ai4tv8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/11529039645382"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/md6vfnyhpz0u"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/11529050589894"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2QQ4VjCdWjiySqoG"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/ti2y4b8uinzf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-02-01",
+          "runtime": 23,
+          "tmdb_episode_id": 6781971,
+          "tmdb_still_path": "/aVLnfX9Qt764Tbeybuy96GR37IL.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/11677846538950"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YABvmzB4Vu6qe7ra"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/e5teo8ps2ion"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/11677859711686"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/paxk1z3z7ka1"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/11677869214406"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WQuuIqZsw44JnE41"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://hglink.to/e/62bbyrftd835"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-02-08",
+          "runtime": 23,
+          "tmdb_episode_id": 6863309,
+          "tmdb_still_path": "/bTTevqvTz3DUIW1sDsQ823JnYEj.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/11891307252422"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6hMRVCJKQEUXmtOM"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/slzazwxorhos"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/11891347688134"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/yqktp2jzmsu8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/11891385371334"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=w44WD2n90wrSHAhD"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/q7ia0q0wibll"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-02-15",
+          "runtime": 23,
+          "tmdb_episode_id": 6863310,
+          "tmdb_still_path": "/9UTWNvDIdzNVqNNEk4o8Zogsmut.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/12278770174662"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YVVei0a1tfGiLNwm"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/jbsw9i62zan3"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/12278806612678"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/rep2vrp4zv99"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/12278822996678"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zwwoBX8iD5U2qiqb"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/kxnj34dolu38"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-02-22",
+          "runtime": 23,
+          "tmdb_episode_id": 6863311,
+          "tmdb_still_path": "/jUVd0GcZGuXfjjpQ7pZAiy4Phsw.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/13204581911238"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gCED6yvtGKzBRjMH"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/h23tthh0dr9p"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/13204611205830"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/h9xer45jrd2v"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DUtZe6B7ycRSMUTN"
+            },
+            {
+              "id": 7,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/djikerz7zg84"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-03-01",
+          "runtime": 23,
+          "tmdb_episode_id": 6863312,
+          "tmdb_still_path": "/7Z1I9gE1cCZi24e2rB0GEImjM3g.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/13826611284678"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SqmGnudYe1uXUPXN"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/o3vl3s28f2d9"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/13826634615494"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/gzwz6q3z7hg8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/13826637433542"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1AAbIX9xLnDvTSFC"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/st7qmkyurj94"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-03-08",
+          "runtime": 23,
+          "tmdb_episode_id": 6863313,
+          "tmdb_still_path": "/l4LjwwrWTr25zuUfgYvyXBdoegc.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/13913052744390"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZY2nVFHo84MiUxLD"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/3eqmh793dypy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/13913069390534"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/vq3juz8j15za"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/13913077779142"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GKERxhuGuFNFdJuv"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8k4bgeo2e740"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-03-15",
+          "runtime": 23,
+          "tmdb_episode_id": 6863314,
+          "tmdb_still_path": "/AclVnGjGtsrz2SZpKdHg34RXsRn.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/14093191940806"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mSyeg7H8EZRpN2on"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://hgcloud.to/e/buocvc24vudc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/14093200460486"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://hgcloud.to/e/ivevtdol5ul4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/14093222415046"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QLc7sH68l5I3PoCa"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/y5snhj9tm2q4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2026-03-22",
+          "runtime": 23,
+          "tmdb_episode_id": 6863315,
+          "tmdb_still_path": "/10uNfXdOw9CuMJCJoB9VRahidje.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Medalist 2nd Season ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 2 موسم و22 حلقة. تبدأ قصة Medalist 2nd Season من رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، سينين، دراما، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و9 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "url": "/anime/medalist-2nd-season",
+  "story": "يدور أنمي Medalist 2nd Season ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 2 موسم و22 حلقة. تبدأ قصة Medalist 2nd Season من رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، سينين، دراما، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و9 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Natsumi Haruse، Takeo Otsuka",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": null,
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Medalist 2nd Season",
+    "mainDescription": "يدور أنمي Medalist 2nd Season ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 2 موسم و22 حلقة. تبدأ قصة Medalist 2nd Season من رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. ينتمي العمل إلى أجواء رياضي، سينين، دراما، لذلك يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و9 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+    "metaDescription": "Medalist 2nd Season أنمي 2025 | يدور أنمي Medalist 2nd Season ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Medalist 2nd Season من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/237529"
+    }
+  },
+  "tmdb_id": 237529,
+  "tmdb_url": "https://www.themoviedb.org/tv/237529",
+  "original_title": "メダリスト"
+}

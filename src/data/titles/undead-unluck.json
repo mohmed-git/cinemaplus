@@ -1,0 +1,576 @@
+{
+  "slug": "undead-unluck",
+  "clean_title": "Undead Unluck",
+  "raw_name": "انمي Undead Unluck",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/undead-unluck.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "خالد ومنحوسة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DLeaNNrLxLe4IzKQ"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dIRFeVohwn7MsWPZ"
+            }
+          ],
+          "overview": "يظهر رجل لا يموت بجسد متجدد أمام \"فوكو\" التي تتصف بسوء الحظ.",
+          "air_date": "2023-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3917808,
+          "tmdb_still_path": "/1bN6fZY8szmpwaBY9qE0zxV1Rax.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "المنظمة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XegQHaaC9fAh2Pfy"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Cd6SUtjUJbGrEyC1"
+            }
+          ],
+          "overview": "يتقرب \"آندي\" من \"فوكو\" ظناً منه أن سوء الحظ سيزداد بتلك الطريقة.",
+          "air_date": "2023-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 4709449,
+          "tmdb_still_path": "/woQd6Nq9AX3hu2xhciqYm6cNgbW.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "كيف أستغل سوء حظي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bKg9FNjX4acm19z8"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5eGFh7kW5VYkZQWt"
+            }
+          ],
+          "overview": "سيتحرك عنصر من المنظمة لإجراء تحقيق. يتوجه \"آندي\" و\"فوكو\" على بحيرة \"بايكال\"!",
+          "air_date": "2023-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4709450,
+          "tmdb_still_path": "/2H5lVShEncycU90epn2vUOctFmB.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "هل أعجبك التغيير فيّ؟",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aHvkRe7ubZ5U8Yqb"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2BssJgmhIsPXszuH"
+            }
+          ],
+          "overview": "تظن \"جينا\" أن \"فوكو\" سرقت حُب حياتها \"آندي\" فتبدي انفعالاً تنافسياً في وجه \"فوكو\" بدافع الغيرة.",
+          "air_date": "2023-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4709451,
+          "tmdb_still_path": "/cnQBSN3m03im4G9IN9ctyOTroy4.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "نتحد على الإبطال",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NrSla4dJSMM7Nn2e"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Db7JirWiQRQUGTNq"
+            }
+          ],
+          "overview": "يُؤخذ \"آندي\" و\"فوكو\" إلى الطاولة المستديرة حيث ينتظر أعضاء المنظمة، ويوزع \"أبوكليبس\" المهمات.",
+          "air_date": "2023-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4709452,
+          "tmdb_still_path": "/bUyS16gR4V3rl89Si2eZbUyaoP5.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الموتى الأحياء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YweAQGI055oZk876"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jrSGPxzuNa5hiRzH"
+            }
+          ],
+          "overview": "وفقاً لتقارير عناصر المنظمة، كان المخلوق والموتى الأحياء في مدينة \"لونغينغ\".",
+          "air_date": "2023-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4709453,
+          "tmdb_still_path": "/pa9EMk8A4woW3IhPwPAyOKJ98IK.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "حلم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6830085311051"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uI6rhmF34sDAVEYf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ppw9a"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6830102219339"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6830121290315"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=UZ1eX8zF9KBO0fGy"
+            }
+          ],
+          "overview": "الأطفال في الملجأ يخبرون \"فوكو\" بالوضع في المدينة. تنضم مجموعة \"آندي\" إلى معركة الزومبي.",
+          "air_date": "2023-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4709454,
+          "tmdb_still_path": "/ibT8fqoI2v9n1ak45c2tADAX2Sa.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "\"فيكتور\"",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lqE9heQ3LS7Jldnb"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pR8WpVS2C7cJrw1l"
+            }
+          ],
+          "overview": "ينتقل المخلوق إلى المرحلة الثانية، حيث يطلق ليزر تفكيك على كل ما يهرب.",
+          "air_date": "2023-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4709455,
+          "tmdb_still_path": "/9MP3M7wi80HDa8U51MbslK9GArT.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "العودة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=oa9zylb9Ta1jJVlg"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FnTLoeXw2rIjRoVP"
+            }
+          ],
+          "overview": "\"فيكتور\" هو الوجه الآخر لـ\"آندي\" الذي يظهر عندما تُزال البطاقة عن جبهته.",
+          "air_date": "2023-12-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4709456,
+          "tmdb_still_path": "/pvWXfuMawZcNgSzTsH4o4gBD8Ld.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=s2Lywq2aYsA41dHB"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xertUBM2mOXC29OD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4709457,
+          "tmdb_still_path": "/2CnPnHGvP21YWnNmZPfkAQIpYPg.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=if9v3VfTJYVZ92pR"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CEgUvrewdJb8tRWy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4709459,
+          "tmdb_still_path": "/z7srLx1ALKxBhlYvQsPy6Q8kf90.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=os5YMNYh0frX0BsZ"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jvXMRaVCnrLslgaS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4709460,
+          "tmdb_still_path": "/3XHTjtXkBEdfGoZQDJ4Z5K7rlBS.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GyX8ydbXNeoG99RR"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uh5rIq9hcJOE9PsT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4799749,
+          "tmdb_still_path": "/chVZbu2bYAg1HybI2WkQvGbsXnT.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iLAEblgOcjnxFFe8"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cXj0IUxZUgcFeGju"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4799750,
+          "tmdb_still_path": "/iO3YPz6tvmgC0rxauEeaumUfben.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5Mg6KlxJIxL4cnnk"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tK4COBqdQnG2To1L"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4799751,
+          "tmdb_still_path": "/9gnmwJO5Mf8Wr3DmcV56YGehvG.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DsSsCG1PvEvOFrAD"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8qC6jOyQBhH4mK2r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4799752,
+          "tmdb_still_path": "/9M7ybFfBuxgZeOVDQDiA6XzqiBU.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lmpCOgBoAxP88avB"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4L9wig7Tqt5gEl9B"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-03",
+          "runtime": 24,
+          "tmdb_episode_id": 4799753,
+          "tmdb_still_path": "/hQJD5IMbRHNsWnjGeCHvdA4qdcM.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zMfrwNDu4SDcz8Hj"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JS4xyUhgs7jZjDBb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 4799754,
+          "tmdb_still_path": "/ytNHrCH0r1Py4dzFIVmchrBmpDA.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zZHHmOxONBkbyVfZ"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MIZ0XztzpicdPCUB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4799755,
+          "tmdb_still_path": "/2ASbwt9BG2PeG7fqaUnKmoQikaV.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1tq5QEn8vHDM2BRl"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=I30oDfyxwnfCVMIL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4799756,
+          "tmdb_still_path": "/pSVaI3KUO3UUWHDnThLNepbByF7.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=an5pEdGxZ1BPQdhJ"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2nsEvBdxz1GMgntJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 4799757,
+          "tmdb_still_path": "/6DCAhrXTFSI40aX9urWUdTByTJU.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lJ6EI348Ixf3EF4B"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Ou6bDUCuBxMd7A7V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4799758,
+          "tmdb_still_path": "/eH8ikPrLEFvQ8h0grJm2Q7qKBGw.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MKuCaXdr8g2RQXUv"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ipoT3vGPjtF5aYvv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-15",
+          "runtime": 24,
+          "tmdb_episode_id": 4799759,
+          "tmdb_still_path": "/nPl05if0CDxgG7ihiw8Y41YqlOU.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uatSIRZo6F5AmYQx"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=uUC01UkmwL0ykOpf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-22",
+          "runtime": 24,
+          "tmdb_episode_id": 4799760,
+          "tmdb_still_path": "/6gFODeranPNO1bjzGFV33q271e7.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يكتشف \"آندي\" و\"فوكو\" لغز العالم خلال بحثهما عن \"الموت الأعظم\".",
+  "url": "/anime/undead-unluck",
+  "story": "يكتشف \"آندي\" و\"فوكو\" لغز العالم خلال بحثهما عن \"الموت الأعظم\".",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Moe Kahara، Yuichi Nakamura، Natsuki Hanae، Kenji Nomura، Aoi Yuuki، Koji Yusa",
+  "genre": "أنمي، رسوم متحركة، كوميديا، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": "ot9mHEQGA5M",
+  "rating": "7.9",
+  "imdb_rating": "7.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Undead Unluck",
+    "mainDescription": "يكتشف \"آندي\" و\"فوكو\" لغز العالم خلال بحثهما عن \"الموت الأعظم\".",
+    "metaDescription": "Undead Unluck أنمي 2023 | يكتشف \"آندي\" و\"فوكو\" لغز العالم خلال بحثهما عن \"الموت الأعظم\" | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Undead Unluck من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/209077"
+    }
+  },
+  "tmdb_id": 209077,
+  "tmdb_url": "https://www.themoviedb.org/tv/209077",
+  "original_title": "アンデッドアンラック"
+}

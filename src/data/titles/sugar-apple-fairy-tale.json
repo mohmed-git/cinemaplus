@@ -1,0 +1,279 @@
+{
+  "slug": "sugar-apple-fairy-tale",
+  "clean_title": "Sugar Apple Fairy Tale",
+  "raw_name": "انمي Sugar Apple Fairy Tale",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/sugar-apple-fairy-tale.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9QeXOekNjqXTIPHN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-06",
+          "runtime": 23,
+          "tmdb_episode_id": 3252280,
+          "tmdb_still_path": "/epUSwKCRniT4p2yFiWnoho2jhob.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gTr7DH9sBSAAQGZV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-13",
+          "runtime": 23,
+          "tmdb_episode_id": 4142966,
+          "tmdb_still_path": "/w2PcLkqWTbfZAiaFXHOPpMj3AN9.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Taxs4I2Ni4Y17LWV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-20",
+          "runtime": 23,
+          "tmdb_episode_id": 4142968,
+          "tmdb_still_path": "/ojTdcTcCn3ulW3p3yb0GCOkHNic.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nsNONnVnQJRfbP9V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-27",
+          "runtime": 23,
+          "tmdb_episode_id": 4142970,
+          "tmdb_still_path": "/mvCd0QdYZuHeTREYGx2cs6iS1N0.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Vbn1TwBDSOuLbBDa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-03",
+          "runtime": 23,
+          "tmdb_episode_id": 4152882,
+          "tmdb_still_path": "/4933uaPrPdQVsSX1WpGuEpUxrur.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ddPzKd52mIecLXMO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-10",
+          "runtime": 23,
+          "tmdb_episode_id": 4152883,
+          "tmdb_still_path": "/1GAnjXM7yPIDKBBj9XstZPweQCQ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9Sq7mQpEDtK1nLXJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-17",
+          "runtime": 23,
+          "tmdb_episode_id": 4152884,
+          "tmdb_still_path": "/zNxItvFX3DMPPIe2zmEiohlsMZO.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=guxxv8VhiKA0Z073"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-24",
+          "runtime": 23,
+          "tmdb_episode_id": 4152885,
+          "tmdb_still_path": "/6dinwxdVkQtdNzj49BGajK9s8vY.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aJomfl2D3z3nH6ka"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-03",
+          "runtime": 23,
+          "tmdb_episode_id": 4152886,
+          "tmdb_still_path": "/uj2s7HzK0t4fODnJlT1YVsencdI.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KBXsahCGtSloC85Z"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PTcvRFNROpvJsr27"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-10",
+          "runtime": 23,
+          "tmdb_episode_id": 4152887,
+          "tmdb_still_path": "/mlcZBcG3VP9BA1ASbGQWPfmlkfn.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6i2DulwHXXpmO4xI"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jYzy1Jrxr3LXCrdW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-17",
+          "runtime": 23,
+          "tmdb_episode_id": 4152888,
+          "tmdb_still_path": "/iuBCq3mYHiLQy3YvikQgikD5nF8.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AfcouG2Gfsrqau6V"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8jffr2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-24",
+          "runtime": 23,
+          "tmdb_episode_id": 4152889,
+          "tmdb_still_path": "/nfKn4aKS48UQvl7eAeFTFM5s7kW.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Sugar Apple Fairy Tale ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Sugar Apple Fairy Tale على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مغامرات، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Sugar Apple Fairy Tale على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/sugar-apple-fairy-tale",
+  "story": "يدور أنمي Sugar Apple Fairy Tale ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Sugar Apple Fairy Tale على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مغامرات، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Sugar Apple Fairy Tale على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuka Nukui، Masaaki Mizunaka، Rie Takahashi، Tomoaki Maeno، Takuma Terashima، Reiji Kawashima",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "7xZA0mVOdAs",
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Sugar Apple Fairy Tale",
+    "mainDescription": "يدور أنمي Sugar Apple Fairy Tale ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يعتمد Sugar Apple Fairy Tale على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مغامرات، خيال، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Sugar Apple Fairy Tale على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Sugar Apple Fairy Tale أنمي 2023 | يدور أنمي Sugar Apple Fairy Tale ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Sugar Apple Fairy Tale من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/135335"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "sugar-apple-fairy-tale",
+      "title": "Sugar Apple Fairy Tale",
+      "url": "/anime/sugar-apple-fairy-tale",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/sugar-apple-fairy-tale.jpg"
+    },
+    {
+      "slug": "sugar-apple-fairy-tale-part-2",
+      "title": "Sugar Apple Fairy Tale Part 2",
+      "url": "/anime/sugar-apple-fairy-tale-part-2",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/sugar-apple-fairy-tale-part-2.jpg"
+    }
+  ],
+  "tmdb_id": 135335,
+  "tmdb_url": "https://www.themoviedb.org/tv/135335",
+  "original_title": "シュガーアップル・フェアリーテイル"
+}

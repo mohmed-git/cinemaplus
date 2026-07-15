@@ -1,0 +1,314 @@
+{
+  "slug": "bokura-no-ameiro-protocol",
+  "clean_title": "Bokura no Ameiro Protocol",
+  "raw_name": "انمي Bokura no Ameiro Protocol",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/bokura-no-ameiro-protocol.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZsuLjkez8LbtD9ko"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mAmVcADR50ebWS1y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-08",
+          "runtime": 23,
+          "tmdb_episode_id": 4729803,
+          "tmdb_still_path": "/xCo2CTWazqFxcmBHczx5rtkugUN.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=quMlAeMqALR3Hk37"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hxMRAC3MEownZr6E"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-15",
+          "runtime": 23,
+          "tmdb_episode_id": 4795346,
+          "tmdb_still_path": "/9PBJLzscl0LLfSaf1KvkE1lS1W6.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AgmBebazUE3I40Eq"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ldvYdf7jagvVdfei"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-22",
+          "runtime": 23,
+          "tmdb_episode_id": 4795347,
+          "tmdb_still_path": "/tLqqT42a1zp8fFVD4T2QUXH9Qfe.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NpS2r8DV1IfvdR24"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tmEzil6mvjRV2Vpb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-29",
+          "runtime": 23,
+          "tmdb_episode_id": 4795348,
+          "tmdb_still_path": "/euAV7XYDuc5quguOkbgRkuefK1i.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HALNyLfEKDEdVNUs"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pWsRbcLFZNX1jYgq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-05",
+          "runtime": 23,
+          "tmdb_episode_id": 4795349,
+          "tmdb_still_path": "/6TbCY7qgx3lkjKaRon9lvMJbFMh.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FarJSeXd9DTEYGYU"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iSG4t3tlRFfUz798"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-12",
+          "runtime": 23,
+          "tmdb_episode_id": 4795350,
+          "tmdb_still_path": "/847S35Qqr6mJI2syPXN4gm40rUE.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zdJfDDQf6VmoWLx7"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dppFhG5iGQyvbcM7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-19",
+          "runtime": 23,
+          "tmdb_episode_id": 4796478,
+          "tmdb_still_path": "/jAhzN94K9ad0RC3cQRYL4MnDVDL.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zhphqHB8i6u2qyai"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aIKVZrZTZ8V6DnYt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-26",
+          "runtime": 23,
+          "tmdb_episode_id": 4796479,
+          "tmdb_still_path": "/3ryh7Uw6y9QvMNt4RD68l4rEOk2.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XqLF9wvPLWozNlVc"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=69ugccO0mZIqfHTb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-03",
+          "runtime": 23,
+          "tmdb_episode_id": 4796480,
+          "tmdb_still_path": "/r5CRv1NFxOBtgYPNVS4JAlOuFKD.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MkgbLD20KGK0tktI"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=edIz01sMTJA9xokJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-10",
+          "runtime": 23,
+          "tmdb_episode_id": 4796481,
+          "tmdb_still_path": "/dys11NzIaJY0155T1vRCUF0W7Ly.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=x0zQ2kClaX3LZrlx"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qmwkz"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TezUIU7Be9pAQC65"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-17",
+          "runtime": 23,
+          "tmdb_episode_id": 4796482,
+          "tmdb_still_path": "/loRjPGVUrx9sHE7sJQS75Ta1OLP.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lrYUj1SGAqmmZmhH"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8quumn"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pDiPzWgtVRLSBgUc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-24",
+          "runtime": 23,
+          "tmdb_episode_id": 4796483,
+          "tmdb_still_path": "/oNPEPtKFES8ZWwyitfcY1LuZzs3.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Bokura no Ameiro Protocol ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Bokura no Ameiro Protocol تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف لعبة، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bokura no Ameiro Protocol على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/bokura-no-ameiro-protocol",
+  "story": "يدور أنمي Bokura no Ameiro Protocol ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Bokura no Ameiro Protocol تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف لعبة، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bokura no Ameiro Protocol على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kensho Ono، Sora Amamiya، Inori Minase، Momo Asakura، Ryohei Kimura، Tomokazu Sugita",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": null,
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Bokura no Ameiro Protocol",
+    "mainDescription": "يدور أنمي Bokura no Ameiro Protocol ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Bokura no Ameiro Protocol تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف لعبة، أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bokura no Ameiro Protocol على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Bokura no Ameiro Protocol أنمي 2023 | يدور أنمي Bokura no Ameiro Protocol ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Bokura no Ameiro Protocol من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/230288"
+    }
+  },
+  "tmdb_id": 230288,
+  "tmdb_url": "https://www.themoviedb.org/tv/230288",
+  "original_title": "僕らの雨いろプロトコル"
+}

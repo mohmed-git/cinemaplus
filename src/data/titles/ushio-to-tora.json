@@ -1,0 +1,488 @@
+{
+  "slug": "ushio-to-tora",
+  "clean_title": "Ushio to Tora",
+  "raw_name": "انمي Ushio to Tora",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/ushio-to-tora.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/5epsvsukgvta"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1082036,
+          "tmdb_still_path": "/zxrdLbbvLe4ODG3VoR5GN4BoThK.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/mmoz8rmez9hd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1130255,
+          "tmdb_still_path": "/wbzVfEzAExCQcI3tQM8aLeWh5ox.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/y6agkqfxahxz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1130257,
+          "tmdb_still_path": "/eZDIwRzvF25yKqsWe1cKv1XU0E1.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/gtqjybflqyen"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1130261,
+          "tmdb_still_path": "/eb4lJ6satlFqUz086e1AM65Tpdp.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/sqvs4caygalz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-07-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1130262,
+          "tmdb_still_path": "/2Na4InACyo6gQHFc4lpy0Ou7Epd.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/omvqctxlwsfi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1130263,
+          "tmdb_still_path": "/t2TeJ4VkFMPqMwXOswenplNWsc1.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/7epcetjk5h5k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1130264,
+          "tmdb_still_path": "/xTWLp1AIdOEmZkjESmlYF9xKemE.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/3qncr348nr0p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1130265,
+          "tmdb_still_path": "/mAGkktIgGeGLkEOOpmcrikRIr2A.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/4um9wflfpliq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-08-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1130266,
+          "tmdb_still_path": "/1PdBwF2FfWjrTUvreiPstPxLNTV.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/jd2jp20fryds"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1130267,
+          "tmdb_still_path": "/EbivQlwKyfOEdk3kNnucRhYzF3.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/toszwfhnz9fg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1106252,
+          "tmdb_still_path": "/yUVmInSWR5Y5j07tRuuDtuQSOuW.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/aiivr7qgmzxj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1130269,
+          "tmdb_still_path": "/cbKZCTAFSbRuZNRommQqwvkLkfC.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/gmvkhp9k0ssa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-09-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1130271,
+          "tmdb_still_path": "/bo6Vhcp6IraWctuimkax5KyDWhW.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/o4jur1qm5zwi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-10-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1130272,
+          "tmdb_still_path": "/mmuZcGto5sP9zJbfkj8RqxHZXZ7.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/t3nfn5szfao0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-10-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1130273,
+          "tmdb_still_path": "/obgYyLefhpOh9t5K1Boek91qjws.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/6rgsbrd4feja"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-10-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1130274,
+          "tmdb_still_path": "/a0mJuekISySikDDvtBge1Y0gzUk.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/j8mczcfazu9b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-10-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1144416,
+          "tmdb_still_path": "/aerNu4Tmrl96oj9phCWcbGodFOj.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/lntptlwpgdzp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-10-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1144417,
+          "tmdb_still_path": "/wX4CaASWqLdh5SSxWo4rYhXKiqS.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/ewiwrlucexrq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-11-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1144418,
+          "tmdb_still_path": "/ylNxOTeyc3oe82uu9pbbL3aWC9c.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/gouj7gvadk0u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-11-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1144419,
+          "tmdb_still_path": "/rGOytmnmfpkuBu3dc8weifdIjP5.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/2rsqrd3lfpkr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-11-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1144420,
+          "tmdb_still_path": "/bo9d1y7k0M8hGNuJM3bncnlAK5b.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/lqomfy9v4af2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-11-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1144421,
+          "tmdb_still_path": "/lEMHeBB5Me6EQaxfhsEo03vXFvm.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/qfqlldj1pe1q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-12-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1183300,
+          "tmdb_still_path": "/jQfuVwry5DVwy8HpFf8r6kPPtm3.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/f3e86fsbonys"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-12-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1183301,
+          "tmdb_still_path": "/qCNY01NGYD6aFacUYOnW4oxSohT.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/1zb1i9kcqcuh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-12-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1183302,
+          "tmdb_still_path": "/vvuWUI2qRHyvm8ZwJzRXfdVqJGk.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/erp68mhhmhvk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-12-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1183303,
+          "tmdb_still_path": "/gCo2YCSiMNRVz6LMCtzGhNvqIT7.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Ushio to Tora ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و39 حلقة. في أنمي Ushio to Tora تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، مغامرات، كوميدي، شياطين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ushio to Tora على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/ushio-to-tora",
+  "story": "يدور أنمي Ushio to Tora ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و39 حلقة. في أنمي Ushio to Tora تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، مغامرات، كوميدي، شياطين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ushio to Tora على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2015",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tasuku Hatanaka، Rikiya Koyama، Mikako Komatsu، Kiyono Yasuno، Kana Hanazawa، Daisuke Namikawa",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "DalEcxJYGtU",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Ushio to Tora",
+    "mainDescription": "يدور أنمي Ushio to Tora ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و39 حلقة. في أنمي Ushio to Tora تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، مغامرات، كوميدي، شياطين يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Ushio to Tora على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Ushio to Tora أنمي 2015 | يدور أنمي Ushio to Tora ضمن أجواء حركة ومغامرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Ushio to Tora من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/63085"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "ushio-to-tora",
+      "title": "Ushio to Tora",
+      "url": "/anime/ushio-to-tora",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 26,
+      "poster": "/images/anime/ushio-to-tora.jpg"
+    },
+    {
+      "slug": "ushio-to-tora-2nd-season",
+      "title": "Ushio to Tora 2nd Season",
+      "url": "/anime/ushio-to-tora-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 13,
+      "poster": "/images/anime/ushio-to-tora-2nd-season.png"
+    }
+  ],
+  "tmdb_id": 63085,
+  "tmdb_url": "https://www.themoviedb.org/tv/63085",
+  "original_title": "うしおととら"
+}

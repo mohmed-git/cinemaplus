@@ -1,0 +1,7 @@
+# Cloudflare Pages redirects.
+#
+# Episode pages are once again standalone (now served via SSR), so the old
+# 301s that folded /.../e/:episode back into the season page have been REMOVED
+# — they would otherwise hijack every valid episode URL.
+#
+# (Intentionally empty — add future redirects below.)

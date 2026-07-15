@@ -1,0 +1,340 @@
+{
+  "slug": "yuru-camp-season-2",
+  "clean_title": "Yuru Camp Season 2",
+  "raw_name": "انمي Yuru Camp Season 2",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/yuru-camp-season-2.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-5yawfsm2rbau.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZCitf7W6HgH7dccJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2843779,
+          "tmdb_still_path": "/ftNtBvNcG907RowSsbM90W0cQaN.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-goa12mbs7ucs.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eo7UddNTrPhka4np"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2843780,
+          "tmdb_still_path": "/6LVsM3yTqF8PgmR3Y2zRDwtVM3w.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0hs5oz8hd6qm.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VDq82h1ZwFAhhLfE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2843781,
+          "tmdb_still_path": "/fm51Nno262lPjOihcAkzzMPaaiA.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-glx1383rj37h.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zJvofCsdgOliwlJj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2843782,
+          "tmdb_still_path": "/5hWUm1XbF7cN1zQc4sjVottM5Kw.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-dg946k847v0n.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HzdDNRzi6wZlic3J"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2843783,
+          "tmdb_still_path": "/48l8ZFyAT0ns43V45NMkb5WjeU6.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-2xh9a20hfec2.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ghKkpekSsKDl7hs3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2991250,
+          "tmdb_still_path": "/39qIqi34FTFzHDpjn4w1HN3G5gG.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-1yr55a6k2mxr.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DOQ8lPx0SVAvA7q0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2991251,
+          "tmdb_still_path": "/ma1r1YA9w9vPv47y0vdrw1vIMQ0.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-d0n8yxalkr1q.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yjnMC4a0xSN47TF1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2991252,
+          "tmdb_still_path": "/uyG5udGFoy6ocJXoMUx9prjU9G8.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-a7id3d820hws.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=H1ffBgPMQGsKgEI2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2991253,
+          "tmdb_still_path": "/fXwsKAARnyy0SrlhFW1kkAzIkSE.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-aptfy2tepkw6.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KM6E7sxHgIlxrS8c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2991254,
+          "tmdb_still_path": "/uuvbsvS5tMGfOYHXrG8MWNtiDFM.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rnv7kp9p50df.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gIQ6cyhafrfR7rsQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-10",
+          "runtime": 24,
+          "tmdb_episode_id": 3084824,
+          "tmdb_still_path": "/1U02NBnFtkNMyYeRemFzJmQ6LPs.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-1k8xxg0gps69.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=35uVHvL7Rbm7OHAC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-17",
+          "runtime": 24,
+          "tmdb_episode_id": 3084827,
+          "tmdb_still_path": "/tvQjKtbvjqK03Y03Gh8CZxVs352.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xy54q3t69nir.html"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tlNPeETR6zR5RCfD"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "هربت رين من زحام المدينة إلى أحضان الطبيعة حيث وجدت في التخييم ملاذًا يضمها بين ذراعيه فاستمتعت بألحان الرياح وهدير الأمواج واستنشقت نسيم الصباح العليل لتجد نفسها تذوب في لوحة الطبيعة الخلابة",
+  "url": "/anime/yuru-camp-season-2",
+  "story": "هربت رين من زحام المدينة إلى أحضان الطبيعة حيث وجدت في التخييم ملاذًا يضمها بين ذراعيه فاستمتعت بألحان الرياح وهدير الأمواج واستنشقت نسيم الصباح العليل لتجد نفسها تذوب في لوحة الطبيعة الخلابة",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Haruka Fukuhara، Yuno Ohara، Momoko Tanabe، Yumena Yanai، Yurina Yanagi، Kaho Tsuchimura",
+  "genre": "أنمي، كوميديا، دراما",
+  "trailerId": null,
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Yuru Camp Season 2",
+    "mainDescription": "هربت رين من زحام المدينة إلى أحضان الطبيعة حيث وجدت في التخييم ملاذًا يضمها بين ذراعيه فاستمتعت بألحان الرياح وهدير الأمواج واستنشقت نسيم الصباح العليل لتجد نفسها تذوب في لوحة الطبيعة الخلابة",
+    "metaDescription": "Yuru Camp Season 2 أنمي 2020 | هربت رين من زحام المدينة إلى أحضان الطبيعة حيث وجدت في التخييم ملاذًا يضمها بين ذراعيه فاستمتعت بألحان الرياح وهدير…",
+    "highlights": "تم تحديث بيانات Yuru Camp Season 2 من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/95623"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "yuru-camp-season-2",
+      "title": "Yuru Camp Season 2",
+      "url": "/anime/yuru-camp-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 13,
+      "poster": "/images/anime/yuru-camp-season-2.jpg"
+    },
+    {
+      "slug": "yuru-camp-season-3",
+      "title": "Yuru Camp Season 3",
+      "url": "/anime/yuru-camp-season-3",
+      "season": 3,
+      "seasonLabel": "الموسم 3",
+      "episodesCount": 12,
+      "poster": "/images/anime/yuru-camp-season-3.jpg"
+    }
+  ],
+  "tmdb_id": 95623,
+  "tmdb_url": "https://www.themoviedb.org/tv/95623",
+  "original_title": "ゆるキャン△"
+}

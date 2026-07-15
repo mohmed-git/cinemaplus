@@ -1,0 +1,424 @@
+{
+  "slug": "honey-lemon-soda",
+  "clean_title": "Honey Lemon Soda",
+  "raw_name": "انمي Honey Lemon Soda",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/honey-lemon-soda.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1AZ5kAEuUGpd89GI"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9c0mxq"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5uT4ngL5Y9ADBYMg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-09",
+          "runtime": 23,
+          "tmdb_episode_id": 5185531,
+          "tmdb_still_path": "/sjO1qvSm9iNk2ZmwzAH85JMua7y.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9093074651846"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jpaoPlIhZUZphfV7"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9cf8fq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9093082385094"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9093087562438"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=465TLh4Lk8nD11j0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-16",
+          "runtime": 23,
+          "tmdb_episode_id": 5871892,
+          "tmdb_still_path": "/4ECMf69FJMdZjiav6aNNPkEkRIr.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9117102443206"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=D1Cyk5ZpAt0NY7Ap"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9cuhak"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9117108013766"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9117113322182"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lSas9peK9fE1kWfd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-23",
+          "runtime": 23,
+          "tmdb_episode_id": 5871893,
+          "tmdb_still_path": "/qw4nivrD068Tqu4HoLpT3tsuvfR.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9139309054662"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=W8lrhO3TXtQiFhQ0"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9d83f0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9139314625222"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9139318491846"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xtBI3KMgLctP3I9V"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-30",
+          "runtime": 23,
+          "tmdb_episode_id": 5871894,
+          "tmdb_still_path": "/i3CJHq3qa4M7XKDJ1jyFQfr14nf.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9163090102982"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tskXCD1QI3N1HRzz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9dl1zo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9163094952646"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9163099540166"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=66FURl1FEGkrYima"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-06",
+          "runtime": 23,
+          "tmdb_episode_id": 5871895,
+          "tmdb_still_path": "/xcYxaQ9LDfIQis5y4dbZlhDLyVf.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KCFysVSYKEJqjy7W"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9e41xm"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dzPiw9XnMjebEuYi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-13",
+          "runtime": 23,
+          "tmdb_episode_id": 5871896,
+          "tmdb_still_path": "/zsAk6NtYDyWukWRQsdPvM4xmSbC.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=v7HY6jVR1dvTuNaF"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9epjna"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=J0IF3tBHRkkt2KGA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-20",
+          "runtime": 23,
+          "tmdb_episode_id": 5871897,
+          "tmdb_still_path": "/qtVEPGHJbdtKUgCeCoqSsrxoGSy.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dE1LqfjOF9tpX1h6"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9f9azg"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BxD2nHzlSRGwaLTG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-02-27",
+          "runtime": 23,
+          "tmdb_episode_id": 5871898,
+          "tmdb_still_path": "/v0j4BFXyIxi9ilAHxs3KCrbG5O5.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EBdb7XG2GrJnjFXO"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9fmyv2"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9JVDcFDf3bsGTXef"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-06",
+          "runtime": 23,
+          "tmdb_episode_id": 5871899,
+          "tmdb_still_path": "/k1AA3TgQ76BtMgGzjWE7Fm1UkDC.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0C7XD0KddUJHCQdY"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9fzvca"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mpPKxAh7WkD3ihus"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-13",
+          "runtime": 23,
+          "tmdb_episode_id": 5871900,
+          "tmdb_still_path": "/ujsxQztpxAcdiUnrloaoXNFbfqY.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9vupKfQrYBv5yRMr"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9gf3ta"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PjLAjYW2zKztHjAP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-20",
+          "runtime": 23,
+          "tmdb_episode_id": 5871901,
+          "tmdb_still_path": "/28e1F9aY0SrEGK5pTmmiIdwgkJV.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=RrkaoJJ64TGx39RS"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9gu8qy"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TNAs2TiemjDD1KqD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-03-27",
+          "runtime": 23,
+          "tmdb_episode_id": 5871902,
+          "tmdb_still_path": "/bA0xa4f1i7jA1OoUiawO1Shudkx.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Honey Lemon Soda ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Honey Lemon Soda حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مدرسي، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Honey Lemon Soda على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/honey-lemon-soda",
+  "story": "يدور أنمي Honey Lemon Soda ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Honey Lemon Soda حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مدرسي، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Honey Lemon Soda على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kana Ichinose، Shogo Yano، Rie Takahashi، Miyari Nemoto، Shunichi Toki، Taku Yashiro",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "D1Uck5jSeXE",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Honey Lemon Soda",
+    "mainDescription": "يدور أنمي Honey Lemon Soda ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Honey Lemon Soda حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شوجو، مدرسي، رومانسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Honey Lemon Soda على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Honey Lemon Soda أنمي 2025 | يدور أنمي Honey Lemon Soda ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Honey Lemon Soda من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/247859"
+    }
+  },
+  "tmdb_id": 247859,
+  "tmdb_url": "https://www.themoviedb.org/tv/247859",
+  "original_title": "ハニーレモンソーダ"
+}

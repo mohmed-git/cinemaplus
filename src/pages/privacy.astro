@@ -1,0 +1,38 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../lib/site';
+
+const title = 'سياسة الخصوصية';
+const description = `سياسة خصوصية ${SITE.name}: ما البيانات التي قد تُستخدم لتحسين التصفح، وكيف نتعامل مع الروابط والخدمات الخارجية.`;
+---
+
+<Base title={title} description={description} section="home">
+  <section class="container-app py-16 md:py-24">
+    <article class="glass-panel mx-auto max-w-4xl p-6 leading-8 text-gray-300 md:p-10">
+      <p class="mb-3 text-sm font-semibold text-brand-300">الخصوصية والشفافية</p>
+      <h1 class="font-display text-3xl font-extrabold text-white md:text-4xl">سياسة الخصوصية</h1>
+      <p class="mt-5 text-gray-400">
+        نحترم خصوصية زوار {SITE.name}. توضّح هذه الصفحة المعلومات العامة التي قد تُستخدم عند التصفح وطريقة التعامل معها.
+      </p>
+
+      <div class="mt-8 space-y-7">
+        <section>
+          <h2 class="text-xl font-bold text-white">البيانات التي قد تُجمع</h2>
+          <p class="mt-2">قد تُسجل أدوات الاستضافة أو التحليلات بيانات تقنية غير شخصية مثل نوع المتصفح، الدولة التقريبية، الصفحات الأكثر زيارة، ووقت الزيارة بهدف تحسين سرعة وتجربة الموقع.</p>
+        </section>
+        <section>
+          <h2 class="text-xl font-bold text-white">ملفات تعريف الارتباط</h2>
+          <p class="mt-2">قد تستخدم بعض الخدمات الخارجية ملفات تعريف ارتباط لتحسين الأداء أو قياس الاستخدام. يمكنك التحكم في الكوكيز من إعدادات المتصفح.</p>
+        </section>
+        <section>
+          <h2 class="text-xl font-bold text-white">الخدمات والروابط الخارجية</h2>
+          <p class="mt-2">صفحات المشاهدة قد تنقلك إلى مشغلات أو روابط تابعة لأطراف ثالثة. لكل طرف سياسة خصوصية مستقلة، ولا نتحكم في طريقة معالجته للبيانات.</p>
+        </section>
+        <section>
+          <h2 class="text-xl font-bold text-white">التواصل</h2>
+          <p class="mt-2">عند استخدام صفحة اتصل بنا، لا تستخدم بياناتك إلا للرد على طلبك أو تحسين الخدمة، ولا ننشر بيانات التواصل الشخصية علناً.</p>
+        </section>
+      </div>
+    </article>
+  </section>
+</Base>

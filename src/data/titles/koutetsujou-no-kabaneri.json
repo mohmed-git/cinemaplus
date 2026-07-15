@@ -1,0 +1,364 @@
+{
+  "slug": "koutetsujou-no-kabaneri",
+  "clean_title": "Koutetsujou no Kabaneri",
+  "raw_name": "انمي Koutetsujou no Kabaneri",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/koutetsujou-no-kabaneri.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/fg5couxdmx65"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/azohmema8kym"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/7dx0slk9v23t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-08",
+          "runtime": 22,
+          "tmdb_episode_id": 1176897,
+          "tmdb_still_path": "/zRJyXIymoXTcGZjhLvClkvV0qQs.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/omphzgk5pyus"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/s01u07le6n6l"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/tae5e4izjrkg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-22",
+          "runtime": 22,
+          "tmdb_episode_id": 1185678,
+          "tmdb_still_path": "/fcysT1bDfw6YN8OqshTgl9cmwvL.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/6tr27nrjq2jp"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/mv82wvcury84"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/flhtaelqi1hk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-04-29",
+          "runtime": 22,
+          "tmdb_episode_id": 1185679,
+          "tmdb_still_path": "/2ozjb7hh0YmsRrYJmKtQBNiRMna.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4alu43brrxys"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/5skn65em3s8x"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ycly4q3dz1w2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-06",
+          "runtime": 22,
+          "tmdb_episode_id": 1185680,
+          "tmdb_still_path": "/i9q6yBGrKOdFZGeMlNGszHiGAI0.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/cg1hha26ytef"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/4k026gbtxfqm"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1nr40ijtqt9z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-13",
+          "runtime": 22,
+          "tmdb_episode_id": 1185681,
+          "tmdb_still_path": "/sdVjVxLC4p2Yvbn9NvVV5mvxhZ6.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/15boskt3xvlx"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/lye3b0ke922w"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/138k5zspcgqk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-20",
+          "runtime": 22,
+          "tmdb_episode_id": 1185682,
+          "tmdb_still_path": "/l2xvfc5A0edlV34Kp2b045PN5kS.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/t0vyexbjiclu"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/24adrlhbv7kb"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5c487n8s2vzu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-05-27",
+          "runtime": 22,
+          "tmdb_episode_id": 1185683,
+          "tmdb_still_path": "/edMGnFDPS6SCcFFb4Yy1Nl2CO6M.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/9gtwb7x5v6t9"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/9wey5sea4smk"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/83gfy5ozymcp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-03",
+          "runtime": 22,
+          "tmdb_episode_id": 1185684,
+          "tmdb_still_path": "/hWpbXv35Sc3tHs6yfXoPQUrdMW0.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/gxng498kzkg4"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/oym88mkhgeyk"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/a1cm0ubjtbzp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-10",
+          "runtime": 22,
+          "tmdb_episode_id": 1185685,
+          "tmdb_still_path": "/aTj8EX2FGFjQ97Jt8kg1lG6Q5Gv.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3ycdpo0uulbi"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/n3k8iiv8o1en"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xwcqmm7ksl9m"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-17",
+          "runtime": 22,
+          "tmdb_episode_id": 1185686,
+          "tmdb_still_path": "/erLd5hdq8xom50EcX6HUxWUFxJS.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/wl7sjhsfh1fb"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/7bgcuj7kx651"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/s6k9vzxc7qbx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-06-24",
+          "runtime": 22,
+          "tmdb_episode_id": 1185902,
+          "tmdb_still_path": "/s7i2pzXs9PjOTT86YEilhN7Cdkl.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/eeyusj91ihtk"
+            },
+            {
+              "id": 2,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/clchrdh4ehn0"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/lg79ag2xh6ie"
+            }
+          ],
+          "overview": null,
+          "air_date": "2016-07-01",
+          "runtime": 22,
+          "tmdb_episode_id": 1185903,
+          "tmdb_still_path": "/e0YbwsYoHKuIRcZ2FwAQNV8JOq1.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "ينقل \"إيكوما\" وأهل \"القلعة الحديدية\" قتالهم إلى ساحات المعارك في \"أوناتو\"، وينضمّون إلى التحالف لاستعادة المنطقة من محاربي حشود الـ\"كاباني\".",
+  "url": "/anime/koutetsujou-no-kabaneri",
+  "story": "ينقل \"إيكوما\" وأهل \"القلعة الحديدية\" قتالهم إلى ساحات المعارك في \"أوناتو\"، وينضمّون إلى التحالف لاستعادة المنطقة من محاربي حشود الـ\"كاباني\".",
+  "year": "2016",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Sayaka Senbongi، Tasuku Hatanaka، Yuki Kaji، Toshiki Masuda، Maaya Uchida، Kensuke Sato",
+  "genre": "أنمي، رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "lQ9VjFBqfH8",
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Koutetsujou no Kabaneri",
+    "mainDescription": "ينقل \"إيكوما\" وأهل \"القلعة الحديدية\" قتالهم إلى ساحات المعارك في \"أوناتو\"، وينضمّون إلى التحالف لاستعادة المنطقة من محاربي حشود الـ\"كاباني\".",
+    "metaDescription": "Koutetsujou no Kabaneri أنمي 2016 | ينقل \"إيكوما\" وأهل \"القلعة الحديدية\" قتالهم إلى ساحات المعارك في \"أوناتو\" | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Koutetsujou no Kabaneri من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/65945"
+    }
+  },
+  "tmdb_id": 65945,
+  "tmdb_url": "https://www.themoviedb.org/tv/65945",
+  "original_title": "甲鉄城のカバネリ"
+}

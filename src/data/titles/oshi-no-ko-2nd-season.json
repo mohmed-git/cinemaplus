@@ -1,0 +1,420 @@
+{
+  "slug": "oshi-no-ko-2nd-season",
+  "clean_title": "Oshi no Ko 2nd Season",
+  "raw_name": "انمي Oshi no Ko 2nd Season",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/oshi-no-ko-2nd-season.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7565960481355"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=k6nYZCc9H8PCFgUn"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91h5ai"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7565966969419"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7565969066571"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qkaD5E4Jyh9iALfY"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7587002518091"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=J78STLbHrNBuBVb2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91x8l4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7587004156491"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7587006843467"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6dQwvY07w7mmjB06"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7608838392395"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9k38rW7XlNplWJYz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92dnxc"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7608843110987"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7608854383179"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yf5IrXeW8EB1cyCO"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AJUjM8WMYH5RPRKd"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92u9za"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=slOfXubUaENUO6oi"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ZbIVKooTHU9sHxS0"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x93cvma"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CJt1akneg98wEjm3"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=csvcb7gsEmNjewCR"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x93pobu"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=G5mi9SQNr4OI5tSr"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wLisq8InCUvIvfQJ"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x941xoo"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JfM6OhYmXZsaYcIS"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5Fa8fj56bbmrHP7P"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x94dpgy"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XawU5G2v4piKpnDB"
+            }
+          ]
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rtZQb1pfTX9bKxHu"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x94rsm8"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nj53eXIUuMSCk4bD"
+            }
+          ]
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EQAMuSE6LNjtETPT"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x95jsji"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HQk9IYb1Jc6iT6wl"
+            }
+          ]
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mrWvh598Ln2cgeRs"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/p349usqs6knq"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/qir5q8rqozch"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Kix5VC6mJb9bQVM3"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/xapui7ht49sv"
+            }
+          ]
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wS1MR1lVe76mOA3J"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://playerwish.com/e/ii4kxb7l9ter"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://playerwish.com/e/phypjh2fir6v"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xAexejWZhDOh9FMG"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://playerwish.com/e/ewnxmn8br6rj"
+            }
+          ]
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=cPJzpVYJjXdwyJbP"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hlswish.com/e/148em4lxdb3k"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hlswish.com/e/ucmdzgdf4xiz"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kycMCShrBoW3dTZJ"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - FHD",
+              "url": "https://hlswish.com/e/wcqzvbzsxxrx"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "قصة الانمي تدور حول آي هوشينو البالغة من العمر ستة عشر عامًا هي آيدول موهوبة وجميلة يعشقها معجبوها. إنها تجسيد لبكر شابة نقية. لكن كل ما يلمع ليس ذهبًا. جورو أميميا طبيبة نسائية في الريف ومن أشد المعجبين بـ آي. لذلك عندما يظهر المعبود الحامل في مستشفاه ، يكون في حيرة من أمره. يعدها جورو بولادة آمنة. لا يعرف سوى القليل ، فإن لقاءه بشخصية غامضة سيؤدي إلى موته المفاجئ – أو هكذا كان يعتقد. يفتح غورو عينيه في حضن معبوده المحبوب ، ويجد أنه ولد من جديد باسم أكوامارين هوشينو – الابن الوليد لعي! بعد أن انقلب عالمه رأسًا على عقب ، سرعان ما يدرك غورو أن عالم الترفيه مليء بالأشواك ، حيث لا تولد الموهبة دائمًا النجاح. هل سيتمكن من حماية ابتسامة آي التي يحبها كثيرًا بمساعدة حليف غريب الأطوار وغير متوقع؟",
+  "url": "/anime/oshi-no-ko-2nd-season",
+  "story": "قصة الانمي تدور حول آي هوشينو البالغة من العمر ستة عشر عامًا هي آيدول موهوبة وجميلة يعشقها معجبوها. إنها تجسيد لبكر شابة نقية. لكن كل ما يلمع ليس ذهبًا. جورو أميميا طبيبة نسائية في الريف ومن أشد المعجبين بـ آي. لذلك عندما يظهر المعبود الحامل في مستشفاه ، يكون في حيرة من أمره. يعدها جورو بولادة آمنة. لا يعرف سوى القليل ، فإن لقاءه بشخصية غامضة سيؤدي إلى موته المفاجئ – أو هكذا كان يعتقد. يفتح غورو عينيه في حضن معبوده المحبوب ، ويجد أنه ولد من جديد باسم أكوامارين هوشينو – الابن الوليد لعي! بعد أن انقلب عالمه رأسًا على عقب ، سرعان ما يدرك غورو أن عالم الترفيه مليء بالأشواك ، حيث لا تولد الموهبة دائمًا النجاح. هل سيتمكن من حماية ابتسامة آي التي يحبها كثيرًا بمساعدة حليف غريب الأطوار وغير متوقع؟",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Takeo Otsuka، Yurie Igoma، Megumi Han، Rumi Okubo، Manaka Iwami، Kent Ito",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "FQLfj75E2JI",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Oshi no Ko 2nd Season",
+    "mainDescription": "قصة الانمي تدور حول آي هوشينو البالغة من العمر ستة عشر عامًا هي آيدول موهوبة وجميلة يعشقها معجبوها. إنها تجسيد لبكر شابة نقية. لكن كل ما يلمع ليس ذهبًا. جورو أميميا طبيبة نسائية في الريف ومن أشد المعجبين بـ آي. لذلك عندما يظهر المعبود الحامل في مستشفاه ، يكون في حيرة من أمره. يعدها جورو بولادة آمنة. لا يعرف سوى القليل ، فإن لقاءه بشخصية غامضة سيؤدي إلى موته المفاجئ – أو هكذا كان يعتقد. يفتح غورو عينيه في حضن معبوده المحبوب ، ويجد أنه ولد من جديد باسم أكوامارين هوشينو – الابن الوليد لعي! بعد أن انقلب عالمه رأسًا على عقب ، سرعان ما يدرك غورو أن عالم الترفيه مليء بالأشواك ، حيث لا تولد الموهبة دائمًا النجاح. هل سيتمكن من حماية ابتسامة آي التي يحبها كثيرًا بمساعدة حليف غريب الأطوار وغير متوقع؟",
+    "metaDescription": "Oshi no Ko 2nd Season أنمي 2023 | قصة الانمي تدور حول آي هوشينو البالغة من العمر ستة عشر عامًا هي آيدول موهوبة وجميلة يعشقها معجبوها | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Oshi no Ko 2nd Season من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/203737"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "oshi-no-ko-2nd-season",
+      "title": "Oshi no Ko 2nd Season",
+      "url": "/anime/oshi-no-ko-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 13,
+      "poster": "/images/anime/oshi-no-ko-2nd-season.jpg"
+    },
+    {
+      "slug": "oshi-no-ko-3rd-season",
+      "title": "Oshi no Ko 3rd Season",
+      "url": "/anime/oshi-no-ko-3rd-season",
+      "season": 3,
+      "seasonLabel": "الموسم 3",
+      "episodesCount": 11,
+      "poster": "/images/anime/oshi-no-ko-3rd-season.jpg"
+    }
+  ],
+  "tmdb_id": 203737,
+  "tmdb_url": "https://www.themoviedb.org/tv/203737",
+  "original_title": "【推しの子】"
+}

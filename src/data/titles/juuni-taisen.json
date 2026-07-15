@@ -1,0 +1,364 @@
+{
+  "slug": "juuni-taisen",
+  "clean_title": "Juuni Taisen",
+  "raw_name": "انمي Juuni Taisen",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/juuni-taisen.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413488245323"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1-0U5XEdjUqV74cm7gQ46HrYcbTb8UJXI/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-nf556fd7macr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1370820,
+          "tmdb_still_path": "/kbX1t1lyvexeZ5n7uNQbsyDIGk0.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413579668043"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1pUXZVfO55XpElXEQ1qvGa9GNHYS2nkkP/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-a3qomftel1lh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1378635,
+          "tmdb_still_path": "/tBpL6X4qm0xpSu7ficdQ4LOux6r.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413588908619"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/15DF1f7Fl7vcgHI501JwOlXoC0_xyvJH_/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kew0qxd5peyr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1380453,
+          "tmdb_still_path": "/px18lTO1V0s9YLoYKh1uItmbHrk.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413598542411"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1qU3ce16-gqwJg7S8h_ccdh7DaHXxgCPm/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-00hkohyola6q.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1380776,
+          "tmdb_still_path": "/ce40Wb09EJ8N0HRq9oVa0qtU67v.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413634914891"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1jgSDdOxX5s86S5IoqYBxktqUMkAlp1w7/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7q0bf8ddli8m.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1387579,
+          "tmdb_still_path": "/yl9XnkUfVjtSWA96qIfYgHvYHSD.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413640092235"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/13Q30BJC7cZlpK-mXFkayYDJGzp3Fv7FM/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-zcfitwfahw03.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1387580,
+          "tmdb_still_path": "/g1w35vpFXPJsZQyCQd1V1EUypYI.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413645662795"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/14VxpXlsIyuhDQa03-G8mo9q-QdT2oS1H/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-x0kx6bjcvf2i.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1390831,
+          "tmdb_still_path": "/dQ6BZd8Fw5Vh2h5fXKrempWG51N.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413650971211"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1eDwErSehvDGmFFwPlkRsLRo9Oj22zbe6/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-4lhacjvkc50i.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1395571,
+          "tmdb_still_path": "/gR72erRHNZ5Gn55Y7am3kK2VKSC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413810485835"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1pOrWaP3VFJIaNZf_4S9yfnwdpXpxbzsG/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-wsjro8oc1gbl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1395720,
+          "tmdb_still_path": "/72R3t6h7tGTQgqwISxwUCrstA9.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413733939787"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/10_rJzxoLTzSXYOmLDuh60sotHW3ULQ9l/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-gadx2obdlida.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1402028,
+          "tmdb_still_path": "/AkKyfS2OEESPpEe0iVPv7vuhn3j.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413743573579"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1YxdfX9-2wjoMxcT90g5C0J9CT4VVjLF0/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-q1sm5r2jsmdl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1402029,
+          "tmdb_still_path": "/46dktwEQh2GddWw2xcCXv84ARjM.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2413750389323"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1OwQAUKKlv9kcDh7vG5w_oDJbNttPMAJ4/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-1fjbxgsfbwnk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1405416,
+          "tmdb_still_path": "/tPEcY8dJe2e4QtpmyHbUNNV4ovP.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Juuni Taisen ضمن أجواء حركة ومغامرة، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Juuni Taisen من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Juuni Taisen على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/juuni-taisen",
+  "story": "يدور أنمي Juuni Taisen ضمن أجواء حركة ومغامرة، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Juuni Taisen من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Juuni Taisen على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shun Horie، Nobuhiko Okamoto، Yuuichirou Umehara، Tomohiro Nishimura، Hiromi Igarashi، Yoko Hikasa",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة",
+  "trailerId": "gsOes0IA4EE",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Juuni Taisen",
+    "mainDescription": "يدور أنمي Juuni Taisen ضمن أجواء حركة ومغامرة، رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Juuni Taisen من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Juuni Taisen على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Juuni Taisen أنمي 2017 | يدور أنمي Juuni Taisen ضمن أجواء حركة ومغامرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Juuni Taisen من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/74095"
+    }
+  },
+  "tmdb_id": 74095,
+  "tmdb_url": "https://www.themoviedb.org/tv/74095",
+  "original_title": "十二大戦"
+}

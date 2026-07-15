@@ -1,0 +1,922 @@
+{
+  "slug": "fairy-tail-100-nen-quest",
+  "clean_title": "Fairy Tail: 100-nen Quest",
+  "raw_name": "انمي Fairy Tail: 100-nen Quest",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/fairy-tail-100-nen-quest.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "النقابة الأولى والنقابة الأقوى",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mdK0L4I7Hm7TFv3P"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91oww4"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AefsFQu7v294jSER"
+            }
+          ],
+          "overview": "يزور ناتسو وأصدقاؤه أول نقابة سحرة على الإطلاق لتنفيذ مهمة لم يُكملها أحد من قبل: \"مهمة المئة عام\". في هذه الأثناء، ينضم مجندون جدد إلى فيري تيل، لكن أحدهم أغرب من المعتاد...",
+          "air_date": "2024-07-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5210012,
+          "tmdb_still_path": "/x4Mt7TqPWfUws4vEGwQAjdJrhqP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "بحر التنانين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=D3oDc6tfDKQuHRQU"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OHdr2LK6VdTx73pK"
+            }
+          ],
+          "overview": "اتضح أن مدينة إرمينا مدينة للأسماك، حيث تغمرها المياه بالكامل أثناء المد العالي. وما إن يذكر الفريق التنين المائي، حتى تصبح الأسماك عدائية.",
+          "air_date": "2024-07-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5428589,
+          "tmdb_still_path": "/qVTr4AC3Q0ZxADZ1veUhKX2W0xS.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "نصل، درع، رماد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7618999683659"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CCmQWRhSk3LuwXHs"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7619003222603"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7619006171723"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=usJQlXn18T5Betiq"
+            }
+          ],
+          "overview": "يسعى آكلو التنانين وراء ميركفوبيا للحصول على قوة تنين الماء. ينضم ناتسو ورفاقه إلى المعركة لمساعدته، لكن الأعداء أقوياء. في هذه الأثناء، يحقق غاجيل وجوفيا وليلي في أمر توكا رغم اعتراض ليفي.",
+          "air_date": "2024-07-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5428591,
+          "tmdb_still_path": "/5lz6kAlwS6v39QKueLHf9nkFNUs.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7643937966667"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QpZMIyJNJmbkwwei"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7643940325963"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7643944782411"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=e4Tz6He7znWFqwMM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5428592,
+          "tmdb_still_path": "/apPPDZedBvGINcXNSwWLy4eF7ZZ.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7664521054795"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=URsxfzj8SoDTQduz"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7664534030923"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7664546351691"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1LVHJyuOtWqaUSNB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-04",
+          "runtime": 24,
+          "tmdb_episode_id": 5461560,
+          "tmdb_still_path": "/mqfjh8Bz5PrJaTTHysYLqzEjCYc.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7693816433227"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Fwe7MwyFrtNmfQMp"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7693821020747"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7693825280587"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rPn4cBo4obyAzf3I"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-11",
+          "runtime": 24,
+          "tmdb_episode_id": 5461561,
+          "tmdb_still_path": "/sZCo5fvH7hcG3mrl68A0NB8aTrP.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7716686334539"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BjMLDQ9v8giS4vPg"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7716694067787"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7716696754763"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0CkswxplrtDeWk52"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-18",
+          "runtime": 24,
+          "tmdb_episode_id": 5524961,
+          "tmdb_still_path": "/3N6zDkiylCLuMoMqIbyPlK9UVlP.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7738927417931"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SBZDLEbtOejfWTMP"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7738932464203"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7738938034763"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8rTJfbVRWBzISOqw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-25",
+          "runtime": 24,
+          "tmdb_episode_id": 5526151,
+          "tmdb_still_path": "/bN8TIEf7BxEFy0futNba4daQfAT.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7759170636363"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Bd2jqUuIZJ1W38mZ"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7759177386571"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=No1i1aKds3JKkQbd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-01",
+          "runtime": 24,
+          "tmdb_episode_id": 5528492,
+          "tmdb_still_path": "/mClPI0qHcMItFZyw0L9R9nXjitX.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7781436426827"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6Ib3oSMdOe4fq5qB"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7781441866315"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7781447764555"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SY3c7pUgBwNggvQw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5528493,
+          "tmdb_still_path": "/c3NwLjmMaBxMfOLOgpmMKSVkrp.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7803785054795"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=58kzeBRSFebI2AF8"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7803790953035"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7803797375563"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xoDoBx9Qkln5Jbzm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5567453,
+          "tmdb_still_path": "/7Tzoq7V5l9kBWnpptqD9idMTRiK.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7670453242566"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BHw0dsG86fQvrQpu"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7670459009734"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7670462286534"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=K8cSI3shYHPatvp8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5567457,
+          "tmdb_still_path": "/zxzuoxsLMYzuUXILWpD1InpMx0W.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7700572015302"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0T8J3v1aKij0Vprw"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7700577389254"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7700589054662"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ydRyC2kiEaIFOq0z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-29",
+          "runtime": 24,
+          "tmdb_episode_id": 5597200,
+          "tmdb_still_path": "/8nDeDnYnZcuMKB5W8EcyXd0rnKp.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7795617958598"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ygZfOLeFpEnLnTD7"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7795625429702"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7795628182214"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9hrWAswCPViryLg2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5597201,
+          "tmdb_still_path": "/wXvLYvAWq1gQJsGviCXWaM9YG92.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7822516488902"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NGgiqOLbRVHqb4Rg"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7822517209798"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7822518192838"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=b1u1qSSlRRya3DFK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-20",
+          "runtime": 24,
+          "tmdb_episode_id": 5618596,
+          "tmdb_still_path": "/ohoGSLzTTa9jb5isW749jwzmaH3.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7893206567622"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=b372fsMfv6A8qKNo"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7893210958534"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7893216266950"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BSpUFYBDo6Ga7Nay"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 5618597,
+          "tmdb_still_path": "/cXJ6gCTk0h4zuzgjzcKH4jG7V5m.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8014968916678"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6jewr9R8rywEKSlF"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8015013415622"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8015086488262"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=y8o8S86YmqIN0hTG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5618598,
+          "tmdb_still_path": "/6ZcP4UulTrVRCERgLJKDij2Oyqq.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8195702065862"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kZfVkl0Ilt7hQNXc"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8195735751366"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8195786934982"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4kVP1kxou5unZz3p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5618599,
+          "tmdb_still_path": "/mGBk8teC4VGoozf8G95TJpfuvUd.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8344646126278"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=8WJ46wAbrig0aYq9"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8344698686150"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8344708385478"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QooZZ9kygYFZc0Da"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5618600,
+          "tmdb_still_path": "/A2VHKhQT3CSBJPckovnNsqWcxoF.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8513146522310"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4RuhlAGsIO7bFahl"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8513181715142"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8513208191686"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=shv3l6ey4L3pJkKW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-11-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5618601,
+          "tmdb_still_path": "/iOkSovyG2SxrniNCPwALhSrLpaM.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8693103332038"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=g76pfSTltuG19iQq"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8693132298950"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8693162511046"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=odQRvk8rOKctfmMc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-01",
+          "runtime": 24,
+          "tmdb_episode_id": 5618602,
+          "tmdb_still_path": "/z8OlZMI4Ohu7Ek3XVrNiKSLg17R.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8871507790534"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=3zfQijwAcjFigTuT"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8871540427462"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8871570049734"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NYNOKB7VsMxXrSql"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5618603,
+          "tmdb_still_path": "/rA1pA16RPzFJ6uwhuF8Ugs3Ef4y.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8972435851974"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xuvNGg0SXiVQjnUD"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8972437490374"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8972438145734"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bWzClwXwJNDHL5Wp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5618604,
+          "tmdb_still_path": "/eQuKnht35AdCrKncgeAviInAJnj.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/8998715722438"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wn5KDc91cIt1tZ63"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/8998719785670"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/8998724307654"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DG3QSCFYpJCmg2Kx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-12-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5618605,
+          "tmdb_still_path": "/rdAfMBxx9QWLIk1f87dWZPgwGnH.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9058057652934"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GBJ17pZmN6EYil5k"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9058062109382"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9058066172614"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dlE5bL0avrSZRIZq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-01-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5802840,
+          "tmdb_still_path": "/1ny4Y6N1M23EwfHHftQ2CyQnF1H.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "عاد ناتسو دراغنيل وفريقه من نقابة السحرة إلى العمل، عازمين على إنهاء مهمة الـ 100 عام\" التي لم تمس منذ تأسيس النقابة قبل قرن من الزمن",
+  "url": "/anime/fairy-tail-100-nen-quest",
+  "story": "عاد ناتسو دراغنيل وفريقه من نقابة السحرة إلى العمل، عازمين على إنهاء مهمة الـ 100 عام\" التي لم تمس منذ تأسيس النقابة قبل قرن من الزمن",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tetsuya Kakihara، Aya Hirano، Rie Kugimiya، Yuichi Nakamura، Sayaka Ohara، Satomi Sato",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "E1a5MRYIGUk",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Fairy Tail: 100-nen Quest",
+    "mainDescription": "عاد ناتسو دراغنيل وفريقه من نقابة السحرة إلى العمل، عازمين على إنهاء مهمة الـ 100 عام\" التي لم تمس منذ تأسيس النقابة قبل قرن من الزمن",
+    "metaDescription": "Fairy Tail: 100-nen Quest أنمي 2024 | عاد ناتسو دراغنيل وفريقه من نقابة السحرة إلى العمل | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Fairy Tail: 100-nen Quest من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/248947"
+    }
+  },
+  "tmdb_id": 248947,
+  "tmdb_url": "https://www.themoviedb.org/tv/248947",
+  "original_title": "FAIRY TAIL 100年クエスト"
+}

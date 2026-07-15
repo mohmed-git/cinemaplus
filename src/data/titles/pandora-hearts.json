@@ -1,0 +1,452 @@
+{
+  "slug": "pandora-hearts",
+  "clean_title": "Pandora Hearts",
+  "raw_name": "انمي Pandora Hearts",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/pandora-hearts.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421288397387"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-04-02",
+          "runtime": 24,
+          "tmdb_episode_id": 816995,
+          "tmdb_still_path": "/wpBCmTGjbSJZ0UJQe3InPwZOHP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421308648011"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 816996,
+          "tmdb_still_path": "/1seYYG9UhxJajOcLrz3DlWHHOZt.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421322213963"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 816997,
+          "tmdb_still_path": "/lJVAASXEASupJuSEc4RaCRvICwN.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421332372043"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 816998,
+          "tmdb_still_path": "/vMX0EQRGkaTRGhomp7p53tn4Pje.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421339777611"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 816999,
+          "tmdb_still_path": "/uTT3r2CnawiG5aiB7D9OGZN9z5J.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421346396747"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 817000,
+          "tmdb_still_path": "/saaFLQqWxqY84I5oTDlquKr67cC.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421353278027"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 817001,
+          "tmdb_still_path": "/hRdtb1iPBtC3Q2dWPzNJZNjrRjh.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421360421451"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 816983,
+          "tmdb_still_path": "/u04zALkCQ5453GhdaMwsNsyXvSW.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421371234891"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 816984,
+          "tmdb_still_path": "/oNVHpymdKVIga8xb30xVyAEaL0R.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421378574923"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 816985,
+          "tmdb_still_path": "/z87nyOlOS0y5SmdevIMNGB1zUEh.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421384866379"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 816988,
+          "tmdb_still_path": "/eLaAn6XYLiHok4D3bj34ljqjS7L.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421390633547"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 816989,
+          "tmdb_still_path": "/ccaAlJWE5Z6tDS4oZxQpFFm5r6L.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421398891083"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 816987,
+          "tmdb_still_path": "/zqlGhcUp1ffvHAgD5ZZ1vTB522U.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421404723787"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-07-02",
+          "runtime": 24,
+          "tmdb_episode_id": 816994,
+          "tmdb_still_path": "/hBTEbK3Lxk6ioCzwyXV5Y6QhDYI.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421411998283"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-07-09",
+          "runtime": 24,
+          "tmdb_episode_id": 816980,
+          "tmdb_still_path": "/2eO6bpkbGWQgRSOYBqxCQej1jDO.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421418814027"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-07-16",
+          "runtime": 24,
+          "tmdb_episode_id": 816981,
+          "tmdb_still_path": "/iDCjJNDKYu5z2FueDl8r2vuCNxg.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421425039947"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-07-23",
+          "runtime": 24,
+          "tmdb_episode_id": 816991,
+          "tmdb_still_path": "/cRSMLTAwHnbAk3SB0nbw5bHVM0e.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421436377675"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-07-30",
+          "runtime": 24,
+          "tmdb_episode_id": 816982,
+          "tmdb_still_path": "/kSoRpzRVEIJq59lWbxnwSESd2s9.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421449091659"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-08-06",
+          "runtime": 24,
+          "tmdb_episode_id": 816993,
+          "tmdb_still_path": "/xSMw65TajnRQkOGMNjR68tyIifl.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421454465611"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-08-13",
+          "runtime": 24,
+          "tmdb_episode_id": 816977,
+          "tmdb_still_path": "/jWDlQVJWkWphpsAiSZGT6sfRaiT.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421459970635"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-08-27",
+          "runtime": 24,
+          "tmdb_episode_id": 816978,
+          "tmdb_still_path": "/ahhmIuk9DUzgLIhjyYjrIcHOpqb.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421465410123"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-09-03",
+          "runtime": 24,
+          "tmdb_episode_id": 816979,
+          "tmdb_still_path": "/sjVqsm8st7ACl0eZpOpqmFYpJ2u.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421470390859"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-09-10",
+          "runtime": 24,
+          "tmdb_episode_id": 816986,
+          "tmdb_still_path": "/zA7KBORgEf61CvXVeQVvDJSGzTL.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421477009995"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-09-17",
+          "runtime": 24,
+          "tmdb_episode_id": 816990,
+          "tmdb_still_path": "/4y8dOzoM2gz7hrxWPuEOvLXosFg.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4421482383947"
+            }
+          ],
+          "overview": null,
+          "air_date": "2009-09-24",
+          "runtime": 24,
+          "tmdb_episode_id": 816992,
+          "tmdb_still_path": "/xXIqUU1CyDehrDNsny0E86X73sR.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Pandora Hearts ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2009، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. في أنمي Pandora Hearts تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، غموض، شونين، مغامرات، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/pandora-hearts",
+  "story": "يدور أنمي Pandora Hearts ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2009، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. في أنمي Pandora Hearts تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، غموض، شونين، مغامرات، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2009",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Jun Mochizuki",
+  "stars": "Junko Minagawa، Ayako Kawasumi، Akira Ishida، Kana Hanazawa، Daisuke Ono",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، دراما، غموض",
+  "trailerId": "9Psc_hBkOoc",
+  "rating": "6.4",
+  "imdb_rating": "6.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Pandora Hearts",
+    "mainDescription": "يدور أنمي Pandora Hearts ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2009، وتوضح بيانات TMDB أنه يضم 1 موسم و25 حلقة. في أنمي Pandora Hearts تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء خارق للطبيعة، غموض، شونين، مغامرات، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و25 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Pandora Hearts أنمي 2009 | يدور أنمي Pandora Hearts ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Pandora Hearts من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/35971"
+    }
+  },
+  "tmdb_id": 35971,
+  "tmdb_url": "https://www.themoviedb.org/tv/35971",
+  "original_title": "PandoraHearts"
+}

@@ -1,0 +1,72 @@
+---
+interface Props {
+  trailerId?: string | null;
+  title: string;
+  type: 'movie' | 'series' | 'anime';
+}
+
+const { trailerId, title, type } = Astro.props;
+const cleanId = trailerId?.trim();
+const typeLabel = type === 'movie' ? 'الفيلم' : type === 'series' ? 'المسلسل' : 'الأنمي';
+const thumbnail = cleanId ? `https://img.youtube.com/vi/${encodeURIComponent(cleanId)}/hqdefault.jpg` : '';
+const embedUrl = cleanId ? `https://www.youtube.com/embed/${encodeURIComponent(cleanId)}` : '';
+---
+
+{cleanId && (
+  <section class="glass-panel overflow-hidden" data-trailer-embed>
+    <div class="border-b border-white/[0.06] px-5 py-4 md:px-6">
+      <h2 class="flex items-center gap-2 text-lg font-bold text-white">
+        <span class="flex h-6 w-1 rounded-full bg-gradient-to-b from-brand-400 to-gold-400"></span>
+        تريلر {typeLabel}
+      </h2>
+    </div>
+
+    <div class="relative aspect-video w-full overflow-hidden bg-surface-0" data-trailer-frame>
+      <img
+        src={thumbnail}
+        alt={`تريلر ${title}`}
+        loading="lazy"
+        decoding="async"
+        class="h-full w-full object-cover opacity-80"
+      />
+      <div class="absolute inset-0 bg-gradient-to-t from-surface-0 via-surface-0/30 to-transparent"></div>
+      <div class="absolute inset-0 flex flex-col items-center justify-center gap-4 p-6 text-center">
+        <button
+          type="button"
+          class="btn-primary px-7 py-3.5 text-base"
+          data-trailer-trigger
+          data-video-url={embedUrl}
+          aria-label={`مشاهدة تريلر ${title}`}
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5">
+            <path d="M8 5v14l11-7z" />
+          </svg>
+          مشاهدة التريلر
+        </button>
+      </div>
+    </div>
+  </section>
+)}
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-trailer-embed]').forEach((root) => {
+    const button = root.querySelector<HTMLButtonElement>('[data-trailer-trigger]');
+    const frameHost = root.querySelector<HTMLElement>('[data-trailer-frame]');
+
+    button?.addEventListener('click', () => {
+      const url = button.dataset.videoUrl;
+      if (!url || !frameHost || frameHost.querySelector('iframe')) return;
+
+      const iframe = document.createElement('iframe');
+      iframe.src = url;
+      iframe.title = button.getAttribute('aria-label') || 'YouTube trailer';
+      iframe.className = 'h-full w-full';
+      iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+      iframe.allowFullscreen = true;
+      iframe.loading = 'lazy';
+      iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+
+      frameHost.replaceChildren(iframe);
+    });
+  });
+</script>

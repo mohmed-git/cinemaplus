@@ -1,0 +1,430 @@
+{
+  "slug": "moonrise",
+  "clean_title": "Moonrise",
+  "raw_name": "انمي Moonrise",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/moonrise.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 18,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 18,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الليلة التي بدأ فيها كل شيء",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YjKoVIVP9mK1mBm1"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MDS82eyfAKUEt8nE"
+            }
+          ],
+          "overview": "يهرع \"جاك\" وأصدقاؤه لحضور احتفال بالغ الأهمية، مغمورين بحالة من السعادة غير مدركين لأحداث الثورة التي تلوح نُذرها في الأفق والتي تهدد بقلب عالمه رأسًا على عقب.",
+          "air_date": "2025-04-10",
+          "runtime": 28,
+          "tmdb_episode_id": 3772026,
+          "tmdb_still_path": "/3WcGIlOFnc8b7tULfb5sDRHs8lD.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "يوم مأساوي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=taPBIacci7EccQR5"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=y2EW2UWQ3upSSpcc"
+            }
+          ],
+          "overview": "بعد الهجوم، يستيقظ \"جاك\" في المستشفى ليجد المدينة في حالة من الخراب، فيهرع إلى المنزل للعثور على إجابات لكن السلطات تفاجئه بزيارة.",
+          "air_date": "2025-04-10",
+          "runtime": 28,
+          "tmdb_episode_id": 6112182,
+          "tmdb_still_path": "/qgP91LoDT0REgbT41r4l2uWhNa3.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "وجه غير متوقع",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qaeSOUb2ZSMwyC8U"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qYRgCzOBWTDqIWYl"
+            }
+          ],
+          "overview": "بعد مرور عام، يهبط فريق \"في سي 3\" على سطح القمر لتنفيذ مهمته. وفي هذه الأثناء، تبدأ قوات \"سلاسل القمر\" المتمردة في الاستيلاء على مدينة \"كوبرنيكوس\".",
+          "air_date": "2025-04-10",
+          "runtime": 28,
+          "tmdb_episode_id": 6112183,
+          "tmdb_still_path": "/wUTD9Fx6o2k3pyihBnCGnGYZIjf.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الشيء الأكثر أهمية",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=d35oyJ44acdMWG0W"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Tu7fojPNjPAb0bCL"
+            }
+          ],
+          "overview": "تثير مأساة مدمرة ذكريات من رحلته الشاقة التي خاضها مع بقية أعضاء الوحدة \"في سي 3\"، وتستحضر في ذهن \"جاك\" محادثة مهمة مع \"إيريك\".",
+          "air_date": "2025-04-10",
+          "runtime": 26,
+          "tmdb_episode_id": 6117333,
+          "tmdb_still_path": "/ekMt2I4BXDrWZWBgmb4OyhC1Px2.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الانكشاف",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5EXqz6xxPTffEcBt"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3Fts0RbRWEry5t6Y"
+            }
+          ],
+          "overview": "في مهمتهم التالية، يتعين على الفريق الإمساك بحليف وثيق لـ\"بوب سكايلوم\" قبل أن يصل إليه \"الجيش المشترك\". ويكتشف \"جاك\" أمرًا صادمًا بعد مواجهة مع الهدف.",
+          "air_date": "2025-04-10",
+          "runtime": 22,
+          "tmdb_episode_id": 6117336,
+          "tmdb_still_path": "/sgrYDFKrQFz8iZPUrVIKms0Fdc.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "اللقاء من جديد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KbGtgzndQUaBV9ab"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=e69xgJG3gpI7nhiN"
+            }
+          ],
+          "overview": "بينما يكافح الفريق ضد هجمات متواصلة بلا هوادة، يحاول \"جاك\" أن يستوعب المواجهة المصيرية التي خاضها... فهل يمكنه الوثوق بـ\"فيل\" بعد كل هذا الوقت؟",
+          "air_date": "2025-04-10",
+          "runtime": 27,
+          "tmdb_episode_id": 6117338,
+          "tmdb_still_path": "/bn2Yt1HCRc9KvoACWjNJmQWNWvB.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "أهل القمر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lIZAvwR5XYq29Foa"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wPWtLeTC94zyHbZg"
+            }
+          ],
+          "overview": "تتسلل \"ويندي\" إلى قاعدة \"غودارد\". وفي هذه الأثناء، تتعلم الفرقة تحت إرشاد \"ماري\" تأثير الصراع بين الأرض والقمر على أهل القمر.",
+          "air_date": "2025-04-10",
+          "runtime": 28,
+          "tmdb_episode_id": 6117341,
+          "tmdb_still_path": "/qaJ8LoZcPm4phfu1Izx5E7bBxkM.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "ماري",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iNjFS92lRaQNzhy3"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=e7h7PSMe6YTv0Mn3"
+            }
+          ],
+          "overview": "يسترجع \"فيل\" ذكرى مظلمة حين تصل الدكتورة \"سالاماندرا\" حاملة أخبارًا عاجلة. وفي محطة \"ديلامبري\"، تشارك \"ماري\" ماضيها مع \"جاك\"، لكن \"ريس\" تقاطعها.",
+          "air_date": "2025-04-10",
+          "runtime": 26,
+          "tmdb_episode_id": 6120895,
+          "tmdb_still_path": "/arx5nqL5XoLfUnF16M3lBhEycYg.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "مشاعر لم تتغير",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aA5JPtH8aO3zK8qy"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=SIVVGBeU5ahOQyCN"
+            }
+          ],
+          "overview": "تصاب \"إينانا\" بمرض غامض. ورغم أنّ \"ماري\" تعرف شخصًا يمكنه علاجها، إلا أنه في الاتجاه المعاكس تمامًا... فهل يستطيع الفريق الانعطاف نحو وجهة أخرى في رحلته؟",
+          "air_date": "2025-04-10",
+          "runtime": 25,
+          "tmdb_episode_id": 6120920,
+          "tmdb_still_path": "/7PoGBykSideUHl23vnCts7fIrdS.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "سعي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kjm8esvm4dpDMnnQ"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kIV8DllsM24IOSDK"
+            }
+          ],
+          "overview": "يصل أفراد الفريق أخيرًا إلى مدينة \"أغاروم\"، لكنهم يواجهون حصارًا. وأملًا في الحفاظ على الأرواح، يتولى \"جاك\" زمام الأمور بنفسه.",
+          "air_date": "2025-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 6120938,
+          "tmdb_still_path": "/z00h3PltM07jIkyenRNlYK1NXOF.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "مجهول",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6XBTJiu2Oj9Euw59"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=b1E5tIqEqE1FvheP"
+            }
+          ],
+          "overview": "تتخلى الدكتورة \"سالاماندرا\" عن معركتها مع \"جاك\" لوقف حالة هيجان \"إل زون\"، ويكافحان لإخماد الكيان... إلى أن تظهر \"ماري\" فجأة.",
+          "air_date": "2025-04-10",
+          "runtime": 21,
+          "tmdb_episode_id": 6120959,
+          "tmdb_still_path": "/9jfXJTOP32Sc4RP0vYdlQ2oQAb1.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "ظلال متساقطة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=cniYtP1jGs6F0K4m"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0e5WJyUXQlIJuyRE"
+            }
+          ],
+          "overview": "بينما يتقدم الـ\"إل زون\" المتمرد نحو مدينة \"أغاروم\"، يواجه الفريق صعوبة في اكتشاف قوة \"ماري\" الغامضة. وفي وقت لاحق، تُخترق القاعدة.",
+          "air_date": "2025-04-10",
+          "runtime": 21,
+          "tmdb_episode_id": 6120989,
+          "tmdb_still_path": "/t2Vjf1ctNEd3iO8GpoeJpjV0Qpq.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "فراق",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MorWmhjv0C0R4INH"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=41L7JkzSkpVWtpwG"
+            }
+          ],
+          "overview": "بينما تحتدم المعركة بين قوات المتمردين و\"الجيش المشترك\"، يخوض \"جاك\" مواجهة مؤلمة ضد \"ريس\". وتطلب منه \"ماري\" خدمة نابعة من حالة يأسها.",
+          "air_date": "2025-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 6121020,
+          "tmdb_still_path": "/stKuwb7zb8WGc0KYMAoqRJ60nCK.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الماضي والواقع",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AEllKxPE6pGR3GF8"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8DXEQd8JslT01EBz"
+            }
+          ],
+          "overview": "قبل ثلاثة عشر عامًا، تلتقي \"ريس\" بـ\"جاك\" للمرة الأولى. أمّا في الوقت الحاضر، فتسارع الوحدة \"في سي 3\" إلى ساحة معركة عنيفة للوصول إلى هدفها.",
+          "air_date": "2025-04-10",
+          "runtime": 26,
+          "tmdb_episode_id": 6121057,
+          "tmdb_still_path": "/eJHLRC6WH2kMbmk7M8CUJObxjIy.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "توقعات",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=bFF6N08FcPXCui8F"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=c6j4zGgVqzAKF8h8"
+            }
+          ],
+          "overview": "الوقت بدأ ينفد بالنسبة لـ\"ريس\" وفريقها، لكن لقاءً غير متوقع يعطل مهمتهم. ولاحقًا، يتأمل \"جاك\" و\"ماري\" الأحداث الماضية.",
+          "air_date": "2025-04-10",
+          "runtime": 26,
+          "tmdb_episode_id": 6121074,
+          "tmdb_still_path": "/lreh4aeimsqv68zWVvcI86WCwoQ.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "تذكُّر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=L9vNXnZMaqacUN0d"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gk1hKu3U4vALxIRH"
+            }
+          ],
+          "overview": "يسرد \"فيل\" تفاصيل اليوم الذي عرف فيه حقيقة كل شيء، ويشارك معلومات صادمة حول هدف \"جاك\" الحقيقي. أمّا الدكتورة \"سالاماندرا\"، فتستجوب \"ريس\".",
+          "air_date": "2025-04-10",
+          "runtime": 31,
+          "tmdb_episode_id": 6121140,
+          "tmdb_still_path": "/k5H8GnJn5lum11Mwy4B8p3crAEo.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "سيطرة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=K6iJTvNGxem6SHJe"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5vNkVVWZgjUqtvfX"
+            }
+          ],
+          "overview": "بينما يحاصر \"إل زون\" مدينة \"كوبرنيكوس\"، تتحرّر \"ريس\" بمساعدة \"دوان\" و\"زوان\". وفي اشتباك مع قوات المتمردين، تواجه \"إينانا\" والفريق قرارًا صعبًا.",
+          "air_date": "2025-04-10",
+          "runtime": 27,
+          "tmdb_episode_id": 6121154,
+          "tmdb_still_path": "/tlSjs4y1nJmr34DgX7NBQ8GnTeF.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "مواصلة المسير",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=uMeKsYpOkkkUUlXh"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nFoAMCBDCCtXO24B"
+            }
+          ],
+          "overview": "بعد شجار مميت، يبدأ \"إل زون\" في إظهار سلوك جنوني ويبتلع \"ماري\" في خضم الفوضى، فهل يستطيع \"فيل\" و\"جاك\" إنقاذها هي والقمر قبل فوات الأوان؟",
+          "air_date": "2025-04-10",
+          "runtime": 29,
+          "tmdb_episode_id": 6121156,
+          "tmdb_still_path": "/fUsjbdOume84wAFx9wfrHkFBTPz.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "عندما تهاجم قوات المتمردين الأرض، يصبح وريث خالي البال هو المشتبه به الرئيسي وينضم إلى وحدة عسكرية خاصة للعثور على العقل المدبر الحقيقي على سطح القمر.",
+  "url": "/anime/moonrise",
+  "story": "عندما تهاجم قوات المتمردين الأرض، يصبح وريث خالي البال هو المشتبه به الرئيسي وينضم إلى وحدة عسكرية خاصة للعثور على العقل المدبر الحقيقي على سطح القمر.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chiaki Kobayashi، Yuto Uemura، Kosuke Takaguchi، Satoshi Yamaguchi، Arisa Kori، Yuka Terasaki",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "e1Y9KkuL2DQ",
+  "rating": "7.1",
+  "imdb_rating": "7.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Moonrise",
+    "mainDescription": "عندما تهاجم قوات المتمردين الأرض، يصبح وريث خالي البال هو المشتبه به الرئيسي وينضم إلى وحدة عسكرية خاصة للعثور على العقل المدبر الحقيقي على سطح القمر.",
+    "metaDescription": "Moonrise أنمي 2025 | عندما تهاجم قوات المتمردين الأرض | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Moonrise من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/203740"
+    }
+  },
+  "tmdb_id": 203740,
+  "tmdb_url": "https://www.themoviedb.org/tv/203740",
+  "original_title": "ムーンライズ"
+}

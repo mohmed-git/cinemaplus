@@ -1,0 +1,364 @@
+{
+  "slug": "miru-tights",
+  "clean_title": "Miru Tights",
+  "raw_name": "انمي Miru Tights",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/miru-tights.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464293849675"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1NAO2CL54aimWRVfg33eXBKZLbNUnYqrv/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-niuufet64rcc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-11",
+          "runtime": 4,
+          "tmdb_episode_id": 1707720,
+          "tmdb_still_path": "/X2GRk1DImtSiOLfPvkt1gs4s49.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464296733259"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1VvTBZPKhJaGiqcqz31KF0__SM70Ffbrm/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-x33keuxgphp5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-18",
+          "runtime": 4,
+          "tmdb_episode_id": 1793307,
+          "tmdb_still_path": "/dqi8jdA53g3ekkmsn9yJ2v5jrv4.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464300075595"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1lVspVL2csFOTvd8fCB8qXbhrItZ2n6WM/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6o7yeshxjdul.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-05-25",
+          "runtime": 4,
+          "tmdb_episode_id": 1798098,
+          "tmdb_still_path": "/8C6KJ2AdB4uEL6KIWKj2MQ9k9fy.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464302697035"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1HUQw4nKCq8JVdNkieCI31Brkc8Nakf1S/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-2b1dwn4zgwnq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-01",
+          "runtime": 4,
+          "tmdb_episode_id": 1798099,
+          "tmdb_still_path": "/4wDwfiDYLGfk4bahMcXAMu3YZ2y.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464312134219"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1b9goR8296wXqdCVufZC2rsBikDjSSKao/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-2ccukfagy070.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-08",
+          "runtime": 4,
+          "tmdb_episode_id": 1811244,
+          "tmdb_still_path": "/qXUWcQM692KGmstElZC2bcKFKk3.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464313838155"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1-z4dBkny9MICkEwEJ6Gfni2DcbL6r3hW/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-owqysjq0gdg2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-15",
+          "runtime": 4,
+          "tmdb_episode_id": 1819227,
+          "tmdb_still_path": "/mobvXiYDEiPUVcYbB394R1Ceaes.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464315607627"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1tCKt7MzEKg3-C6qVQdj5EMO9M1TiLr_m/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-75s5ll280afk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-22",
+          "runtime": 4,
+          "tmdb_episode_id": 1832400,
+          "tmdb_still_path": "/6JFTofWbouvn3vzKkgptjq7BPZl.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464316983883"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1UI6CVqL6LgIsIvy8s-Jg34aKh0bR3tgc/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-v61lzu5zthq2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-06-29",
+          "runtime": 4,
+          "tmdb_episode_id": 1832401,
+          "tmdb_still_path": "/8iG1zfwzj0RxVrqzBMMyhppFmhs.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464319343179"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1FctsV1UWj-b9ubDNUxTqLt3HCrE-Ylwf/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-z35uqu5ix6mv.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-06",
+          "runtime": 4,
+          "tmdb_episode_id": 1832402,
+          "tmdb_still_path": "/4LU58PodgF1hSpYsg3ULDphsS5M.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464322161227"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1Lv3A8ZCeG_ukIhN5KtW-9DqB8eKrKrdB/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-inr144w79rz6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-13",
+          "runtime": 4,
+          "tmdb_episode_id": 1832403,
+          "tmdb_still_path": "/gE0DbkofDMvZySJ6ecakOg1c47p.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464323209803"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1P1lrOpEmGfdZtTFxkjvlUCUEintkrSNp/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-bxxuahipkwdi.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-20",
+          "runtime": 4,
+          "tmdb_episode_id": 1857023,
+          "tmdb_still_path": "/f0qjVDTEOvgazW2TnJGEWZmZfhd.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2464324913739"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1BKQb8gQNokvrLJaSwc6V0vJDPS9PMNke/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7vi7v16swvsa.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-07-27",
+          "runtime": 4,
+          "tmdb_episode_id": 1864346,
+          "tmdb_still_path": "/tRQ9mcskw5lPkj7S0CeyAF3bcBb.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Miru Tights ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Miru Tights حول تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تصنيف ايتشي، مدرسي يظهر في طريقة بناء الحلقات، حيث يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Miru Tights على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "url": "/anime/miru-tights",
+  "story": "يدور أنمي Miru Tights ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Miru Tights حول تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تصنيف ايتشي، مدرسي يظهر في طريقة بناء الحلقات، حيث يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Miru Tights على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yoko Hikasa، Haruka Tomatsu، Aya Suzaki، Ai Kayano، Hochu Otsuka، Natsumi Fujiwara",
+  "genre": "أنمي، رسوم متحركة",
+  "trailerId": null,
+  "rating": "6.1",
+  "imdb_rating": "6.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Miru Tights",
+    "mainDescription": "يدور أنمي Miru Tights ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Miru Tights حول تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تصنيف ايتشي، مدرسي يظهر في طريقة بناء الحلقات، حيث يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Miru Tights على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+    "metaDescription": "Miru Tights أنمي 2019 | يدور أنمي Miru Tights ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Miru Tights من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/86823"
+    }
+  },
+  "tmdb_id": 86823,
+  "tmdb_url": "https://www.themoviedb.org/tv/86823",
+  "original_title": "みるタイツ"
+}

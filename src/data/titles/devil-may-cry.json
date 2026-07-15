@@ -1,0 +1,520 @@
+{
+  "slug": "devil-may-cry",
+  "clean_title": "Devil May Cry",
+  "raw_name": "انمي Devil May Cry",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/devil-may-cry.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354009316038"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=h4GBbbQYCQMSd2TT"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/y8g7v2rnwezr"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354018884294"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/p3owir81dmaj"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354020719302"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nsgnnc39v7cUfykK"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/p6cfnexbt6ex"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD ياباني",
+              "url": "https://mega.nz/embed/1dwSlbrb#mhXB1P56pwJD7nFZ_k4VlLYNqdwqdBR-gM--Cr141Yg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-06-14",
+          "runtime": 24,
+          "tmdb_episode_id": 484293,
+          "tmdb_still_path": "/qRtAYk07az9jsyBXrXiuCXV9cq3.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354042673862"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=X5R3KYNyhLJHbSND"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/1ctwwuynritq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354052766406"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/cvz38706j3dt"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354055060166"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NUEbcLyB7ST5WW8N"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/jy04o6dy3fir"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD ياباني",
+              "url": "https://mega.nz/embed/URBwhbyI#6E_vZyr-Qn6-xxSdS5Mun4Y_-p_etvUcggWqp0l1Ofs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-06-21",
+          "runtime": 24,
+          "tmdb_episode_id": 484294,
+          "tmdb_still_path": "/w8EJKzYtVZXo9lbbinTb4DtVboS.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354105129670"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QYYRF4ibFwOe6Bni"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/4sr96k6nw44x"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354121644742"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/aqez121enf7g"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354125445830"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RMIUzbFGDygghZ38"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/ct5hukwellv9"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD ياباني",
+              "url": "https://mega.nz/embed/sUhQWJoT#KuwBkqbSGDDwsAm56awzKVIQ1bz3oJp07AnebXHM55s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-06-28",
+          "runtime": 24,
+          "tmdb_episode_id": 484295,
+          "tmdb_still_path": "/fwTI650Q8VWtrzM603uOgJgUqmp.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354154674886"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=VpfDFv5293ramaRX"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/ermzco7928gn"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354165684934"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/y9ludyfe4nk4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354167323334"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=elU3exYZy44MhEFf"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/j6w49ybeyx7g"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD ياباني",
+              "url": "https://mega.nz/embed/YcoAAZzL#qfhMmHbEJ_hmrxd3apkVnWZSbxr8DJIi1aKNCX4FbUQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-07-05",
+          "runtime": 24,
+          "tmdb_episode_id": 484296,
+          "tmdb_still_path": "/jpeABhj5A5RczNd9AFEqk7JI3LY.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354185738950"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dcOo8SCzAsLdEQhD"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/ljkm54rrjggi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354197732038"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/vc53745w5nbx"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354199960262"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Kx6rMghtKCjWysnW"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/or4y34jm4dsf"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD ياباني",
+              "url": "https://mega.nz/embed/AFgVARaC#U7JiGMKiV9-gCSXvkKFhp0fHArrB1S4sIGlVo2UjddM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 484297,
+          "tmdb_still_path": "/xhKXSNYFe0B9ICmS4vsZnQ4G6I.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354220604102"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Dmdoh3p2HnT7O0Ol"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/xdoll1an2yqb"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354237250246"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/lp1pnp6e2axj"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354243738310"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vDqIF18E0HPwTe0h"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/cmyeqh6427sz"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD ياباني",
+              "url": "https://mega.nz/embed/ddp2zBzI#XCZOtsSvkGRZkUc8LD_1TJpN1r1fxmYWrY33TfvT_IA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 484298,
+          "tmdb_still_path": "/vwqA3sAYNeE0XlZ2iCHz6278sR6.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354286926534"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=AhtKcRoKJGAHRSOf"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/yo4bt80f1yb9"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354301475526"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/9r20zz821g4u"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354306915014"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ClsHnWGweVktMWon"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/cxw3mdvjzaaf"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD ياباني",
+              "url": "https://mega.nz/embed/pdIj0LrD#TsuMunbayB3dtHmkkCrj2C3HF9vxEjx07bZgXowB3e0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 484299,
+          "tmdb_still_path": "/oTrMxPN7Syv7cyw1Sy7ASteDGrq.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9354323692230"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kYnyoKZAeEi06BDK"
+            },
+            {
+              "id": 3,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/xyknnurl2qxl"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9354343025350"
+            },
+            {
+              "id": 5,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/ucpus5ajneit"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9354345515718"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Rma4ddPdJikHU5HW"
+            },
+            {
+              "id": 8,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/qi1peupm9wl2"
+            },
+            {
+              "id": 9,
+              "label": "mega - FHD ياباني",
+              "url": "https://mega.nz/embed/VQgm0KTR#zDBQu4ABuDKrwqbdtR4w6cjP1ajyo4nU3WEOXOBpVaE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2007-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 484300,
+          "tmdb_still_path": "/pQMroSAjZQDCX1co3UyT8imZxOD.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Devil May Cry ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2007، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Devil May Cry حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف شياطين، غموض، مغامرات، أكشن يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Devil May Cry على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/devil-may-cry",
+  "story": "يدور أنمي Devil May Cry ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2007، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Devil May Cry حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف شياطين، غموض، مغامرات، أكشن يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Devil May Cry على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2007",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Hideki Kamiya",
+  "stars": "Toshiyuki Morikawa، Misato Fukuen، Akio Otsuka، Fumiko Orikasa، Atsuko Tanaka، Nachi Nozawa",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة",
+  "trailerId": "5__hyDYPpCs",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Devil May Cry",
+    "mainDescription": "يدور أنمي Devil May Cry ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2007، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Devil May Cry حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف شياطين، غموض، مغامرات، أكشن يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Devil May Cry على CINMAPRO عبر 1 موسم و8 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Devil May Cry أنمي 2007 | يدور أنمي Devil May Cry ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Devil May Cry من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/12577"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "devil-may-cry",
+      "title": "Devil May Cry",
+      "url": "/anime/devil-may-cry",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 8,
+      "poster": "/images/anime/devil-may-cry.jpg"
+    },
+    {
+      "slug": "devil-may-cry-season-2",
+      "title": "Devil May Cry Season 2",
+      "url": "/anime/devil-may-cry-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 8,
+      "poster": "/images/anime/devil-may-cry-season-2.jpg"
+    }
+  ],
+  "tmdb_id": 12577,
+  "tmdb_url": "https://www.themoviedb.org/tv/12577",
+  "original_title": "デビル メイ クライ"
+}

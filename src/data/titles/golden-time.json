@@ -1,0 +1,436 @@
+{
+  "slug": "golden-time",
+  "clean_title": "Golden Time",
+  "raw_name": "انمي Golden Time",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/golden-time.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eebySmVhABWNaY4q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1213362,
+          "tmdb_still_path": "/d8QXMBAH0El3EzDyfjzCUwzlVxS.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oDqCsyLsps5ErWpp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1213363,
+          "tmdb_still_path": "/29a36J7UVpkA4jJwhOWcMLgdr9w.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rgdEqr6NscSkafTR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1213364,
+          "tmdb_still_path": "/bG7Efh2A4pioCuATj1YrvTb4TbZ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=10v0YOdaI1dHCWB4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1213365,
+          "tmdb_still_path": "/3aKWv0CdpviCCSiqrms1FvlWmEK.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9VSz40VJsbYVunvO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1213366,
+          "tmdb_still_path": "/lLQLaPlj3y10YS3IYoiFJMEQP6d.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AyA26KWZ56LuJOHr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1213367,
+          "tmdb_still_path": "/q2Nhf3uhckbTsB4wbM9OLnhdiwS.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=k6kFQgedNqXAyn4H"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1213368,
+          "tmdb_still_path": "/weXTahuLb7sdyz1WE69slvlOxvR.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sNu4s0k2U8sQYIqW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1213369,
+          "tmdb_still_path": "/ym2dsBaRoMRwfdRJjziQV0kgvJC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BYxAnKrskU11iKE6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1213370,
+          "tmdb_still_path": "/4dU4iDWfH2y0gW4iQOYXENVxX2c.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=N7AnquyoQKHPCiMv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1213371,
+          "tmdb_still_path": "/nFzUoH0lAeS1umg6eTpEyhZfGor.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9r375jJtyB19MbJE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1213372,
+          "tmdb_still_path": "/pHxUN1gU2FcnVm1gfclZJnEwv8.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=R64NrNpbuL3ZiPSs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1213373,
+          "tmdb_still_path": "/2rG11asNLIirq3kMu8qp6QoNrNu.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DDpu3zlFfuzpnoIn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1213374,
+          "tmdb_still_path": "/qvExaMv5hyRAkloNk5mnLztcOsh.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6rICyR4zmrp3qB4U"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1213375,
+          "tmdb_still_path": "/psLEq31uPJJsnE8d4a62ZxDSD7J.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zcuwonPJJGTMTC3H"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1213376,
+          "tmdb_still_path": "/d2lFn7PM2YWeBotGClKHq1yY7Z.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=l6LyGpZi5ctSeNDd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1213377,
+          "tmdb_still_path": "/cGq8zu4OT4dHiUgHzarqCAgb98Z.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CeD8FeJPdVZLAOSY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1213378,
+          "tmdb_still_path": "/nNDP8d4F546uCequLA15ZMLReCk.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=N7LSWY238hTY12Jc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1213379,
+          "tmdb_still_path": "/7Wv98eAeanjQquuxkgBIApcIa4J.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DpvTiSmwiG1BBIz8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1213380,
+          "tmdb_still_path": "/gUxJHskFR0aOqNxlcOVtNwx3jK0.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TRYPFvU8Py9zSVFX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1213381,
+          "tmdb_still_path": "/h2MCZxYm6nGIC9zz6MTbtPKFhcU.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BPbz4h5CKTIyktuO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1213383,
+          "tmdb_still_path": "/rvFYQwpIQ3VnkhIpOVgEwBlSQd6.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MggvPqUK76QIfOKf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1213384,
+          "tmdb_still_path": "/rDt4zzHFBAsxXnOZ8EuWY3EAFth.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZtkzB5CgJdXdSUwU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1213385,
+          "tmdb_still_path": "/fn9TGcHCXDbKFH7wdoxqmjC7fZ0.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JtZJRRt1GxEUHakv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-03-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1213386,
+          "tmdb_still_path": "/477h6aTyCX6ueT9pBd0W2S1IYwG.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "باني تادا طالبة في كلية الحقوق في طوكيو. بعد وقوع حادث ، يعاني من فقدان شديد للذاكرة. على الرغم من الحادث ، فإنه يصادق زميله الطالب الجديد ، ميتسو ياناجيساوا ، مما يقوده إلى كوكو كاغا الجميلة ، ولكن المهووسة.",
+  "url": "/anime/golden-time",
+  "story": "باني تادا طالبة في كلية الحقوق في طوكيو. بعد وقوع حادث ، يعاني من فقدان شديد للذاكرة. على الرغم من الحادث ، فإنه يصادق زميله الطالب الجديد ، ميتسو ياناجيساوا ، مما يقوده إلى كوكو كاغا الجميلة ، ولكن المهووسة.",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yui Horie، Makoto Furukawa، Ai Kayano، Kaito Ishikawa، Ibuki Kido، Takahiro Hikami",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "ER8wXRhZW1k",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Golden Time",
+    "mainDescription": "باني تادا طالبة في كلية الحقوق في طوكيو. بعد وقوع حادث ، يعاني من فقدان شديد للذاكرة. على الرغم من الحادث ، فإنه يصادق زميله الطالب الجديد ، ميتسو ياناجيساوا ، مما يقوده إلى كوكو كاغا الجميلة ، ولكن المهووسة.",
+    "metaDescription": "Golden Time أنمي 2013 | باني تادا طالبة في كلية الحقوق في طوكيو | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Golden Time من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/67389"
+    }
+  },
+  "tmdb_id": 67389,
+  "tmdb_url": "https://www.themoviedb.org/tv/67389",
+  "original_title": "ゴールデンタイム"
+}

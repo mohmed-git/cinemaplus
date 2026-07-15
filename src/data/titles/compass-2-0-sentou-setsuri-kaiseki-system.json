@@ -1,0 +1,549 @@
+{
+  "slug": "compass-2-0-sentou-setsuri-kaiseki-system",
+  "clean_title": "Compass 2.0: Sentou Setsuri Kaiseki System",
+  "raw_name": "انمي Compass 2.0: Sentou Setsuri Kaiseki System",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/compass-2-0-sentou-setsuri-kaiseki-system.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9367229565638"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vzfHXUgGw72V44WN"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hhs3c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9367242345158"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9367243328198"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=h7pFLUmAUWyb8H9e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4085178,
+          "tmdb_still_path": "/uE0NHzvLvE97lmCnyXXgAW2RcP5.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9389900237510"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CwJxzjifahr250cA"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hw1u6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9389905939142"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9389912099526"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aDxq54QBeqlnWLZO"
+            },
+            {
+              "id": 7,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x9hw1u6https://www.dailymotion.com/embed/video/x9hw1u6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-15",
+          "runtime": 24,
+          "tmdb_episode_id": 6109270,
+          "tmdb_still_path": "/eXGZhKGzH5XNwS2dTg103N5zxCm.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9413324835526"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=IdzMwKjkYjGyIlcG"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9i9nq6"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9413331061446"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9413336369862"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZqwOuAbcRvK2Izlf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-22",
+          "runtime": 24,
+          "tmdb_episode_id": 6109271,
+          "tmdb_still_path": "/eM6Wyy1ZJerFauoqI9SkXiNxMOU.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9435149503174"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iKmd6Q0lQjfMynJL"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9in63o"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9435155401414"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9435162413766"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=k1QoyhZ1Ts1ZUXwj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-29",
+          "runtime": 24,
+          "tmdb_episode_id": 6109272,
+          "tmdb_still_path": "/rbmKECmgldhRYQ3fnce3gYD6U5B.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9457127131846"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EglUTzqs8fhY5TUU"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9j0j6w"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9457132833478"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9457138928326"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5IouxC3p3zKMxxzu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-06",
+          "runtime": 24,
+          "tmdb_episode_id": 6181353,
+          "tmdb_still_path": "/fRmgjc6bGfPihxWuWsdcIsBFFUH.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9478822103750"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WYsEAA0Wac1kEoUr"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9je0ja"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9478827805382"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9478830820038"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KEotye5f9dZOfoaE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-13",
+          "runtime": 24,
+          "tmdb_episode_id": 6207036,
+          "tmdb_still_path": "/41OnEDPCP1WY7CB0azafZz9gqFq.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9498817465030"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tfYb40rIXo6q5V3B"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jsbqa"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9498822838982"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9498830899910"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IRbo7QIp4ewItUvq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-20",
+          "runtime": 24,
+          "tmdb_episode_id": 6229051,
+          "tmdb_still_path": "/fUb7AIBcholzFt4CeOaUivrKsQ0.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9518055623366"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2mGuH6xZ6MssBqrb"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9k8jh4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9518060669638"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9518065978054"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ERMwMDy8jqbSaAgb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-27",
+          "runtime": 24,
+          "tmdb_episode_id": 6229052,
+          "tmdb_still_path": "/7Xb2JUkPp8VdrXVo6I4kFSuZCTs.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9536559712966"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kSimbZGTMmogsa0z"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9knx1c"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9536564693702"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9536570460870"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8EUpGHgebjqySnvY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-03",
+          "runtime": 24,
+          "tmdb_episode_id": 6229054,
+          "tmdb_still_path": "/ygBFcVmZKgoPhWe580D5uPKn4Y6.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9555619154630"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=oheHl9M0r2X0wpRt"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9l2hcm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9555624594118"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9555630099142"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TQhvR8fgj3Ms88Yg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-10",
+          "runtime": 24,
+          "tmdb_episode_id": 6229056,
+          "tmdb_still_path": "/rp1C1UCuNZqEBaJ39U7O0yLnEyM.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9574176197318"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9lYsLFziU1SczWZ1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9lgok0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9574179474118"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9574185110214"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eYLya5xq9ZjowYcS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-17",
+          "runtime": 24,
+          "tmdb_episode_id": 6229059,
+          "tmdb_still_path": "/vNIny9UzM8ahvaATIVNK0IunyBW.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/9592410606278"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=idgetbzSB0IXneUo"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ls2tw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/9592414735046"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/9592421092038"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=eu3vKoogDc3hKV0C"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-24",
+          "runtime": 24,
+          "tmdb_episode_id": 6229061,
+          "tmdb_still_path": "/kvGaucwQLJQ9h21CMijU55nJfQJ.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Compass 2.0: Sentou Setsuri Kaiseki System ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Compass 2.0: Sentou Setsuri Kaiseki System تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء لعبة، أكشن، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/compass-2-0-sentou-setsuri-kaiseki-system",
+  "story": "يدور أنمي Compass 2.0: Sentou Setsuri Kaiseki System ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Compass 2.0: Sentou Setsuri Kaiseki System تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء لعبة، أكشن، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Daisuke Ono، Sora Amamiya، Soma Saito، Sakura Tange، Yoshitaka Yamaya، Yasuhiro Mamiya",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة",
+  "trailerId": "PBjiuKCh-zM",
+  "rating": "4.8",
+  "imdb_rating": "4.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Compass 2.0: Sentou Setsuri Kaiseki System",
+    "mainDescription": "يدور أنمي Compass 2.0: Sentou Setsuri Kaiseki System ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Compass 2.0: Sentou Setsuri Kaiseki System تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء لعبة، أكشن، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Compass 2.0: Sentou Setsuri Kaiseki System أنمي 2025 | يدور أنمي Compass 2 | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Compass 2.0: Sentou Setsuri Kaiseki System من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/215615"
+    }
+  },
+  "tmdb_id": 215615,
+  "tmdb_url": "https://www.themoviedb.org/tv/215615",
+  "original_title": "#コンパス2.0 戦闘摂理解析システム"
+}

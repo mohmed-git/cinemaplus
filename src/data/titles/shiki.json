@@ -1,0 +1,734 @@
+{
+  "slug": "shiki",
+  "clean_title": "Shiki",
+  "raw_name": "انمي Shiki",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/shiki.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 22,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 22,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Zu2CWGe8LgQ9c/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Zu2CWGe8LgQ9c/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/6qd01s0r7yx7372"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-jrtcbctoa14o.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-07-09",
+          "runtime": 25,
+          "tmdb_episode_id": 828637,
+          "tmdb_still_path": "/cYMcfOEtyRoFd5dnc7ibWS85PJb.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/m9OwaRBrzWbi4/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/m9OwaRBrzWbi4/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/16z37cj4el-qdlp"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-gr82b4u37lrf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-07-16",
+          "runtime": 25,
+          "tmdb_episode_id": 828638,
+          "tmdb_still_path": "/5cCei532yTLkOV0YNhJDRz46atZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/fsJrz0uS9gc1t/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/fsJrz0uS9gc1t/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/4167xbzdm1zj4p2"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-evex9yigb09p.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-07-23",
+          "runtime": 25,
+          "tmdb_episode_id": 828639,
+          "tmdb_still_path": "/lL5wCQj3Br0ESG0lKqUP8opbBIa.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/YQrRONz2Go0ys/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/YQrRONz2Go0ys/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/6qd01s0r7y8w07j"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-2adv9iuneo01.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-07-30",
+          "runtime": 25,
+          "tmdb_episode_id": 828640,
+          "tmdb_still_path": "/k49MWWG55OyWjVVo92H01kRmkWE.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/h21oMHlbck9u0/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/h21oMHlbck9u0/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/glkq7c-873y2erp"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ij12if7k6vgb.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-08-06",
+          "runtime": 25,
+          "tmdb_episode_id": 828641,
+          "tmdb_still_path": "/wcDsNJL6reMuV1NpSn1Axtg4jvO.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/5NQiBPU4G1LAs/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/5NQiBPU4G1LAs/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/3r46kbm75nq51pz"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-vl3mofts6h3y.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-08-13",
+          "runtime": 25,
+          "tmdb_episode_id": 828630,
+          "tmdb_still_path": "/1ZMsmFkrXt5XnZuiKkvdxI1Rr0k.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/PuM51QFwVJ2xq/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/PuM51QFwVJ2xq/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/4167xbzdm1d740x"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0t6iib1vog78.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-08-20",
+          "runtime": 25,
+          "tmdb_episode_id": 828631,
+          "tmdb_still_path": "/fbA9ug3qsglwHZGE4grmP0cpayq.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/1WPYGmrhKc4fE/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/1WPYGmrhKc4fE/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/ezp25h-7jp670e6"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-voscaydadyhd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-08-27",
+          "runtime": 25,
+          "tmdb_episode_id": 828632,
+          "tmdb_still_path": "/suRX7B3IehViQbkAJf7q0PtFACw.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/xeGTyhRXLaAK7/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/xeGTyhRXLaAK7/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/y6q2pcexyl8yrxw"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-za6xfm83flz3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-09-03",
+          "runtime": 25,
+          "tmdb_episode_id": 828634,
+          "tmdb_still_path": "/uTZX7u2xGjtufYMvEpKducF0euV.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/kelRUt8jEgIxY/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/kelRUt8jEgIxY/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/zdq76bj4z0zp111"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-otgn2v52bgo1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-09-10",
+          "runtime": 25,
+          "tmdb_episode_id": 828635,
+          "tmdb_still_path": "/xdYgZyASH49k3anoso2AXuAAM0T.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/zJNYKH5Q18Vbl/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/zJNYKH5Q18Vbl/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/2d34pb264zz5elm"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fxu65jkdnhkl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-09-17",
+          "runtime": 25,
+          "tmdb_episode_id": 828636,
+          "tmdb_still_path": "/eMfZ8UnzW2Rl3IczhiH8k0189aE.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/eGRqCQP3tOlSU/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/eGRqCQP3tOlSU/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/16z37cj4epd4xgz"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-t18jcvlwlbqu.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-10-15",
+          "runtime": 25,
+          "tmdb_episode_id": 828633,
+          "tmdb_still_path": "/va5WTMbr6jWDNMXGIYjLORGADIy.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/b2QuWlOxAgkiy/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/b2QuWlOxAgkiy/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/jn2-zcdzrlxklqz"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-n8bycm0fpo6w.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-10-29",
+          "runtime": 25,
+          "tmdb_episode_id": 828642,
+          "tmdb_still_path": "/6HAZpH1VnUH6cWRdTuaXzIZ6M7u.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/lxVaOfE5W1J4S/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/lxVaOfE5W1J4S/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/rqly5serqxpennr"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-nz0br497al3e.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-11-05",
+          "runtime": 25,
+          "tmdb_episode_id": 828643,
+          "tmdb_still_path": "/41TaA5rbVWsMshMqIH8OUn0DWuo.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/8ns6PyIrL4UTu/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/8ns6PyIrL4UTu/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/m6ly7c5wqk8258y"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-vtwrik1mzpi1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-11-12",
+          "runtime": 25,
+          "tmdb_episode_id": 828645,
+          "tmdb_still_path": "/aFFJoVNpp3ocR8i3EW6cKuf217g.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/pzRih7E3DHwvj/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/pzRih7E3DHwvj/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/3r46kbm75yp204z"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-vm3momnivbhc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-11-19",
+          "runtime": 25,
+          "tmdb_episode_id": 828644,
+          "tmdb_still_path": "/xFC45SDO3mj6lIEwhJFbBa6ut50.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/tEdN0ugSBFwZW/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/tEdN0ugSBFwZW/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/03k50cl2j182z-q"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-mzcn2b9km3k1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-11-26",
+          "runtime": 25,
+          "tmdb_episode_id": 828646,
+          "tmdb_still_path": "/hnQmvPnTs6nusEt5riMHoOg2p8n.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/TSPvr09ZKLks7/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/TSPvr09ZKLks7/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/-8rznbpd3q668z2"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-uflwye50svqi.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-03",
+          "runtime": 25,
+          "tmdb_episode_id": 828647,
+          "tmdb_still_path": "/46km6r5G1I5uKZJWuKBx3miVIQG.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/DFZwRKSA8qJUa/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/DFZwRKSA8qJUa/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/zdq76bj4zwlw4gy"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-61xmoqgvclum.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-10",
+          "runtime": 25,
+          "tmdb_episode_id": 828648,
+          "tmdb_still_path": "/aIdLj2iowZcQ2hcSW4v49KubZ6o.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/5PeD2y9SKEOjZ/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/5PeD2y9SKEOjZ/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/jn2-zcdzrl33qzj"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-5rzqgibje0z8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-17",
+          "runtime": 25,
+          "tmdb_episode_id": 828649,
+          "tmdb_still_path": "/l9xWQD4VP0dUj6UWVGQfJdLhgK1.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Q43BxvFuEpkca/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Q43BxvFuEpkca/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/jn2-zcdzrl22xkq"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-hjk1rwjwjuzq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-24",
+          "runtime": 25,
+          "tmdb_episode_id": 828650,
+          "tmdb_still_path": "/fV1IySwiQzdDf5s7qccXAiunIPy.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/TGK34LkmcfVP9/mirror"
+            },
+            {
+              "id": 2,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/TGK34LkmcfVP9/"
+            },
+            {
+              "id": 3,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/8yrpmh81de7qx11"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-4jjtm952vb80.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-12-31",
+          "runtime": 25,
+          "tmdb_episode_id": 828651,
+          "tmdb_still_path": "/paFsgFneSR4XybQL5nxvqDSdRty.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Shiki ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2010، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. تبدأ قصة Shiki من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف تشويق، مصاصي دماء، رعب، خارق للطبيعة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shiki على CINMAPRO عبر 1 موسم و22 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/shiki",
+  "story": "يدور أنمي Shiki ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2010، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. تبدأ قصة Shiki من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف تشويق، مصاصي دماء، رعب، خارق للطبيعة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shiki على CINMAPRO عبر 1 موسم و22 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2010",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Tetsuro Amino",
+  "stars": "Nobuhiko Okamoto، Wataru Takagi، GACKT، Haruka Tomatsu، Kazuyuki Okitsu، Koki Uchiyama",
+  "genre": "أنمي، رسوم متحركة، غموض، خيال علمي وفانتازيا",
+  "trailerId": "QHPfAB3eDGY",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Shiki",
+    "mainDescription": "يدور أنمي Shiki ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2010، وتوضح بيانات TMDB أنه يضم 1 موسم و22 حلقة. تبدأ قصة Shiki من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف تشويق، مصاصي دماء، رعب، خارق للطبيعة يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Shiki على CINMAPRO عبر 1 موسم و22 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Shiki أنمي 2010 | يدور أنمي Shiki ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Shiki من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/36581"
+    }
+  },
+  "tmdb_id": 36581,
+  "tmdb_url": "https://www.themoviedb.org/tv/36581",
+  "original_title": "屍鬼"
+}

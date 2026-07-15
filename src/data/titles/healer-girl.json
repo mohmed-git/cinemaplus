@@ -1,0 +1,724 @@
+{
+  "slug": "healer-girl",
+  "clean_title": "Healer Girl",
+  "raw_name": "انمي Healer Girl",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/healer-girl.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3636863830603"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/p1ey6bmrwg3d048"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/hbs0aujq9wm1"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/g4kjyo0o7fog"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-v9n8somete81.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3636887226955"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/4u5ilb4L#OqUthNAa3Qq2XEd4sw_DSHwt_9VAc-P1x1671V5g4nY"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-90w1urkl8tjb.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3636894042699"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2916022,
+          "tmdb_still_path": "/glx2Ek5gSNcGQLzV8aG7wbcgEbU.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3653903321675"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/6qd01s0lxm-70z7"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/2prjx5fxxnev"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/7phck8osveas"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-zxm8rrqfs9l3.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3653912103499"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/srJgABjb#mslUfY3OB8RwbUeS6XZNmVzTmNyG_j2Mi_5eEzC5rKI"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-sdy22lyasffj.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3653916559947"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3644276,
+          "tmdb_still_path": "/uZw6VaSVRtfCtw45mcL9PyvH6BP.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3669863762507"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/5z7dphdpwe524qz"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/qzjiuhuqitpe"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/y7aicyt4i90k"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ixllvn5g8tm2.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3669873461835"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/9nJiXZRY#F_0rMe3f9D6N6dTKZYfeskvV9e6ONK4tqg4F1kh7k4M"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-t6bskfgs6433.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3669878114891"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3644277,
+          "tmdb_still_path": "/f0wcgCy1ZQ88x7gAO3INE3FD52B.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3687158581835"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/-8rznbpe6r3p3kg"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/ypav3vztya8c"
+            },
+            {
+              "id": 4,
+              "label": "dstream",
+              "url": "https://dood.so/e/s0yoe9y2ti0b"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ggiynj9limtr.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3687167363659"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/RGMUyCrb#yvOil27TcRnteRGiARN11ON5hhnEey-1u-d3dwWm-ek"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-wkrzd633hg27.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3687171295819"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 3644278,
+          "tmdb_still_path": "/wERVfBREMJSEMKBp8hMFjOnZBzP.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3704990009931"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/kwly3h3k51y2yem"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/6e678annlfc7sji33ukyddsw976awii4"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/q7gmzj4ak3ya"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-aavudi167ll4.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3705000233547"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/1zZWGC4T#PgkniM01_bnMRmbi0VqVTHPeI2etab1seeFpgvtRBW0"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-ignboxfd0qqv.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3705008687691"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 3644279,
+          "tmdb_still_path": "/nbPK2CugVkfwX1cNdGAqYHWebhl.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3721262205515"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/sjqgnfvtlibw"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/hnc7tbdkdn7l"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/6gwjp8cpqjdn"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-e8wunapxriwt.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3721282914891"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/zmAgWAYK#MNfu3hi4ydjYd_9d0vDlPnAqKTlg9Iej5h8eVbHyFcU"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-sva2kqnekjrx.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3721287764555"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 3644280,
+          "tmdb_still_path": "/oLAAqW22CczWnCTPpTa52rohAYX.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3737426987595"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/yilzmbohul6x"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/23rbfltfo2bnaz43z7fyre0kg58bxmlf"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/has1ubxhewwb"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-nomaaid2rp35.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3737441667659"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Stkz0TIb#sk1ljQ2VDLkciUgeLZ_TIfBSXjrglT6VJRQQzDyxAUI"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-wii23ecljsef.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3737447828043"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3644281,
+          "tmdb_still_path": "/4nwjXqGivDsKhGmu8IziMIoBGGa.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3753477999179"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/wdl8olsgepnx"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/5obsv7ok2o9n"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/vzfoa6i3ozhs"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-l1zukrqvjh0h.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3753487436363"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/VGdnAZTS#5sAYstEYKKDCF8ASBiVXNzkxb4_2dsf7AWMAYjuvpas"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-vaapball7m72.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3753491040843"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3644282,
+          "tmdb_still_path": "/yS0n9giUoV4ZH5BKJG4jkbVzPYJ.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3770912213579"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/7s97dly6omt7"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/gvzujnwxmpif3a1uwspkyr9ai2knro2u"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/le6w4ytukxmx"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-rq08sxymalg6.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3770921912907"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/zsdEhaiY#5cujKH2k0C7mLrNUwuEB_FEhs8CbC6V6dDIQruP21MU"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-8kgqworp7wav.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3770929187403"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 3644283,
+          "tmdb_still_path": "/weVcz6cAAPl5N47Nq9ttWio2q0Q.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3790281443915"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/h0gnnv0a69jq"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/2o8252nna5ci"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/v4ajyzjlhqsb/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-i6u2o1x6mxip.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3790296058443"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/VHdiHAJL#SY0Qg-Hdi2zwBPDaknOn5r-flwkX3ucsQrAc41V3Bqs"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-qbv2m92lagqp.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3790300514891"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 3644284,
+          "tmdb_still_path": "/ouswaxYi2PhwLs45N6G7QXSD34r.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3814762941003"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/qpwgitjbnryx"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/ua4q2gbmvy2er52htbpn423816dxi3kf"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/sgy8qygfootn"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-fv6tx20otvtc.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3814780111435"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/6wolwLTJ#ZvA0pl20Ew5F-7zgxWaIufTpfdo_G_FqkVfi7q0PeQo"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-34bpatuvennl.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3814789417547"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 3644285,
+          "tmdb_still_path": "/9SbKnzztfg18XKIuzv60GDSjy6z.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3838496868939"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/qjnuovm2hayi"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/pdboq9kwlbhk"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/rrvga0ljgil9/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-febmbp95zh17.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3838522034763"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UWVQwQAa#zFdf-V6g8MJErA8ZrggL8LGi1qrECD8MzF0Tbusix_4"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-ol1ix0hp0l5o.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3838530357835"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 3644286,
+          "tmdb_still_path": "/gFGmEw6H5cE9YW1YOZzAsbFd12W.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Healer Girl ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Healer Girl من حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Healer Girl على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "url": "/anime/healer-girl",
+  "story": "يدور أنمي Healer Girl ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Healer Girl من حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Healer Girl على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Chihaya Yoshitake، Marina Horiuchi، Karin Isobe، Akane Kumada، Ayahi Takagaki، Hisako Tojo",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "6.4",
+  "imdb_rating": "6.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Healer Girl",
+    "mainDescription": "يدور أنمي Healer Girl ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Healer Girl من حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Healer Girl على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+    "metaDescription": "Healer Girl أنمي 2022 | يدور أنمي Healer Girl ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Healer Girl من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/124572"
+    }
+  },
+  "tmdb_id": 124572,
+  "tmdb_url": "https://www.themoviedb.org/tv/124572",
+  "original_title": "ヒーラー・ガール"
+}

@@ -1,0 +1,390 @@
+{
+  "slug": "made-in-abyss",
+  "clean_title": "Made in Abyss",
+  "raw_name": "انمي Made in Abyss",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/made-in-abyss.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473839626827"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1uNZ_h80nJmH8onj0RyvTrfOGTDqIFbkd/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-14g7rc1an3la.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-07",
+          "runtime": 23,
+          "tmdb_episode_id": 1333163,
+          "tmdb_still_path": "/2djztJ6q5fGe02ilS04lwXoByap.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473855617611"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1FI-gaKH1nh_ZbG2V5r-V0GzMePi0YwhR/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-4p6erkvo3vu6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-14",
+          "runtime": 23,
+          "tmdb_episode_id": 1337589,
+          "tmdb_still_path": "/49uyws6kcUrZcGkakMPTipfKx1t.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473868855883"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1JP7GAp2ZhBZ97QoAVIhiBYGbOWfFajtz/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-sh0oyqctkn55.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-21",
+          "runtime": 23,
+          "tmdb_episode_id": 1340002,
+          "tmdb_still_path": "/tatCnXqhOrXF58AKIr6ufCy5aIb.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473873443403"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1WDgPCaKl5PCnSWX7gcDM2fhhDW9J9kVR/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-cq4z5e6rdi7e.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-28",
+          "runtime": 23,
+          "tmdb_episode_id": 1341932,
+          "tmdb_still_path": "/52sdePKkzmUuAOKbAa0Ez5q9bT1.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473897298507"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/15iY-_dD0h7fkGBIohIxH1-zTw-dpmxAa/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fxrec088as7f.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-04",
+          "runtime": 23,
+          "tmdb_episode_id": 1341934,
+          "tmdb_still_path": "/5jndzYZf2rogVUmspHqsG5SWfLI.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473919253067"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/11ehbdbtLdhpgy8sJSO8r9muEwdSrLnxe/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xrk5hzmg60xc.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-11",
+          "runtime": 23,
+          "tmdb_episode_id": 1347993,
+          "tmdb_still_path": "/vb26XXmrh31FmTvzWyicJ3QESP5.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473922202187"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1YqEEjlGM2zXpzaNuGdo1JpqBysxMW2QU/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-u6sc74if9sc9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-18",
+          "runtime": 23,
+          "tmdb_episode_id": 1347994,
+          "tmdb_still_path": "/j3XDa4Zum4DQfVW40mZpA5ypqe6.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473926462027"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1Rkzow1npIOXbBi0I2t1nlW3AGAx_fB96/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-u2kr1jklauh3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-25",
+          "runtime": 23,
+          "tmdb_episode_id": 1354316,
+          "tmdb_still_path": "/eR7Me3fscQ1mA3I0zEiubMOdnC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473928755787"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1P-QMBmO8K2aiHKtGJtInsohYZVfycPOw/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-vxdm0wxu6jha.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-01",
+          "runtime": 23,
+          "tmdb_episode_id": 1354317,
+          "tmdb_still_path": "/sYeXqLqX2B4YjQ8hjczanACG8wW.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473934850635"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1G5mYDf6gu1PMaVwLaPTkcf5zJ6CX2JQa/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-f7w0xfwu6jzl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-08",
+          "runtime": 23,
+          "tmdb_episode_id": 1355461,
+          "tmdb_still_path": "/6nVwgleOd17ptovTa499XdVzZ11.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473936751179"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1EuxB0UHCkVMQkANXaPstVTyqHgpa8gp2/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-25a3rg2dyf3n.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-15",
+          "runtime": 23,
+          "tmdb_episode_id": 1367026,
+          "tmdb_still_path": "/cFdA9mYuBLP6xwTNX4WQJZsCSVV.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473945008715"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1Ea_bAXdXKE_lxLWA__ZHsUqwKmen4qvW/preview"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-e79rla3fi60n.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-22",
+          "runtime": 23,
+          "tmdb_episode_id": 1370246,
+          "tmdb_still_path": "/ikgB81K27A9hxlPvQDIXob7POEd.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2473950579275"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1dYARFzAAfBbEZcyQA-q_NwMfpzmy92hk/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/DumP6FWvea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-29",
+          "runtime": 47,
+          "tmdb_episode_id": 1373304,
+          "tmdb_still_path": "/fkqJxDE4eTZ5v00H6nvJfZYKsx8.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Made in Abyss ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. تبدأ قصة Made in Abyss من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خيال علمي، مغامرات، غموض، دراما العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/made-in-abyss",
+  "story": "يدور أنمي Made in Abyss ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. تبدأ قصة Made in Abyss من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خيال علمي، مغامرات، غموض، دراما العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Miyu Tomita، Mariya Ise",
+  "genre": "أنمي، رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "DiUKh_MjsI0",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Made in Abyss",
+    "mainDescription": "يدور أنمي Made in Abyss ضمن أجواء رسوم متحركة، دراما، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 2 موسم و25 حلقة. تبدأ قصة Made in Abyss من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات خيال علمي، مغامرات، غموض، دراما العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Made in Abyss أنمي 2017 | يدور أنمي Made in Abyss ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Made in Abyss من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/72636"
+    }
+  },
+  "tmdb_id": 72636,
+  "tmdb_url": "https://www.themoviedb.org/tv/72636",
+  "original_title": "メイドインアビス"
+}

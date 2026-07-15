@@ -1,0 +1,724 @@
+{
+  "slug": "mieruko-chan",
+  "clean_title": "Mieruko-chan",
+  "raw_name": "انمي Mieruko-chan",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mieruko-chan.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/FlyoSw35iq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/OwlyUaoD#pyFwdYqFsQ3n7zrA0m4CePBtmn_oWgGxwTAKY8Jbkqc"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1gjeLoyW7TGp0z26ACRjJKJQF8vZqlLxB/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-46hr3y8vrci1.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/15Q9MCOCVxfq-yWWpT18ozQJXvtqQv0SW/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Lul7NII4iq"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/n9tyxAqR#DF-RogvnwqouJVlDKnw85Rlr8FuBFP-L4OciYOTvCv8"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1U6qWiKnm2sYcBLVhhtnWyFt8t2hgVgZ5/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/X1cCHJSK#sMaXtT8SXLJUo8DgUjITWW5_ltV_wJnwRKIplkEtWfM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2803208,
+          "tmdb_still_path": "/dMWqq3Ytli7b5WsTp7eIpsjCfNx.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/i048gVdaiq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/asEk1RpK#d3OcJoNXi8Y4zcz0b5OviuciE7jQBRziq1Gb0ifZJyQ"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1o7cfL2nn5m7-yL6bByC4D8HBS1gDSCIb/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-axktdbzc6s60.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1oZSfE_tU24R6ZHebutPwHVWZrfNs9v78/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/0qlx2sk8ea"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/Og8GEaCb#syrng3b1r-vrD1gjPVTAikUJce4SKwUppy1UVpvstgQ"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1FQIafK51XjRigfs2zzJ3Ve0hbDvMyDA2/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/v5s02IjQ#UOMPEuohAZbYrethFujGtidtk5LEBvoIzqL5NHWUtQQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-10",
+          "runtime": 24,
+          "tmdb_episode_id": 3252565,
+          "tmdb_still_path": "/96a2uHoitJYy9zyQss0dsWICGVL.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/hYdTTNUjiq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/japmXQKC#W5H5hnELrE9wVGB0lIBSTg97rkKcWL8E7nlNHj3ZlhY"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1_eCzzMlHVxYQFt_WWBtOJN3lJ7M8luzn/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-8gdko1uulgd2.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1QmpTB-xQRReYKMA1CjrDbrUV3vMCQWAK/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/obt9OQs4ea"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/yD5AEAYS#ovxv4HoFNjE4REJceDBh-caQo0JiXj0O9BIc3iJZKb8"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1kFPEUQAxbhbzSzUp55qT_H3A79HAIjFG/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/7PhmgSxR#SQ_pjus62_sbSWlYbRu6vDfxobEAi9tPD_jL5A0Iws8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-17",
+          "runtime": 24,
+          "tmdb_episode_id": 3252566,
+          "tmdb_still_path": "/2fcIAlq9RPF7RZfeDvoRsz4q9Fw.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/wtGhQK1tiq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/x6JGhJYY#5k7hPosuxvvVGg20nWyRw46n_-pWZYGnYcvZ3cRuBOc"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/172V8kCGGEwP5aaD_u7DYcgUuQtkQmYva/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-wpbn7l330q7e.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1PcOhxnr5wZUbwqGKv3CSpiE-w5f5rttt/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/9fr97adyiq"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/gyph0QqS#EvWiLd22KfJbAJKAZ3dx30j5QzMa5Y3yssRvaWI91rM"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1onLG8vZuDE9PSwzXkwZX81z8B3Sdf3Fm/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/hvB0wbRK#0QTH4XUoqSMuryoVi2bMZSggtzxQisvS6GKjTp6vzBI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-24",
+          "runtime": 24,
+          "tmdb_episode_id": 3252567,
+          "tmdb_still_path": "/y1XRIWYxBAt2qUsqx5Vg35rpmXi.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/YZwexWItiq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/Q6ACCZZS#LlAT7YY4qxWdZ5rSZz6-DGkTNbOGFIopLSC7ynUiQ8Y"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ZzFn0ukFp7PSRDMFw65TmB7tg4Vy4IH_/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/wesiuk7w4nmd"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1T-Sn556aA-CeTmtvxdwMwt0U_E-WZA46/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/WuvaZYH6iq"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/AzIX0Q4C#oX482VPCk88EooAgdk5McGQ5l9mq0lTE06WrOOkGhcY"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1vuifL3r__CYudSC6qk18LhXW9MJ5KRFV/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Z7Z33YDT#ifpRnG4FZhU7UK_PPdeRxDm513tchM3dqipPR1x4pLI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-31",
+          "runtime": 24,
+          "tmdb_episode_id": 3252568,
+          "tmdb_still_path": "/2hhSfupnlF4o8MGv3xRFVs3FkOZ.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/7uBCSnrOea"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/AEwlGYZZ#iNPlAVZn4OWSUPxYHLtaOcUymdQqLIPMGoQlERTmwLo"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1I2_7Q4v1F1uftPuyK_aUqEJ4KMfZRMtm/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-s9v7uzmsct54.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1kd-3R550W-lkJ41pjRsLrm2Ewu8_VXl8/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/irajUz8Oiq"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/pAYWQDiK#oB-vGuU4Uf0oJ7bSnnbKCT6DFAGiCw6D_6PxHgh7m0o"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1BRZ69lB1teMQwXgf_h0VzqLeezXNYAXp/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/sE5hRIDA#WTTO5Gv2xx81eg1HDUDA4VFRE09xQ_MMlguJdaOfgz0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3252569,
+          "tmdb_still_path": "/8nRKNsf7zdryKIwdZvIQeOrccGa.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/qcu9ANPdiq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/vltn2STB#3WOjQZ8Xvo9qMUQtYFu06NmXOeiDQQx7hKGD94VbXmE"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1z_HCOCBbdoBnRdMYRYonUgMrTWn7Zdp4/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-hggw53vqtks1.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1CdfoJgGg6zMhGKcSD279X4C0t0OIi2Hz/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/FScomYnWea"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/bpkEFIgI#vVq6ULkAFPrPVlWOAIGgBZhDjYwc-aoLENSMjT5copk"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1hNxy_iAt0rLzy5WX5k5lCLFXmG0BdM6v/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/7h1lVAhQ#0pBgu_olmVfclstP-NNSnP4SbeStIgan9gMG4Y_LgnA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-14",
+          "runtime": 24,
+          "tmdb_episode_id": 3252570,
+          "tmdb_still_path": "/xk7uWW6qROPS5p7TLEAoF5GcIYE.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/ims7Pxfhiq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/12QhlaiR#KSGeht3QCPULPQYUDS2DuTjOp4oVlcdEfK9VRYDOPnw"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1WQ4Mc_BUHHVafifuEvbggaDQO-py4V0u/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-mqak4jykqfvk.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1G6aG646NRabAzVlzMqZpHdJFb9mCEiCv/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/do9uqT7Gea"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/Q7BzgSJR#txTJsfm5XHnteb-RcSbo0ugdFbldP7i77hlwiI4KSDw"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1X0JyHe9pK0uKCz6qtTOsIQeMw6C7rUfx/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/QiBVUSqb#guPyJJh2vivatjNlQEeEgLdK-fb4sTJI-O8wGUTRHFM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-21",
+          "runtime": 24,
+          "tmdb_episode_id": 3252571,
+          "tmdb_still_path": "/wWrDfzbhXFDDirXSjGNBOVVNXsn.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/Ho7jWCMyea"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/lzZWTZ5T#Tdp2o6Q_nTbE45-vCyocKn4CmKrYtXWosH_Ld3K-pQc"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1OT48wgCspoAH2r9-jnGa-GyKjWOH4yV7/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-25qhbg3tk24b.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1aiGB-nTUGQmxDzY-T-eH24MWzG7bnm0y/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/OENF5676ea"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/hn532CJT#FHm3Eq57TmdpzwTsq2bTvLKCMPRr2Sw_rBNBThJXnsU"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1IVrB5kCkIG9WgkQqCjM8_tX4agzVUbq1/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/4yAEkJDD#sjjQVakBIYDJwdLw0-OEh_tjY5oxRC2Dpqb1rmbxZQo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-11-28",
+          "runtime": 24,
+          "tmdb_episode_id": 3252572,
+          "tmdb_still_path": "/5PBlykMMbLRalVloHKwgyX1WXXr.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/usEgm6oViq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/4k5SCJJC#lKsPtTJo6TcoPwgcEYPoUIc17cn02I3RLtEm4oVLr90"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1yOrRnEGUL5fh0jd7X2DZE80k8OitjI3Q/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-6ktayvdu5160.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1_zbLWsYWWF1H45_kpK23741EHVnuaJ5x/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/8di3Rh7giq"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/Vh5ShbBR#a8I2oXTwbJGgE6PIGsvYDBnen0KCeXi8-6cQjQoyFow"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1kvMMyqs_QzBGUFG9U7BpsPbLZA4-WPqu/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/k8wmQBgC#j1D5zSorFWo1vrcfsk-KZK2TrOnco7xRVL05NSGjLCk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3252573,
+          "tmdb_still_path": "/buteg6ifWC0RmBVUKYWqYvjGMgv.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/FeFQ3oQ5iq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/K65DBaLJ#LS6VpxqfPlop5kffMryuGLkqb0Lh5a7e7FVUC3i8T58"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1QVHYR891FTn9y46x2Vk0iu-s_-96sWAg/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-7nrzm1jlle32.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1YCbA_ckxCBz9V6ChP1voRk1W9SK7nj9W/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/sbSHqb4Fea"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/q6onGYoD#C6fILQp5nIo8cF_zpieE5_os0AefwfvdiQgnODLa-Vs"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1T6aYpNMvhjUtOWr6uUNK1ZwRWsL7yXQ-/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/3ip1mSCQ#c5o9I5n_v95ue60xIXhmmSigmrmqNOM26o1NYy8kskk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3252574,
+          "tmdb_still_path": "/2dKaTDRtXdl6wWhEwbz6LloyJHz.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/n7eD4N3jiq"
+            },
+            {
+              "id": 2,
+              "label": "mega",
+              "url": "https://mega.nz/embed/QnomCCBI#k6751reDX-_8KALgkCTVcFuQOs0Z9doqz-p613Kl0Z0"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1weuz4ZgigfbazN2Gl6FbkaRuDcIMF6t3/preview"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-0uvx72qrgruo.html"
+            },
+            {
+              "id": 5,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1AsiGqqGHQYofadlhIR3HR98XYSituwgm/preview"
+            },
+            {
+              "id": 6,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/hCovRJLgea"
+            },
+            {
+              "id": 7,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/I7gyEYjY#uMkUDOjwAWbC3a476QxDVik2B4mISAmfJi01KHfZRbE"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-zuhwwrkbsfeb.html"
+            },
+            {
+              "id": 9,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/12tVq9Od6UCqn0cktK_h_QPzh2xviNZTi/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-12-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3252575,
+          "tmdb_still_path": "/13FIPPbhGEQf6HIAwmMjdNV5ml2.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدمع عينا **ميكو يوتسويا** بينما تحدق في نقطة واحدة على هاتفها—متجاهلة وحشًا مروعًا آخر يقف أمام وجهها، ينطق بكلمات مزعجة: \"هل ترينني؟\"\n\nفي السابق، كانت ميكو تستمتع بأيامها العادية في المدرسة الثانوية، حيث لم تكن عروض الرعب الليلية سوى وسيلة ترفيه. لكن منذ ذلك اليوم المشؤوم، أصبحت الوحيدة التي ترى الوحوش غير المرئية التي تتجول بين البشر بحرية. بشجاعة، تتخذ ميكو قرارًا جريئًا: لن تعترف أبدًا، تحت أي ظرف، بوجود هذه الأطياف البشعة. ومع أنها تتظاهر بعدم رؤيتها، إلا أنها تدرك جيدًا مدى إزعاج هذه الكائنات للناس من حولها—وخاصةً لصديقتها المقرّبة **هانا يوريكاوا**، الفتاة المليئة بالحيوية والجمال. ومن أجل حمايتهن من مضايقات هذه الوحوش، تبذل ميكو قصارى جهدها للاستمرار في حياتها المدرسية وتجنّب كل أزمة مزعجة—حتى وإن كانت هذه المواجهات تخيفها حتى البكاء.",
+  "url": "/anime/mieruko-chan",
+  "story": "تدمع عينا **ميكو يوتسويا** بينما تحدق في نقطة واحدة على هاتفها—متجاهلة وحشًا مروعًا آخر يقف أمام وجهها، ينطق بكلمات مزعجة: \"هل ترينني؟\"\n\nفي السابق، كانت ميكو تستمتع بأيامها العادية في المدرسة الثانوية، حيث لم تكن عروض الرعب الليلية سوى وسيلة ترفيه. لكن منذ ذلك اليوم المشؤوم، أصبحت الوحيدة التي ترى الوحوش غير المرئية التي تتجول بين البشر بحرية. بشجاعة، تتخذ ميكو قرارًا جريئًا: لن تعترف أبدًا، تحت أي ظرف، بوجود هذه الأطياف البشعة. ومع أنها تتظاهر بعدم رؤيتها، إلا أنها تدرك جيدًا مدى إزعاج هذه الكائنات للناس من حولها—وخاصةً لصديقتها المقرّبة **هانا يوريكاوا**، الفتاة المليئة بالحيوية والجمال. ومن أجل حمايتهن من مضايقات هذه الوحوش، تبذل ميكو قصارى جهدها للاستمرار في حياتها المدرسية وتجنّب كل أزمة مزعجة—حتى وإن كانت هذه المواجهات تخيفها حتى البكاء.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Sora Amamiya، Kaede Hondo، Ayane Sakura، Yuichi Nakamura، Ikuko Tani، Yumiri Hanamori",
+  "genre": "أنمي، رسوم متحركة، كوميديا، غموض، خيال علمي وفانتازيا",
+  "trailerId": null,
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mieruko-chan",
+    "mainDescription": "تدمع عينا **ميكو يوتسويا** بينما تحدق في نقطة واحدة على هاتفها—متجاهلة وحشًا مروعًا آخر يقف أمام وجهها، ينطق بكلمات مزعجة: \"هل ترينني؟\"\n\nفي السابق، كانت ميكو تستمتع بأيامها العادية في المدرسة الثانوية، حيث لم تكن عروض الرعب الليلية سوى وسيلة ترفيه. لكن منذ ذلك اليوم المشؤوم، أصبحت الوحيدة التي ترى الوحوش غير المرئية التي تتجول بين البشر بحرية. بشجاعة، تتخذ ميكو قرارًا جريئًا: لن تعترف أبدًا، تحت أي ظرف، بوجود هذه الأطياف البشعة. ومع أنها تتظاهر بعدم رؤيتها، إلا أنها تدرك جيدًا مدى إزعاج هذه الكائنات للناس من حولها—وخاصةً لصديقتها المقرّبة **هانا يوريكاوا**، الفتاة المليئة بالحيوية والجمال. ومن أجل حمايتهن من مضايقات هذه الوحوش، تبذل ميكو قصارى جهدها للاستمرار في حياتها المدرسية وتجنّب كل أزمة مزعجة—حتى وإن كانت هذه المواجهات تخيفها حتى البكاء.",
+    "metaDescription": "Mieruko-chan أنمي 2021 | تدمع عينا **ميكو يوتسويا** بينما تحدق في نقطة واحدة على هاتفها—متجاهلة وحشًا مروعًا آخر يقف أمام وجهها | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mieruko-chan من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/121078"
+    }
+  },
+  "tmdb_id": 121078,
+  "tmdb_url": "https://www.themoviedb.org/tv/121078",
+  "original_title": "見える子ちゃん"
+}

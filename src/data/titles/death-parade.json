@@ -1,0 +1,364 @@
+{
+  "slug": "death-parade",
+  "clean_title": "Death Parade",
+  "raw_name": "انمي Death Parade",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/death-parade.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426161007179"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1XoQHbCm2TKegRJoO__fU6ZvOdjLOMqxr/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/cBhDSKQA#e8kxeYxwLmcEWY7dJe7WkLbzFL2-8LkYIMuv7nuayuc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-01-10",
+          "runtime": 23,
+          "tmdb_episode_id": 1037195,
+          "tmdb_still_path": "/95nTO42WRI4jkoSsj7UEp9lZH1X.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426165791307"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1pW7ciV4vfYZzzPzrkhRK6MmFMCcP5ELy/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/MM4mmQ7C#wIWOSM3qYL7oazz_NlAAwcAqm-fzDdA8xEBAQCuGSSg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-01-17",
+          "runtime": 23,
+          "tmdb_episode_id": 1037596,
+          "tmdb_still_path": "/2mFRspkDVaS7eSwE5PNa50z28hK.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426168347211"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1R5x52BNzBiGdq4S1ew0zGRaAUUEBQOcm/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/qkdzlYzA#9kpNXfZVY-V5foYknwgry1zGlTeIH769RgbyMzUcXlM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-01-24",
+          "runtime": 23,
+          "tmdb_episode_id": 1038526,
+          "tmdb_still_path": "/gGr4zWXqgGyxieX0nKsxRPLs1W4.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426220513867"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1-TFmczL2BjhGVVjKwOl4VVmL6ioseGrV/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/24NHDYBQ#5HngKd31tF8kpEEfVvXWyX4jWFUmBU2uPkgTswTIs2s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-01-31",
+          "runtime": 23,
+          "tmdb_episode_id": 1041586,
+          "tmdb_still_path": "/gp7huBmB8wJi8RUDdmd9poG9xFo.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426223069771"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1DeqGo8-BdpdlxUYfJ6vsoDgXNfWbmQJW/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/e0Ujga5S#UhsegyX2U6fLLudIDgCItkZXpmARdU58_YgxitjxsTA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-02-07",
+          "runtime": 23,
+          "tmdb_episode_id": 1041587,
+          "tmdb_still_path": "/rifDePYX1YmufU1hNclM1aUUFjt.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426226018891"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/16frRbqOPSiNRBsXR61SfQ5LyMhxqln4G/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/H50xyY4Y#hMYgjeQw_FWL42ae_yygqF-GPUpWqHOekaIOydbO9w4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-02-14",
+          "runtime": 23,
+          "tmdb_episode_id": 1042895,
+          "tmdb_still_path": "/qatef2zL4MIwH8jLItWWR84NRdI.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426234473035"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1PTuUrdEYXlFxQpNLX5pRoLx_yua8SCj7/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/i6ojFIiT#cqmKDn97IAJh1vAaw2p6vFS4gxHYcz1q6YoRkliPcPk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-02-21",
+          "runtime": 23,
+          "tmdb_episode_id": 1044148,
+          "tmdb_still_path": "/yXlcQwLCZNBLDQBjtqm8tFZ0VAJ.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426236504651"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1FShbe6_MgIXgs2EIpGlCZDvHGAbO3FtF/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/ar5EVJwT#kirSdsrLa31pDdlKEZ4Qz-TNB_xIzyHjxqlJwc37QNE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-02-28",
+          "runtime": 23,
+          "tmdb_episode_id": 1045316,
+          "tmdb_still_path": "/zsvnL09gnY96QIckjk6RnmGVMGi.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426238536267"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1TGxCmewIFIGRDcG6Y2bxcEyMpiCpFf9m/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/mqw3nCJb#HK61U74egkieNzn32HTMu-N8ROHzY35FIQDS7lPGKfA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-03-07",
+          "runtime": 23,
+          "tmdb_episode_id": 1046054,
+          "tmdb_still_path": "/nl0YzcIIPtOKe530YQsQcvBW0tv.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426240961099"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1JwRcKZ4pBRWvmJUSpLXO71uwlqFHOgrJ/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/PyxDAaxY#Y7EJvPMtwB0p21SQYwhRtab0vHwa_IWhjjv_LMYdzk8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-03-14",
+          "runtime": 23,
+          "tmdb_episode_id": 1047098,
+          "tmdb_still_path": "/AbZcg9TOuipi1SswuoRCOurH1Gx.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426243189323"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1Hgb3YaecYbD6_4VofkeMXzyvVxGNZDv2/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/Svg2QTDQ#glOJ9C8RddnoTvO8QIefGZBkhmXw8QTLdCNbioH6324"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-03-21",
+          "runtime": 23,
+          "tmdb_episode_id": 1048891,
+          "tmdb_still_path": "/nWE4ppdTYIAOhOH6EfdOFWKTvEF.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2426248301131"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1uKKoPVgNn9gv-xpruUdpse_HFpEKjrCS/preview"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/uihkVLRR#jmKn2iuP-LguuPzQ0rzo0xjIRShw_Xsw5FDIeo7Dk9A"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-03-28",
+          "runtime": 23,
+          "tmdb_episode_id": 1050307,
+          "tmdb_still_path": "/399GnguaERok4dieG5Lo9nqxG8g.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "الملكة ( ديكما ) , حانةٌ غريبة و عامِلُونَ غُرباء يستقبلون أُناساً لا يتذكرون من أين أتوا و كيف وصلوا إليها ؟ حينها يُعْرَضُ عليهم ألعاباً مُختلفة ما السّر الحقيقي لهذه الحانة ؟ و ما الغاية من هذه الألعاب ؟",
+  "url": "/anime/death-parade",
+  "story": "الملكة ( ديكما ) , حانةٌ غريبة و عامِلُونَ غُرباء يستقبلون أُناساً لا يتذكرون من أين أتوا و كيف وصلوا إليها ؟ حينها يُعْرَضُ عليهم ألعاباً مُختلفة ما السّر الحقيقي لهذه الحانة ؟ و ما الغاية من هذه الألعاب ؟",
+  "year": "2015",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Asami Seto، Tomoaki Maeno، Misa Kato، Yuna Taniguchi، Atsumi Tanezaki، Koki Uchiyama",
+  "genre": "أنمي، رسوم متحركة، دراما، غموض",
+  "trailerId": "8ziUXV6t0ow",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Death Parade",
+    "mainDescription": "الملكة ( ديكما ) , حانةٌ غريبة و عامِلُونَ غُرباء يستقبلون أُناساً لا يتذكرون من أين أتوا و كيف وصلوا إليها ؟ حينها يُعْرَضُ عليهم ألعاباً مُختلفة ما السّر الحقيقي لهذه الحانة ؟ و ما الغاية من هذه الألعاب ؟",
+    "metaDescription": "Death Parade أنمي 2015 | الملكة ( ديكما ) , حانةٌ غريبة و عامِلُونَ غُرباء يستقبلون أُناساً لا يتذكرون من أين أتوا و كيف وصلوا إليها | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Death Parade من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/61901"
+    }
+  },
+  "tmdb_id": 61901,
+  "tmdb_url": "https://www.themoviedb.org/tv/61901",
+  "original_title": "デス・パレード"
+}

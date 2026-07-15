@@ -1,0 +1,724 @@
+{
+  "slug": "romantic-killer",
+  "clean_title": "Romantic Killer",
+  "raw_name": "انمي Romantic Killer",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/romantic-killer.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4251912637003"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/qhikf7y5dug0"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/c2r6yjbktblxe50a6sk4pe0qymn19e0o"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/ap4yg2y4laog"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/sq6vyiohfpc4.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252418902603"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/pjykegwqo7ln"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/7ogp1ajingsk2bhs76w2p6mg145wu8ci"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/smo13rqhpcxj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 26,
+          "tmdb_episode_id": 3909723,
+          "tmdb_still_path": "/7iX1r9navaWMmoMV0wzLEMT3B2H.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4251978959435"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/fgwifkcy9hpv"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/jq72zbr2mv5nxdhoyngoelp31qqiyvqb"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/sombqq1jpw3c"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/wt9xtkxpqoo6.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252442233419"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/6ipct6m2l3su"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/uy674l76wj739dfennsigsiyyqbtv9v3"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/1lw7e8loo7fi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 27,
+          "tmdb_episode_id": 4027842,
+          "tmdb_still_path": "/fJaeOFRfWidHOj22xYG68MixTHg.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252004321867"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/ebqtnoxkhmb7"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/jru3ikec4flf76or7mdki73shbirqdmt"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/ue2n24yp3ard"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/hxqlr0j5fyts.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252459338315"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/kdsgkeg7zvfj"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/8sfztjzhtqax6339hwpk8ng33062qh2j"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/pyrilwcdpreg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 26,
+          "tmdb_episode_id": 4027843,
+          "tmdb_still_path": "/aRvcie3oNEvTK6zpi2hZFCI2oI9.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252035123787"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/pfhl3cm5lyto"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/2miki2no40hkwroet8fo4uv4sj54wydi"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/t9mojzb5cze2"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/iyya9caohpyg.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252478016075"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ilgb3wohlmsu"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/828h3xgeif2xcfqbjvm9vd37vgw40278"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/m9lgiliimzhb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 25,
+          "tmdb_episode_id": 4027844,
+          "tmdb_still_path": "/5D9XSKKikEVU3KTM6K9Hv07X4dM.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252072938059"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/0foydpwidu1p"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/f394h0jki3ltfoz5w6l232yhf1bors40"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/ntbhp3orqvyz"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/ck65f21n330s.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252486535755"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/0odmk48dmdkw"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/rl3nuudw2raso1l2p8o0txa8ot52zplm"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/xvzvebw71nmh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 27,
+          "tmdb_episode_id": 4027845,
+          "tmdb_still_path": "/erIxdbBctzFqZfjIXeCYqb4bClZ.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252099545675"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/p6meiocwqoic"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/fh6n1rjorjjni3qtg2n2u2r7r8ft9to9"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/sgyui0zccuag"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/9uyr3zy1lzoe.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252495579723"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/abpqg4uljgan"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/yftyc6nagza8c5oi34rw8p2ozy5sny38"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/34rqmcru8jev"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4027846,
+          "tmdb_still_path": "/idhHl7ce1Jtj0X6O4Agb4pdYdCz.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252134935115"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/cnbuc1j9udfh"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/vpy0q5h2g63hi31oe4l7dh9dz6j142wr"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/zukfke7667bf"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/te0ndeun0fh7.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252504099403"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/etqtg28tbzw3"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/ptzumts5wim06tfoyurmocfloy6t3ugn"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/j27jpclqhmfp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 27,
+          "tmdb_episode_id": 4027847,
+          "tmdb_still_path": "/ryaDJ1VGMkppMm3iPj1YPBu1suW.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252162198091"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/vnrqwkcksk8i"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/25gjew5k7stxywqnydsu23elcwmpe90l"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/eas7qfalml0f"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/eakpqxfn9mnt.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252513405515"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/9kuozsj8gjkt"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/pltun7sqtb8kbqbq47vp5t1dkrchqu9h"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/48htk3zglu81"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 27,
+          "tmdb_episode_id": 4027848,
+          "tmdb_still_path": "/3kcVN7XYIXRcFoCd9hyScBo5yHz.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252191951435"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/iwrn42tdttdo"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/mwkq4izuyqw4h08dlgbrnxwg5b7hhwwf"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/66zmqutcthfl"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/7hzdro268kxu.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252521466443"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/fmp6xefqaq11"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/nshbk1dq07jmcfcogtcxvzxbvccaq89z"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/sfa36o5yjztl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 29,
+          "tmdb_episode_id": 4027849,
+          "tmdb_still_path": "/39KkVZv0JfM9Jg1WHrupik3RM29.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252225505867"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/jlbh9vn2w9ef"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/rwdsp4t8o2t6rf2u2sgkec17j8rh8hnt"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/b7rxkbkl2iwe"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/kgc6pgsgyz90.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252528151115"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/b0hway4motok"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/kkqbdy6fln7cdvye484ztamx1ik6vezt"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/shtieetfarqt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 27,
+          "tmdb_episode_id": 4027850,
+          "tmdb_still_path": "/xE7ifsUrdSHl3lYCBdsQ8Efn3L7.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252252703307"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/uaag2rxu2cuz"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/bkf2u3gs6f1of6vtof0idlkcyb86m79v"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/krlmalebxkmh"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/gy2c4p9qrtvw.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252538047051"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/6zxfvpwjfnps"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/2wj1y1urhxcx6jkdeg3b5qxojs5czyj0"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/e45pwxirkqmb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 31,
+          "tmdb_episode_id": 4027851,
+          "tmdb_still_path": "/5e4Mms1AzGREnnFbH96WhXsX3xl.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4252282128971"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/gsyra9tevgrx"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/u4utizz34lp9v2bjkefnnb5joi30ngkd"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/bbemvou24phh"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/zofqat0i8jm2.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4252548663883"
+            },
+            {
+              "id": 7,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/r0vtvvxelwzv"
+            },
+            {
+              "id": 8,
+              "label": "dstream - FHD",
+              "url": "https://dood.re/e/xxn5m51tbbit66d066d9vhu6rdh81s6s"
+            },
+            {
+              "id": 9,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/buezxg5codiy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-27",
+          "runtime": 30,
+          "tmdb_episode_id": 4027852,
+          "tmdb_still_path": "/u1BuRZV29ZjVxYp6O3IRsatwpWB.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Romantic Killer ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Romantic Killer تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، رومانسي، كوميدي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/romantic-killer",
+  "story": "يدور أنمي Romantic Killer ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Romantic Killer تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، رومانسي، كوميدي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Rie Takahashi، Mikako Komatsu، Yuuichirou Umehara، Gakuto Kajiwara، Natsuki Hanae، Kenjiro Tsuda",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "jcmnHOJm8-A",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Romantic Killer",
+    "mainDescription": "يدور أنمي Romantic Killer ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Romantic Killer تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، رومانسي، كوميدي العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Romantic Killer أنمي 2022 | يدور أنمي Romantic Killer ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Romantic Killer من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/208730"
+    }
+  },
+  "tmdb_id": 208730,
+  "tmdb_url": "https://www.themoviedb.org/tv/208730",
+  "original_title": "ロマンティック・キラー"
+}

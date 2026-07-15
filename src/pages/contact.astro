@@ -1,0 +1,34 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../lib/site';
+
+const title = 'اتصل بنا';
+const description = `تواصل مع فريق ${SITE.name} بخصوص ملاحظات المحتوى، الروابط المعطوبة، أو طلبات الخصوصية.`;
+---
+
+<Base title={title} description={description} section="home">
+  <section class="container-app py-16 md:py-24">
+    <article class="glass-panel mx-auto max-w-4xl p-6 leading-8 text-gray-300 md:p-10">
+      <p class="mb-3 text-sm font-semibold text-brand-300">تواصل ودعم</p>
+      <h1 class="font-display text-3xl font-extrabold text-white md:text-4xl">اتصل بنا</h1>
+      <p class="mt-5 text-gray-400">
+        إذا وجدت رابطاً لا يعمل، أو لديك ملاحظة حول صفحة معينة، يمكنك استخدام طرق التواصل التالية. نراجع البلاغات حسب الأولوية وتوفر المعلومات.
+      </p>
+
+      <div class="mt-8 grid gap-4 md:grid-cols-2">
+        <section class="rounded-2xl border border-white/[0.06] bg-white/[0.03] p-5">
+          <h2 class="text-lg font-bold text-white">ملاحظات الروابط والمشاهدة</h2>
+          <p class="mt-2 text-sm text-gray-400">أرسل اسم العمل، رقم الموسم/الحلقة إن وجد، ووصف المشكلة بشكل واضح.</p>
+          <a class="mt-4 inline-flex text-brand-300 transition-colors hover:text-brand-200" href="mailto:contact@cinemanaplus.site?subject=CinemaNaPlus%20Support">contact@cinemanaplus.site</a>
+        </section>
+        <section class="rounded-2xl border border-white/[0.06] bg-white/[0.03] p-5">
+          <h2 class="text-lg font-bold text-white">الطلبات القانونية والخصوصية</h2>
+          <p class="mt-2 text-sm text-gray-400">لأي طلب متعلق بالخصوصية أو إزالة رابط خارجي، يرجى توضيح الرابط والسبب لتسريع المراجعة.</p>
+          <a class="mt-4 inline-flex text-brand-300 transition-colors hover:text-brand-200" href="mailto:legal@cinemanaplus.site?subject=CinemaNaPlus%20Legal%20Request">legal@cinemanaplus.site</a>
+        </section>
+      </div>
+
+      <p class="mt-8 text-sm text-gray-500">لا توجد حالياً حسابات اجتماعية رسمية مرتبطة بالموقع. عند إطلاقها سيتم وضع روابطها المباشرة هنا وفي تذييل الموقع.</p>
+    </article>
+  </section>
+</Base>

@@ -1,0 +1,280 @@
+{
+  "slug": "hataraku-saibou",
+  "clean_title": "Hataraku Saibou",
+  "raw_name": "انمي Hataraku Saibou",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hataraku-saibou.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/936hjtei23rd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1516511,
+          "tmdb_still_path": "/brRKS41lyF9I7TUVK83ZVNy34ZD.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/gypbptuwu34n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1516551,
+          "tmdb_still_path": "/htTU3v4Z6Y9pZKhfoIEo74wWSS0.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/gdxfe8howun2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1516552,
+          "tmdb_still_path": "/iImk1OosJbi0B05mSsE3rmUqog0.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2uhe6nwdg380"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1516553,
+          "tmdb_still_path": "/sECaZaHXKnBlpYHnegAiQwscEU5.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/p2ylli1p5u3v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1516554,
+          "tmdb_still_path": "/d2f84KyoOw5F2qzXFJtkYJYyBTk.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/bo2e8x863q66"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1516555,
+          "tmdb_still_path": "/83iIoK4Rj1LxZnWqLw0HXG7EZR7.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/p8053vsxnsip"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1516556,
+          "tmdb_still_path": "/wtcQUV1I5B3lrafNnAV7oaBM8KV.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0l4kha70j23x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-08-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1516557,
+          "tmdb_still_path": "/ha032q7DpjgpJgGHG3l7vcN55dB.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xuz5i7hjc6ii"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1516558,
+          "tmdb_still_path": "/fkdOW8AX5ZeHMxtGmZpJlszWY3.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xmec5su6rbd3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1516559,
+          "tmdb_still_path": "/5czaFvgymqGwTJQOEgr7r9D5zEs.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mlw4hb74okpb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1516560,
+          "tmdb_still_path": "/8dezc7BIf137sDMMeZ3L8N4DVWL.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3tut6f5xq0b4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1516561,
+          "tmdb_still_path": "/3WK1fj1V3e06BzjXCY3SQgz09Rt.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vwoi4w0jl1pa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-09-30",
+          "runtime": 23,
+          "tmdb_episode_id": 1554582,
+          "tmdb_still_path": "/2NwvME30QKs3fSLZD3E4HcqP2Pt.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور أحداث القصة داخل جسدك … وفقاً لدراسة جديدة، يتكون جسم الإنسان من حوالي 37 تريليون خلية. هذه الخلايا تعاني من مصاعب في العمل كل يوم داخل العالم الذي هو جسمك. من خلايا الدم الحمراء التي تعمل على نقل الأكسجين إلى خلايا الدم البيضاء التي تعمل على حماية جسمك من الفيروسات وغيرها، تعرف على الأبطال المجهولين اللذين يعملون بلا نوم للحفاظ على صحة جسدك.",
+  "url": "/anime/hataraku-saibou",
+  "story": "تدور أحداث القصة داخل جسدك … وفقاً لدراسة جديدة، يتكون جسم الإنسان من حوالي 37 تريليون خلية. هذه الخلايا تعاني من مصاعب في العمل كل يوم داخل العالم الذي هو جسمك. من خلايا الدم الحمراء التي تعمل على نقل الأكسجين إلى خلايا الدم البيضاء التي تعمل على حماية جسمك من الفيروسات وغيرها، تعرف على الأبطال المجهولين اللذين يعملون بلا نوم للحفاظ على صحة جسدك.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kana Hanazawa، Tomoaki Maeno",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، كوميديا",
+  "trailerId": "HMXWvvjAJek",
+  "rating": "8.1",
+  "imdb_rating": "8.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hataraku Saibou",
+    "mainDescription": "تدور أحداث القصة داخل جسدك … وفقاً لدراسة جديدة، يتكون جسم الإنسان من حوالي 37 تريليون خلية. هذه الخلايا تعاني من مصاعب في العمل كل يوم داخل العالم الذي هو جسمك. من خلايا الدم الحمراء التي تعمل على نقل الأكسجين إلى خلايا الدم البيضاء التي تعمل على حماية جسمك من الفيروسات وغيرها، تعرف على الأبطال المجهولين اللذين يعملون بلا نوم للحفاظ على صحة جسدك.",
+    "metaDescription": "Hataraku Saibou أنمي 2018 | تدور أحداث القصة داخل جسدك … وفقاً لدراسة جديدة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hataraku Saibou من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/80671"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "hataraku-saibou",
+      "title": "Hataraku Saibou",
+      "url": "/anime/hataraku-saibou",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/hataraku-saibou.jpg"
+    },
+    {
+      "slug": "hataraku-saibou-season-2",
+      "title": "Hataraku Saibou Season 2",
+      "url": "/anime/hataraku-saibou-season-2",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 8,
+      "poster": "/images/anime/hataraku-saibou-season-2.jpg"
+    }
+  ],
+  "tmdb_id": 80671,
+  "tmdb_url": "https://www.themoviedb.org/tv/80671",
+  "original_title": "はたらく細胞"
+}

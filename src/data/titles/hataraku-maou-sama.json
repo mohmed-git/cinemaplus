@@ -1,0 +1,605 @@
+{
+  "slug": "hataraku-maou-sama",
+  "clean_title": "Hataraku Maou-sama!",
+  "raw_name": "انمي Hataraku Maou-sama!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hataraku-maou-sama.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302091856459"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/aomsZNgziq"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/153ZM1mednqGRytQ6R1LnMjcQjyWkk4PH/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1q4K8Hjxgqu96ss4tvJ5lrsjgmiu9oQc8/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://femax20.com/v/x8y1ef5knmw-66-"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-62vh184dchzf.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1019224,
+          "tmdb_still_path": "/bM0ApZxAfSLlcHg93jeDlaBWp2C.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302095526475"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/nxjxJYhfea"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1CCtxIZMHV_6nw8MMbrxZEmLCPCtoDnhy/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1KzT6uChfdC9fUKTk2k27l0MeY2JTjso6/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://femax20.com/v/qmk41he8zk7k17-"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-6lfbe126yck7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1019225,
+          "tmdb_still_path": "/deVDhZv0pEFbhS38tCBI5O3YpP0.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302096050763"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/U1aL0oBjiq"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1fz4cTwfXbkxrRJBrMfkrytEaa_HAc5Uq/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1klZ786LVT8TvpQw8W_Raw3TqTWMHc17F/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/qmk41he8zwpzzdn"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-nh44w1swko9n.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1019226,
+          "tmdb_still_path": "/5I16tFuQPc53vy5rDQ9yC6eZaWV.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302098410059"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/_-504hFAea"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1iEj9NLHBwPPF0biqHtALYSSlFDeUfgys/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1rkWsiW9h_y60C3X0r9xp99bGAmaNqstl/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-kw5ytpyz2r322r"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-0wzpv42j16cw.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1019227,
+          "tmdb_still_path": "/8mGjWPlwROVBe21NutxZOgz45Cx.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302098999883"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/_H1MOLB2ea"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1A0r95WpGBoIHDBXK4pGugSKqPQDNitw-/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1NviwmyUzOd-t_FzWqFplJ-yc1YK8SHYf/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://femax20.com/v/jd6l4fd27q048ll"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-dg5swpesyu8v.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1019228,
+          "tmdb_still_path": "/8ReEifytyZchTqh8Dc9eAai4EGQ.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302100310603"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/kma816Gjiq"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1beYCc6CC-_osHFsQn8SzM64qumIuiKBM/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1r_se68CoPinvcSj5_BlHREYwVFgPWhj9/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/6846-f03-gmlnpr"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-wale7s2ep29a.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1019229,
+          "tmdb_still_path": "/j1l4XiZhRUoZeRSw8FPTLyeq2xI.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302100900427"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/ehVgIEZeiq"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1qywcoZxYPyRMAnWF0-JyT2u0s5SmrN4y/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1-ZnCApiQqhHMf7HfzF529pyvZHQcHm7F/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/n1r80h2pzrqg8dg"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-85uikzb9w0h1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1019230,
+          "tmdb_still_path": "/b7vUzzwWm9fT9EltsrFU58dOvhD.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302101686859"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/uO9n_mfSiq"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1RW2xtusn0ylaSiwAN6xcYhtbfTuYw1q1/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1HoR1HnEFDbJhAIARjpU06UV9xPT7Fj6X/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/0qwy-il74dxng3l"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-0az1nkzdvo55.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1019231,
+          "tmdb_still_path": "/7Pu6NucK2o6ofhbnoTwLFGradXt.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302123182667"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/MVeysU3aea"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1DxBGONtO6ddjb0112GeHU4ZH19TVwBoo/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/11Amh489Ucz4tv-dptwl-NVStfM43EpJ0/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://femax20.com/v/wxeplhnd57nje4p"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-tbb94213rp4w.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1019232,
+          "tmdb_still_path": "/5aqHRiH286YbgTyB6I7Aq1PEwqI.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302147103307"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/HNYBPROwea"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1h9SHiI2sezogn5MD_4BB3y2_OEArw_6P/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1f9hdJjbGpbbYJnpBMiHx5RQcme19DFO0/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/7g67-cgzm5kk-1p"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-ikhq52dolkmx.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1019233,
+          "tmdb_still_path": "/p60RYPHsAuFlocdtA2y3AeCmGJL.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302169057867"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/w6jHK7zvea"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1K0YXzSBDWgxTqsxmXFhD44O_o5BrHaym/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1iyHTvyuyOvgi-wds3aQcku5h5h4-kucR/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/4yw3-tzn-weezp8"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-2jen5w0uxl62.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1019234,
+          "tmdb_still_path": "/nXDNkjg6ybEZQgwFoMnefA3HlDO.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302183869003"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/DoV-Ftbuea"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1KiG0LDnOGcNXIZPGiph-ajxcT4hg7dfu/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1v1QKqX5FNyIIECNLPa6yJixmJyyQD7A0/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://femax20.com/v/8n7d-a8ygwyre-0"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-qhx6j4aa9rlz.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1019235,
+          "tmdb_still_path": "/sYfW8txJKVYwHyJPPa6Xb4yidPi.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2302203071051"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/baFdfEI9iq"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1nTodBX-n_WDEaB96BZx368UW7jOqAUgi/preview"
+            },
+            {
+              "id": 4,
+              "label": "google drive 2 - FHD",
+              "url": "https://drive.google.com/file/d/1SOuHbqn3_mCZNhJiegVfIlTCBFUpQGm-/preview"
+            },
+            {
+              "id": 5,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/4yw3-tzn-w70nq2"
+            },
+            {
+              "id": 6,
+              "label": "uqload - FHD",
+              "url": "https://uqload.com/embed-ftvkccwzely1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1019236,
+          "tmdb_still_path": "/feY0MMI5VzniNH7TYVVbqR6cFtr.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hataraku Maou-sama! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 2 موسم و37 حلقة. في أنمي Hataraku Maou-sama! تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات كوميدي، شياطين، خارق للطبيعة، رومانسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/hataraku-maou-sama",
+  "story": "يدور أنمي Hataraku Maou-sama! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 2 موسم و37 حلقة. في أنمي Hataraku Maou-sama! تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات كوميدي، شياطين، خارق للطبيعة، رومانسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ryota Osaka، Yoko Hikasa، Nao Toyama، Yuki Ono، Hiro Shimono، Kanae Itou",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "9eCFxxQ4WE0",
+  "rating": "7.4",
+  "imdb_rating": "7.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hataraku Maou-sama!",
+    "mainDescription": "يدور أنمي Hataraku Maou-sama! ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 2 موسم و37 حلقة. في أنمي Hataraku Maou-sama! تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات كوميدي، شياطين، خارق للطبيعة، رومانسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و13 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Hataraku Maou-sama! أنمي 2013 | يدور أنمي Hataraku Maou-sama | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hataraku Maou-sama! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/45997"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "hataraku-maou-sama",
+      "title": "Hataraku Maou-sama!",
+      "url": "/anime/hataraku-maou-sama",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 13,
+      "poster": "/images/anime/hataraku-maou-sama.jpg"
+    },
+    {
+      "slug": "hataraku-maou-sama-2nd-season",
+      "title": "Hataraku Maou-sama!! 2nd Season",
+      "url": "/anime/hataraku-maou-sama-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/hataraku-maou-sama-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 45997,
+  "tmdb_url": "https://www.themoviedb.org/tv/45997",
+  "original_title": "はたらく魔王さま！"
+}

@@ -1,0 +1,676 @@
+{
+  "slug": "darling-in-the-franxx",
+  "clean_title": "Darling in the FranXX",
+  "raw_name": "انمي Darling in the FranXX",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/darling-in-the-franxx.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "وحيد ووحيدة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/dcyfu8njlpf9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/vqae7hm267iv"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/pt2rv6qxbluy"
+            }
+          ],
+          "overview": "سقطت الأرض في الخراب ، ويمثل الأطفال الأمل الأخير للبشرية.  أحدهم ، هيرو ، فشل في تحقيق هذا الغرض وقرر الابتعاد عن كل شيء ... حتى يلتقي بفتاة ذات قرون.",
+          "air_date": "2018-01-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1415192,
+          "tmdb_still_path": "/dbEXBqAAQp8uvWs0qs78ZZmUa4O.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "ماذا يعني الاتصال",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/r2ubq90etv6l"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/5lsqvmb1l2tv"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/dcmwlhydezq8"
+            }
+          ],
+          "overview": "تكافح الطفيليات للتصالح مع كون هيرو هو الذي قاد ستريليزيا.  حتى هيرو لا يستطيع أن يصدق ذلك بنفسه.  تصل الأمور إلى ذروتها عندما يأمر بالمشاركة في معركة صورية.",
+          "air_date": "2018-01-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1421607,
+          "tmdb_still_path": "/AmEqOtFj5xGGjqwhDP3YMOZsG21.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/e6eokidcwjg4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/osmkdkxrvuo7"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/0o8xtm53y2dt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-01-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1421606,
+          "tmdb_still_path": "/jtro27T8HdTT6np19Sv4GQdSGyW.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/sgd2he58h42t"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hpcld4mq4ezz"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/ojsfvs32l49q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1427994,
+          "tmdb_still_path": "/hinQMiJU6v0JG5xQXqK3AryBAfi.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/783n7sjnqi50"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/08ea4e0nenrt"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/er2wciqq2i36"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1431142,
+          "tmdb_still_path": "/13xvkMUlJWUufVHSwKqkoSqxvdM.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1j8nat4n6sk9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ofgag9dbun3m"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/8jqguy7psy4u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1434287,
+          "tmdb_still_path": "/myameWyMRW4YPLvSSOJvlqpTIrx.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/d078rp9uv4kk"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qtslx1hnqyn3"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/pj8qc82g8asg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-02-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1434288,
+          "tmdb_still_path": "/mvLuEpK5xS25fuUQzvKAc3Qvgig.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5p357qbbvoi7"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/iyghxaqesl5q"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/8nhsvi0l3hl5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1434289,
+          "tmdb_still_path": "/nXgRehUtXyu5duxvVPHLlEGIXqF.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/7wqbvuq5986q"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/pzlazj25ie4i"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/qs82uou6q7xy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1434290,
+          "tmdb_still_path": "/1kQh7oszXAmMk67innz7NczBABc.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/hopdxd4ltpx9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/0rwjtqkbq2kz"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/nnkhm1xt43d3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1455996,
+          "tmdb_still_path": "/9LCa13pv77QxOxF5Ta9PKYSZLkO.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ju4lx96qy27y"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qc0rkp367ciu"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/1ixw5t3gr21s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1455997,
+          "tmdb_still_path": "/4KCTgY27g5tuZDX8E1cCaX3UIee.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ehlko5pita4e"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xlxs9raivqsi"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/ri3c54qkcuiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-03-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1459879,
+          "tmdb_still_path": "/uNvHHaBRBqcDEQZAMQPOetbAkg9.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/dj0edhnfhw66"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/38t6gh324fly"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/zklkck44x788"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1459880,
+          "tmdb_still_path": "/tOqeyhcNf9LGf4gHqBTC6FMdI65.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1bsakz4k6se9"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kfcet0id04k3"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/yf81bgnu2pcg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1459881,
+          "tmdb_still_path": "/9QYRQeH4nYuKUY3yv89D3rfyJqu.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/x0hh7cqht0og"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/v8jgw67d7z31"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/ve7wgpdv4i68"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1459882,
+          "tmdb_still_path": "/wge3WYXVtbIm7S9O7b5hpWvzQBJ.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/egcdsati860r"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4ea489gofkwz"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/9ge3bd7yyvcg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1459883,
+          "tmdb_still_path": "/3IAzSarcGoHHfiLOFlAyFgXLzaW.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vk51nzvd0i86"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/9sqz0h46cr8v"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/vlgyg4efwn17"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1479192,
+          "tmdb_still_path": "/yNJeG4uFjKKSVBB9z7oUDjGJiF9.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kr6o38470ptq"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/6cwpfyz3uuo9"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/vwtj5ey0lmla"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1479193,
+          "tmdb_still_path": "/bFsCEazBGQ7usfRKLNLqgX2S9J4.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/z9wch9l3cyzi"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/hh385bnwww44"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/dv3461c46xyo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1479194,
+          "tmdb_still_path": "/jPBQNodYVEZuWbWbVpwVgojG3Dt.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/cm6c374q9a3k"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/y1y7yxong7z5"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/6cvahu3u3bek"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1479195,
+          "tmdb_still_path": "/ioS1aAmuX1clgEAXkwCf1uPvIzP.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uumefjkxtyks"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/m0v9eotx9sv5"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/tf6f4mefzmzb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1479196,
+          "tmdb_still_path": "/aU4PFGaSYTIpGZh69bQhH1RZXEc.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/l9qhs1o182ou"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/08r88p13i4oi"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/5232va54mxoj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1479198,
+          "tmdb_still_path": "/u9t4dWGsKbROoZflb5pTikwVngQ.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/meg399947aov"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/vq03shmc0j5m"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/krt54lrndqwo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1479199,
+          "tmdb_still_path": "/sUpi3EHyfD2xPdIWow5deSZkmZ1.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/79mnmoaauf27"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7nv4j5djb18c"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - SD",
+              "url": "https://playerwish.com/e/e9vjexrsahje"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1479200,
+          "tmdb_still_path": "/elWlIROaHSNffkP9CduxGDURuwI.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور أحداث القصة في المستقبل البعيد.  دمرت الأرض ، وأنشأت البشرية مدينة الحصن المتنقلة بلانتيشن.  يعيش الطيارون المنتجون داخل بلانتيشن في مستلتين ، ويعرفون أيضًا باسم \"قفص العصافير\".  يعيش الأطفال هناك ولا يعرفون شيئًا عن العالم الخارجي أو حرية السماء.  تتكون حياتهم من القتال لتنفيذ المهام.  أعداؤهم عبارة عن أشكال حياة عملاقة غامضة تُعرف باسم Kyouryuu ، ويطلق الروبوتات التي يقودها الأطفال والتي تسمى Franxx لمواجهتها.  بالنسبة للأطفال ، فإن ركوب فرانكس يثبت وجودهم.  ولد اسمه هيرو كود: 016 ، وكان معروفا في السابق بأنه معجزة.  ومع ذلك ، فقد تخلف ، ويبدو أن وجوده غير ضروري.  عدم تجريب فرانكس هو نفس التوقف عن الوجود.  في أحد الأيام ، ظهرت أمامه فتاة غامضة تُعرف باسم \"زيرو تو\".  ينمو من رأسها قرنان.",
+  "url": "/anime/darling-in-the-franxx",
+  "story": "تدور أحداث القصة في المستقبل البعيد.  دمرت الأرض ، وأنشأت البشرية مدينة الحصن المتنقلة بلانتيشن.  يعيش الطيارون المنتجون داخل بلانتيشن في مستلتين ، ويعرفون أيضًا باسم \"قفص العصافير\".  يعيش الأطفال هناك ولا يعرفون شيئًا عن العالم الخارجي أو حرية السماء.  تتكون حياتهم من القتال لتنفيذ المهام.  أعداؤهم عبارة عن أشكال حياة عملاقة غامضة تُعرف باسم Kyouryuu ، ويطلق الروبوتات التي يقودها الأطفال والتي تسمى Franxx لمواجهتها.  بالنسبة للأطفال ، فإن ركوب فرانكس يثبت وجودهم.  ولد اسمه هيرو كود: 016 ، وكان معروفا في السابق بأنه معجزة.  ومع ذلك ، فقد تخلف ، ويبدو أن وجوده غير ضروري.  عدم تجريب فرانكس هو نفس التوقف عن الوجود.  في أحد الأيام ، ظهرت أمامه فتاة غامضة تُعرف باسم \"زيرو تو\".  ينمو من رأسها قرنان.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuto Uemura، Haruka Tomatsu، Kana Ichinose، Yuuichirou Umehara، Nanami Yamashita، Saori Hayami",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا، كوميديا",
+  "trailerId": "yp2XNVDyMO0",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Darling in the FranXX",
+    "mainDescription": "تدور أحداث القصة في المستقبل البعيد.  دمرت الأرض ، وأنشأت البشرية مدينة الحصن المتنقلة بلانتيشن.  يعيش الطيارون المنتجون داخل بلانتيشن في مستلتين ، ويعرفون أيضًا باسم \"قفص العصافير\".  يعيش الأطفال هناك ولا يعرفون شيئًا عن العالم الخارجي أو حرية السماء.  تتكون حياتهم من القتال لتنفيذ المهام.  أعداؤهم عبارة عن أشكال حياة عملاقة غامضة تُعرف باسم Kyouryuu ، ويطلق الروبوتات التي يقودها الأطفال والتي تسمى Franxx لمواجهتها.  بالنسبة للأطفال ، فإن ركوب فرانكس يثبت وجودهم.  ولد اسمه هيرو كود: 016 ، وكان معروفا في السابق بأنه معجزة.  ومع ذلك ، فقد تخلف ، ويبدو أن وجوده غير ضروري.  عدم تجريب فرانكس هو نفس التوقف عن الوجود.  في أحد الأيام ، ظهرت أمامه فتاة غامضة تُعرف باسم \"زيرو تو\".  ينمو من رأسها قرنان.",
+    "metaDescription": "Darling in the FranXX أنمي 2018 | تدور أحداث القصة في المستقبل البعيد | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Darling in the FranXX من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/76121"
+    }
+  },
+  "tmdb_id": 76121,
+  "tmdb_url": "https://www.themoviedb.org/tv/76121",
+  "original_title": "ダーリン・イン・ザ・フランキス"
+}

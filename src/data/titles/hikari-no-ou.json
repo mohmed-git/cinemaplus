@@ -1,0 +1,582 @@
+{
+  "slug": "hikari-no-ou",
+  "clean_title": "Hikari no Ou",
+  "raw_name": "انمي Hikari no Ou",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hikari-no-ou.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 10,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4609692142155"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/9nsoebhnp8eg"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.re/e/0ja4twev0um69po44cr49sziabh8w3sk"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbchill.com/e/qkfrdjdvtuw5.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4609705642571"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/RnIhjKJY#u1fh74J_TO2li_HGZ7Eoxu9PWL6FwrUZGkWLDdpjdsc"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbchill.com/e/p2zwvabi7h51.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4609714096715"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/0vluilyr7cht"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-14",
+          "runtime": 24,
+          "tmdb_episode_id": 3479038,
+          "tmdb_still_path": "/bbS6d4tKsNE1UxFbilZ1aam2CXu.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4632866916939"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/fgs7ey185ek9"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.yt/e/5ifd99dcp2nuax18zrbjb8q129wfh1w0"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbchill.com/e/5zvwwqycfyx7.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4632880482891"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/RmADBLDT#JRyJ-_Xih4bc8ttOhEC2x96SPONvJpUHg-dfeD8l-fA"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbchill.com/e/p5vbcnpuuojr.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4632896408139"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/wpwxx79iatdh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-21",
+          "runtime": 24,
+          "tmdb_episode_id": 4161113,
+          "tmdb_still_path": "/o83ezsAX7GTNFWjbFityCzNIfnZ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4657768106571"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/lqm3647m1pre"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.yt/e/gu9edanxo0y4oha35gfvdkulru8jgt9f"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbchill.com/e/kv753xk8900w.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4657779051083"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/AMYmkCZI#4uu1WHWp5Qc18AALsJf9_6cD9EGeGaii5rxmS3OJlG4"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbchill.com/e/0q4n903x6qrn.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4657787636299"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hy672hef42as"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-28",
+          "runtime": 24,
+          "tmdb_episode_id": 4161115,
+          "tmdb_still_path": "/dDxtWczmpYVK7LNenNxhdZflchg.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4684627642955"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/opmq15yyba8y"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/o3j846xe68gk"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbhight.com/e/d9djfdgyym17.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4684652087883"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/LB9W1JRZ#fQZdNiad4Nv_DrlmAHF91AZJleMMO03jEkJP8skng-c"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbhight.com/e/i9vqyt64x6ax.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4684657134155"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/4xvuvkamnom8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4161118,
+          "tmdb_still_path": "/A9boGYOdPrX539X58AwBw99PX3A.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4699881212491"
+            },
+            {
+              "id": 2,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/511cL376TvCG"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4699895040587"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/krZWTZIQ#TSYBi8pfZUtnNeqRmpSCv6n2E7k5bbAiqk3kw9-rHCw"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4699906837067"
+            },
+            {
+              "id": 6,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/cQ8Uv7Q7YHO3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4161119,
+          "tmdb_still_path": "/rpEWjeeffZOYdtDpLd6Rn4eJsbs.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4723250301515"
+            },
+            {
+              "id": 2,
+              "label": "yourupload",
+              "url": "https://www.yourupload.com/embed/l62YdopfFQBJ"
+            },
+            {
+              "id": 3,
+              "label": "highload",
+              "url": "https://highload.to/e/kjd1yjxgzav9"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4723267078731"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Dc4jDSpC#Hm2M2KfzLf7zlqggoIVPodCoeitQNpmg9y5eCMphQos"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4723278416459"
+            },
+            {
+              "id": 7,
+              "label": "yourupload - FHD",
+              "url": "https://www.yourupload.com/embed/468VFl6s6W0q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4161120,
+          "tmdb_still_path": "/dkDeu3NVGJfiJ3GO1Dif7XZC2jA.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4747736779339"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/exvhamunx2ab"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.yt/e/oc3jb528t062r10ims1jw1von9bbx97r"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbbrisk.com/e/kbrrr9hvuvyl.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4747771972171"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/fcR3gSYa#BrQOW38jBk0QL89kb7RA6voPbaQighePexbXSqTAqtk"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbbrisk.com/e/xbzfry7sb6hb.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4747789929035"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/phgsj7bjvc3k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-02-25",
+          "runtime": 24,
+          "tmdb_episode_id": 4161121,
+          "tmdb_still_path": "/pgnMlxeLNApGg7wkKsRfrNbtUQq.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4779678108235"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Rzbbzd3mcd15INGM"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4779704519243"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8axhxIia#GQgygoqythd-BoRarDaEfpdAEXsORvOaaYJbUkSEzks"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4779719068235"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2wTDHYcoov8iHbVV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-04",
+          "runtime": 24,
+          "tmdb_episode_id": 4161122,
+          "tmdb_still_path": "/y21R6YFxqVfb1lOJGuMHju09mCF.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4837345528395"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=x280eUiPELYzzf8M"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8j0i66"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4837385898571"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/sXJgDQKZ#iZWIJmxCWztH-OcZUh-m38rWH67uVnMtFS8NC-p0HpY"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4837407263307"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tVye8PkyNydpLNkt"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8j0ixf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-11",
+          "runtime": 24,
+          "tmdb_episode_id": 4161123,
+          "tmdb_still_path": "/2AHRdhdje9hZcVL7YxiUTphOHTL.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4892420999755"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=r3WrcP6OgAocti0D"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8j7xuo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4892459207243"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gV0VxbhY#IBI4V0z8jkJYkTWVuDai0Cxw7nRA7s_gJFgNIWeycKA"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4892583594571"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iyC3cIv6qCrsIvhe"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8j7ygp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-03-18",
+          "runtime": 24,
+          "tmdb_episode_id": 4161124,
+          "tmdb_still_path": "/2jBtyNAEzhmjxEMyhzwh2DK5Hc8.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hikari no Ou ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و20 حلقة. يدور أنمي Hikari no Ou حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف تاريخي، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hikari no Ou على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/hikari-no-ou",
+  "story": "يدور أنمي Hikari no Ou ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و20 حلقة. يدور أنمي Hikari no Ou حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف تاريخي، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hikari no Ou على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Misaki Kuno، Shoya Ishige، Maaya Sakamoto، Yoshimasa Hosoya، Sachi Kokuryu، Saori Hayami",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، دراما، غموض",
+  "trailerId": "nkBeXGAFCvU",
+  "rating": "6.6",
+  "imdb_rating": "6.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hikari no Ou",
+    "mainDescription": "يدور أنمي Hikari no Ou ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، دراما، غموض، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و20 حلقة. يدور أنمي Hikari no Ou حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تصنيف تاريخي، خيال يظهر في طريقة بناء الحلقات، حيث يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hikari no Ou على CINMAPRO عبر 1 موسم و10 حلقة بروابط حديثة وسريعة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Hikari no Ou أنمي 2023 | يدور أنمي Hikari no Ou ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hikari no Ou من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/156688"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "hikari-no-ou",
+      "title": "Hikari no Ou",
+      "url": "/anime/hikari-no-ou",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 10,
+      "poster": "/images/anime/hikari-no-ou.jpg"
+    },
+    {
+      "slug": "hikari-no-ou-2nd-season",
+      "title": "Hikari no Ou 2nd Season",
+      "url": "/anime/hikari-no-ou-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 10,
+      "poster": "/images/anime/hikari-no-ou-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 156688,
+  "tmdb_url": "https://www.themoviedb.org/tv/156688",
+  "original_title": "火狩りの王"
+}

@@ -1,0 +1,591 @@
+{
+  "slug": "date-a-live-v",
+  "clean_title": "Date A Live V",
+  "raw_name": "انمي Date A Live V",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/date-a-live-v.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7298590837323"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ugxRGPnmQ7sXegdz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8wm5ge"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7298597325387"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7298600929867"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oA9jEGoeClSBQGZL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 984486,
+          "tmdb_still_path": "/y7jFgDkgiuVp2VBECPnSqTJkbTb.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7318271756875"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1jBrw8Yv3nSvoHI5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8wy9qy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7318280735307"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7318287616587"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jsVlyhceCHfF6yL9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 984487,
+          "tmdb_still_path": "/AmsQNyJdDiJmbplrVejFogtEqGy.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7338422307403"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zBfMhD7HvVm8Uy8z"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8xe1l4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7338434169419"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7338439608907"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gud8rmDreItIxwz9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 984488,
+          "tmdb_still_path": "/hgpIPLl9TcGFDs2ISztwSw3O7p1.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7360686262859"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kkXZx4u7vbgR5Ugj"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8xraxa"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7360693996107"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7360700156491"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=he3SI61qYGOeK3Q4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 991781,
+          "tmdb_still_path": "/vjBmK2dhnbRYeEwaTHZ302LhFUL.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7382261566027"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vK2qrmkQQZeUFxqp"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8y7d3u"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7382271068747"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7382275983947"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=T4qRfccXszrdVqI8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 991782,
+          "tmdb_still_path": "/zDWWIdSaEKe5XiGPruftbr0Sjmf.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7405780077131"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5DdCG82Vlct0A6qq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8yj99y"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7405787220555"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7405793643083"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mnX08KP0prEoeetD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 991783,
+          "tmdb_still_path": "/xRNj17DvTHyqqYcLCprKgdeF1PB.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7428675930699"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=i4PQgGmlmqujOqzV"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ywf18"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7428681566795"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7428685892171"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CfhmSgMrFbV1RtAW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 991784,
+          "tmdb_still_path": "/R0JKjwArI5jVScMAj1jd8V0QgI.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7449428625995"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KzAogBFS2wo7UiTD"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8za7l0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7449435769419"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7449439636043"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WzRs0bOPMXfP26mO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 991785,
+          "tmdb_still_path": "/1XnLjBaHZliRrt4jiZ5B1lE4Y2b.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7472688138827"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xRndhwwmfhKGpNO5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8zp4y0"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7472694757963"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7472700459595"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gpQzDD2T9CUfErWj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 991786,
+          "tmdb_still_path": "/aH7MIWIRNu7F02OBw5n9kH9Ne4h.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7496082262603"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DMZQm6P03jG5GolO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x907j1a"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7496093731403"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7496103955019"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=twfyaLfUatfg3Tom"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 991787,
+          "tmdb_still_path": "/xz27qboCSaNTll1ZzYCbw3XiEgD.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7520626739787"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HQJpsE3YjpoCmUt4"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x90l29e"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7520634145355"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7520641419851"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=M1MWZRmpDAZuqzF2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 991788,
+          "tmdb_still_path": "/iVSXwd3RcBleFOnpF0pmKddCJul.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7543539894859"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=KAw6hMyo46yI6ziB"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x90zkxw"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7543546120779"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7543550904907"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=nOnmg9uqYBok7qiB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2013-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 991789,
+          "tmdb_still_path": "/5JKw32c7Llb7Gk06RpyeiUMxUV2.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Date A Live V ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يعتمد Date A Live V على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات ميكا، حريم، خيال علمي، مدرسي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/date-a-live-v",
+  "story": "يدور أنمي Date A Live V ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يعتمد Date A Live V على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات ميكا، حريم، خيال علمي، مدرسي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2013",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Nobunaga Shimazaki، Marina Inoue، Misuzu Togashi، Ayana Taketatsu، Iori Nomizu، Asami Sanada",
+  "genre": "أنمي، رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة",
+  "trailerId": "iz_sAWpBNrI",
+  "rating": "8.3",
+  "imdb_rating": "8.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Date A Live V",
+    "mainDescription": "يدور أنمي Date A Live V ضمن أجواء رسوم متحركة، خيال علمي وفانتازيا، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2013، وتوضح بيانات TMDB أنه يضم 5 موسم و58 حلقة. يعتمد Date A Live V على علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تمنح تصنيفات ميكا، حريم، خيال علمي، مدرسي العمل نبرة واضحة، فهو يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Date A Live V أنمي 2013 | يدور أنمي Date A Live V ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Date A Live V من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/46004"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "date-a-live",
+      "title": "Date A Live",
+      "url": "/anime/date-a-live",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/date-a-live.jpg"
+    },
+    {
+      "slug": "date-a-live-ii",
+      "title": "Date A Live II",
+      "url": "/anime/date-a-live-ii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 10,
+      "poster": "/images/anime/date-a-live-ii.jpg"
+    },
+    {
+      "slug": "date-a-live-iii",
+      "title": "Date A Live III",
+      "url": "/anime/date-a-live-iii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/date-a-live-iii.png"
+    },
+    {
+      "slug": "date-a-live-iv",
+      "title": "Date A Live IV",
+      "url": "/anime/date-a-live-iv",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/date-a-live-iv.jpg"
+    },
+    {
+      "slug": "date-a-live-v",
+      "title": "Date A Live V",
+      "url": "/anime/date-a-live-v",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/date-a-live-v.jpg"
+    }
+  ],
+  "tmdb_id": 46004,
+  "tmdb_url": "https://www.themoviedb.org/tv/46004",
+  "original_title": "デート・ア・ライブ"
+}

@@ -1,0 +1,325 @@
+{
+  "slug": "mayo-chiki",
+  "clean_title": "Mayo Chiki!",
+  "raw_name": "انمي Mayo Chiki!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mayo-chiki.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852509514315"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-26i9rm9ipis6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-08",
+          "runtime": 25,
+          "tmdb_episode_id": 1057771,
+          "tmdb_still_path": "/1QBeQ7lVOcliZeb9sY3UJoR6bRJ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852531010123"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-j9fznvql14b9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-15",
+          "runtime": 25,
+          "tmdb_episode_id": 1057772,
+          "tmdb_still_path": "/9SCn6QBLrN51eYMBGnOjlBCcQvE.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852543986251"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-hojin0t37wd0.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-22",
+          "runtime": 25,
+          "tmdb_episode_id": 1057773,
+          "tmdb_still_path": "/bRVT8YiFQt8jE6UAMgcFuZSuxjt.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852555782731"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-uqhj0c2n9axa.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-29",
+          "runtime": 25,
+          "tmdb_episode_id": 1057774,
+          "tmdb_still_path": "/lzbA4vaZHdm5bkiH27kkt1pNMN3.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852568103499"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-s588sjif60qp.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-05",
+          "runtime": 25,
+          "tmdb_episode_id": 1057775,
+          "tmdb_still_path": "/hsGMEPuAvVVx2DAu4fsdjG55BQ6.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852578720331"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-lhfudoto4tiq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-12",
+          "runtime": 25,
+          "tmdb_episode_id": 1057776,
+          "tmdb_still_path": "/alo5Ok04dJGEVj0Kv4fMaMn05Q0.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852590975563"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-6jiu1wpd22gd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-19",
+          "runtime": 25,
+          "tmdb_episode_id": 1057777,
+          "tmdb_still_path": "/cIT9C0fA9BaMYCYfRlNMhKdykmQ.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852601985611"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-e65v7ts6rann.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-26",
+          "runtime": 25,
+          "tmdb_episode_id": 1057778,
+          "tmdb_still_path": "/xyvNewGGIPqF0FEZPRR00EAxKoR.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852614371915"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-pss1hsrge6t7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-02",
+          "runtime": 25,
+          "tmdb_episode_id": 1057779,
+          "tmdb_still_path": "/rLrOEGx4VctwmBWQhCAar3E45zh.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852625840715"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-r8y0dbceqxa5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-09",
+          "runtime": 25,
+          "tmdb_episode_id": 1057780,
+          "tmdb_still_path": "/959rtAN4SoPSrUM5chyVhXBD7CV.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852635867723"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xb1un6mplsz7.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-16",
+          "runtime": 25,
+          "tmdb_episode_id": 1057781,
+          "tmdb_still_path": "/h24C1qglHfnm1tSSdqrs0Z5aqph.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852646353483"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-m2s65m0cphc1.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-23",
+          "runtime": 25,
+          "tmdb_episode_id": 1057782,
+          "tmdb_still_path": "/nbX2jLONBh1GdRkIhP0RwMfuwPU.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3852656970315"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-id8clla8xyor.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-30",
+          "runtime": 25,
+          "tmdb_episode_id": 1057783,
+          "tmdb_still_path": "/nc3Nqu7KsZvWkikLW3Rly5WGyUa.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Mayo Chiki! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Mayo Chiki! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء حريم، ايتشي، مدرسي، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/mayo-chiki",
+  "story": "يدور أنمي Mayo Chiki! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Mayo Chiki! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء حريم، ايتشي، مدرسي، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuka Iguchi، Satoshi Hino، Eri Kitamura، Kana Hanazawa، Mariya Ise، Kana Asumi",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "W6TNmCMXLCk",
+  "rating": "6.4",
+  "imdb_rating": "6.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mayo Chiki!",
+    "mainDescription": "يدور أنمي Mayo Chiki! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Mayo Chiki! حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. ينتمي العمل إلى أجواء حريم، ايتشي، مدرسي، رومانسي، لذلك يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Mayo Chiki! أنمي 2011 | يدور أنمي Mayo Chiki | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mayo Chiki! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/46169"
+    }
+  },
+  "tmdb_id": 46169,
+  "tmdb_url": "https://www.themoviedb.org/tv/46169",
+  "original_title": "まよチキ！"
+}

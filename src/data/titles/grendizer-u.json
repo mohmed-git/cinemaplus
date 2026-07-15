@@ -1,0 +1,585 @@
+{
+  "slug": "grendizer-u",
+  "clean_title": "Grendizer U",
+  "raw_name": "انمي Grendizer U",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/grendizer-u.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7572003883595"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=zvbFMdkLOUp9GNJD"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91llrm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7572020398667"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7572024265291"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gEOv1wIMGsDIouYi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4626436,
+          "tmdb_still_path": "/eShYbSMLlzoasmvSM1SA45DHFA9.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7593081375307"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nevYovjDiHpsmvZw"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9226hy"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7593086093899"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7593091074635"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=L0W9EZ4ccp3By6Rd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5457076,
+          "tmdb_still_path": "/1XwOSu2woiHkgLk2sZUImbfhCaa.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7614868097611"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=73bT8QdcIOPvHb8J"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92ir30"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7614871243339"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7614876682827"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5LHvAqMfRKCxxIBl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 5457077,
+          "tmdb_still_path": "/neUf93LJ21kT9FIyA4WzRmE9QJb.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7637502986827"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Cp2AbdQt6kGzAcib"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92yna4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7637507443275"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7637509016139"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=bhschjjq38TLMXvV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 5457078,
+          "tmdb_still_path": "/rQN41qNFgfLQsG5B2GRlKX4FQlf.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7660526897739"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=CX6RBDXyFSbrEyeR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x93fqfq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7660532075083"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7660541053515"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yjBlZLUsRHsCJZGN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5477706,
+          "tmdb_still_path": "/iIvmSA3o89UTkJzVIawMMDz7zCA.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7687911705163"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=NhtDtdOxHJbSOMbz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x93song"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7687912688203"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7687916030539"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PLhljfybegF2SaCQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5477709,
+          "tmdb_still_path": "/9tz4ZizoM1HIHooL95v33038CuY.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7713775815243"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sUWZN8ikBjMHmZkA"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x946520"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7713782696523"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7713784793675"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Z9vUmVfhCEf7TbDL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5520885,
+          "tmdb_still_path": "/8yNmhOhhCpS6xkinS33ihwosyG.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7736626973259"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JqcuD9whOnw6SoNY"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x94k6t4"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7736633789003"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7736636082763"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sVlpEAJbNPjOsgRe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5530845,
+          "tmdb_still_path": "/3lzdLYUkUS1dw4zyk5N7aZN1mGP.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7754710977099"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pIeQYUFkYn1O0VTG"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x94vr7y"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7754719758923"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7754725001803"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EWAo4LimmB2gOzNd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-31",
+          "runtime": 24,
+          "tmdb_episode_id": 5555420,
+          "tmdb_still_path": "/pgkACPLpHZgen7loSfyLcPYdQiT.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7776655247947"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mBQolAwSn7k1nwf9"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x959xlm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7776671631947"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7776675301963"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wL6bUIw7qVtPlrsy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-07",
+          "runtime": 24,
+          "tmdb_episode_id": 5580025,
+          "tmdb_still_path": "/vW8cSjOpTlH1NQfp4IMXzQn8ihq.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7797955234379"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EO3JXloJrWpQamEo"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x95me3w"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7797966506571"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7797972994635"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qz2aJk1Fp3wFFo9S"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-14",
+          "runtime": 24,
+          "tmdb_episode_id": 5592043,
+          "tmdb_still_path": "/cKozDMPJF08DVTuhSZ2LX61o21t.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7665261939398"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=oJzlIaW92pFHZm9g"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9609ea"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7665276553926"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7665281665734"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=J9IrYR5frGvcjmvV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-21",
+          "runtime": 24,
+          "tmdb_episode_id": 5608409,
+          "tmdb_still_path": "/7kZdepqRxn6ImxgurbL87FOTjiH.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7691945511622"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=byVDuvhiOLMFg59r"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x96d1p8"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7691954358982"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7691959798470"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kblztEoUPb8Olcx7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-28",
+          "runtime": 24,
+          "tmdb_episode_id": 5627239,
+          "tmdb_still_path": "/hoRwBtDp8hbS3uqsIxM3IMCugEe.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "ضربت قوات فيجا كوكب فليد بهجمة مدمرة، حينها هرب دوق فليد مستعينًا بجريندايزر العملاق إلى كوكب الأرض وعندما وصل تبناه رئيس مركز أبحاث الفضاء الدكتور آمون وأسماه دايسكي، وعملا جنبًا إلى جنب في المركز وأثناء رحلة اكتشاف ماهية الأجسام الغريبة الظاهرة في سماء المدينة باغتهم هجوم يثير ذاكرة دايسكي!",
+  "url": "/anime/grendizer-u",
+  "story": "ضربت قوات فيجا كوكب فليد بهجمة مدمرة، حينها هرب دوق فليد مستعينًا بجريندايزر العملاق إلى كوكب الأرض وعندما وصل تبناه رئيس مركز أبحاث الفضاء الدكتور آمون وأسماه دايسكي، وعملا جنبًا إلى جنب في المركز وأثناء رحلة اكتشاف ماهية الأجسام الغريبة الظاهرة في سماء المدينة باغتهم هجوم يثير ذاكرة دايسكي!",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Miyu Irino، Hiro Shimono، Sumire Uesaka، Nao Toyama، Minami Tanaka، Haruka Tomatsu",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "hmgIJP7ic0o",
+  "rating": "6.4",
+  "imdb_rating": "6.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Grendizer U",
+    "mainDescription": "ضربت قوات فيجا كوكب فليد بهجمة مدمرة، حينها هرب دوق فليد مستعينًا بجريندايزر العملاق إلى كوكب الأرض وعندما وصل تبناه رئيس مركز أبحاث الفضاء الدكتور آمون وأسماه دايسكي، وعملا جنبًا إلى جنب في المركز وأثناء رحلة اكتشاف ماهية الأجسام الغريبة الظاهرة في سماء المدينة باغتهم هجوم يثير ذاكرة دايسكي!",
+    "metaDescription": "Grendizer U أنمي 2024 | ضربت قوات فيجا كوكب فليد بهجمة مدمرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Grendizer U من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/232022"
+    }
+  },
+  "tmdb_id": 232022,
+  "tmdb_url": "https://www.themoviedb.org/tv/232022",
+  "original_title": "グレンダイザーU"
+}

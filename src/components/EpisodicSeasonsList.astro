@@ -1,0 +1,78 @@
+---
+import type { Title } from '../lib/types';
+import type { EpisodicKind } from '../lib/episodeRoutes';
+import { getNavigableEpisodeRouteForTitle, getSeasonRouteForTitle, sortedSeasons } from '../lib/episodeRoutes';
+
+interface Props {
+  title: Title;
+  kind: EpisodicKind;
+  activeSeason?: number;
+  activeEpisode?: number;
+  showAllEpisodes?: boolean;
+}
+
+const { title, kind, activeSeason, activeEpisode, showAllEpisodes = true } = Astro.props;
+const seasons = sortedSeasons(title);
+---
+
+<section class="glass-panel overflow-hidden">
+  <div class="border-b border-white/[0.06] p-4">
+    <h2 class="mb-3 text-lg font-bold text-white">المواسم والحلقات</h2>
+    <div class="flex flex-wrap gap-2">
+      {seasons.map((season) => (
+        <a
+          href={getSeasonRouteForTitle(title, kind, season.season)}
+          class={`rounded-xl border px-4 py-2 text-xs font-bold transition-colors ${
+            season.season === activeSeason
+              ? 'border-brand-400/60 bg-brand-500/20 text-brand-100'
+              : 'border-white/[0.06] bg-white/[0.04] text-gray-300 hover:border-brand-400/40 hover:text-white'
+          }`}
+        >
+          الموسم {season.season}
+          <span class="mr-1 opacity-75">({season.episodes.length})</span>
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <div class="space-y-5 p-4">
+    {seasons.map((season) => (
+      <div class={showAllEpisodes || season.season === activeSeason ? '' : 'hidden'}>
+        <div class="mb-3 flex items-center justify-between gap-3">
+          <h3 class="text-sm font-bold text-white">الموسم {season.season}</h3>
+          <a
+            href={getSeasonRouteForTitle(title, kind, season.season)}
+            class="text-xs font-semibold text-brand-300 hover:text-brand-200"
+          >
+            صفحة الموسم
+          </a>
+        </div>
+        <ul class="grid grid-cols-2 gap-2.5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+          {season.episodes.map((episode) => {
+            const active = season.season === activeSeason && episode.episode === activeEpisode;
+            return (
+              <li>
+                <a
+                  href={getNavigableEpisodeRouteForTitle(title, kind, season.season, episode.episode)}
+                  class={`group flex items-center gap-3 rounded-xl border px-3 py-2.5 text-sm transition-all ${
+                    active
+                      ? 'border-brand-400/60 bg-brand-500/20 text-white'
+                      : 'border-white/[0.05] bg-white/[0.03] text-gray-200 hover:border-brand-500/40 hover:bg-brand-600/15 hover:text-white'
+                  }`}
+                >
+                  <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-brand-600/30 to-neon-fuchsia/20 text-brand-300 transition-all group-hover:from-brand-500 group-hover:to-neon-fuchsia group-hover:text-white">
+                    {episode.episode}
+                  </span>
+                  <div class="min-w-0 flex-1">
+                    <div class="line-clamp-1 font-semibold">{episode.title}</div>
+                    <div class="mt-0.5 text-[10px] text-gray-500">تفاصيل الحلقة</div>
+                  </div>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ))}
+  </div>
+</section>

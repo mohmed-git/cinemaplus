@@ -1,0 +1,577 @@
+{
+  "slug": "haikyuu",
+  "clean_title": "Haikyuu!!",
+  "raw_name": "انمي Haikyuu!!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/haikyuu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/cqf8o98fp4c3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/r1avdj79ajg1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 986240,
+          "tmdb_still_path": "/uXQBduC3R6xRrmJY0QpR7UqHqtQ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/13ow7x5fe0pe"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4pmjnacuztup"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 986239,
+          "tmdb_still_path": "/8UWM0NV1Bw8sp2YIsrDUGehAeUv.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/xsvc1aukmlkd"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/su83j4s2lkfm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 986238,
+          "tmdb_still_path": "/qd7O61U0iETEsZu9SPvpfJVRru2.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/7ypn9ou9qazt"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7s2r95nso57k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 986237,
+          "tmdb_still_path": "/ffk2aAibQ4bAKAV6KHtjWzuGXzV.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/kdnbo1m02qa4"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/pj6b5dwv2sla"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 986236,
+          "tmdb_still_path": "/8N5BlKfwCUXa5C0kUwC9YcrXDru.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/rzkm1vg1o7u3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/qhm4pwcincd2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 986234,
+          "tmdb_still_path": "/cDCdZa9ccq87ITnKJpXLDO6sqeO.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/64t6i342aofq"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kyrldsgvjm3s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 986235,
+          "tmdb_still_path": "/vHgijLJ2RMfvlKLjrlQgcuO1wIz.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/c5lr5crru7e0"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/r2k87ksy40u9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 986233,
+          "tmdb_still_path": "/tksoLkxCHZcSGQlNjgr9jgKxzHY.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/8lyb03au4490"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3grvcaxz7ze2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 986232,
+          "tmdb_still_path": "/bpj7eLaTFDLNL54B3d5JO9VKfFk.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/67dttf094lcb"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ozyhdbwdxqax"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 986230,
+          "tmdb_still_path": "/ybUyyuuO9yLdTpb4NtwkDZUmMBF.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/yknwpftan6k2"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/t6226vvl9rpr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 986229,
+          "tmdb_still_path": "/ckUgE6cXhxsP8bXhtTooWglRGcf.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/24og4t7vw0kb"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4gh9roqja8iq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 986231,
+          "tmdb_still_path": "/vFBpwF6cG7wDXlS12gt3bSxeIB8.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/7ym4w1djssgc"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/r3mh3lop2enj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 986228,
+          "tmdb_still_path": "/7Z8vNCTomjQfq6zrq92LEveeHp.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5wlhts0si6lj"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/j8cgsz45ekin"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1003844,
+          "tmdb_still_path": "/3Pk6aN0EAs0ZMXsM3z3NIPF9v8B.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1zwaq3ojb3q1"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xd5suhtagjxc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1003845,
+          "tmdb_still_path": "/AfzcYUY9qSjh12wViBV7JSVzEMh.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/vbaoyxnunnc6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/mr4yjejxupka"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1003846,
+          "tmdb_still_path": "/wdaboZcierpzrQEnFpI1LFOw1V0.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/6gn2oz04h7jh"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/0j89stfhhrdc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-07-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1003847,
+          "tmdb_still_path": "/t7vPJIRiJQaHbxHbwNeVJHBljjd.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/5irpri4chzi3"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/4h8i9lz5000i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1003848,
+          "tmdb_still_path": "/5Qu4dL1zYC1Qvo3psAZ2ovVbLGo.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ysiqoxwbn526"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/vipgdfalfdoj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1003849,
+          "tmdb_still_path": "/5JuxpLBO46NFfgGNIwDDGhpf2We.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/wvi4i7nvdnwv"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/usz59n7rj17c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1010057,
+          "tmdb_still_path": "/snIaJs41WXlfk1aGiDBUfVF7Tvr.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/n7sk24lys7ez"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/b2vuofdlctpp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1010058,
+          "tmdb_still_path": "/vtSYSImfgmFhXEK8JHUALv0OAr1.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ccewexnlrnz6"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/jcwvbqt547nl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-08-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1010059,
+          "tmdb_still_path": "/b7IyrE6AKeCvciWhCjTM4qA4E1u.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1ko6r67pcqam"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/zts254ikjm9s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1010060,
+          "tmdb_still_path": "/vFRPqXutQl6ITFUTsSZAXpVw86b.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/ez5bbsan1rhy"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/yrcvhiv80dlb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1010061,
+          "tmdb_still_path": "/p0nVRpbUrtyEWkg2q6OkCbFelnR.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4wbnkzp3n9hi"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7ln7f8bvl9ks"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-09-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1010062,
+          "tmdb_still_path": "/2Yqkdn3BhKTaazBDsGsYMDjwGbm.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تدور قصة هذا الأنمي حول \"هيناتا شويو\" الذي يريد أن يصبح لاعب كرة طائرة محترف حينما رأى العملاق الصغير يلعب هذه الرياضة فأعجبه الامر وبدأ يتعلم هذه الرياضة ليدخل نادي للكرة الطائرة ويبدأ بطلنا قصته مع فريقه الشبه منسي الملقب بالغربان التي لا تطير (كراسنو) ويبدأ مع فريقه قصة السعي نحو البطولة والإنتر هاي في محاولة لإستعادة المجد.",
+  "url": "/anime/haikyuu",
+  "story": "تدور قصة هذا الأنمي حول \"هيناتا شويو\" الذي يريد أن يصبح لاعب كرة طائرة محترف حينما رأى العملاق الصغير يلعب هذه الرياضة فأعجبه الامر وبدأ يتعلم هذه الرياضة ليدخل نادي للكرة الطائرة ويبدأ بطلنا قصته مع فريقه الشبه منسي الملقب بالغربان التي لا تطير (كراسنو) ويبدأ مع فريقه قصة السعي نحو البطولة والإنتر هاي في محاولة لإستعادة المجد.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Ayumu Murase، Kaito Ishikawa",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "KhZG9Uw7PxM",
+  "rating": "8.6",
+  "imdb_rating": "8.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Haikyuu!!",
+    "mainDescription": "تدور قصة هذا الأنمي حول \"هيناتا شويو\" الذي يريد أن يصبح لاعب كرة طائرة محترف حينما رأى العملاق الصغير يلعب هذه الرياضة فأعجبه الامر وبدأ يتعلم هذه الرياضة ليدخل نادي للكرة الطائرة ويبدأ بطلنا قصته مع فريقه الشبه منسي الملقب بالغربان التي لا تطير (كراسنو) ويبدأ مع فريقه قصة السعي نحو البطولة والإنتر هاي في محاولة لإستعادة المجد.",
+    "metaDescription": "Haikyuu!! أنمي 2014 | تدور قصة هذا الأنمي حول \"هيناتا شويو\" الذي يريد أن يصبح لاعب كرة طائرة محترف حينما رأى العملاق الصغير يلعب هذه الرياضة فأعجبه…",
+    "highlights": "تم تحديث بيانات Haikyuu!! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/60863"
+    }
+  },
+  "tmdb_id": 60863,
+  "tmdb_url": "https://www.themoviedb.org/tv/60863",
+  "original_title": "ハイキュー!!"
+}

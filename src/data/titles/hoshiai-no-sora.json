@@ -1,0 +1,304 @@
+{
+  "slug": "hoshiai-no-sora",
+  "clean_title": "Hoshiai no Sora",
+  "raw_name": "انمي Hoshiai no Sora",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hoshiai-no-sora.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698086120011"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/kuz7t4ecq85n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1903086,
+          "tmdb_still_path": "/sSGNwpSm7R3oHi1i6Twjh51IZLi.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698089658955"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/s8kruk67iibl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1950092,
+          "tmdb_still_path": "/54JVL6IX268xkbUzRY3dQE93z0R.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698090969675"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/ag6xurfkorg0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1950093,
+          "tmdb_still_path": "/tYPH2rocMYJ2v7ZcSkFoaCnp9y.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698092804683"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hply33h6megf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1950095,
+          "tmdb_still_path": "/aotuoz763BjDuqQqzIozSMKOyhx.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698095557195"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/fi4yahemshks"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1950096,
+          "tmdb_still_path": "/3cjAmHfajRZRZJqUIkNHgGcZL8v.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698105190987"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/15mevebua7ev"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1950097,
+          "tmdb_still_path": "/ye9VuRU1WvFqohgETrN64Fex7Tu.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698106698315"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/3mjfthhxui8p"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1950098,
+          "tmdb_still_path": "/lqpFmamJmB5zVPWv2bqhQXmF1oR.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698112727627"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/jmc7gvicfuaq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-29",
+          "runtime": 24,
+          "tmdb_episode_id": 1950099,
+          "tmdb_still_path": "/1gWkV5PsiM6CvG9z6GmTJMIE0Wa.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698113841739"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/izzru1hksyng"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1950100,
+          "tmdb_still_path": "/qC5MqfBpuuKXAFY1zxA8KfkLfSm.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698116201035"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rvmuitscef33"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1950101,
+          "tmdb_still_path": "/9mj8KccPt3odengoFDouTkFkHPw.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698118036043"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/rurlhy6ek6sw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1950102,
+          "tmdb_still_path": "/wUMBFFd1w44sQ7CKuEb0cVZjuRm.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3698119281227"
+            },
+            {
+              "id": 2,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/vn3thhn7tqjl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-27",
+          "runtime": 24,
+          "tmdb_episode_id": 1950103,
+          "tmdb_still_path": "/tczhpZoeV0VKzs5gExwnQurApJt.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hoshiai no Sora ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Hoshiai no Sora حول رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. تمنح تصنيفات رياضي، مدرسي، دراما العمل نبرة واضحة، فهو يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "url": "/anime/hoshiai-no-sora",
+  "story": "يدور أنمي Hoshiai no Sora ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Hoshiai no Sora حول رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. تمنح تصنيفات رياضي، مدرسي، دراما العمل نبرة واضحة، فهو يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Gen Sato، Natsuki Hanae، Tasuku Hatanaka، Yoshitsugu Matsuoka، Toshiyuki Toyonaga، Yusuke Kobayashi",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": null,
+  "rating": "8.4",
+  "imdb_rating": "8.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hoshiai no Sora",
+    "mainDescription": "يدور أنمي Hoshiai no Sora ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Hoshiai no Sora حول رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. تمنح تصنيفات رياضي، مدرسي، دراما العمل نبرة واضحة، فهو يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+    "metaDescription": "Hoshiai no Sora أنمي 2019 | يدور أنمي Hoshiai no Sora ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hoshiai no Sora من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/92835"
+    }
+  },
+  "tmdb_id": 92835,
+  "tmdb_url": "https://www.themoviedb.org/tv/92835",
+  "original_title": "星合の空"
+}

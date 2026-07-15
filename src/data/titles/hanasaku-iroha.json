@@ -1,0 +1,468 @@
+{
+  "slug": "hanasaku-iroha",
+  "clean_title": "Hanasaku Iroha",
+  "raw_name": "انمي Hanasaku Iroha",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hanasaku-iroha.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/phkkj13e76g9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-03",
+          "runtime": 24,
+          "tmdb_episode_id": 880014,
+          "tmdb_still_path": "/7WFAnKFwgSuDNGwEceIgZOyFPSa.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/99za829ky2nz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-10",
+          "runtime": 24,
+          "tmdb_episode_id": 880015,
+          "tmdb_still_path": "/rctPVPX93E7ZUBLDXjso64et1PE.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/cneycdj0lyye"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-17",
+          "runtime": 24,
+          "tmdb_episode_id": 880016,
+          "tmdb_still_path": "/vnJ7h30zSPuBKGhdJ1zAQSGVAHq.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ddaqonrnyijo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-24",
+          "runtime": 24,
+          "tmdb_episode_id": 880017,
+          "tmdb_still_path": "/dQddpNI29Oz8GOJO55GPR7SpmAx.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/682hhuhhcua7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-01",
+          "runtime": 24,
+          "tmdb_episode_id": 880018,
+          "tmdb_still_path": "/75sOZa8Ka2dynXODl4DLLvCLKCk.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/hqpksh547q7e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-08",
+          "runtime": 24,
+          "tmdb_episode_id": 880020,
+          "tmdb_still_path": "/tmD9pC3GtItLnV8UMCOUz3ws0zM.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/v1tryp2hzvdm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-15",
+          "runtime": 24,
+          "tmdb_episode_id": 880019,
+          "tmdb_still_path": "/9xVVI5IrtqvdfkyYkdXX9y2ctc3.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/s10lk5dwg19q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-22",
+          "runtime": 24,
+          "tmdb_episode_id": 880021,
+          "tmdb_still_path": "/wbaNrbrHeTYzKpviN0NPFsCtlVl.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/bn8ubuo6bcx2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-05-29",
+          "runtime": 24,
+          "tmdb_episode_id": 880022,
+          "tmdb_still_path": "/vO8pprEr7X4wsS2CLhLfOcbu5xq.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qs8cpabcw8dn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-05",
+          "runtime": 24,
+          "tmdb_episode_id": 880023,
+          "tmdb_still_path": "/9TmR4eaJOYSVKVG2dPtDoS6ndUc.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7sxo7l8ryjm3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-12",
+          "runtime": 24,
+          "tmdb_episode_id": 880024,
+          "tmdb_still_path": "/m7hcuXDzKC2ar310viQxPen9CO1.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/5nf3zw6vi69t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-19",
+          "runtime": 24,
+          "tmdb_episode_id": 880025,
+          "tmdb_still_path": "/AnTCEqmGYDJNy21sLgdbCaD48FJ.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8r6hs9ujnirn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-06-26",
+          "runtime": 24,
+          "tmdb_episode_id": 880026,
+          "tmdb_still_path": "/AwMUC43DXgyf8GEOY1lLR7DEcA.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/0jghkripv5vz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-03",
+          "runtime": 24,
+          "tmdb_episode_id": 880028,
+          "tmdb_still_path": "/AhNLY0WeIzyLncx8vAwasvaOPqR.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ws7nke2emav9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-10",
+          "runtime": 24,
+          "tmdb_episode_id": 880027,
+          "tmdb_still_path": "/k3wFRpfq0EGh6e40pw1GDDm0erc.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/tcdhx6kyoj9n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-17",
+          "runtime": 24,
+          "tmdb_episode_id": 880030,
+          "tmdb_still_path": "/fXhVwemIBZFhAveX40e1Pb6mCbf.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/v2a4lmeafoqo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-24",
+          "runtime": 24,
+          "tmdb_episode_id": 880029,
+          "tmdb_still_path": "/4TIUeP8svMtbjzGbWCbTaIY7oMr.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/r1b04s4jvcuy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-07-31",
+          "runtime": 24,
+          "tmdb_episode_id": 880031,
+          "tmdb_still_path": "/eONAM0wZH06lNYKaaSqU1Cn4Gcu.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/b2zx0y3tjs83"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-07",
+          "runtime": 24,
+          "tmdb_episode_id": 880033,
+          "tmdb_still_path": "/uoj7yFLBf8LSCsUlPQkQ3R6EFYg.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xovwk86fy3ko"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-14",
+          "runtime": 24,
+          "tmdb_episode_id": 880032,
+          "tmdb_still_path": "/jopPxhpfLVno98npVKYrHHesGZA.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/15y3eqt0u0lz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-21",
+          "runtime": 24,
+          "tmdb_episode_id": 880034,
+          "tmdb_still_path": "/sFL7dTsbnrj3ehH2OyxvbZTRdYK.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/s5zgpwhr7kyx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-08-28",
+          "runtime": 24,
+          "tmdb_episode_id": 880035,
+          "tmdb_still_path": "/9sBlSeXdlGe8VX7aq0xz22xSkOr.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wvhxf0p0q6ix"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-04",
+          "runtime": 24,
+          "tmdb_episode_id": 880038,
+          "tmdb_still_path": "/drpIZaRBjcpAUDl85q66LRw8CuH.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/irzv727v2bjq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-11",
+          "runtime": 24,
+          "tmdb_episode_id": 880036,
+          "tmdb_still_path": "/rowEXS4bvDszkhmpR1qmmAFIhQg.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wb4q0q8s88gz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-18",
+          "runtime": 24,
+          "tmdb_episode_id": 880037,
+          "tmdb_still_path": "/fIOjB95eHX8SV70QFMiIBwtBGeY.jpg"
+        },
+        {
+          "episode": 26,
+          "title": "الحلقة 26",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/v2y9d0g21vdh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-09-25",
+          "runtime": 24,
+          "tmdb_episode_id": 880039,
+          "tmdb_still_path": "/m8ofAljRfq3apOr7699Td6XdXt3.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hanasaku Iroha ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 1 موسم و26 حلقة. تبدأ قصة Hanasaku Iroha من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف شريحة من الحياة، دراما، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hanasaku Iroha على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/hanasaku-iroha",
+  "story": "يدور أنمي Hanasaku Iroha ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 1 موسم و26 حلقة. تبدأ قصة Hanasaku Iroha من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف شريحة من الحياة، دراما، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hanasaku Iroha على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kanae Itou، Chiaki Omigawa، Aki Toyosaki، Haruka Tomatsu، Mamiko Noto، Yuki Kaji",
+  "genre": "أنمي، رسوم متحركة، دراما، كوميديا",
+  "trailerId": "XYvnsxzbepU",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hanasaku Iroha",
+    "mainDescription": "يدور أنمي Hanasaku Iroha ضمن أجواء رسوم متحركة، دراما، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 1 موسم و26 حلقة. تبدأ قصة Hanasaku Iroha من مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف شريحة من الحياة، دراما، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Hanasaku Iroha على CINMAPRO عبر 1 موسم و26 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Hanasaku Iroha أنمي 2011 | يدور أنمي Hanasaku Iroha ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hanasaku Iroha من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/42417"
+    }
+  },
+  "tmdb_id": 42417,
+  "tmdb_url": "https://www.themoviedb.org/tv/42417",
+  "original_title": "花咲くいろは"
+}

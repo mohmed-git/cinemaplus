@@ -1,0 +1,244 @@
+{
+  "slug": "tenkuu-shinpan",
+  "clean_title": "Tenkuu Shinpan",
+  "raw_name": "انمي Tenkuu Shinpan",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tenkuu-shinpan.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vSIIuDyYg2diLCZC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2478991,
+          "tmdb_still_path": "/4RzFKfg2EhKgvrFvIux7nCxGkma.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=dtZeUFNdB25EnxGr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755431,
+          "tmdb_still_path": "/ulxUI3K5wdu9BIRN8hGtS9FEVFn.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6r8wN2NTqwSjWmdg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755432,
+          "tmdb_still_path": "/zI2v70p1Y0UEHhzGHE7enOolEhy.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=MHFxiq6kWtigUAS7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755433,
+          "tmdb_still_path": "/mlLMp1pqOMWb9RITXlBobJrG5dJ.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=l1qZJ4KPpJuY8BnV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755434,
+          "tmdb_still_path": "/oMTYZqogneSpJZkErQvspALjxH5.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LpxYMbuKJj4m9r2y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755435,
+          "tmdb_still_path": "/opLDFVxSqjB2mXgMtE9VUrcIbZe.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=4599mpVkrXcdlvTK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755436,
+          "tmdb_still_path": "/4FEtTDxMpWUje6iC7pRnti9VSkd.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ijDttLQU33dv3gmR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755437,
+          "tmdb_still_path": "/b7mP0jO1xxfbUOChhbKFQaCdJzS.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=rho8ItLAmUjST2wk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755438,
+          "tmdb_still_path": "/outswOyiBbUFMG61dcoO5D2aYMf.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=9PaIOD4s5iPy7qbK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755439,
+          "tmdb_still_path": "/oJNplzlDGFVIp2WB8fYHhggIQlI.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=87xSHQAovaGHOeVd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755440,
+          "tmdb_still_path": "/5B69cBt9DfvdhU2SW0t1Vpb2psn.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=DCh6n15mtdHHfraG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2755441,
+          "tmdb_still_path": "/qmisH8j8lebDJh9Xh7AwizjYZbq.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Tenkuu Shinpan ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Tenkuu Shinpan من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، غموض، رعب يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Tenkuu Shinpan على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/tenkuu-shinpan",
+  "story": "يدور أنمي Tenkuu Shinpan ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Tenkuu Shinpan من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، غموض، رعب يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Tenkuu Shinpan على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Shiki Aoki، Junya Enoki، Akira Sekine، Yuuichirou Umehara، Haruka Shiraishi، Jun Fukuyama",
+  "genre": "أنمي، رسوم متحركة، غموض، حركة ومغامرة",
+  "trailerId": "A25xEmPNmBM",
+  "rating": "8.2",
+  "imdb_rating": "8.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tenkuu Shinpan",
+    "mainDescription": "يدور أنمي Tenkuu Shinpan ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Tenkuu Shinpan من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف أكشن، غموض، رعب يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Tenkuu Shinpan على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Tenkuu Shinpan أنمي 2021 | يدور أنمي Tenkuu Shinpan ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tenkuu Shinpan من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/112163"
+    }
+  },
+  "tmdb_id": 112163,
+  "tmdb_url": "https://www.themoviedb.org/tv/112163",
+  "original_title": "天空侵犯"
+}

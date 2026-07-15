@@ -1,0 +1,585 @@
+{
+  "slug": "mars-red",
+  "clean_title": "Mars Red",
+  "raw_name": "انمي Mars Red",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/mars-red.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/ihej5k056mzl7dr/%5BWitanime.com%5D%20MR%20EP%2001%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/dnjj4tx7g-162mn"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1NmptWwei5LOIv7EXbpBDiGrHwq-bifwl/preview"
+            },
+            {
+              "id": 4,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/UwpE2IwC#0YbfMz-3dunEYIu17dmR4tkGfZijr1Lj0_7op0lY6c4"
+            },
+            {
+              "id": 5,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/ygMbGZXaea"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-unph5se7j1o3.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2072032,
+          "tmdb_still_path": "/sExZX86KT4PqlP0WKvvtb8IhoEP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/nlhbwsham1wipzw/%5BWitanime.com%5D%20MR%20EP%2002%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-k223ipl7e4-qg5"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1BDX6sX1gz33rxA1voSl60_qvvI0cFQSl/preview"
+            },
+            {
+              "id": 4,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/p45WWAIA#Geb_NflVSHNs28S9NJhInQTm_3rcIkTxVAZZ4PMLmVQ"
+            },
+            {
+              "id": 5,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/OSVT4X8Mea"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-45lyjojbzu1o.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2836361,
+          "tmdb_still_path": "/rbadYPIMLEK1Dvo3YhyD4m3W569.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://www.dropbox.com/s/tumc43dhvhn0tla/%5BWitanime.com%5D%20MR%20EP%2003%20FHD.mp4?raw=1"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/5x001fdxqqjn67x"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1nvL2-anTMIN3_7WDJi2cNgYQdqIUdX2b/preview"
+            },
+            {
+              "id": 4,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/JhpkSAwJ#-OMuITkiWDwMPbn7WhturVguq_I5CKqcXKNttjf2nqM"
+            },
+            {
+              "id": 5,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/fmS7-qqyea"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kyu627hago40.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2836362,
+          "tmdb_still_path": "/oLvzW9mZtt7sanvllsXTsj49Gfo.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/8g6vd7ko2aebiwa/%5BWitanime.com%5D%20MR%20EP%2004%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adzz0qmw43"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1zN7auGAC9Y6WEh_KtUqHSnlagMKK8egN/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/ponHP8DAiq"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/bm5F2YLK#rLvxXIb2-Xdk7r18hikHNLa4HWcgfUw45Tan8B7gV8g"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-2xp2kk1dn7pa.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2836363,
+          "tmdb_still_path": "/vDuUFGLeUlVatuTLxQkOMZyWSNA.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/82bmwvnzci13be9/%5BWitanime.com%5D%20MR%20EP%2005%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/y1lp8texxr74kkn"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1MC9wHFjXl2J7doDBVwZoMwXfnfunLLvd/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/JC7S-5GVea"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/Ci43zI7L#YwGt7jupLdeoQIGXad6wXJ4BEc1VEZNkPszcbEX18m4"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-fvdnbte773yq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2836364,
+          "tmdb_still_path": "/cEoDTlvbEpWm01MyJSUfDnsRug0.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/f0g9045ch73e72e/%5BWitanime.com%5D%20MR%20EP%2006%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adzz0kky0e"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1ypIOwVzG4_foi9OenVg4__79Nyef-PmI/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/-Ye5d6ZWea"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/r7wHBIDC#P2RrgFFbmKzUcsKgIR8Mjdt_jsK9FFTTP1Uc-HnfEtg"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-d41g8ri504rl.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2889642,
+          "tmdb_still_path": "/pVgVh7lGMThmbzsTlpP2x7OQFHP.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/vvrmppcfwvibyrg/%5BWitanime.com%5D%20MR%20EP%2007%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/10278sj44y-2yll"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1xEQlf5n8zFsYUjoRMZm2e54tj9qiB0cj/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Qs5vtb7Kiq"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/Oqxl0AAZ#iA2JfCmZ0JlFbNEdcTCeWtjfbYUORxXW_VnPYbUludQ"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-lobmpt7rgonh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2889643,
+          "tmdb_still_path": "/h07xynqeOfrUTUukTGUaPd66WpS.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/dcaz11zcxjey2os/%5BWitanime.com%5D%20MR%20EP%2008%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/jy5z0adzz0dd14n"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1DfNC3Of4cK3eReNkHQ-MBGd_Sy2cYw5V/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/yHhwHfBOea"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/qi4xwSBA#_MfaoUF6U5GwB-rVWdRMFbq1WrIVesQ4vEpEOkL_MGY"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-as956azqzz0p.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2889644,
+          "tmdb_still_path": "/fTyHJhKjMHJLzDsc9Iqpx8iGzkU.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/5bldnhxj1mzm98k/%5BWitanime.com%5D%20MR%20EP%2009%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/-4mngtpddx-y6en"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1C3iLU4hcDeLfTuSsWPzVDbXBbQqSES68/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/tbQR0sa9ea"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/f7xjwSrI#cOKMoJw5pc-mGDbBn9gfYJjTjcU5GnJbpJNCzWQPsp4"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-xgnbvejn3dmy.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2889645,
+          "tmdb_still_path": "/hunTTUSDZbnIGi1xKKDiTCL0Q0B.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/pqms9fi9em5lx9p/%5BWitanime.com%5D%20MR%20EP%2010%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh244l7046q"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1EJ7BjAPYnjlmE15erNicjkUtN49aajwd/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/ydwF1mDDea"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/iiYnhCgI#rOclgpAsGKTiFiqS2fJSKHbRM2vuQXLPwg2ktdl4log"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-czpmwx57qwc6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2889646,
+          "tmdb_still_path": "/lWjwiRVUZnxi37JbjCyshJGegze.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/z25z00ml2ra0nnf/%5BWitanime.com%5D%20MR%20EP%2011%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/6zp1yt0rrd5j023"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1FWTqcYXmMA9k0QNngiz6SaB9HIyUwESG/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/QfkH3K9Dea"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/2jolxQQR#yCi3wV1oRCZ6qC-GtJmu6j6nNfZU6Vzra6ss04MOto4"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-n5j9j0ec4s3c.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2889647,
+          "tmdb_still_path": "/1i6cAnsTs20hxWrA7OMCJhyAnpF.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/ki74or39exneygt/%5BWitanime.com%5D%20MR%20EP%2012%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/nn5zkh244l36qlx"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1COia_4Br3N2myky31hWtrNT8IbPDcnIn/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Jgam9zyViq"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/S3J11YRY#OAlAOv8DIrlk6r51lkhRmn-M4IwbiGHEW-qQs_yJSm0"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kon75pkli9av.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 2889648,
+          "tmdb_still_path": "/c8XV26WZktXdFSAS4Fm6Tx1lzuR.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dropstream - FHD",
+              "url": "https://dl.dropboxusercontent.com/s/li7eev950ibygio/%5BWitanime.com%5D%20MR%20EP%2013%20END%20FHD.mp4"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://suzihazarpc.com/v/g5-76b-881wwp53"
+            },
+            {
+              "id": 3,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/16jOmleB6CjFA7i_GTblK2GOXgq5xRwrw/preview"
+            },
+            {
+              "id": 4,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Ud_45KtEiq"
+            },
+            {
+              "id": 5,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/vrYViKQK#pl_LGKApg9MVuCZYcJJzPbE4z3H0MwFPg8_lb3SPGPk"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-pv96ta6hgkkh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2889649,
+          "tmdb_still_path": "/q62hbpDl1vmPUgyE1ibNqub3cuV.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Mars Red ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. في أنمي Mars Red تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، عسكري، تاريخي، خارق للطبيعة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/mars-red",
+  "story": "يدور أنمي Mars Red ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. في أنمي Mars Red تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، عسكري، تاريخي، خارق للطبيعة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tasuku Hatanaka، Junichi Suwabe، Koichi Yamadera، Akira Ishida، Hiroshi Yanaka، Kenichi Suzumura",
+  "genre": "أنمي، رسوم متحركة، غموض، خيال علمي وفانتازيا",
+  "trailerId": "uy01fhm3tMI",
+  "rating": "6.7",
+  "imdb_rating": "6.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Mars Red",
+    "mainDescription": "يدور أنمي Mars Red ضمن أجواء رسوم متحركة، غموض، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. في أنمي Mars Red تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، عسكري، تاريخي، خارق للطبيعة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Mars Red أنمي 2021 | يدور أنمي Mars Red ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Mars Red من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/99099"
+    }
+  },
+  "tmdb_id": 99099,
+  "tmdb_url": "https://www.themoviedb.org/tv/99099",
+  "original_title": "MARS RED"
+}

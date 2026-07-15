@@ -1,0 +1,424 @@
+{
+  "slug": "hortensia-saga",
+  "clean_title": "Hortensia Saga",
+  "raw_name": "انمي Hortensia Saga",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hortensia-saga.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/dtJKeA5syRjhv/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/dtJKeA5syRjhv/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/84tomxvi8onq"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/1cfvl8hqorv6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-07",
+          "runtime": 23,
+          "tmdb_episode_id": 2310002,
+          "tmdb_still_path": "/aquOO2vczqcLCkLWHloQdoczu1Y.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/axK1ER5fTlBMj/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/axK1ER5fTlBMj/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/4x7mtxur1byz"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/vf0zvrs2a5td"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-14",
+          "runtime": 23,
+          "tmdb_episode_id": 2620926,
+          "tmdb_still_path": "/S1dh5HjpM8pjhHhPW5mKRGI28w.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/B2MmW491HpyiC/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/B2MmW491HpyiC/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/62k3649xion6"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/evq128388h2o"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-21",
+          "runtime": 23,
+          "tmdb_episode_id": 2639443,
+          "tmdb_still_path": "/xtQ3kVIRjMVgHoZzprd9wW1164u.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Ol3qSQcYm6bWK/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Ol3qSQcYm6bWK/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/mw6r5eg0vjeh"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/by291t61ec45"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-28",
+          "runtime": 23,
+          "tmdb_episode_id": 2664704,
+          "tmdb_still_path": "/iQZLbnruPkKSjY4IMrvnGOEM9sy.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/HEUdJegnfBwuG/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/HEUdJegnfBwuG/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/acr2gg8qldmt"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/xq1a7qidfh7q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-04",
+          "runtime": 23,
+          "tmdb_episode_id": 2684325,
+          "tmdb_still_path": "/mir0gXMGBWmp4G3mlSz1yIIgfil.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/y1XR7JQatYgkp/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/y1XR7JQatYgkp/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/pngipxsgom4u"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/dudbbsjy4djo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-11",
+          "runtime": 23,
+          "tmdb_episode_id": 2684326,
+          "tmdb_still_path": "/m7IliXH3YydEls5VSUQFFwxIpB6.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/2f0X8x5MCdnp1/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/2f0X8x5MCdnp1/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/zkaxp92i5wiw"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/v8k2ag3wljmt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-18",
+          "runtime": 23,
+          "tmdb_episode_id": 2684327,
+          "tmdb_still_path": "/tKVFsGmiv3650HPBBCShHbW4KpK.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/cB6fTWF1n9OUd/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/cB6fTWF1n9OUd/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/23ua0o82cfkx"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3wh1anwbtdae"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-25",
+          "runtime": 23,
+          "tmdb_episode_id": 2684328,
+          "tmdb_still_path": "/RQhGOGeCCbAyfMGKcZ28Ifbhss.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/Xl0mjBeES3o82/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/Xl0mjBeES3o82/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/90uv256onq0o"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/7pms3gpwc1f6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-04",
+          "runtime": 23,
+          "tmdb_episode_id": 2684329,
+          "tmdb_still_path": "/yPg6UcHElxCWhrUuGHMeltV1VEw.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/AQdM6qyvCz5bR/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/AQdM6qyvCz5bR/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/qd2j8c5zeyru"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/oijtlk7lz16y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-11",
+          "runtime": 23,
+          "tmdb_episode_id": 2684330,
+          "tmdb_still_path": "/yWcNhHEFkn1Wr3s0F2SC1MRjFEv.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/dwN5UoWPVuBMQ/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/dwN5UoWPVuBMQ/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/s2z47kd69bnk"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/c9tkkzwvvk4b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-18",
+          "runtime": 23,
+          "tmdb_episode_id": 2684332,
+          "tmdb_still_path": "/A74yK9CssjQyTX73khs2qSLqzEE.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "soraplay - FHD",
+              "url": "https://soraplay.xyz/embed/mtBEuGNS4eCoY/"
+            },
+            {
+              "id": 2,
+              "label": "multi server - FHD",
+              "url": "https://soraplay.xyz/embed/mtBEuGNS4eCoY/mirror"
+            },
+            {
+              "id": 3,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/hyw82q1huj1h"
+            },
+            {
+              "id": 4,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/n0ymuxyqlglp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-25",
+          "runtime": 23,
+          "tmdb_episode_id": 2684333,
+          "tmdb_still_path": "/vdXprDRWHzmTOSScI4m82a6Zm1V.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hortensia Saga ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Hortensia Saga على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، مغامرات، سحر، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/hortensia-saga",
+  "story": "يدور أنمي Hortensia Saga ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Hortensia Saga على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، مغامرات، سحر، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kenjiro Tsuda، Aya Uchida، Yuuichirou Umehara، Reina Ueda، Yui Horie، Yoshimasa Hosoya",
+  "genre": "أنمي، رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "gNbaDoIxaB0",
+  "rating": "5.4",
+  "imdb_rating": "5.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hortensia Saga",
+    "mainDescription": "يدور أنمي Hortensia Saga ضمن أجواء رسوم متحركة، غموض، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Hortensia Saga على صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، مغامرات، سحر، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Hortensia Saga أنمي 2021 | يدور أنمي Hortensia Saga ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hortensia Saga من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/104852"
+    }
+  },
+  "tmdb_id": 104852,
+  "tmdb_url": "https://www.themoviedb.org/tv/104852",
+  "original_title": "オルタンシア・サーガ"
+}

@@ -1,0 +1,304 @@
+{
+  "slug": "black-lagoon",
+  "clean_title": "Black Lagoon",
+  "raw_name": "انمي Black Lagoon",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/black-lagoon.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1jxu7s35p2ii"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/mpcrzgdht4bb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 484354,
+          "tmdb_still_path": "/7DVDlStmXQK5R27adCLatIuC5Qx.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/y0cglyan0hwz"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/jz7v9e8c8w2x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 484343,
+          "tmdb_still_path": "/nFzizZkCuo2hdfUNsAti24m4GTd.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/1dcwa3685nie"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/jutqgyaugt5s"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 484344,
+          "tmdb_still_path": "/p8ThByuQLQJy3Hq13Oj2LcwojFQ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/qqcc0qlpm2uo"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/3u5nnobwjt6q"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 484345,
+          "tmdb_still_path": "/2MEgMrE261fdoxZLpzu2uef5xqN.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/cppbmyz03ndn"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/ua7rtdnc6pvr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 484346,
+          "tmdb_still_path": "/h68sRIkNpCImoAioz0D1gZbuIcI.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/uyu4b8ce2f8u"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/kjrx8ra6f14u"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 484347,
+          "tmdb_still_path": "/vLRJFjIK4a8CCFjmQPIHj0dXuJc.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/gny4wqy6uzok"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/linipb00ykum"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 484348,
+          "tmdb_still_path": "/bD7ySetZgvAP2xGS5LaKuyj491E.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/jimo2k2wua2v"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/75zetlnd0r2r"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 484349,
+          "tmdb_still_path": "/q4DyEkvkBsk1RfKPGjwhMomaAkd.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/y5ae94u20k7m"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/h530jn2yvbhs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 484350,
+          "tmdb_still_path": "/uM5b0NW5fpNaesdpX3Z6bwufI51.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/pekob1kjqynu"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/mruamus319o3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 484351,
+          "tmdb_still_path": "/yxmzED47OMDnevQB3xAqqVOsUyd.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/9gv48n7us9me"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/op4p2nh43n7x"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 484352,
+          "tmdb_still_path": "/dISh8BnFP9YMy4lfqjx4pxf2HAv.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "playerwish - FHD",
+              "url": "https://playerwish.com/e/9ar867wloo5i"
+            },
+            {
+              "id": 2,
+              "label": "luluvdo - FHD",
+              "url": "https://luluvdo.com/e/v74qp3qq57b6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2006-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 484353,
+          "tmdb_still_path": "/31HFgaiwvuRVVuYobNLOEREy65f.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "تتبع القصة فريقًا من مرتزقة القراصنة المعروفين باسم شركة لاجون ، الذين يقومون بتهريب البضائع داخل وحول بحار جنوب شرق آسيا في أوائل إلى منتصف التسعينيات.  تقع قاعدة عملياتهم في مدينة رونابور الخيالية المرفئية في جنوب شرق تايلاند بالقرب من حدود كمبوديا.",
+  "url": "/anime/black-lagoon",
+  "story": "تتبع القصة فريقًا من مرتزقة القراصنة المعروفين باسم شركة لاجون ، الذين يقومون بتهريب البضائع داخل وحول بحار جنوب شرق آسيا في أوائل إلى منتصف التسعينيات.  تقع قاعدة عملياتهم في مدينة رونابور الخيالية المرفئية في جنوب شرق تايلاند بالقرب من حدود كمبوديا.",
+  "year": "2006",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Megumi Toyoguchi، Daisuke Namikawa، Tsutomu Isobe، Hiroaki Hirata",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، دراما، جريمة",
+  "trailerId": "JsL9vhMfyrs",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Black Lagoon",
+    "mainDescription": "تتبع القصة فريقًا من مرتزقة القراصنة المعروفين باسم شركة لاجون ، الذين يقومون بتهريب البضائع داخل وحول بحار جنوب شرق آسيا في أوائل إلى منتصف التسعينيات.  تقع قاعدة عملياتهم في مدينة رونابور الخيالية المرفئية في جنوب شرق تايلاند بالقرب من حدود كمبوديا.",
+    "metaDescription": "Black Lagoon أنمي 2006 | تتبع القصة فريقًا من مرتزقة القراصنة المعروفين باسم شركة لاجون | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Black Lagoon من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/12598"
+    }
+  },
+  "tmdb_id": 12598,
+  "tmdb_url": "https://www.themoviedb.org/tv/12598",
+  "original_title": "BLACK LAGOON"
+}

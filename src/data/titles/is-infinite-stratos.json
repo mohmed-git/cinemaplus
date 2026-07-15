@@ -1,0 +1,364 @@
+{
+  "slug": "is-infinite-stratos",
+  "clean_title": "IS: Infinite Stratos",
+  "raw_name": "انمي IS: Infinite Stratos",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/is-infinite-stratos.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433834551883"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/11a0GowkTf6Ian4eKzqpwSD30Sv5LybKd/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/40WD4Zrwiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-01-07",
+          "runtime": 24,
+          "tmdb_episode_id": 906257,
+          "tmdb_still_path": "/lEc2W4ayT0QYrBuCROBTiltPiLM.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433856113227"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1lxiql7s8RUod1XNNKKI9RFchu5ktSXqX/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/75fE1PH1ea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-01-14",
+          "runtime": 24,
+          "tmdb_episode_id": 906255,
+          "tmdb_still_path": "/kyS77pEuHu4aFbB9MuWvFzXUUIb.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433862011467"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/12qUIfGxHSkQl2V-Ut6Mu6u6sK15Rq5uL/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/h8Cm8kDhiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-01-21",
+          "runtime": 24,
+          "tmdb_episode_id": 906256,
+          "tmdb_still_path": "/qkqg20v9i7JqxlrIbHSfbIpogPp.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433867975243"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1tXF6hnO5zGI_5g90l95sXg-k5dAP2t74/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/ijd_UW5Jea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-01-28",
+          "runtime": 24,
+          "tmdb_episode_id": 906258,
+          "tmdb_still_path": "/twrN16HsITk5wF4bureULKph77F.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433964247627"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1EXUiagV6HUogXmWsuef5N7OcRdrqjFC0/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/E3lGXOGKiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-02-04",
+          "runtime": 24,
+          "tmdb_episode_id": 906259,
+          "tmdb_still_path": "/ax3JYIGjclfq4frsRXX97tVQsBu.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433968573003"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1pNnmzRmDmjdsUmr5FAXuLPrQ64aOXN-g/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Ao0QcuZyea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-02-11",
+          "runtime": 24,
+          "tmdb_episode_id": 906261,
+          "tmdb_still_path": "/bmIf7IFLp94w3359YHDxwuqWKGe.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433972111947"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1eR1FLI5kxOPE2PD9VIkZVeD4_cxdqoW4/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/nrcmtLlTea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-02-18",
+          "runtime": 24,
+          "tmdb_episode_id": 906262,
+          "tmdb_still_path": "/hcMaGlXmys4J4eEJuZcIChO0Ka1.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433975978571"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1kG_VIzg8uH6xyruGSalsUm2zUmH8-2Ev/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/pfVg6j62iq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-02-25",
+          "runtime": 24,
+          "tmdb_episode_id": 906260,
+          "tmdb_still_path": "/g9d2OvmqlLNSBjLbwRAyYbRedME.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433979255371"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1BlGmADqTgNpy-V6oluT3PANRtF6xd-K7/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/j1KrK4CHea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-03-04",
+          "runtime": 24,
+          "tmdb_episode_id": 906263,
+          "tmdb_still_path": "/hYDeyxRAYRro4CsoskaJwvRWYfo.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433982859851"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1u7ApFJRJ6E4ExNWVkSrhvwhqIKxi-1W-/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/96xNHsIaiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-03-11",
+          "runtime": 24,
+          "tmdb_episode_id": 906265,
+          "tmdb_still_path": "/3UAXOVpyvZUuzyocch1xJH58FTY.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433985350219"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1X_PW9Q--w4useVG6-93OW6Yn9Arl-Y0H/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/NXRKwHXTiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-03-25",
+          "runtime": 24,
+          "tmdb_episode_id": 906266,
+          "tmdb_still_path": "/qVCDl82aVVUuRAqxJj20bE7ndrr.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2433990068811"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1U1VVG5IZGPT-ykcQ6TrGrtqttQOPn-pt/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/PkHXmZulea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2011-04-01",
+          "runtime": 24,
+          "tmdb_episode_id": 906264,
+          "tmdb_still_path": "/4Zgrl5wGEgFMdohjkPDza1ZZpYS.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي IS: Infinite Stratos ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. تبدأ قصة IS: Infinite Stratos من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال علمي، حريم، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/is-infinite-stratos",
+  "story": "يدور أنمي IS: Infinite Stratos ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. تبدأ قصة IS: Infinite Stratos من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال علمي، حريم، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2011",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Koki Uchiyama، Yoko Hikasa، Yukana، Asami Shimoda، Kana Hanazawa، Marina Inoue",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "3VpielCeK7Y",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "IS: Infinite Stratos",
+    "mainDescription": "يدور أنمي IS: Infinite Stratos ضمن أجواء حركة ومغامرة، رسوم متحركة، كوميديا، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2011، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. تبدأ قصة IS: Infinite Stratos من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال علمي، حريم، كوميدي، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "IS: Infinite Stratos أنمي 2011 | يدور أنمي IS: Infinite Stratos ضمن أجواء حركة ومغامرة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات IS: Infinite Stratos من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/46025"
+    }
+  },
+  "tmdb_id": 46025,
+  "tmdb_url": "https://www.themoviedb.org/tv/46025",
+  "original_title": "IS＜インフィニット・ストラトス＞"
+}

@@ -1,0 +1,1401 @@
+{
+  "slug": "cue",
+  "clean_title": "Cue!",
+  "raw_name": "انمي Cue!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/cue.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3419054082635"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/T15jRZZfea"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/I4tHDa4C#5Tvpp87LPTNTE8qYoNnQ5LgG00j9BSsUM6gFm3B1hOc"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1is5hTahJXXIJHe8onTB4_XIjv-_vLVru/preview"
+            },
+            {
+              "id": 5,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/6qd01s0nyygz3z2"
+            },
+            {
+              "id": 6,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/74vqs6jzqyqa"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-mg483qgf2e7m.html"
+            },
+            {
+              "id": 8,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/ezp25h-2pp1nz-2"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3419083901515"
+            },
+            {
+              "id": 10,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/10i5BM2cy1qIG2xbUhwRcDWYmpePUhxI2/preview"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2486957,
+          "tmdb_still_path": "/bSzEjxFUlM1wIlEbHFKF4fq4Eh9.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3435409771083"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/-bOx7qPzea"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/SO5EmBwZ#xukrp_AW_0Lx5PYYT7YFJT8za7dsqmiZmqLPuSg-V84"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1teAy8L8xv41hxGqwaZnqoPjtUAsTZ6DN/preview"
+            },
+            {
+              "id": 5,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/2d34pb26-2egzm6"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ax1bikf3r29k.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3435430152779"
+            },
+            {
+              "id": 8,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/8yrpmh8158j-1m0"
+            },
+            {
+              "id": 9,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1Cky6cFA9z1P7kHiMri6ByQqmCeDn_Y7U/preview"
+            },
+            {
+              "id": 10,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/PJ9svfiGiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 3416384,
+          "tmdb_still_path": "/owAFHKKGX0xv6nb6JRsSXB02nXB.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3452803680843"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/CK6bDi-piq"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/ogtyXaiL#c2xwsnCTlLIE8UI4xMVMZ8oXhH97tTgLz2j-DbOs4Dc"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1TZJgG4nkfCB7GplLdx1CIOQioDxwmLKY/preview"
+            },
+            {
+              "id": 5,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/zdq76bj45zmgd-y"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ndaarx5owemf.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3452815870539"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1GCxU3tds35ONtDhqUMM6FZNqCnmdcNnK/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/EscEhDKC#C18jiG1bNgIV3lBo1M-GTfTj6k8Fx2Wr7D-SLifqzQ4"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-wzaohs9m3i15.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 3416385,
+          "tmdb_still_path": "/l8wWDhmniDf80RiBfwEvCoelXYq.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3469161466443"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/V3t0r7i8iq"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/JtcVmChA#Yj2S9cSr2JGztHAZEbH1ge-hr15f-kfnB8I_TOYlegA"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/12SWCARfacX2gAi6S7_DBUBNzHee70Pgh/preview"
+            },
+            {
+              "id": 5,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/d1rkebxknj3xx8g"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-ycdz8cq3v7me.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3469173918283"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1v5t5YPVQzMSVPzwSPstEU9deUfgQP5bW/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/AoMiBbJT#Bp-mB8wUv0C44LZ-99DmQuimxbgPU53FekA9QInFw5A"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-9ozy8cr6v4ci.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 3416386,
+          "tmdb_still_path": "/ZqR6qE2zxiVcSn81JKjPBxR5dU.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3485339945547"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/Y1k4ndt9ea"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/odRhAKYb#GYMWktvQbZIFuONGXhTMiv08X033uzpgn3yXRqy7km0"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1ZwVM2kAkc917jzsjkGHgtGaMQ5XVFOLG/preview"
+            },
+            {
+              "id": 5,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/16z37cj4nwpnd7p"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-d8gvrk9sho6q.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3485378021963"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1XgXVc2kM_hIKw82RImTD64Z3eVaD5cG0/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/FcwQwLyA#xwDn8YvlnDTmsxKesLf95AcdvQQgVQ8a3sKFJbPDEZg"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-ns2atoub8pfj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3416387,
+          "tmdb_still_path": "/hKE75FfUZY8SVO9qnZdPi5h8dEu.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3502214744651"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/wq4y7BTiiq"
+            },
+            {
+              "id": 3,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/18nWQTRnyosh16GKHIDKipcdHII89L_R0/preview"
+            },
+            {
+              "id": 4,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/p1ey6bmq75-ldlw"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-z3lqjd59ikqt.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3502226606667"
+            },
+            {
+              "id": 7,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1s4NxibHBINBZu-8K30Qe_vbBCqicd1ob/preview"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-nxbsrcergg97.html"
+            },
+            {
+              "id": 9,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/p1ey6bmq75z862x"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3502238009931"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3416388,
+          "tmdb_still_path": "/8mlU78Zljx9HQUMhGcDVdmbve98.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3518498867787"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/HaTucNo6iq"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/y0MQnLQJ#HNw0PpVixYoII9A-Eq9bOfty-_pmnQo2la9ZciFpPWU"
+            },
+            {
+              "id": 4,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/m6ly7c5wmw0zrpm"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-qetgn809rdjq.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3518517021259"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/XoNUiR7L#tuk-j4vLXmFJcaV3k_rK_4KpQ-vT7pOskJUgtjuWPwg"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-yty9dyl2y95o.html"
+            },
+            {
+              "id": 9,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/kwly3h32e2prkwr"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3518533012043"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3416391,
+          "tmdb_still_path": "/wRVOzjqclFCRovc5nR4DSGVFPX3.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3536577366603"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/XsE9etp6iq"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/2gtEzJgD#cPoFcizKimyJjSR6TJgIv-34GMr-s8x74eTDXbHbvcc"
+            },
+            {
+              "id": 4,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/qzlyqhe5gy53x62"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-upibg0o6dqdn.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3536590670411"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/q81VUQgJ#oAMMMpq24BjzjoMdh5jUK_Oodv5zjlOGS9eoJ-zR7r8"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-aki6las83f94.html"
+            },
+            {
+              "id": 9,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/rqly5sergj05g5x"
+            },
+            {
+              "id": 10,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3536598403659"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 3416392,
+          "tmdb_still_path": "/kQDKf7ad3UDgF2QEHeaHlzpbSbb.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3554295941707"
+            },
+            {
+              "id": 2,
+              "label": "4shared",
+              "url": "https://www.4shared.com/web/embed/file/ntoDFHQGiq"
+            },
+            {
+              "id": 3,
+              "label": "mega",
+              "url": "https://mega.nz/embed/G4sVHI7J#QPRAUrmZn9bMvdAUrJ_ilNdj6Scw7nQyFxTOHC_Mkzw"
+            },
+            {
+              "id": 4,
+              "label": "google drive",
+              "url": "https://drive.google.com/file/d/1DNBv0E5D-sMzsavQ7VGBavLVCt4jb5rK/preview"
+            },
+            {
+              "id": 5,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/zdq76bj4xxgxx--"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-vrsmbhrf1f59.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3554308655691"
+            },
+            {
+              "id": 8,
+              "label": "google drive - SD",
+              "url": "https://drive.google.com/file/d/1-Ekf-1Ua0jH79mjf-IH6Imh8XMzfLHFy/preview"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/e0EGVZwa#Q8GGnmtwOHL9ipWjsHLz6uEIrKxQPRrc6-MjpLdZSx8"
+            },
+            {
+              "id": 10,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-z5808eb7205r.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 3416394,
+          "tmdb_still_path": "/4J7Eiz8a4nMi7daX3TyZLGJ1ZZM.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3573706721867"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/8yrpmh814j73r2r"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/gicdhfobveov"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-k86qajsiklss.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3573740079691"
+            },
+            {
+              "id": 6,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/ndlyzb24nyjx11p"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-1ydl0muzw43d.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 3416395,
+          "tmdb_still_path": "/bKeclLGZ4673CzH4TVglR7lBzO8.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3593853995595"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/x3q4mc5j6wy436j"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/i5vtzd3ohgej"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-gb4je23n5xn0.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3593913502283"
+            },
+            {
+              "id": 6,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/2d34pb26zl71k53"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-9v9owmlcpf0w.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3593920776779"
+            },
+            {
+              "id": 9,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/u9FC2ZjQ#h2Ikx-l8GudN3-g52PXi-TBanabJrAY3N8gd4T8M7Gg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 3416396,
+          "tmdb_still_path": "/yeOYcmUWQAUraqw0XptlQtQMwJN.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3613783951947"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/16z37cjwgxywlke"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-8ea717zew5de.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3613802891851"
+            },
+            {
+              "id": 5,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/p1ey6bmrnw3p6qp"
+            },
+            {
+              "id": 6,
+              "label": "upvideo - FHD",
+              "url": "https://upvideo.to/e/4bhzegccrs88"
+            },
+            {
+              "id": 7,
+              "label": "dstream - FHD",
+              "url": "https://dood.so/e/nniqk7qtfwovop9tcyd5gky8q26eq11s"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-al7h5fw506h4.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3613794896459"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 3416397,
+          "tmdb_still_path": "/zYN97lMeiNePWidxobkR074lm0n.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3647393499723"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/2d34pb2xkng8gen"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-46d4x0ban0ic.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3647405099595"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/RnwUBJQJ#1u2WlOMquwTwjHB68qf1OUhMGzUdo_tWv8fsYPjxbe8"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-kjcpkwrl8xcn.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3647415716427"
+            },
+            {
+              "id": 8,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/jn2-zcd-1png2j8"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rhdlsohuc0k6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 3437196,
+          "tmdb_still_path": "/yQax4srkuXTIWmloslJvxx4Kw4J.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3663023966795"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/l3ln1cn-zemendr"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-h58vbxjkx9g0.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3663035238987"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/QvpSiKSL#otLvlKfersqTOFV2JokwThvhnWbAyVRPYd9y4HRLZgk"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-vhzyh3gbxs49.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3663040875083"
+            },
+            {
+              "id": 8,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/qzlyqheqw8r676e"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-pwwax2o00945.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 3437197,
+          "tmdb_still_path": "/tGxLcuKqRyaYbrp5HNat9TirnLc.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3679992351307"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/kwly3h3kmnk63d4"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-lzmxtf3qmvc4.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3680003164747"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ElUwSZRR#UDY9c0I1JH4sWg-0SkGKTyMqOwrFELlNaEVUdOi6le8"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-krutibl7lvdw.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3680008604235"
+            },
+            {
+              "id": 8,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/03k50clp8637xpr"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kt1vkl8h9im5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 3437198,
+          "tmdb_still_path": "/pEt1ORJ14Sp27VzJrKeyQ9ySHqd.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3697656269387"
+            },
+            {
+              "id": 2,
+              "label": "yuiplay",
+              "url": "https://suzihazarpc.com/v/y6q2pcedppx001j"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-nvmm543sp1qy.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3697666493003"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ou52XB7b#P-a_2rm56OywRnuEW-VG-jEIQXm6UnYv-ZrPFS078yU"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-b5drhe9ux4qb.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3697670163019"
+            },
+            {
+              "id": 8,
+              "label": "yuiplay - FHD",
+              "url": "https://suzihazarpc.com/v/l3ln1cn-3364z6p"
+            },
+            {
+              "id": 9,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-shnu9s5187fv.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 3437199,
+          "tmdb_still_path": "/fSbvyXo1MwvYRudan8r04BRPelj.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3713971063371"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/lqe7c2tuj3xu"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-twlmj8qfph21.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3713981352523"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/JjRh1RaI#ypQF6hukmT3hUWWAxsqQ1LuOGGPR-HAIQNY1WVU_2ds"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-4xymc3vb6j53.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3713985088075"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-htfah8y4a9pt.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 3437200,
+          "tmdb_still_path": "/zlZrx0g7mU51lVuW9xR2wcAgWBT.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3731215551051"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/e9i1uccbaekh"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-xh4pwt1j897a.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3731241372235"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/k34ClLwB#oBMLknkRrZhs-T2sPJpouUB-nmW8Wx_1BJ2BY8dx61M"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-ovsy4fpj294l.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3731256379979"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-zguole06yuyj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 3437201,
+          "tmdb_still_path": "/we8m99CXU6Wgcq7hwqxSZ1WXDYR.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3747898198603"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-evr5hxfxt169.html"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3747908487755"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BP1XHYiL#TyTUwM1-BYbzbMIVZaANozWZoxpGbNdSsyWbyHGn790"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-kyxvmxef2jlj.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3747912616523"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-cqu741qb3lwh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 3437202,
+          "tmdb_still_path": "/nr95lKeQGvkerom6ptnfypU1Yf9.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3763378063947"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/p0to4dtannlk"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-l9v15y9pc8k6.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3763385731659"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/VT9mlbTC#zOdZG_4Jt-YzYBAErfgQucwBUKLZWxrh-OHnd2sNos8"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-nrky3a8fj5c1.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3763398117963"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-oy58ebh4uwrj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 3437203,
+          "tmdb_still_path": "/lvIfCWCS4Wuk5yepEQZe4LShUAQ.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3783085460043"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/xy6eceudeu89"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-kbjn7fc4otuv.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3783109053003"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Ae1CRQDQ#ErPawr7ctdRrLBte9hWBFl0F8O6UdsT9nt8aSl9PMfo"
+            },
+            {
+              "id": 6,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-6jeycmk6y6cp.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3783123995211"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ad5r12b52h83.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3437204,
+          "tmdb_still_path": "/4EAe3Yim2hH4Pg7N7OiwwVLWnQz.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3804898921035"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/hikcrdp5r14j"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/yz54bgulc8s9"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-83dydyd5rv2h.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3804917729867"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0uR1iBiC#tNFUPJp7ufWNBvDsv98eE5H6Z4htn-Gxq0OcV6OfROw"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-l4z21khinp7h.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3804932082251"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/2b5ghczdquq9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 3437205,
+          "tmdb_still_path": "/dNBCt8WsKJKuqrVfEvfUUNAY2Vm.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3827929451083"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/pmlyk2tmiryx"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/dfwav6rm3zjz"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/uj8oqdm36ecm/"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-m2ykip96f8kl.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3827944458827"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0bdQQIwS#6AvaOgzkXeCnGLhffwGaFIgBqnNknF6rajm22i3G0yQ"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-5kk5mdm8b4n8.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3827950619211"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 3437206,
+          "tmdb_still_path": "/3MLAhrOpuDLeuKZod1mFKHu7CEh.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3854890043979"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/2usxsqe1ynak"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/jgalvnchq8db/"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-e82qmo5c5tbr.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3854907476555"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UKshDSiD#YSBV1OZ3B0wYHTSJ97NewVS__yoa7JuEq5sAJDEyGnQ"
+            },
+            {
+              "id": 7,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-vnu7t7iprrzd.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3854912195147"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/obvbewlgmbgt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 3437207,
+          "tmdb_still_path": "/9u1JKZewXnqayQYzHxE9NbDMRd2.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Cue! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Cue! حول حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Cue! على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "url": "/anime/cue",
+  "story": "يدور أنمي Cue! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Cue! حول حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Cue! على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yurina Uchiyama، Ayaka Takamura، Satsuki Miyahara، Manatsu Murakami، Ami Komine، Yukari Anzai",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": null,
+  "rating": "7.1",
+  "imdb_rating": "7.1",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Cue!",
+    "mainDescription": "يدور أنمي Cue! ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Cue! حول حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Cue! على CINMAPRO عبر 1 موسم و24 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+    "metaDescription": "Cue! أنمي 2022 | يدور أنمي Cue | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Cue! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/112463"
+    }
+  },
+  "tmdb_id": 112463,
+  "tmdb_url": "https://www.themoviedb.org/tv/112463",
+  "original_title": "CUE!"
+}

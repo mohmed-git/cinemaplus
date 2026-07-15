@@ -1,0 +1,260 @@
+{
+  "slug": "id-invaded",
+  "clean_title": "Id:Invaded",
+  "raw_name": "انمي Id:Invaded",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/id-invaded.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=G7dWPfAn1UZ3n7kV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-06",
+          "runtime": 25,
+          "tmdb_episode_id": 1895868,
+          "tmdb_still_path": "/oRNhvYu9SvRQSSFfnmo89AQ5t.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iPPVznkNNv9cbnmE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-06",
+          "runtime": 25,
+          "tmdb_episode_id": 2009906,
+          "tmdb_still_path": "/d4yeHBEAHvpuv65hUb2OGueM3sv.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=D6irhU4J08cz4R7F"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-13",
+          "runtime": 25,
+          "tmdb_episode_id": 2009907,
+          "tmdb_still_path": "/hKU5XKWbr9rcO1GKZIFvMtTQmT6.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tCxYqqZRCe6DtUrg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-20",
+          "runtime": 25,
+          "tmdb_episode_id": 2009908,
+          "tmdb_still_path": "/i89APgz5hbTwyXzDoxNszSyvKtG.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gusyHAOqwznaaFoD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-27",
+          "runtime": 25,
+          "tmdb_episode_id": 2009909,
+          "tmdb_still_path": "/4xVMww2Qss79g1JRirUsLMwQHvw.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5DvqkXeGJoIqboOX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-03",
+          "runtime": 25,
+          "tmdb_episode_id": 2009911,
+          "tmdb_still_path": "/gHKixtaoCM8BSXtKdepbQhqKIqC.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BeswGg04ApGI7VU0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-10",
+          "runtime": 25,
+          "tmdb_episode_id": 2009912,
+          "tmdb_still_path": "/wMYDRUplLcPO3JKckINjsgXZUZD.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lcr8AEL2SfG4RdHs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-17",
+          "runtime": 25,
+          "tmdb_episode_id": 2009913,
+          "tmdb_still_path": "/dnf7GAxwLi1TGxa98C0ChUxRmqM.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=T9MR8ednCHbe6RAY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-24",
+          "runtime": 25,
+          "tmdb_episode_id": 2009914,
+          "tmdb_still_path": "/5JfmxQ19vfJUIvGgmGzmZA9wPG2.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PPXecGf1ITmhqK4I"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-02",
+          "runtime": 25,
+          "tmdb_episode_id": 2009915,
+          "tmdb_still_path": "/v7zFHtU2wjsQ3Q2jKab2owmoVeW.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=CZlw935abdE786R2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-09",
+          "runtime": 25,
+          "tmdb_episode_id": 2009916,
+          "tmdb_still_path": "/reVHjXU1SCjP2e8xSG0QdrYFmTa.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oz7lYNMkrDy5cSDc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2009918,
+          "tmdb_still_path": "/5ZxO6dmAkdcYHd0gxN4HegfG0Le.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qavMjkLVS560wYCY"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-23",
+          "runtime": 28,
+          "tmdb_episode_id": 2009919,
+          "tmdb_still_path": "/s0qiiBhaXfM7q6EbSXWvWhSRU3O.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Id:Invaded ضمن أجواء رسوم متحركة، دراما، غموض، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. في أنمي Id:Invaded تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خيال علمي، غموض، بوليسي، نفسي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Id:Invaded على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/id-invaded",
+  "story": "يدور أنمي Id:Invaded ضمن أجواء رسوم متحركة، دراما، غموض، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. في أنمي Id:Invaded تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خيال علمي، غموض، بوليسي، نفسي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Id:Invaded على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kenjiro Tsuda، Yoshimasa Hosoya، Ryota Takeuchi، Mao Ichimichi، Sarah Emi Bridcutt، Manabu Muraji",
+  "genre": "أنمي، رسوم متحركة، دراما، غموض، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "nc7Y0BvEYQk",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Id:Invaded",
+    "mainDescription": "يدور أنمي Id:Invaded ضمن أجواء رسوم متحركة، دراما، غموض، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. في أنمي Id:Invaded تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف خيال علمي، غموض، بوليسي، نفسي يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Id:Invaded على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Id:Invaded أنمي 2020 | يدور أنمي Id:Invaded ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Id:Invaded من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/92602"
+    }
+  },
+  "tmdb_id": 92602,
+  "tmdb_url": "https://www.themoviedb.org/tv/92602",
+  "original_title": "ID：INVADED イド：インヴェイデッド"
+}

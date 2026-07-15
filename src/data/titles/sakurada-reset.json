@@ -1,0 +1,436 @@
+{
+  "slug": "sakurada-reset",
+  "clean_title": "Sakurada Reset",
+  "raw_name": "انمي Sakurada Reset",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/sakurada-reset.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ny2cec0pba8y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1297641,
+          "tmdb_still_path": "/ayOnlgTCUY6BDaegsa78O1JbgKJ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/6023v5xbjvl0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1304770,
+          "tmdb_still_path": "/ark1MQMulolZAaYoVi8idGCDr2R.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jfwnj5v0pgs2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1310126,
+          "tmdb_still_path": "/7YZBBdBBuHW0c4xjzgJsQprCYgl.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2bnf25b342zh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1310127,
+          "tmdb_still_path": "/8wilGsdoPpAX8DnpVE4NMc4tSSG.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/jt1v04rmoshg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-03",
+          "runtime": 24,
+          "tmdb_episode_id": 1310828,
+          "tmdb_still_path": "/qrBC7CY7FMvatr3tFPxflViPhZY.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wttgfqj67zi1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-10",
+          "runtime": 24,
+          "tmdb_episode_id": 1316680,
+          "tmdb_still_path": "/x3zXcxMYyRUrHW4gUwLAD8rtV8U.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/arfw87w9y5fi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-17",
+          "runtime": 24,
+          "tmdb_episode_id": 1317491,
+          "tmdb_still_path": "/mkzWZssP0snzn1poFX0GZNdsi2Q.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/uqxyuqwwb95y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-24",
+          "runtime": 24,
+          "tmdb_episode_id": 1320401,
+          "tmdb_still_path": "/1GEECyTRaeo6dvESdoUECRRJnQt.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dve6w6c9jo4w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-31",
+          "runtime": 24,
+          "tmdb_episode_id": 1320402,
+          "tmdb_still_path": "/CC2JL2Jj7SWLzTj2xEOhW3M8eI.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/y4b564qt2ix4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1320403,
+          "tmdb_still_path": "/fLLak8jezpFyt1adDiSCehX1FJP.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/vjdo5jdhnkpt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1320404,
+          "tmdb_still_path": "/8fkIicGyj8YScZV4OMWBZXNxESx.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/qh1xq62znl8n"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1320405,
+          "tmdb_still_path": "/45slrtf0wUo2tMdctCpDU2OZq6a.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/8tk3mge74qal"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1320406,
+          "tmdb_still_path": "/xZ1PmPUsxtrJR6z37mJVECSYePH.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/dk44sw66m74l"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-05",
+          "runtime": 24,
+          "tmdb_episode_id": 1320407,
+          "tmdb_still_path": "/m8mmmIMJLP3RvnRYlsGXkx4ATXn.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/od4qlyez4y24"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-12",
+          "runtime": 24,
+          "tmdb_episode_id": 1320408,
+          "tmdb_still_path": "/8C5Y1RpIjfPWo2k9MnocwdyZ6VE.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3qfe2fpmkz7b"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-19",
+          "runtime": 24,
+          "tmdb_episode_id": 1320409,
+          "tmdb_still_path": "/ohaQVwhMNW6XjYwTnP2JMhL0lFK.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ff4x4n90ufyq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-07-26",
+          "runtime": 24,
+          "tmdb_episode_id": 1320410,
+          "tmdb_still_path": "/cQSQJeRWJC3IEhOBpec5eMa0s4b.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/47p7y53daws9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1320411,
+          "tmdb_still_path": "/a1ZD57UpuOWcdPAMletP12NtuLf.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/znuigterb90k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1320412,
+          "tmdb_still_path": "/mFPfJ6eX8nRyAkiEdo9b3ClWUYh.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/70zwqdlxswdq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1320413,
+          "tmdb_still_path": "/uHCPpoYHCUkNaV1isFVCc7qSX3X.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/o8o7mqdcoug5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1320414,
+          "tmdb_still_path": "/39b3IKfCmzuulSDEzqRay7cBRuW.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/3gs2zq22o1q5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-08-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1320415,
+          "tmdb_still_path": "/rmM5DUZOutAQ560q80cljPY94K9.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/memf20ct6dpp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1320416,
+          "tmdb_still_path": "/hvoC9UnvTrjUjF4kO502ELXm6rf.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/f6q5f6ryv67w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-09-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1320417,
+          "tmdb_still_path": "/4dudHf7wgXSbHZdSfrSoYIBHUBh.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "مدينة \" ساكورادا \" و التي يمتلك سكانها قوة خارقة، مجموعة \" كاراكيوكو \" تتحكم وتراقب تلك المدينة، \" كي أساي \" لديه القدرة على حفظ و تذكر أي شيء يراه أو يسمعه و \" ميسورا هاروكي \" فلديها القدرة على العودة بالزمن لثلاثة أيام كحد أقصى، كلاهما عضوان في نادي الخدمات والتي تستخدمه المجموعة لمراقبة الناس و إحلال السلام...",
+  "url": "/anime/sakurada-reset",
+  "story": "مدينة \" ساكورادا \" و التي يمتلك سكانها قوة خارقة، مجموعة \" كاراكيوكو \" تتحكم وتراقب تلك المدينة، \" كي أساي \" لديه القدرة على حفظ و تذكر أي شيء يراه أو يسمعه و \" ميسورا هاروكي \" فلديها القدرة على العودة بالزمن لثلاثة أيام كحد أقصى، كلاهما عضوان في نادي الخدمات والتي تستخدمه المجموعة لمراقبة الناس و إحلال السلام...",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kaito Ishikawa، Kana Hanazawa، Aoi Yuuki، Ami Koshimizu، Sachika Misawa، Yui Makino",
+  "genre": "أنمي، رسوم متحركة، دراما، غموض، خيال علمي وفانتازيا",
+  "trailerId": "NkckJHZqKE4",
+  "rating": "7.4",
+  "imdb_rating": "7.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Sakurada Reset",
+    "mainDescription": "مدينة \" ساكورادا \" و التي يمتلك سكانها قوة خارقة، مجموعة \" كاراكيوكو \" تتحكم وتراقب تلك المدينة، \" كي أساي \" لديه القدرة على حفظ و تذكر أي شيء يراه أو يسمعه و \" ميسورا هاروكي \" فلديها القدرة على العودة بالزمن لثلاثة أيام كحد أقصى، كلاهما عضوان في نادي الخدمات والتي تستخدمه المجموعة لمراقبة الناس و إحلال السلام...",
+    "metaDescription": "Sakurada Reset أنمي 2017 | مدينة \" ساكورادا \" و التي يمتلك سكانها قوة خارقة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Sakurada Reset من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/71014"
+    }
+  },
+  "tmdb_id": 71014,
+  "tmdb_url": "https://www.themoviedb.org/tv/71014",
+  "original_title": "サクラダリセット"
+}

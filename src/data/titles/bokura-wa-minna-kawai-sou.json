@@ -1,0 +1,244 @@
+{
+  "slug": "bokura-wa-minna-kawai-sou",
+  "clean_title": "Bokura wa Minna Kawai-sou",
+  "raw_name": "انمي Bokura wa Minna Kawai-sou",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/bokura-wa-minna-kawai-sou.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-h7543h0ubm0p.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-04",
+          "runtime": 24,
+          "tmdb_episode_id": 984679,
+          "tmdb_still_path": "/dqqBzXBzod8FkOiJ66jT8bAnTsA.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-tfg9azqramjj.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1029599,
+          "tmdb_still_path": "/qJKRXkYKZVbg5QCt55e2BMD7dtW.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-05b0t967rrjh.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1029600,
+          "tmdb_still_path": "/jlEF1o6mSEchMRn4UvhERFOD0mM.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-w5x2qntizwrr.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1029601,
+          "tmdb_still_path": "/LyWerQvImBeoPJMIvWsrej7yLn.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-d1v90yzx62yk.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1029602,
+          "tmdb_still_path": "/cCRVhVcTR0H8S3KiZsnbxXyzyH2.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-2pq8kpkjoeod.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1029603,
+          "tmdb_still_path": "/hvym6ncL1cgpRXCSHegfGIWYgTG.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-kr05udf4gl83.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1029604,
+          "tmdb_still_path": "/nUHuxt2Qbgsp1SjIvXv9HChL5IK.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-r47ydw97e33c.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1029605,
+          "tmdb_still_path": "/4vcHTVZKU1ycTNkM4YXB0X085O1.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-k7yqcqgw6y0t.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1029606,
+          "tmdb_still_path": "/sDkK626ETMkLJtNlvcZuvhhZg9w.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-jvt9fcp2owfn.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 1029607,
+          "tmdb_still_path": "/lpxsoKIZgL1Oc5CxKmq1e6Kq0kn.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-56huhuubjlpm.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 1029608,
+          "tmdb_still_path": "/jAm7P3qKbc1cCcPTmWaFD2GPASp.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-42gmo82v592d.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2014-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 1029609,
+          "tmdb_still_path": "/sgcfftNBKQoGBrRz1u4imekcDlh.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Bokura wa Minna Kawai-sou ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Bokura wa Minna Kawai-sou حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شريحة من الحياة، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bokura wa Minna Kawai-sou على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "url": "/anime/bokura-wa-minna-kawai-sou",
+  "story": "يدور أنمي Bokura wa Minna Kawai-sou ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Bokura wa Minna Kawai-sou حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شريحة من الحياة، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bokura wa Minna Kawai-sou على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+  "year": "2014",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuichi Iguchi، Kana Hanazawa، Sanae Kobayashi، Go Shinomiya، Rina Sato، Hisako Kanemoto",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "8onP9KvFubk",
+  "rating": "6.7",
+  "imdb_rating": "6.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Bokura wa Minna Kawai-sou",
+    "mainDescription": "يدور أنمي Bokura wa Minna Kawai-sou ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2014، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يدور أنمي Bokura wa Minna Kawai-sou حول علاقة تتغير ببطء بين شخصيات تحاول فهم مشاعرها وسط سوء فهم وقرارات يومية. تصنيف شريحة من الحياة، كوميدي، رومانسي، مدرسي يظهر في طريقة بناء الحلقات، حيث يعتمد على النظرات والمواقف الصغيرة أكثر من الأحداث الضخمة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Bokura wa Minna Kawai-sou على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يبحث عن رومانسية هادئة وشخصيات قريبة من الحياة اليومية.",
+    "metaDescription": "Bokura wa Minna Kawai-sou أنمي 2014 | يدور أنمي Bokura wa Minna Kawai-sou ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Bokura wa Minna Kawai-sou من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/60812"
+    }
+  },
+  "tmdb_id": 60812,
+  "tmdb_url": "https://www.themoviedb.org/tv/60812",
+  "original_title": "僕らはみんな河合荘"
+}

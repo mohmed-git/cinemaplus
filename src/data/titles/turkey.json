@@ -1,0 +1,484 @@
+{
+  "slug": "turkey",
+  "clean_title": "Turkey!",
+  "raw_name": "انمي Turkey!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/turkey.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=eirhA0rqtewffn7n"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/coozyxvcjfu2"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9mjp7u"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/lebsmx7hg37w"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=siASHdWWnQf4mrEA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-09",
+          "runtime": 23,
+          "tmdb_episode_id": 4126616,
+          "tmdb_still_path": "/2FgVdT0FkiC8lYFgx8ehVkgLNaM.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jgh9b15gCnsXevKM"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hgbazooka.com/e/k02lpu3crpv5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9myspi"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hgbazooka.com/e/mjxdf576tpkv"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TMHZe8jX1J3Ou3WS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-16",
+          "runtime": 23,
+          "tmdb_episode_id": 6364607,
+          "tmdb_still_path": "/oxrQSFd3GrNhR1vzdVyD16WVoMM.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GmomqfTReXDRPqg4"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/dvyeod0zozf1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9nehs4"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/pkllz1dpvc1b"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2oXY1BrO4w0oYc6g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-23",
+          "runtime": 23,
+          "tmdb_episode_id": 6384375,
+          "tmdb_still_path": "/4urBaxceKiV2fGvFqBWwYB23LHW.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iRAeThXvwVrAJBWY"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/3aaj23h6pvc1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ntajq"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/9f4gcaiibzig"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Mew4BLfHdHNr10WW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-07-30",
+          "runtime": 23,
+          "tmdb_episode_id": 6384376,
+          "tmdb_still_path": "/r4ksCgf51l8o42rGRA81K58vhqz.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=xaaJeOpOnWoanhTk"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/8gtrlls8q7yx"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/3zyks79nihmz"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=piFXKrqkQGAhRcJ9"
+            },
+            {
+              "id": 5,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x9o85g2"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-06",
+          "runtime": 23,
+          "tmdb_episode_id": 6415083,
+          "tmdb_still_path": "/n6rLDLzUs5SSqASYK6ZL86ADod8.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=sfIiCXFm1JXbVIli"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/aho456gsqdud"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9onc98"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/jl4lq215n8pq"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=EVC73l7XOY8A08Vd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-13",
+          "runtime": 23,
+          "tmdb_episode_id": 6415084,
+          "tmdb_still_path": "/nsvYfuKOHm0jqUkmtlKJAlu6ZIZ.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "//videa.hu/player?v=FSpI9rHqSQPTkJFl"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/l96o1t83k7lw"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9p39ke"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/4458ag1ofxs3"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vB6r67Acn9EyPCGA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-20",
+          "runtime": 23,
+          "tmdb_episode_id": 6424220,
+          "tmdb_still_path": "/dgwvctIhrlWjpWBGMubXeUQzwaG.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=dk9ElkIEknv4C6tL"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/ou8i4rfzwt1x"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9phrbg"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/8o8l757yrmf1"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=15RLbyXFeXfpWfvd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-08-27",
+          "runtime": 23,
+          "tmdb_episode_id": 6424221,
+          "tmdb_still_path": "/uzZdfU5AvrIeUo7jMn2un5r5Gwo.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=aQHSIHW9TKmatMdE"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/3a6xz2hpty7p"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9pvf92"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/qdcelzk0w3jn"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=TSzpnEkdEbx5ZOjf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-03",
+          "runtime": 23,
+          "tmdb_episode_id": 6484878,
+          "tmdb_still_path": "/t3MuxTfyXziM2skX7sgApCJAn6Z.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=n2p69ZgchjLokkaK"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/bqegmymwfq7b"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qa114"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/74tzpanaf916"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LbtCXNJ4wqAr3uS5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-10",
+          "runtime": 23,
+          "tmdb_episode_id": 6498571,
+          "tmdb_still_path": "/j04NVJmBA7ipSEsBlVujrVhRMOD.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=l0RDL9cjEHxpLuXQ"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/o6gft82ar9bq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9qnob0"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/wc6j4uu5zpcu"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BezegYasNJFoogA5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-17",
+          "runtime": 23,
+          "tmdb_episode_id": 6498572,
+          "tmdb_still_path": "/iA9Il1iWXxI3EIKCbBe6q2Kn30c.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=17HARu6UPD8BtqsN"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://hglink.to/e/jqnvw4aft38y"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9r23ya"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://hglink.to/e/qdcgm9a2cxcr"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5xJ5aodywt68H1vJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-09-24",
+          "runtime": 23,
+          "tmdb_episode_id": 6498573,
+          "tmdb_still_path": "/y5YCpA45Scj1RzZoWy1xlkj63Te.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Turkey! ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Turkey! على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. تمنح تصنيفات رياضي، مدرسي العمل نبرة واضحة، فهو يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "url": "/anime/turkey",
+  "story": "يدور أنمي Turkey! ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Turkey! على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. تمنح تصنيفات رياضي، مدرسي العمل نبرة واضحة، فهو يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Hana Hishikawa، Kana Ichinose، Haruki Iwata، Yuuki Temma، Ayasa Ito، Noriko Hidaka",
+  "genre": "أنمي، رسوم متحركة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "nql08ei297A",
+  "rating": "6.7",
+  "imdb_rating": "6.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Turkey!",
+    "mainDescription": "يدور أنمي Turkey! ضمن أجواء رسوم متحركة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Turkey! على رحلة فريق أو لاعب يحاول تحويل الموهبة إلى نتيجة داخل منافسة صعبة. تمنح تصنيفات رياضي، مدرسي العمل نبرة واضحة، فهو يعطي مساحة للتدريب والخصومة وروح الفريق قبل لحظة الحسم. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الحماس الرياضي والشخصيات التي تنضج عبر الخسارة والفوز.",
+    "metaDescription": "Turkey! أنمي 2025 | يدور أنمي Turkey | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Turkey! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/217247"
+    }
+  },
+  "tmdb_id": 217247,
+  "tmdb_url": "https://www.themoviedb.org/tv/217247",
+  "original_title": "Turkey!"
+}

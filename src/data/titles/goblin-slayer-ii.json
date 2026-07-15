@@ -1,0 +1,469 @@
+{
+  "slug": "goblin-slayer-ii",
+  "clean_title": "Goblin Slayer II",
+  "raw_name": "انمي Goblin Slayer II",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/goblin-slayer-ii.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6698142534219"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0zGIYhBkJmvatM2h"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8omm6u"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6698150267467"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/tjsjGKIB#E1OLRtVRF7giIwZe8roENyaxjOHDRiMOk0IQHHrM5b0"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6698152757835"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3JpK2dyOo6FMTa9t"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-07",
+          "runtime": 24,
+          "tmdb_episode_id": 1579159,
+          "tmdb_still_path": "/oeHEWC0PbFVC0TrU6KgFhUK0CIh.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6718732765771"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=InlMePF8sRdIkxV4"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ot1zs"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/n3wg1ayT#tH3NqpkH3CpTLxzHqShsv8I9YIBxwfB5MFnNpJhluBc"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QYm8nYbAg0JzL9zw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1594095,
+          "tmdb_still_path": "/7jl5POUeCLkJntrIuU07Y7bU220.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=G5a0pRWf2pcl5meO"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ozc81"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Au9W2SjC#T_3fk5v-8jFff8p3vXGgq384CphiuCOFJX-XESXYeno"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wIATZz7Pm3xcPHHG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1594372,
+          "tmdb_still_path": "/lajNvw0xidfkWo8GrDR1H8uFI0T.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rzYQVZcuU9Gk2ZQV"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8p5e8u"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/WFACSCCT#OPsJ9Mj7MCDBwSH-SNWMxT-RkuB_wyG2hC-YmgU2Oa0"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0YMTIQXj48PHjAGu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-10-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1599422,
+          "tmdb_still_path": "/dk3jDsMo3bRqfimtQB7IXzHR2P9.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WvVGxlAseurogCz8"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pbxwd"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Mf9llbzA#imFuOaSbPjImZCUX6enX6JlTLMxg2uU9U6i2T48P71o"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tTSsMHD3QnJ89T4v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1604845,
+          "tmdb_still_path": "/gQxRJgLmgCXX8CEPWZTfLg3X14V.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WCxBgbXh2EIsHoxz"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8piwut"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BaEVCQAL#JKm0XR1TXY7ACbHS5GZJ_cc5rNRLp2OpF0M76qMicZ8"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=c9InOKvgfkkpIh8z"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1604846,
+          "tmdb_still_path": "/qLLQSVYm76muPbQNxZmXa3izZRV.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=rkhoR8ANf5cApZOD"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8ppxjs"
+            },
+            {
+              "id": 3,
+              "label": "mega - FHD",
+              "url": "https://mega.nz/embed/LN8XlBZD#vkL-16iX7PL_Fhih3OXHR2Mdsp84rhXwlk5JowhZVHM"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=PaR8qCLU7dWFQjQW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1604847,
+          "tmdb_still_path": "/lM8ZegTyeOxHw28hRYBivurn6fi.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=R3wrJPHrcrmK71im"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8pxi0d"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ku8hXaAI#j_ZkIJ4S-SLzFcfO3O1SjWXnLEPDMZdK5Cg5fkM61to"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=S6RjDePI4yFXRxPT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-11-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1604848,
+          "tmdb_still_path": "/9NJdHXc2OAHgWjz1yr1Nw0W8kkK.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QmOc6ncbTL8YF9ZP"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8q5tn5"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/UuNkyApD#J4yJkIzdiKRFkQmvuMjc0XQ5fv8leGrj17dCtUiMPno"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zdDdHbbsPswJNSVB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-02",
+          "runtime": 24,
+          "tmdb_episode_id": 1604849,
+          "tmdb_still_path": "/nU5vVMzz8FMIlxLNMjFx1hDv4Ev.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pGTmorA2KJrgMUWU"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qdhsl"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/NS0g0KAQ#niyvWcQtm1ZzaneUqHO_80dDOyG3lGuMDYzYpI7bI04"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=NHCFCqGHyU9OBAVm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1604850,
+          "tmdb_still_path": "/1VaILduqlSSgwYhoVkEkQorpWw2.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wMdadLTy5UCunENx"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qlwee"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gf1GXaqI#csKWAhYR1VkXIAQgFHR-1XHRfwqntRHRAa4FtR7Ja34"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Z5eoKQPUItm4s8gj"
+            },
+            {
+              "id": 5,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8qlwxu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1604851,
+          "tmdb_still_path": "/rfectYk8veny3CAIZCzk54zYO5o.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=1RYTp7nmM3MWVRGA"
+            },
+            {
+              "id": 2,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8qt91x"
+            },
+            {
+              "id": 3,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/T64G3baT#0zaGKR6czWey1-yGt5ZlJ27luceMRdUj4PQkcPqQv74"
+            },
+            {
+              "id": 4,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=F5SIaUyHixP3MstN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2018-12-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1604852,
+          "tmdb_still_path": "/bS4vx2yILDnROx5hftgCddyxGJj.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Goblin Slayer II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Goblin Slayer II حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء مغامرات، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/goblin-slayer-ii",
+  "story": "يدور أنمي Goblin Slayer II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Goblin Slayer II حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء مغامرات، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2018",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuuichirou Umehara، Yui Ogura، Nao Toyama، Yuka Iguchi، Maaya Uchida، Yuichi Nakamura",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "7qnhoB_cHSg",
+  "rating": "8.0",
+  "imdb_rating": "8.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Goblin Slayer II",
+    "mainDescription": "يدور أنمي Goblin Slayer II ضمن أجواء رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2018، وتوضح بيانات TMDB أنه يضم 2 موسم و24 حلقة. يدور أنمي Goblin Slayer II حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء مغامرات، أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و12 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Goblin Slayer II أنمي 2018 | يدور أنمي Goblin Slayer II ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Goblin Slayer II من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/82591"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "goblin-slayer",
+      "title": "Goblin Slayer",
+      "url": "/anime/goblin-slayer",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/goblin-slayer.jpg"
+    },
+    {
+      "slug": "goblin-slayer-ii",
+      "title": "Goblin Slayer II",
+      "url": "/anime/goblin-slayer-ii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/goblin-slayer-ii.jpg"
+    }
+  ],
+  "tmdb_id": 82591,
+  "tmdb_url": "https://www.themoviedb.org/tv/82591",
+  "original_title": "ゴブリンスレイヤー"
+}

@@ -1,0 +1,682 @@
+{
+  "slug": "edens-zero",
+  "clean_title": "Edens Zero",
+  "raw_name": "انمي Edens Zero",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/edens-zero.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/2og2y7z7l98l.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/1544dujzyll0pzm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2306667,
+          "tmdb_still_path": "/qwKYWcy5mmtaz6KV5J8Pkqfg4Z8.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/1xawwt4zpv5e.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/znmm0tjke-84d88"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-5uw6zt0k7zwq.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2817864,
+          "tmdb_still_path": "/t4sHDCQnWTdgzOhZQY76r5HZE5i.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x80zb3g"
+            },
+            {
+              "id": 2,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/u4khq8lw6uiv.html"
+            },
+            {
+              "id": 3,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/k0jj1t318mrnzdg"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2817865,
+          "tmdb_still_path": "/vz766s2yRxcHV6lClsC2pTsED79.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/u4khq8lw6uiv.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r277rhe4y4k0ejk"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7nt8afvfnz0s.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-02",
+          "runtime": 24,
+          "tmdb_episode_id": 2817866,
+          "tmdb_still_path": "/rlt1SOz4PPztFY59uUqEsEc6xMg.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8186r7"
+            },
+            {
+              "id": 2,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/i2ybjjv7jwkb.html"
+            },
+            {
+              "id": 3,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/dnjj4txde5lwxlm"
+            },
+            {
+              "id": 4,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-axeme720swo8.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2817867,
+          "tmdb_still_path": "/65bP4LJGzxUECNLqg7bhQgAiZDh.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/zdch1pezabrz.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/lrjj2tnpwey75e1"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-r1x9y5mfbbxd.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2817868,
+          "tmdb_still_path": "/pYkV7NnTRoBuNGNGsmwZa2T029L.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/224ymwl3e2n0.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/n1jj6u2x8kkwkx4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2817869,
+          "tmdb_still_path": "/eC4x46hgTsOSXUqrPZs2peO7Gww.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/vyyfqfjulio5.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/pz44dbmyzw7mmd-"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-501dyu4cmra6.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-05-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2817870,
+          "tmdb_still_path": "/7kEhyFgdD98VS6YxopEVeZSIGSi.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/eozhcg0ynpwj.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/qm660begmrw7drw"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-mp3sdqb70lh4.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2817871,
+          "tmdb_still_path": "/q65uOQmXlJEByv7xn5QrqP338WH.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/yzh7nev9u3am.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/r277rheg3x22jw0"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-kv8gzxs4zb9u.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2817872,
+          "tmdb_still_path": "/7Zf2PgmES8WssmtGvWG3NTyvrke.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/czr67v7wzum1.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-k223ip10m6y50n"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-jmkmlbpglhos.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2817873,
+          "tmdb_still_path": "/ubqeKJZdrntqgrgzcgBcOlLZXyj.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/r3ydooa87pu2.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/0q227flglgr30mx"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-dpt5ocyqdf2b.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-06-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2817874,
+          "tmdb_still_path": "/vJafjQmws074rXLAxbha6DDH5DH.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/m3vgo93zk2ja.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-k223ip1pkr8d1l"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-ia0001syh2vo.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 2865796,
+          "tmdb_still_path": "/gKXJQCGTtPJMseE8lexc4azaAFu.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/u6cv6u27sn4c.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/0q227flgr4mdq0g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 2865800,
+          "tmdb_still_path": "/h8T7AdfFSyQoqQHodJrxSPWJrDT.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/3u28m7do9vt3.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/jdjjphdg8760-70"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 2865804,
+          "tmdb_still_path": "/hjPT1nwBXt62GwWhO0xJ2z5PD4a.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/gslmdwsfe3f8.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/-k223ip1nze220y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 2865808,
+          "tmdb_still_path": "/lkelvoxCFLrfbpo12TlWJ0Eixmb.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/27lf5kp4bvtt.html"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/e-jj6t-npd342e3"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-mn962br1cqog.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 2865812,
+          "tmdb_still_path": "/jlJzEdG7wWtiT6Eoqk2ApfjqHBF.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/l1sin0nxgjyj.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-0p43fzkhs0l0.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2865816,
+          "tmdb_still_path": "/nZvobblvi6GROQLL8Dn89psrN4e.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/tov8wiyarrd0.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-k0rtmgt6fjf9.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 2865819,
+          "tmdb_still_path": "/nVFHVMkiKltWUUEWGJvB3uE3ddP.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/r9zr1yzollx2.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-mnlhdzm2h43c.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 2865822,
+          "tmdb_still_path": "/jaUsXdTPv99lhOaGDbvTPgA7ya5.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamsb - FHD",
+              "url": "https://sbthe.com/e/q7c8t37o8iob.html"
+            },
+            {
+              "id": 2,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-78nmtl7mrgpb.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 2865823,
+          "tmdb_still_path": "/xAMyjNbtEDWOA3R7XQXz8aoX7V8.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/_VW5DXsMea"
+            },
+            {
+              "id": 2,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/g4jjdf-yz55m432"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-7pxggxfu3sbo.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 2865824,
+          "tmdb_still_path": "/ji5fF2bNc7ISiWV54dbl9Z9jH6E.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/8n116t8lyznpklr"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/-vqmpmHsiq"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-i8f239xuvhj2.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 2865825,
+          "tmdb_still_path": "/ceQ5Ed2Oej2hlXO4T276fqGCbe4.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/qm660be083xyq4g"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/O6YNadY-iq"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-rre5elrckrz5.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-09-26",
+          "runtime": 24,
+          "tmdb_episode_id": 2865826,
+          "tmdb_still_path": "/e4n2MRwrB6DrbkIXs7RMxclHUMF.jpg"
+        },
+        {
+          "episode": 25,
+          "title": "الحلقة 25",
+          "servers": [
+            {
+              "id": 1,
+              "label": "fmplay - FHD",
+              "url": "https://www.fembed.com/v/qm660be03zpz8-d"
+            },
+            {
+              "id": 2,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/nqfbVtKkiq"
+            },
+            {
+              "id": 3,
+              "label": "mp4upload - FHD",
+              "url": "https://www.mp4upload.com/embed-3m9ftfy90g47.html"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-10-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2865827,
+          "tmdb_still_path": "/iBMMoXepXQp3HFz2N01GlUhs1iN.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Edens Zero ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و50 حلقة. تبدأ قصة Edens Zero من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال علمي، مغامرات، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Edens Zero على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/edens-zero",
+  "story": "يدور أنمي Edens Zero ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و50 حلقة. تبدأ قصة Edens Zero من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال علمي، مغامرات، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Edens Zero على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Takuma Terashima، Mikako Komatsu، Rie Kugimiya، Hiromichi Tezuka، Shiori Izawa، Shiki Aoki",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "Y0T5TwEB7xo",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Edens Zero",
+    "mainDescription": "يدور أنمي Edens Zero ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و50 حلقة. تبدأ قصة Edens Zero من صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تصنيف أكشن، خيال علمي، مغامرات، كوميدي يظهر في طريقة بناء الحلقات، حيث تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Edens Zero على CINMAPRO عبر 1 موسم و25 حلقة بروابط حديثة وسريعة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Edens Zero أنمي 2021 | يدور أنمي Edens Zero ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Edens Zero من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/104711"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "edens-zero",
+      "title": "Edens Zero",
+      "url": "/anime/edens-zero",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 25,
+      "poster": "/images/anime/edens-zero.jpg"
+    },
+    {
+      "slug": "edens-zero-2nd-season",
+      "title": "Edens Zero 2nd Season",
+      "url": "/anime/edens-zero-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 25,
+      "poster": "/images/anime/edens-zero-2nd-season.jpg"
+    }
+  ],
+  "tmdb_id": 104711,
+  "tmdb_url": "https://www.themoviedb.org/tv/104711",
+  "original_title": "EDENS ZERO"
+}

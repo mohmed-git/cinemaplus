@@ -1,0 +1,724 @@
+{
+  "slug": "shine-post",
+  "clean_title": "Shine Post",
+  "raw_name": "انمي Shine Post",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/shine-post.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3907777071691"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/qy4dr8okwjlm"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/t2qvjy3mzdzh1mbn83eui8zmxgd7rqw5"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/gznvrvyh2ktw"
+            },
+            {
+              "id": 5,
+              "label": "mp4upload",
+              "url": "https://www.mp4upload.com/embed-yvl6zl268lgf.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3907792407115"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/oLUQ1T5Y#pXqUwNuUpNjVydxx8j6fItGEsT2U8b5QWwr_ny8tJCo"
+            },
+            {
+              "id": 8,
+              "label": "mp4upload - SD",
+              "url": "https://www.mp4upload.com/embed-symcsxkb9o9l.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3907798174283"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-13",
+          "runtime": 23,
+          "tmdb_episode_id": 3305791,
+          "tmdb_still_path": "/fovl3svXgc5lhdyfJnI5CQKF7Ap.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3920596109899"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/canzhjuitwif"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/j7fhlg32ikhadq9zog57nukftcnvt556"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/ecvscpqypipg"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/fw801go26r8f.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3920614984267"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/d8ZQgRBB#Sl2iGgdREfMwM1iscoMOuSHb9bH8k3gs2fqJzm3uK00"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/5c38zkp4qc7d.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3920620751435"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-20",
+          "runtime": 23,
+          "tmdb_episode_id": 3826545,
+          "tmdb_still_path": "/1YubzDQFedUGUHwVM8FIfLSbK7j.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3935140973131"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/rxu15z75emjb"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.pm/e/ah03zzy779mfyawy2h30egf5scr6zbm7"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/yts6zmn2uxvr"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/wasdfqta0ll8.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3935153293899"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/5oB3xBCD#xZN9t7q2cSDOjPMJLzsMQf99oX2TxT8so6s8_sBtY94"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/hn6syd6tzu2d.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3935158078027"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-07-27",
+          "runtime": 23,
+          "tmdb_episode_id": 3826546,
+          "tmdb_still_path": "/eG82Q9JrgTswIg16X3vjIhXLXgD.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3962855950923"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/q47edpovxb2a"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/voixag8yetly25yrvx2j6pum28dwjfsa"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/xq1njriuif72"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbthe.com/e/sfvep5i04ck8.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3962866764363"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/VX1lBR6b#r7oHdj13TiXwBDW2CqwVK6pNr9I--MZUcOaz8ENaViQ"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbthe.com/e/2f7tz4eiib7a.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3962871089739"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-03",
+          "runtime": 23,
+          "tmdb_episode_id": 3826547,
+          "tmdb_still_path": "/fze1dZDbSDzQ4mLAOkqvIRhGiC9.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/3980369988171"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/djpdvnprmrml"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/sn51ys3ex3h24h7h0e57t60d5l2u35j6"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/v4nt8ecjiea1"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbspeed.com/e/mdkwp4unzwd2.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/3980392598091"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Af9RxDLS#eT76ksHMWNhq5Vid5bH9PblUiTIZhJi5_y9j-zKD_rg"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbspeed.com/e/gij21vktt80s.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/3980399282763"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-10",
+          "runtime": 23,
+          "tmdb_episode_id": 3826548,
+          "tmdb_still_path": "/erbBeDUzBhHcfsRtqCQx75JtxuJ.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4005598595659"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/fnbflm9kvlca"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/0tx66wg51gtrhz4tbmu0p6gkrva4ys6x"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/phklrlbjqdkd"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbspeed.com/e/ng8mxcg218vx.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4005606787659"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/NHMiDCoa#GEFEqNLoVgFewzsWHk_zdkI9yHGkjypAIJtZT7tfDuw"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbspeed.com/e/rno18wd2a9oy.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4005620943435"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-17",
+          "runtime": 23,
+          "tmdb_episode_id": 3826549,
+          "tmdb_still_path": "/luwQHh1emOefTabO3gPwT4ALXTN.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4044290918987"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/tfakoztlgpxa"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/zv37twh3jkrjz08igxmzyj8tkmkta3r8"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/enmucqproykq"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbspeed.com/e/ou8sg0ylt9ir.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4044301077067"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/1XMySTZS#3WnWuk8v3GplefSe8zzk29x23zFfUywbM3d4Zoyvgq8"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbspeed.com/e/m2v28nb0yyvp.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/video/4044310841931"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-08-31",
+          "runtime": 23,
+          "tmdb_episode_id": 3841041,
+          "tmdb_still_path": "/kHaIohFlNKK5CT2RbarMK9Tw2Ex.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4068800793163"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/0nvvwabqmsrk"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/avas9m1xrb4on7rbwbhbwhcwp9kp4rvb"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/2ekbatumlpbv"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sblanh.com/e/8p9a2mnyjwoe.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4068811147851"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/cStWVIYC#Bg5R7wSMf04Wgtle-YnU-LEP1hJpqA8zVWdcMMMSeZ4"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sblanh.com/e/kl7z2flq14qq.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4068817570379"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-07",
+          "runtime": 23,
+          "tmdb_episode_id": 3841042,
+          "tmdb_still_path": "/g3Nzwvjf9LPVHHrKOJ85TfBotPr.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4092772551243"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/5wsdezq1ajjk"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/vvuev9i3nl97alrelogoy6vjyqn6nlgl"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/ofjnwpafgeor"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sblanh.com/e/hgsczfhnkol7.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4092783823435"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/pPFxHLjC#xcKG0Ll6LWQUW_q0j82qtNsAe8svNvrsMh3qPOJ9EkE"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sblanh.com/e/1tspkmybx8kb.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4092788017739"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-09-14",
+          "runtime": 23,
+          "tmdb_episode_id": 3841043,
+          "tmdb_still_path": "/s1Y2ws97aijWKMQuRxF6Z36s05J.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4193835027019"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/tbrjotv2i9oo"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/71wefm3h7nqt6821ch4iveb1vtj2tiu8"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/iz5qgkgeazcw"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/10dtm0ein6we.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4193874414155"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gLFhXCaA#1NZpwZFEdtdnywcKdL6MBDtxUoAOm63NlMWzym9f8n0"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/fg1i9fpgbdvq.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4193881164363"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-05",
+          "runtime": 23,
+          "tmdb_episode_id": 3841044,
+          "tmdb_still_path": "/yUTyVW8q3J27hgRhOUHkNZgqQLR.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4193907116619"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.wf/e/k5fkvuhuam190aci6j7n3jf2cs0ys9yn"
+            },
+            {
+              "id": 3,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/a6fszaeusnpv"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/lyab7cvc5cls.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4193929005643"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8CsFQa6B#TgA48U8ZIP-DM3Qb9GmykhTMilaIBjsPLzv_w2P7xPY"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/9rxs81k6jjvi.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4193939425867"
+            },
+            {
+              "id": 9,
+              "label": "dstream - FHD",
+              "url": "https://dood.wf/e/htt7syu0p35fu9rkksiptol4k2botl5j"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-12",
+          "runtime": 23,
+          "tmdb_episode_id": 3841045,
+          "tmdb_still_path": "/27SaT2BN8mYljzOOcbadMybXTHI.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4215205792331"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/e5sys7p6igdm"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.wf/e/96uuxe581uafaclx0k8owvy0ka4tvgrh"
+            },
+            {
+              "id": 4,
+              "label": "upvideo",
+              "url": "https://upvideo.to/e/6f8t8ti1xyiq"
+            },
+            {
+              "id": 5,
+              "label": "streamsb",
+              "url": "https://sbanh.com/e/b9korzrpv8kc.html"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4215210379851"
+            },
+            {
+              "id": 7,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/pTVX2AbZ#kQS1UHJczlDb6mNatT2wm0cGD3kIjjutPR13zW6-0nA"
+            },
+            {
+              "id": 8,
+              "label": "streamsb - SD",
+              "url": "https://sbanh.com/e/da85n7ie304f.html"
+            },
+            {
+              "id": 9,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4215213263435"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-10-19",
+          "runtime": 23,
+          "tmdb_episode_id": 3841047,
+          "tmdb_still_path": "/e3KoUi6iQnyZtwcHijMf2PvLwMM.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Shine Post ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Shine Post من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات موسيقى، خارق للطبيعة، شريحة من الحياة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/shine-post",
+  "story": "يدور أنمي Shine Post ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Shine Post من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات موسيقى، خارق للطبيعة، شريحة من الحياة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Sayumi Suzushiro، Moeko Kanisawa، Yuko Natsuyoshi، Rimo Hasegawa، Rika Nakagawa، Daiki Yamashita",
+  "genre": "أنمي، رسوم متحركة، كوميديا، دراما",
+  "trailerId": "rxpFrWZ2kN0",
+  "rating": "8.8",
+  "imdb_rating": "8.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Shine Post",
+    "mainDescription": "يدور أنمي Shine Post ضمن أجواء رسوم متحركة، كوميديا، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Shine Post من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات موسيقى، خارق للطبيعة، شريحة من الحياة العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Shine Post أنمي 2022 | يدور أنمي Shine Post ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Shine Post من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/137194"
+    }
+  },
+  "tmdb_id": 137194,
+  "tmdb_url": "https://www.themoviedb.org/tv/137194",
+  "original_title": "シャインポスト"
+}

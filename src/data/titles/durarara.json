@@ -1,0 +1,436 @@
+{
+  "slug": "durarara",
+  "clean_title": "Durarara!!",
+  "raw_name": "انمي Durarara!!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/durarara.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tBXCCpBy1PuOQQ0J"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-01-08",
+          "runtime": 24,
+          "tmdb_episode_id": 879919,
+          "tmdb_still_path": "/nrRpmcSrCNWurdXQv7lMmNzDpYn.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8aRqw6MTGPMbJjc7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-01-15",
+          "runtime": 24,
+          "tmdb_episode_id": 879934,
+          "tmdb_still_path": "/PgufIzFHgBuIs9EI1TzWch3GdQ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=xJt6zQaofc1zjXxT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-01-22",
+          "runtime": 24,
+          "tmdb_episode_id": 879935,
+          "tmdb_still_path": "/t0amH7hycNULBAURpEJ9qqlxaPT.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=yOZhvqST0KNShE32"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-01-29",
+          "runtime": 24,
+          "tmdb_episode_id": 879936,
+          "tmdb_still_path": "/7Qq35dEUXare65PubckYdIRl9iM.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=hZQf16xOtb8Ew577"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-02-05",
+          "runtime": 24,
+          "tmdb_episode_id": 879937,
+          "tmdb_still_path": "/tqs4II7bqj4r6uB4MvkH8sM84uu.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ckwv1JsRTbNsV8rb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-02-12",
+          "runtime": 24,
+          "tmdb_episode_id": 879938,
+          "tmdb_still_path": "/3L5jswqCzG2PWzkFmTYHdT9xVe7.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0tEU8AEbQt3ewhJD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-02-19",
+          "runtime": 24,
+          "tmdb_episode_id": 879939,
+          "tmdb_still_path": "/d1IvjS2CSTVx8pK4jqZ8YYBYFaf.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WpWVL2BgQ6FqUBBi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-02-26",
+          "runtime": 24,
+          "tmdb_episode_id": 879940,
+          "tmdb_still_path": "/nZFEEvPbB7tOdtVdTjoB1nUM8xI.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=w3j4wkGjvjpB51TA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-03-05",
+          "runtime": 24,
+          "tmdb_episode_id": 879942,
+          "tmdb_still_path": "/9So9E4yOezwH1dWGScu3J4W9Zsr.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6YH7WXMrVAAuSzWX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-03-12",
+          "runtime": 24,
+          "tmdb_episode_id": 879922,
+          "tmdb_still_path": "/b7X4hskWsCW8qd03rWx7LM6v53K.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=oKXj6VCrsmafGHzz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-03-19",
+          "runtime": 24,
+          "tmdb_episode_id": 879924,
+          "tmdb_still_path": "/dAYYrKycp4QXL0sttqcaO8T3T85.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=gfbmKec4C5DvxRxJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-03-26",
+          "runtime": 24,
+          "tmdb_episode_id": 879941,
+          "tmdb_still_path": "/q519RUwZ5wZTvmHeyItf47pfQNc.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2N0C8rt7BdjjC790"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 879923,
+          "tmdb_still_path": "/v086wDdhLJ19JpDgxXiEHaveLMy.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7tY4tkX2Uk7QvOyx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 879925,
+          "tmdb_still_path": "/deDOmEfYwU7RGnqNIn4BB6inEK7.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pKkcbEpI8ovM9eBP"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 879926,
+          "tmdb_still_path": "/kCLadRV0YfZ054vbZb3tEB34Z1y.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=WaS7FO5arNqu1rAa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 879921,
+          "tmdb_still_path": "/a1um1yCt8w4KXBOYTej6PpM1Xi9.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ZYEDclfYVZt6M2d9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-07",
+          "runtime": 24,
+          "tmdb_episode_id": 879920,
+          "tmdb_still_path": "/AvgR4Vd3FEgtYt3rsNmN3zvxp1g.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BBoT38cqJbl3yab6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 879927,
+          "tmdb_still_path": "/vfbQBn2rC9cD6oTcstg6CPie7mR.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pjlXqDxQEpc2L1li"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 879928,
+          "tmdb_still_path": "/tGWIZQPr2IJDkXIlFZVK2BE55fi.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=iCtHmija5p72cx44"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 879929,
+          "tmdb_still_path": "/cluT4AjGC0dJFTkzyFDdfITf6EG.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zzU1dYbQynNvojRo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 879930,
+          "tmdb_still_path": "/mtsQ5s0EAFWoHZp3TOKUTk2YGWo.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Vmqb9o7oRfP7IYc8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 879931,
+          "tmdb_still_path": "/kRuKi3EIs8c6doZlPoHGHpMBwIF.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AeZpPELlMKf3E0tB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 879932,
+          "tmdb_still_path": "/pQWKqCmkcHN4yPHFIBFGkaBROQ7.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fXd1OwxVyieiKrVV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2010-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 879933,
+          "tmdb_still_path": "/AbIlefUmZIkNzajL0GimzuEmdg4.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "(( ميكـادو ريوقامي )) ، شـاب قد قدِمَ لهذِه المدينة بناءً على طلب من صديق طفُولته (( كيدا ماساومي )) . . عندما إلتقيـا ، قام (( كيدا )) بتحذير (( ميكادو )) من بعض الأشخاص الخطيرين في مدينة (( إيكيبوكورو )) ، أشهرُهُم : (( شيزو هيواجيما )) بطلٌ في الشجـار والآخر (( إيزايـا أوريهارا )) صـاحب هوايـة جمع المعلومـات وغيرهِم الكثيـر ، لكن أكثرهُـم غرابـة ! ! . . الدراجٌ مقطوع الرأس الذي يجوب المدينة بدراجتـه السوداء الناريـة والغريبة ، وأيضـاً مدينة (( إيكيبوكورو )) مشهورة بأنها تجمُّع للعديد من العصـابـات وأشهرها عصابة الـ (( دولارز ))، تمُرّ الأحداث في شوارع هذه المدينة وينكشف الغطاء عن الكثير من الأمور الغامضة خلال حلقـات هذا الأنمي .",
+  "url": "/anime/durarara",
+  "story": "(( ميكـادو ريوقامي )) ، شـاب قد قدِمَ لهذِه المدينة بناءً على طلب من صديق طفُولته (( كيدا ماساومي )) . . عندما إلتقيـا ، قام (( كيدا )) بتحذير (( ميكادو )) من بعض الأشخاص الخطيرين في مدينة (( إيكيبوكورو )) ، أشهرُهُم : (( شيزو هيواجيما )) بطلٌ في الشجـار والآخر (( إيزايـا أوريهارا )) صـاحب هوايـة جمع المعلومـات وغيرهِم الكثيـر ، لكن أكثرهُـم غرابـة ! ! . . الدراجٌ مقطوع الرأس الذي يجوب المدينة بدراجتـه السوداء الناريـة والغريبة ، وأيضـاً مدينة (( إيكيبوكورو )) مشهورة بأنها تجمُّع للعديد من العصـابـات وأشهرها عصابة الـ (( دولارز ))، تمُرّ الأحداث في شوارع هذه المدينة وينكشف الغطاء عن الكثير من الأمور الغامضة خلال حلقـات هذا الأنمي .",
+  "year": "2010",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Miyuki Sawashiro، Toshiyuki Toyonaga، Mamoru Miyano، Kana Hanazawa، Hiroshi Kamiya، Daisuke Ono",
+  "genre": "أنمي، حركة ومغامرة، رسوم متحركة، دراما، غموض، جريمة",
+  "trailerId": "q5qlX4lWst0",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Durarara!!",
+    "mainDescription": "(( ميكـادو ريوقامي )) ، شـاب قد قدِمَ لهذِه المدينة بناءً على طلب من صديق طفُولته (( كيدا ماساومي )) . . عندما إلتقيـا ، قام (( كيدا )) بتحذير (( ميكادو )) من بعض الأشخاص الخطيرين في مدينة (( إيكيبوكورو )) ، أشهرُهُم : (( شيزو هيواجيما )) بطلٌ في الشجـار والآخر (( إيزايـا أوريهارا )) صـاحب هوايـة جمع المعلومـات وغيرهِم الكثيـر ، لكن أكثرهُـم غرابـة ! ! . . الدراجٌ مقطوع الرأس الذي يجوب المدينة بدراجتـه السوداء الناريـة والغريبة ، وأيضـاً مدينة (( إيكيبوكورو )) مشهورة بأنها تجمُّع للعديد من العصـابـات وأشهرها عصابة الـ (( دولارز ))، تمُرّ الأحداث في شوارع هذه المدينة وينكشف الغطاء عن الكثير من الأمور الغامضة خلال حلقـات هذا الأنمي .",
+    "metaDescription": "Durarara!! أنمي 2010 | (( ميكـادو ريوقامي )) | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Durarara!! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/42410"
+    }
+  },
+  "tmdb_id": 42410,
+  "tmdb_url": "https://www.themoviedb.org/tv/42410",
+  "original_title": "デュラララ!!"
+}

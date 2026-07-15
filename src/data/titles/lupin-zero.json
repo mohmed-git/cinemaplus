@@ -1,0 +1,363 @@
+{
+  "slug": "lupin-zero",
+  "clean_title": "Lupin Zero",
+  "raw_name": "انمي Lupin Zero",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/lupin-zero.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 6,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 6,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4511235902027"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/ngkijebl1evs"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/fsbwaqjry03q"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sblongvu.com/e/bi1ezv4gpc5o.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4511255038539"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/uuQhCKzQ#ahQtpvjgNcxYkqOkPrLqVBzGMZry3XEcEyGghPDEDhI"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sblongvu.com/e/rsjl7usxtq3d.html"
+            },
+            {
+              "id": 8,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/p8jzuwriggzj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4022000,
+          "tmdb_still_path": "/erp7ZcgQyHX9ixWOa14gd53If4c.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4526907525707"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/4azqde68uerl"
+            },
+            {
+              "id": 3,
+              "label": "streamsb",
+              "url": "https://sblongvu.com/e/i31ndy3u1vcq.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4526913030731"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/6uBkWCyC#FF2uOKXKomRs3Z40cIQtRdkRzlvXzQAIBMKcT0cPowM"
+            },
+            {
+              "id": 6,
+              "label": "streamsb - SD",
+              "url": "https://sblongvu.com/e/cljrkz3kge15.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4526913948235"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-16",
+          "runtime": 24,
+          "tmdb_episode_id": 4022162,
+          "tmdb_still_path": "/48KL21hWpkWm6XCcZwOJuCtBitR.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4526936820299"
+            },
+            {
+              "id": 2,
+              "label": "dstream",
+              "url": "https://dood.so/e/tfeq92b5y7td"
+            },
+            {
+              "id": 3,
+              "label": "streamsb",
+              "url": "https://sblongvu.com/e/ud1t6qxf0ju9.html"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4526970309195"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/vuZhSTIK#RUvfi8N7i-sIGRPWJj1s-yU8fxCUjB45DBOwh4ZxUFs"
+            },
+            {
+              "id": 6,
+              "label": "streamsb - SD",
+              "url": "https://sblongvu.com/e/avqqmswczyin.html"
+            },
+            {
+              "id": 7,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4526983678539"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-23",
+          "runtime": 24,
+          "tmdb_episode_id": 4022163,
+          "tmdb_still_path": "/q6FwztGGG1mJCjjZYCWZwXkUEwc.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4555214752331"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/uhxdp0s3cwix"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/x3e8e6yjgru7"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbchill.com/e/j2e2hy3yzmsf.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4555224779339"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/jdBWCIgJ#INQxg4tcJUNe_80i1FX_7HwWsooy-hdS-1h7onS2bjM"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbchill.com/e/l2wyv5ca8f91.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4555232119371"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/65vk7tfudxgb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2022-12-30",
+          "runtime": 24,
+          "tmdb_episode_id": 4022164,
+          "tmdb_still_path": "/fdyEShZHEp9WQvoeEmGwMjoaFRp.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4583658228299"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/tpodfjtectfe"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/2pcahozvt5oo"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbchill.com/e/amncdv7grpx6.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4583678282315"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/8ERVnSYS#dIw2tEWUQHe8vf5Ee67DD8KLb0uDw7c_lWoy_sME9oE"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbchill.com/e/004ou5ue1blo.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4583684835915"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/hwpiuo8gsyux"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4022165,
+          "tmdb_still_path": "/oRiXcr2aWVNkS1LgFSTYVKU228v.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/4607381408331"
+            },
+            {
+              "id": 2,
+              "label": "highload",
+              "url": "https://highload.to/e/7fh4qbjhrswz"
+            },
+            {
+              "id": 3,
+              "label": "dstream",
+              "url": "https://dood.so/e/0phgovi146dv"
+            },
+            {
+              "id": 4,
+              "label": "streamsb",
+              "url": "https://sbchill.com/e/ysdbk1tzsv1z.html"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/4607392483915"
+            },
+            {
+              "id": 6,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/1YhjWARK#eNDn_7yE7iBuc44aZMf3N-tBizOkYuf1cc-5ojiPyCs"
+            },
+            {
+              "id": 7,
+              "label": "streamsb - SD",
+              "url": "https://sbchill.com/e/wn5r66h58li4.html"
+            },
+            {
+              "id": 8,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4607400020555"
+            },
+            {
+              "id": 9,
+              "label": "highload - FHD",
+              "url": "https://highload.to/e/4rlwzlfwqy6y"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-01-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4022166,
+          "tmdb_still_path": "/AnAIRV4w2lAyZI36K7nsiKW44u7.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Lupin Zero ضمن أجواء رسوم متحركة، غموض، جريمة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و6 حلقة. في أنمي Lupin Zero تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف غموض، أكشن، سينين، خيال يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Lupin Zero على CINMAPRO عبر 1 موسم و6 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/lupin-zero",
+  "story": "يدور أنمي Lupin Zero ضمن أجواء رسوم متحركة، غموض، جريمة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و6 حلقة. في أنمي Lupin Zero تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف غموض، أكشن، سينين، خيال يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Lupin Zero على CINMAPRO عبر 1 موسم و6 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2022",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Tasuku Hatanaka، Shunsuke Takeuchi، Yoshito Yasuhara، Toshio Furukawa، Toa Yukinari، Saori Hayami",
+  "genre": "أنمي، رسوم متحركة، غموض، جريمة، حركة ومغامرة، كوميديا",
+  "trailerId": "y94sEEcTW2Q",
+  "rating": "7.2",
+  "imdb_rating": "7.2",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Lupin Zero",
+    "mainDescription": "يدور أنمي Lupin Zero ضمن أجواء رسوم متحركة، غموض، جريمة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2022، وتوضح بيانات TMDB أنه يضم 1 موسم و6 حلقة. في أنمي Lupin Zero تتحرك الحكاية حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تصنيف غموض، أكشن، سينين، خيال يظهر في طريقة بناء الحلقات، حيث يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Lupin Zero على CINMAPRO عبر 1 موسم و6 حلقة بروابط حديثة وسريعة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Lupin Zero أنمي 2022 | يدور أنمي Lupin Zero ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Lupin Zero من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/213044"
+    }
+  },
+  "tmdb_id": 213044,
+  "tmdb_url": "https://www.themoviedb.org/tv/213044",
+  "original_title": "LUPIN ZERO"
+}

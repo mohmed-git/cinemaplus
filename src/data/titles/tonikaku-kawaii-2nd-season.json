@@ -1,0 +1,599 @@
+{
+  "slug": "tonikaku-kawaii-2nd-season",
+  "clean_title": "Tonikaku Kawaii 2nd Season",
+  "raw_name": "انمي Tonikaku Kawaii 2nd Season",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/tonikaku-kawaii-2nd-season.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 2,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5046654208587"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=je1ADVuJNxfy7qDg"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5046684551755"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/iE5SxQAD#LrNajb_Kc-lEzaw8uc83QdKLG5AxNP_mubh73SkUbO0"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5046698641995"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jyA1Ulvgi85VJbYd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-08",
+          "runtime": 24,
+          "tmdb_episode_id": 4065960,
+          "tmdb_still_path": "/l18nsW97uzjHkYh1BBW8tzAFaFZ.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5104515353163"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=LB9CLIa5PDbghQn8"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8k3f9r"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5104561556043"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/IyJHSD5J#rE1BnqiHho7IIB7zPCBt4XLQobgL6udtyPmmirmH3JE"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5104576825931"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ipMSpk2lqaM4UBut"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8k3fgi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-15",
+          "runtime": 24,
+          "tmdb_episode_id": 4350275,
+          "tmdb_still_path": "/9RYPoBBQf7esuJfsMssiG07X0Zf.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5168742271563"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UtN64N0HldSCaOsH"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5168798698059"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/475X1ZyS#DnJenIeI0c-P27MwmxcAqqdbK66zBp7Ph0fMyTSXJFU"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5168823077451"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pHFbSkz3xwtXHSNb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-22",
+          "runtime": 24,
+          "tmdb_episode_id": 4353861,
+          "tmdb_still_path": "/nhHtZaUBva55NOtlTwH2dvjupRu.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5235094784587"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7rsx2TFjDdULopIQ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8kia6z"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5235143281227"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gnQhhIaI#IvKAKWCkZTpK0XENEwqyqZqz6f_13PlcbkAZwuLc6l4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5235163269707"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=g0L3xroWkRRP8TId"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8kiae5"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-04-29",
+          "runtime": 24,
+          "tmdb_episode_id": 4354769,
+          "tmdb_still_path": "/v57aN1MpcZya8Gs5tx63aF8A1HY.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5287311182411"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=TrldJjsCJfCF4waP"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8kp6pa"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5287364856395"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/YedjQQLI#d4UvWyGuvJB85VOJgHGraOmYaoOra87_SvmQ4AdsY0g"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5287380781643"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=AfczmsHfYoJcV74X"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8kp77e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-06",
+          "runtime": 24,
+          "tmdb_episode_id": 4354772,
+          "tmdb_still_path": "/r1QSFTj8jVkn0jIztxV1eNZ3kqH.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5384857520715"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=HuVNiDMCqjfLwWDU"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8kvxns"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5384922139211"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/1ahW0LaY#nKaJ3tCmEKnJ4AqtYlka07y9B6JQhka9gIkDU8S2EKI"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5384942979659"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qj3Aryqi1OKZiCFN"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4354773,
+          "tmdb_still_path": "/4tSulsJBvOVVU1YsfcqEj5MifP1.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5471057414731"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PEVM3eLUbj34KlgH"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5471118101067"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/II0RiCKY#sbsBl2Hfm0QlXpQ_1DSEX4wncA2llkpR03AfG7925Us"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5471153687115"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=3Vj80sdTm1uK5iKH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4354775,
+          "tmdb_still_path": "/n4RlY7xqOvGmd6PjCcXgJ7nesYt.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5552472590923"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=oSf8Snp7t2lFPlCQ"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5552509356619"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/dJsTjBrR#e0AGnQo3XZ61pfndQ359Q3kpVfkvSZhaA-7V5sojy3k"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5552519645771"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VmOczTghwMnFaFzB"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-05-27",
+          "runtime": 24,
+          "tmdb_episode_id": 4354776,
+          "tmdb_still_path": "/t7muNDWJlITMf45mE0NDP6fWzY0.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5580853611083"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pSzY21aHz3wQNiNj"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5580873402955"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/46E2kAoC#jdSyinwrEvVhwMxLcTH4klDtmCUBIMK2NcZhx1cVy_g"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5580880284235"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2P22uhCiX7VBwZGK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-03",
+          "runtime": 24,
+          "tmdb_episode_id": 4354777,
+          "tmdb_still_path": "/DdgjSEhEej3zALKOWv4SZSGatj.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5618698685003"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4gCdVAmghOV7r7sm"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5618720377419"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/cdUniQaR#NvwJ6zWRtR9gcq7GaPfivPeMPDxzb0EfQgnD_j6sMoE"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5618726537803"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7vGNRegVXZzOY2AD"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-10",
+          "runtime": 24,
+          "tmdb_episode_id": 4354778,
+          "tmdb_still_path": "/5L6kVKWwnY28ophQP5cTYI8KkR4.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5708327422539"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iJFNWbEr7ml82Bae"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5708353440331"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/9rcCwYCA#MfYSg-FSbb-BR8eg_s_Win-5jDfsNQYhmKdF2gGt2Hw"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5708365892171"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tdXEfex7foUpHjZK"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4354779,
+          "tmdb_still_path": "/5RwCiNznfwzBCIToXhCFzwpNRLH.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/5758786275915"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6Lc9qD5xtgfnIunz"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/5758795844171"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Rz0GiaIZ#WBHTtr2hFR3aawgq8ZXtapvHlFolmZoAiAGfBlX2p_Q"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/5758803839563"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=JOtTI4ukp5Ul3c05"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-06-24",
+          "runtime": 24,
+          "tmdb_episode_id": 4354780,
+          "tmdb_still_path": "/1xrv7yvfd629YLKYOTC8TeNTqUx.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "ناسا يوزاكي يقع في الحبّ من أوّل نظرة بعد التقائه مع فتاة غامضة تدعى تسوكاسا. عندما يعترف ناسا بمشاعره تجاهها، تردّ عليه قائلة\":\"سأواعدك، لكن فقط إذا تزوّجنا\". الحياة الزوجية الغالية والظريفة لناسا وتسوكاسا على وشك أن تبدأ!",
+  "url": "/anime/tonikaku-kawaii-2nd-season",
+  "story": "ناسا يوزاكي يقع في الحبّ من أوّل نظرة بعد التقائه مع فتاة غامضة تدعى تسوكاسا. عندما يعترف ناسا بمشاعره تجاهها، تردّ عليه قائلة\":\"سأواعدك، لكن فقط إذا تزوّجنا\". الحياة الزوجية الغالية والظريفة لناسا وتسوكاسا على وشك أن تبدأ!",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Akari Kito، Junya Enoki، Yu Serizawa، Sumire Uesaka، Konomi Kohara، Hitomi Ohwada",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "GE98zAW6D8o",
+  "rating": "8.5",
+  "imdb_rating": "8.5",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Tonikaku Kawaii 2nd Season",
+    "mainDescription": "ناسا يوزاكي يقع في الحبّ من أوّل نظرة بعد التقائه مع فتاة غامضة تدعى تسوكاسا. عندما يعترف ناسا بمشاعره تجاهها، تردّ عليه قائلة\":\"سأواعدك، لكن فقط إذا تزوّجنا\". الحياة الزوجية الغالية والظريفة لناسا وتسوكاسا على وشك أن تبدأ!",
+    "metaDescription": "Tonikaku Kawaii 2nd Season أنمي 2020 | ناسا يوزاكي يقع في الحبّ من أوّل نظرة بعد التقائه مع فتاة غامضة تدعى تسوكاسا | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Tonikaku Kawaii 2nd Season من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/100049"
+    }
+  },
+  "relatedAnimeSeasons": [
+    {
+      "slug": "tonikaku-kawaii",
+      "title": "Tonikaku Kawaii",
+      "url": "/anime/tonikaku-kawaii",
+      "season": 1,
+      "seasonLabel": "الموسم 1",
+      "episodesCount": 12,
+      "poster": "/images/anime/tonikaku-kawaii.jpg"
+    },
+    {
+      "slug": "tonikaku-kawaii-2nd-season",
+      "title": "Tonikaku Kawaii 2nd Season",
+      "url": "/anime/tonikaku-kawaii-2nd-season",
+      "season": 2,
+      "seasonLabel": "الموسم 2",
+      "episodesCount": 12,
+      "poster": "/images/anime/tonikaku-kawaii-2nd-season.png"
+    }
+  ],
+  "tmdb_id": 100049,
+  "tmdb_url": "https://www.themoviedb.org/tv/100049",
+  "original_title": "トニカクカワイイ"
+}

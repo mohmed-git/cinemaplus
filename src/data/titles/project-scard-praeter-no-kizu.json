@@ -1,0 +1,260 @@
+{
+  "slug": "project-scard-praeter-no-kizu",
+  "clean_title": "Project Scard: Praeter no Kizu",
+  "raw_name": "انمي Project Scard: Praeter no Kizu",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/project-scard-praeter-no-kizu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603546176075"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-09",
+          "runtime": 24,
+          "tmdb_episode_id": 2416049,
+          "tmdb_still_path": "/bSc0DlL7f1jUhVXD6hye2iLpNvt.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603549846091"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-16",
+          "runtime": 24,
+          "tmdb_episode_id": 2614599,
+          "tmdb_still_path": "/2b8pbjBIvqHYrcwGNnvvtEq84XG.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603550239307"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-23",
+          "runtime": 24,
+          "tmdb_episode_id": 2614600,
+          "tmdb_still_path": "/2qHWi1H7UTq0e5niXGCszLzWiaF.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603552926283"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-01-30",
+          "runtime": 24,
+          "tmdb_episode_id": 2614601,
+          "tmdb_still_path": "/pPzODsjCAHUaAt3vqs7u0mGrkyb.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603555088971"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2614602,
+          "tmdb_still_path": "/tLRsIO7wBAgyn12YMgQzNFyqEFo.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603557382731"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2614603,
+          "tmdb_still_path": "/kQzDImbcsbL5sYHCQzdmrAg49sT.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603559152203"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2614604,
+          "tmdb_still_path": "/p5ZLjlifGFYMIIvDCeC89VrjO50.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603561183819"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-02-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2614605,
+          "tmdb_still_path": "/oamSCPT1twcOzyHeRTMPSpxKPL5.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603563149899"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-06",
+          "runtime": 24,
+          "tmdb_episode_id": 2614606,
+          "tmdb_still_path": "/9ZBJ4cc0g51gscT9Wmu8dwm4ed0.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603564919371"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-13",
+          "runtime": 24,
+          "tmdb_episode_id": 2614607,
+          "tmdb_still_path": "/71gp3jruBDp6vMQ7SfbKEDWFjPx.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603565902411"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-20",
+          "runtime": 24,
+          "tmdb_episode_id": 2614608,
+          "tmdb_still_path": "/1HbwNlqVTRW5dq2QDaIv2quaGdj.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603567868491"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-03-27",
+          "runtime": 24,
+          "tmdb_episode_id": 2614609,
+          "tmdb_still_path": "/aSeR2x4UVUafB0XnSRb3R4onNu.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/4603570162251"
+            }
+          ],
+          "overview": null,
+          "air_date": "2021-04-03",
+          "runtime": 24,
+          "tmdb_episode_id": 2622165,
+          "tmdb_still_path": "/lcyGvtudaj0X0X9HnHsilUmYpYs.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Project Scard: Praeter no Kizu ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Project Scard: Praeter no Kizu حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، قوة خارقة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/project-scard-praeter-no-kizu",
+  "story": "يدور أنمي Project Scard: Praeter no Kizu ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Project Scard: Praeter no Kizu حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، قوة خارقة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2021",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Arthur Lounsbery، Atsushi Kosaka، Shoya Chiba، Junya Enoki، Takeaki Masuyama، Sho Nogami",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة",
+  "trailerId": "kf-4Y_PJd-k",
+  "rating": "3.3",
+  "imdb_rating": "3.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Project Scard: Praeter no Kizu",
+    "mainDescription": "يدور أنمي Project Scard: Praeter no Kizu ضمن أجواء رسوم متحركة، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2021، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Project Scard: Praeter no Kizu حول سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. ينتمي العمل إلى أجواء أكشن، قوة خارقة، لذلك يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و13 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Project Scard: Praeter no Kizu أنمي 2021 | يدور أنمي Project Scard: Praeter no Kizu ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Project Scard: Praeter no Kizu من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/108977"
+    }
+  },
+  "tmdb_id": 108977,
+  "tmdb_url": "https://www.themoviedb.org/tv/108977",
+  "original_title": "プレイタの傷"
+}

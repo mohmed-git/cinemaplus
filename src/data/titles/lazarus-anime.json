@@ -1,0 +1,585 @@
+{
+  "slug": "lazarus-anime",
+  "clean_title": "Lazarus",
+  "raw_name": "انمي Lazarus",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/lazarus.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=mz8T2TcSsZQgg6MF"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/8ysxw890ldyz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hijfc"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/y0v35utvf138"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=H9cdSAPQM8gy0rZf"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/54r2t8fixq35"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-06",
+          "runtime": 25,
+          "tmdb_episode_id": 4591064,
+          "tmdb_still_path": "/msD8CqPajMRo3VtRGuh85ZNIPfc.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lyBadAN282qYmGG0"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/f09pqid7gxw6"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9hvbye"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/4e1fe6wimy6w"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GfyKObSfCMxS06oy"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/fuzmxhm4slyo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-13",
+          "runtime": 25,
+          "tmdb_episode_id": 6031707,
+          "tmdb_still_path": "/qMoLjUbiHtE2NeGBabOo25kbrbP.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=UIep59mbIFogCIDg"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/92k3qd707vjw"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ic4fs"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/k605smz7nt95"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Z989E15XGtrssfZW"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/dnuyq9lmjqj0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-20",
+          "runtime": 25,
+          "tmdb_episode_id": 6065760,
+          "tmdb_still_path": "/7totlChbNX9oYF8WaOFrmv7frC7.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ChtzhWcvqsbqIYzt"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/5hyaneegugyq"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9iqmb8"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/kwmprzy9y3qg"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=myCfnwGuPhlHO5US"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/e9ivow0hcf0k"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-27",
+          "runtime": 25,
+          "tmdb_episode_id": 6065761,
+          "tmdb_still_path": "/bCnBswvlLcDxun2PUUwvhWw2wmz.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=oAadiDf8HUhxd06d"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/9q7ojax6vpyf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9j55i6"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/oaavypijxufw"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=zppvOoqksN90dgt3"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/hnle8yxh4fs1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-04",
+          "runtime": 25,
+          "tmdb_episode_id": 6065762,
+          "tmdb_still_path": "/cPUUaww66P1UTrFAOJZ13V1L1RD.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=U36ziRNONYjxufUy"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/ne6bxroo73oh"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jmdb0"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/8m7lvvfufggx"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tVGOvSV7b8mr0GfA"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/dvotbcrox4sz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-11",
+          "runtime": 25,
+          "tmdb_episode_id": 6065763,
+          "tmdb_still_path": "/y3D43IgXfWHgW3TWl5X6GvIbhuq.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MRKVvIp6DDZoeG58"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/fapy57aqmzxo"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9jzdrc"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/kn78n0juka0l"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=e8wfQ4JzL36mw6TF"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/tiia3n5hj5on"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-18",
+          "runtime": 25,
+          "tmdb_episode_id": 6065764,
+          "tmdb_still_path": "/5gcGM3bb3eQlsiCb7HzfFvanxDA.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XwfkZ4zAZvGbuEQ2"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/rwvuk47w0tiz"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9k9ce0"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/l9jso5rsbxtb"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ocWgwMzRRZb6Iu3g"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/f5h9lxl37fv7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-25",
+          "runtime": 25,
+          "tmdb_episode_id": 6065765,
+          "tmdb_still_path": "/qi1xAmCotNXiIVyr0TUIzgQoJG5.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=nildFZk1yTQi3TEj"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/64h2zku2cnwx"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9ld2ww"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/8xya7fc82npt"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YVB2pZmOVR02oma2"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/5xw6y8pb6uww"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-01",
+          "runtime": 25,
+          "tmdb_episode_id": 6065766,
+          "tmdb_still_path": "/fzpjOd7bYmwv5M6meehCoLo8sXG.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BYm9qDjuuYgErgf6"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/bgbp5nz69l6z"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9lnyym"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/c5lb01topzow"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=sLezJwHt0Grp4JsF"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/du2qcjxy21j0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-08",
+          "runtime": 25,
+          "tmdb_episode_id": 6065767,
+          "tmdb_still_path": "/hnSg0GBBGjAmGXN4BdDFtRji0kb.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=MJ41r6BzoYYjrgVV"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/pnfi20r6fjs4"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9lp5pg"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/85fs7bziewf2"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Tq54pBpHRtYiGPIh"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/bqa7og6q69jz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-15",
+          "runtime": 25,
+          "tmdb_episode_id": 6065768,
+          "tmdb_still_path": "/fdNRDRnP90rkLeDJdxpyzRDCFqn.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=RiVccWIYBpzfb0hj"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/hk27s2ajsngb"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9lqn9k"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/h15aa5jdkwtk"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=vOLe3Nf9Wh2srolQ"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/hlr53nwfepkz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-22",
+          "runtime": 25,
+          "tmdb_episode_id": 6065769,
+          "tmdb_still_path": "/3OWmm55wacrI8WCgWt4Qtu2zpp7.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Yk6hxM4j5OtCBcms"
+            },
+            {
+              "id": 2,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/6q4pp1f4x3fj"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9m6he4"
+            },
+            {
+              "id": 4,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/cih6vfpnx1m5"
+            },
+            {
+              "id": 5,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FL5m9GmmICzi7JnO"
+            },
+            {
+              "id": 6,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/1fmlto2d1zc0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-29",
+          "runtime": 25,
+          "tmdb_episode_id": 6065770,
+          "tmdb_still_path": "/6vWeBjVK2MEQYHNkgjiRyQ98UwQ.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "القصة تدور في عام 2052، حيث يعيش العالم في سلام وازدهار غير مسبوقين بعد أن تخلص البشر من المرض والألم بفضل دواء معجزة يُدعى \"هاپونا\" اخترعه العالم الحائز على جائزة نوبل في علوم الأعصاب، الدكتور سكینر. لكن بعد فترة قصيرة من إطلاق الدواء، يختفي الدكتور سكینر بشكل غامض. تمر ثلاث سنوات، ويعود سكینر، هذه المرة كمُنذر بنهاية مروعة، معلناً أن تأثير \"هاپونا\" مؤقت، وأن كل من تناول الدواء سيموت بعد حوالي ثلاث سنوات. في مواجهة هذا الخطر، يتم تشكيل فريق خاص مكون من خمسة عملاء من أنحاء العالم يُدعى \"لازاروس\" لملاحقة سكینر وتطوير لقاح ينقذ البشرية قبل فوات الأوان. هل سينجح الفريق في مهمته؟",
+  "url": "/anime/lazarus-anime",
+  "story": "القصة تدور في عام 2052، حيث يعيش العالم في سلام وازدهار غير مسبوقين بعد أن تخلص البشر من المرض والألم بفضل دواء معجزة يُدعى \"هاپونا\" اخترعه العالم الحائز على جائزة نوبل في علوم الأعصاب، الدكتور سكینر. لكن بعد فترة قصيرة من إطلاق الدواء، يختفي الدكتور سكینر بشكل غامض. تمر ثلاث سنوات، ويعود سكینر، هذه المرة كمُنذر بنهاية مروعة، معلناً أن تأثير \"هاپونا\" مؤقت، وأن كل من تناول الدواء سيموت بعد حوالي ثلاث سنوات. في مواجهة هذا الخطر، يتم تشكيل فريق خاص مكون من خمسة عملاء من أنحاء العالم يُدعى \"لازاروس\" لملاحقة سكینر وتطوير لقاح ينقذ البشرية قبل فوات الأوان. هل سينجح الفريق في مهمته؟",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "الإنجليزية",
+  "country": "اليابان",
+  "director": "Shinichiro Watanabe",
+  "stars": "Mamoru Miyano، Makoto Furukawa، Maaya Uchida، Yuma Uchida، Manaka Iwami، Megumi Hayashibara",
+  "genre": "أنمي، خيال علمي وفانتازيا، حركة ومغامرة، رسوم متحركة",
+  "trailerId": "LpG8vtFMkD0",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Lazarus",
+    "mainDescription": "القصة تدور في عام 2052، حيث يعيش العالم في سلام وازدهار غير مسبوقين بعد أن تخلص البشر من المرض والألم بفضل دواء معجزة يُدعى \"هاپونا\" اخترعه العالم الحائز على جائزة نوبل في علوم الأعصاب، الدكتور سكینر. لكن بعد فترة قصيرة من إطلاق الدواء، يختفي الدكتور سكینر بشكل غامض. تمر ثلاث سنوات، ويعود سكینر، هذه المرة كمُنذر بنهاية مروعة، معلناً أن تأثير \"هاپونا\" مؤقت، وأن كل من تناول الدواء سيموت بعد حوالي ثلاث سنوات. في مواجهة هذا الخطر، يتم تشكيل فريق خاص مكون من خمسة عملاء من أنحاء العالم يُدعى \"لازاروس\" لملاحقة سكینر وتطوير لقاح ينقذ البشرية قبل فوات الأوان. هل سينجح الفريق في مهمته؟",
+    "metaDescription": "Lazarus أنمي 2025 | القصة تدور في عام 2052 | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Lazarus من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/231003"
+    }
+  },
+  "tmdb_id": 231003,
+  "tmdb_url": "https://www.themoviedb.org/tv/231003",
+  "original_title": "Lazarus"
+}

@@ -1,0 +1,244 @@
+{
+  "slug": "assassins-pride",
+  "clean_title": "Assassins Pride",
+  "raw_name": "انمي Assassins Pride",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/assassins-pride.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=jqEOx9IBnlfkRXJf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-10",
+          "runtime": 23,
+          "tmdb_episode_id": 1856153,
+          "tmdb_still_path": "/usofx8mj8iWYu6xvngunrOQB3j7.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Nclc0ZHk2YPZEthv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-17",
+          "runtime": 23,
+          "tmdb_episode_id": 1949985,
+          "tmdb_still_path": "/50ucrGo1zbkJtWqkkemBqCnRIPb.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=tBv3LH5S8e0KrJWr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-24",
+          "runtime": null,
+          "tmdb_episode_id": 1949986,
+          "tmdb_still_path": "/nh0RnHVSi5uGQ9xRLarIhRQZzNX.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=w1HAhdzUPOHA2o57"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-10-31",
+          "runtime": 23,
+          "tmdb_episode_id": 1949987,
+          "tmdb_still_path": "/70gMEVo5gz0xkdRsH6xWakGTZRM.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=svoRgsQHzPjUMx7h"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-07",
+          "runtime": 23,
+          "tmdb_episode_id": 1949988,
+          "tmdb_still_path": "/z1i9P0rRbueh0nieeIcVLSOnkbv.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Gzuh8URhoAvvXLpM"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-14",
+          "runtime": 23,
+          "tmdb_episode_id": 1949989,
+          "tmdb_still_path": "/eodKqxClXzOPMp3rYuVU4r0Ropp.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=VZTQ2M1vQXvFlKcv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-21",
+          "runtime": 23,
+          "tmdb_episode_id": 1949990,
+          "tmdb_still_path": "/zk2IEPd3VBWvkZtDnYOGnkiNb07.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LfUUN0yhtqZoR9dx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-11-28",
+          "runtime": 23,
+          "tmdb_episode_id": 1949991,
+          "tmdb_still_path": "/aBTzCCMLFcAY85KuHOU7ufeoTvC.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5uN2Eg61RME2Ckeb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-05",
+          "runtime": 23,
+          "tmdb_episode_id": 1949992,
+          "tmdb_still_path": "/iKFFAnm1FOVra1Vaz8UwhnUAhEi.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1lqN6LnK0rlCjIqm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-12",
+          "runtime": 23,
+          "tmdb_episode_id": 1949993,
+          "tmdb_still_path": "/9XboAQKQcpydwVI8jGc4ZvOp43U.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mgIa9JBvwlL5jHg6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-19",
+          "runtime": 23,
+          "tmdb_episode_id": 1949994,
+          "tmdb_still_path": "/f5eTHB0NQjwmDmngLWdUStOnwx1.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8hSyDebi9v4fkSdH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2019-12-26",
+          "runtime": 23,
+          "tmdb_episode_id": 1949995,
+          "tmdb_still_path": "/iHNTsM4gLQJcETI0X3MVpXKTFj1.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Assassins Pride ضمن أجواء رسوم متحركة، حركة ومغامرة، جريمة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Assassins Pride تتحرك الحكاية حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "url": "/anime/assassins-pride",
+  "story": "يدور أنمي Assassins Pride ضمن أجواء رسوم متحركة، حركة ومغامرة، جريمة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Assassins Pride تتحرك الحكاية حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+  "year": "2019",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yuki Ono، Tomori Kusunoki، Yui Ishikawa، Ayane Sakura، Azumi Waki، Maaya Uchida",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، جريمة، دراما، غموض، كوميديا، خيال علمي وفانتازيا",
+  "trailerId": "R3myMLXpYjI",
+  "rating": "6.8",
+  "imdb_rating": "6.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Assassins Pride",
+    "mainDescription": "يدور أنمي Assassins Pride ضمن أجواء رسوم متحركة، حركة ومغامرة، جريمة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2019، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Assassins Pride تتحرك الحكاية حول انتقال إلى عالم بقواعد مختلفة يفرض على الشخصيات تعلم النجاة وفهم نظام القوة فيه. تمنح تصنيفات خيال العمل نبرة واضحة، فهو يبني عالمه عبر المهمات والتحالفات واكتشاف القوانين التي تحكم المغامرة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي العوالم الواسعة والمغامرات التي تكبر مع كل موسم.",
+    "metaDescription": "Assassins Pride أنمي 2019 | يدور أنمي Assassins Pride ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Assassins Pride من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/91299"
+    }
+  },
+  "tmdb_id": 91299,
+  "tmdb_url": "https://www.themoviedb.org/tv/91299",
+  "original_title": "アサシンズプライド"
+}

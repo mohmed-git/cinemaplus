@@ -1,0 +1,605 @@
+{
+  "slug": "snack-basue",
+  "clean_title": "Snack Basue",
+  "raw_name": "انمي Snack Basue",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/snack-basue.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7011314436683"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=YdszgV1TVOu0AdCJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rendu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7011334163019"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Y28nmYAa#rmX7-yzEFlL95YsZLc5fGmN4_NCxtsAGTxKTZmycFI4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7011339012683"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pHxiI6MobhXstaYU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-13",
+          "runtime": 24,
+          "tmdb_episode_id": 4808566,
+          "tmdb_still_path": "/xMAEjnN9vc9svJIbPTBKUl0D4zz.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7036458961483"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Pzb6wnJRpMiyxfA5"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rlyav"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7036470430283"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/sa9FmBTD#OTz1GXEI_mpO2M5IeCMeQaWaKYQ07YWKYnZf1DJTDZE"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7036479801931"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=lC7Utg5Avclpa8Zl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-20",
+          "runtime": 24,
+          "tmdb_episode_id": 4808568,
+          "tmdb_still_path": "/uq2PyKhYBLtebjmlyK47znSse0t.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7058277730891"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lmvArKiz6ZCDHMgi"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8rtgbi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7058287299147"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/0HFnxRRA#kFARTjWQPzbeXyvFjYXTJF0ySQO6oaLq3EVoD4kx1DE"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7058295294539"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7AhWFIiISPlTMR3H"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-01-27",
+          "runtime": 24,
+          "tmdb_episode_id": 5058488,
+          "tmdb_still_path": "/lMX6ZGjmlDyYK4VVovx8epuTpSR.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7080460290635"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7TbYRbKnwY8H8vYK"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8s2cwe"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7080469334603"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/c3tGGRzD#4K-wkafeAdIGCPFgSS2ZI0YlXdDw3Ltl-H_nMkmwhNY"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7080478640715"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=GKpD0rlmpi8gGcrc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-03",
+          "runtime": 24,
+          "tmdb_episode_id": 5058489,
+          "tmdb_still_path": "/hRIKlBA4xnWtJKBXEXuiMcJW9RX.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7102152051275"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PhFvjDQDfAsGPcA9"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7102160505419"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/MqEUxQbD#aYi-zy0ux9qtmI3y0qZgmEOjb-BVdKsjTXC6CWRZGSI"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7102166403659"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YcPDx7XHIN91i9ky"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-10",
+          "runtime": 24,
+          "tmdb_episode_id": 5058490,
+          "tmdb_still_path": "/fbWLsZLgutDb1fiMKiFcbBHzdnN.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7148189059659"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2gzteT49AvY8z9WX"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7148202166859"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ALNyQZQT#V7o_AqbCEAObUeX_ZU4HdZrTYBbh3s5ZeWN8ejNM0oM"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7148206295627"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LSYzFe1MWkcui3D4"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-17",
+          "runtime": 24,
+          "tmdb_episode_id": 5058491,
+          "tmdb_still_path": "/2w3W0sIkJmg8ZAVydqHOLxWxx0D.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7168466684491"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=GI1ZZvzXX3ba6nb8"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7168474024523"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/cesm0KaQ#PRPodgm8rV4Xsca_cNkMsBFCuV9Qbh1xbwih6XXjAO4"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7168479595083"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ny94306JXItfBI4D"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-02-24",
+          "runtime": 24,
+          "tmdb_episode_id": 5058493,
+          "tmdb_still_path": "/sgK8oexab5JKmuZNVNnEe2jdalj.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7168881396299"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=s8ponvEEYPMl6Dkn"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8tp0ku"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7168897649227"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/lXslGTZL#_yYYuhIOqoggWKMA9b0cs7rOGFnjBd1Nhkv_pmikjA4"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7168902761035"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FNhzjZHH5XOIsw9c"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8tp106"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-02",
+          "runtime": 24,
+          "tmdb_episode_id": 5058494,
+          "tmdb_still_path": "/nZ77gHEI0LrX1sseeKBusc8db0R.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7193860377163"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pRKFAKvazK0hlAeX"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8u3gmi"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7193882266187"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/tHdGVLxa#YTFID_c_oX-Rd_YftILK6kiFlUmTu6t86FHcUtnwEoc"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7193897601611"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qzg1hkuxDn2R4UiG"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8u3hgw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-09",
+          "runtime": 24,
+          "tmdb_episode_id": 5058495,
+          "tmdb_still_path": "/j6R9utbaEQM9LtcDdnOzzXN4s07.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7216183904843"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4RoRxAtCU74O1Odn"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7216191375947"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gzs3GB4B#7fPboCxEoByiMoCMXX4YoY14rWHkGDNpct7OLlFASio"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7216195570251"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Xz4YlDTiOyEHRaSO"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-16",
+          "runtime": 24,
+          "tmdb_episode_id": 5058496,
+          "tmdb_still_path": "/jPfCiAgBHe5AM7hmWnsj5hnPQvM.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7239401146955"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5PONauScjpuM6aQO"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8vex7e"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7239414057547"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ZW0mWToa#0ctHzuLTZ63SepP66PwJyMs4hfiVbqpPAc_1XNLoLu8"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7239421987403"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=5DFhuSSdWstiWhhH"
+            },
+            {
+              "id": 8,
+              "label": "dailymotion - FHD",
+              "url": "https://www.dailymotion.com/embed/video/x8vexn6"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-23",
+          "runtime": 24,
+          "tmdb_episode_id": 5058497,
+          "tmdb_still_path": "/pY4Z1l5CjGndRCD7bqkPEUrncDg.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=oQCui8tmpiTjHJFz"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/ljURSCgD#cmTh2QOEV3-8n7Lkq1aDZAwwkudFha356pKxgBsLvbs"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YZUtWOCfHk2bvvYH"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-03-29",
+          "runtime": 23,
+          "tmdb_episode_id": 5058499,
+          "tmdb_still_path": "/8Dn2XZTbXD9nAAQvidKlD48ZbA.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9RUWf3bYBrOC0sOm"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/QaklQQDK#BIf1stp6rQ3HvtDIBw4CWIDGKLSrO76mqe2Q1HkvtyA"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=e8bX3pUt24q5lOqb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-04-05",
+          "runtime": 23,
+          "tmdb_episode_id": 5261639,
+          "tmdb_still_path": "/yaXQwvSyVEKTEWgAZ9zqLeHaMIK.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Snack Basue ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Snack Basue حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف سينين، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Snack Basue على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "url": "/anime/snack-basue",
+  "story": "يدور أنمي Snack Basue ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Snack Basue حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف سينين، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Snack Basue على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Rie Takahashi، Kimiko Saito، Yohei Azakami، Fukushi Ochiai، Ryota Iwasaki، Jun Fukushima",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "p9hAV3KnZZc",
+  "rating": "7.4",
+  "imdb_rating": "7.4",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Snack Basue",
+    "mainDescription": "يدور أنمي Snack Basue ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2024، وتوضح بيانات TMDB أنه يضم 1 موسم و13 حلقة. يدور أنمي Snack Basue حول مواقف يومية أو غير مألوفة تتحول إلى كوميديا بسبب ردود فعل الشخصيات وتناقضاتها. تصنيف سينين، كوميدي يظهر في طريقة بناء الحلقات، حيث يمزج بين حلقات خفيفة ومشاهد تكشف طباع الأبطال بدون تعقيد زائد. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة Snack Basue على CINMAPRO عبر 1 موسم و13 حلقة بروابط حديثة وسريعة. يناسب المشاهدة الخفيفة عندما تريد عملا سريع الدخول ومباشر النبرة.",
+    "metaDescription": "Snack Basue أنمي 2024 | يدور أنمي Snack Basue ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Snack Basue من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/236930"
+    }
+  },
+  "tmdb_id": 236930,
+  "tmdb_url": "https://www.themoviedb.org/tv/236930",
+  "original_title": "スナックバス江"
+}

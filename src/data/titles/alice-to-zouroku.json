@@ -1,0 +1,244 @@
+{
+  "slug": "alice-to-zouroku",
+  "clean_title": "Alice to Zouroku",
+  "raw_name": "انمي Alice to Zouroku",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/alice-to-zouroku.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/feisfu8kioeb"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-02",
+          "runtime": 45,
+          "tmdb_episode_id": 1282060,
+          "tmdb_still_path": "/kQiF6Gv1LvWDZuFimuf4kMdiXnP.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/2ped4sbvcjbt"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-09",
+          "runtime": 24,
+          "tmdb_episode_id": 1302313,
+          "tmdb_still_path": "/4Sjt9UerMjWoqIMNbRc1psOmSzS.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/11haqktdzbto"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-16",
+          "runtime": 24,
+          "tmdb_episode_id": 1303931,
+          "tmdb_still_path": "/cfde2qOKTU8psB2r7BX5i9L3NWZ.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/1pogwm0cxw73"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-23",
+          "runtime": 24,
+          "tmdb_episode_id": 1306880,
+          "tmdb_still_path": "/mfu40A8dtEzk4PajAgmVUqnPUJ0.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/ju0j6ih1a8gj"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-04-30",
+          "runtime": 24,
+          "tmdb_episode_id": 1310430,
+          "tmdb_still_path": "/7wJyuEthBBXvJJzKVAK9KP45TgE.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/abo63u7b7lfp"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-14",
+          "runtime": 24,
+          "tmdb_episode_id": 1317374,
+          "tmdb_still_path": "/lw8PWEaYMmj2dPqvGqMaeWpjl5p.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7m6xm461sajx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-21",
+          "runtime": 24,
+          "tmdb_episode_id": 1319331,
+          "tmdb_still_path": "/79KQn63n1x6BFAtURZC43fi3cXE.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/rrtggbrguzrk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-05-28",
+          "runtime": 24,
+          "tmdb_episode_id": 1321835,
+          "tmdb_still_path": "/u7J51iihlDBnyUghEQrkjj7NNIO.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/xwub6ucon2xs"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1324112,
+          "tmdb_still_path": "/A2VISbxpIDFNnNfluROWimQfDF3.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/7son1b1y2kdi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1327429,
+          "tmdb_still_path": "/kRDJcRTLHlPvy9qBId519QhJ8Ti.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/mcq0wo1s2k25"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1330126,
+          "tmdb_still_path": "/cojBMYZK6zycLXQHJmaspyKLXzU.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish - FHD",
+              "url": "https://hgcloud.to/e/wlnuvqc5hg4e"
+            }
+          ],
+          "overview": null,
+          "air_date": "2017-06-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1331733,
+          "tmdb_still_path": "/jdiS4AVG2mYck1XhN07fxZnx6Sj.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Alice to Zouroku ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Alice to Zouroku على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، مغامرات، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/alice-to-zouroku",
+  "story": "يدور أنمي Alice to Zouroku ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Alice to Zouroku على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، مغامرات، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2017",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Hitomi Ohwada، Akio Otsuka، Aki Toyosaki، Ami Koshimizu، Akari Kito، Natsumi Fujiwara",
+  "genre": "أنمي، رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا",
+  "trailerId": "wotB39saqT0",
+  "rating": "6.9",
+  "imdb_rating": "6.9",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Alice to Zouroku",
+    "mainDescription": "يدور أنمي Alice to Zouroku ضمن أجواء رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2017، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد Alice to Zouroku على سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات غموض، مغامرات، سينين العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Alice to Zouroku أنمي 2017 | يدور أنمي Alice to Zouroku ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Alice to Zouroku من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/70594"
+    }
+  },
+  "tmdb_id": 70594,
+  "tmdb_url": "https://www.themoviedb.org/tv/70594",
+  "original_title": "アリスと蔵六"
+}

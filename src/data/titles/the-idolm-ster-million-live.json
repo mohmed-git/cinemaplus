@@ -1,0 +1,549 @@
+{
+  "slug": "the-idolm-ster-million-live",
+  "clean_title": "The iDOLM@STER Million Live!",
+  "raw_name": "انمي The iDOLM@STER Million Live!",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/the-idolm-ster-million-live.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6702074825291"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=EvJhocSXUjgclBmJ"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x8onvlo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6702094092875"
+            },
+            {
+              "id": 5,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/nvYgkTTZ#EV5z3Tdb3Ihzi8x_8crw02hCC4v_zLRzXmy2Ffmbb7g"
+            },
+            {
+              "id": 6,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6702100777547"
+            },
+            {
+              "id": 7,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=RN2eF1EkPPtLEKN0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-08",
+          "runtime": 24,
+          "tmdb_episode_id": 2347074,
+          "tmdb_still_path": "/4GyppcFtn3z366uGU9MVxbNMaaO.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6723115813451"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=x7sAQUjRIYSvfywU"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6723118041675"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/XrQAQa4L#Nu06HdixTlPwgrO1GF23ePLx9LPh3h9vMUwvIEW2ST4"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/video/6723121580619"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=y2Rc3cABfwHuXXfA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-15",
+          "runtime": 24,
+          "tmdb_episode_id": 4780677,
+          "tmdb_still_path": "/iL2d7F10g2FbyghQRLTEFt8OMy1.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6746896206411"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=ffQ5N76nTU98dmgC"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6746910493259"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/c6tlSaRY#6fbydc_BtGnJ9UdtulLgfly1sn-Ed1TH_yZ4zah7BX4"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6746915080779"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HFgUp0PNtMgbvJpe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-22",
+          "runtime": 24,
+          "tmdb_episode_id": 4780679,
+          "tmdb_still_path": "/pfbkbHd4fTJReaKGoJbQHziy9CX.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6769806805579"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=jcYF0cKOPaEMBfCw"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6769815587403"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/PdhzCRgK#yXdIH_siWddUkjj8SsRKYUR6qIypFCkcc2r0i5n1a5g"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6769823189579"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=W4oxeYEdPdp9AHRc"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-29",
+          "runtime": 24,
+          "tmdb_episode_id": 4780680,
+          "tmdb_still_path": "/wrVbKIyfuO354LnnsZwcVRNKQGO.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6792029473355"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=WknLmA1Z0gJRLTvb"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6792038713931"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/wfczSQgL#Wb4S8vRuCAvsKx6Bte9ig9rtFFLAxkIfUBg_GGsG5-Y"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6792045464139"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=K7qUA2kKtZd7dWs7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-05",
+          "runtime": 24,
+          "tmdb_episode_id": 4780681,
+          "tmdb_still_path": "/wZc6RQzUfCXzGJskjwuxsReQIz7.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6813827074635"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=SzYktGf4wuiHfzPP"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6813837494859"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/pSFl3CIb#8tR6igu-fO44CAtD1QoozBF38ZiHP70GvdOnD2gZQ5c"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6813843786315"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ED0mKXdZ82dIgDZA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-12",
+          "runtime": 24,
+          "tmdb_episode_id": 4780683,
+          "tmdb_still_path": "/jHarW8nf3JCGgHX26bDPFBeH5my.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6836139723339"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=QMJfxlySnrBOVGbm"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6836154075723"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/uRszUAza#3V-YrzCsuUed3o1nZd0XxF_VfIUdVEeQg-pocRnsPMg"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6836159646283"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OkpOkcc8FiKUwFpr"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-19",
+          "runtime": 24,
+          "tmdb_episode_id": 4780684,
+          "tmdb_still_path": "/ffdfs3oxisZydW6WadmZFwMmQs.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6859738516043"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7g6m8dy6LsXdfu1h"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6859752016459"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/BqUwHIaS#P7c_p4MDqWf8ooXthJmshXD7rBrPeBz0mIsLniKiz1Y"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6859758176843"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=2okOYJC7vXSkkjXI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-26",
+          "runtime": 24,
+          "tmdb_episode_id": 4780686,
+          "tmdb_still_path": "/5FmHDq35WwntByFqaMBolFkFCfG.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6881252805195"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=5NMH8fLwB9G8odac"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6881258637899"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/Vq8nFRKL#IZREj8o3lNaAE_7YbfQZu1xSJAZjctkbZypQC_xedDc"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6881273580107"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OKqY717oiSlQQweu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-03",
+          "runtime": 24,
+          "tmdb_episode_id": 4780687,
+          "tmdb_still_path": "/zYBxUs4dAPMOw8R9kwCZpBcocGr.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6903510796875"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Nht3xlaL8VCcmOzK"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6903519382091"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/tHlyyASD#aOIrdLp2q3PVZtGF_uCWA2ckVVNnIuUCYLsdskxU11I"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6903526525515"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1OSnzA8zKRtlBmUL"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-10",
+          "runtime": 24,
+          "tmdb_episode_id": 4780689,
+          "tmdb_still_path": "/eduKCIM0Du2IcF3d7WzJyU3Dq9n.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6924712938059"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=vfRZfIJiWNmsTd7q"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6924728928843"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/wGtimLoS#VBHLA3hhvLJ50ww3_5xMi8ifJlzl3hZBeE2kqhBSmMw"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6924734171723"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mwG8BKw1RoiiUqFC"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-17",
+          "runtime": 24,
+          "tmdb_episode_id": 4780690,
+          "tmdb_still_path": "/wczACx74Rihg6Dcyx4gPHRmrub8.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/6962945854027"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=DGjiI4heo860EMwj"
+            },
+            {
+              "id": 3,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/6962968922699"
+            },
+            {
+              "id": 4,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/gesAQCjR#eLm2reE3_bSTzHa8GWFwkuB9u1IuefWL5Ms85gtDwKs"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/6962974165579"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6twhHAuY3HT1gl1w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-24",
+          "runtime": 24,
+          "tmdb_episode_id": 4780691,
+          "tmdb_still_path": "/7AXT1yp1pkuFuxn6CcgdAto6CCJ.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي The iDOLM@STER Million Live! ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد The iDOLM@STER Million Live! على حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة The iDOLM@STER Million Live! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "url": "/anime/the-idolm-ster-million-live",
+  "story": "يدور أنمي The iDOLM@STER Million Live! ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد The iDOLM@STER Million Live! على حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة The iDOLM@STER Million Live! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": "Shinya Watada",
+  "stars": "Azusa Tadokoro، Machico، Haruka Yamazaki، Yu Kahara، Aimi",
+  "genre": "أنمي، رسوم متحركة",
+  "trailerId": null,
+  "rating": "5.8",
+  "imdb_rating": "5.8",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "The iDOLM@STER Million Live!",
+    "mainDescription": "يدور أنمي The iDOLM@STER Million Live! ضمن أجواء رسوم متحركة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. يعتمد The iDOLM@STER Million Live! على حكاية أنمي تتحرك بين شخصيات متعددة وأحداث تتدرج حسب طبيعة كل حلقة. تصنيف موسيقى يظهر في طريقة بناء الحلقات، حيث يعطي لكل موسم مساحة لتوضيح العلاقات والصراع قبل الانتقال إلى الحلقة التالية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يمكن متابعة The iDOLM@STER Million Live! على CINMAPRO عبر 1 موسم و12 حلقة بروابط حديثة وسريعة. يناسب من يريد متابعة مرتبة حسب الموسم والحلقة مع ترجمة عربية واضحة.",
+    "metaDescription": "The iDOLM@STER Million Live! أنمي 2023 | يدور أنمي The iDOLM@STER Million Live | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات The iDOLM@STER Million Live! من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/105902"
+    }
+  },
+  "tmdb_id": 105902,
+  "tmdb_url": "https://www.themoviedb.org/tv/105902",
+  "original_title": "アイドルマスター ミリオンライブ！"
+}

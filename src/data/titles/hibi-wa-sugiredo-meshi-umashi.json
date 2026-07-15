@@ -1,0 +1,364 @@
+{
+  "slug": "hibi-wa-sugiredo-meshi-umashi",
+  "clean_title": "Hibi wa Sugiredo Meshi Umashi",
+  "raw_name": "انمي Hibi wa Sugiredo Meshi Umashi",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/hibi-wa-sugiredo-meshi-umashi.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/vje7a1at5e4p"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/gpc5suje5xno"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/a17p8d1l7m9g"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-13",
+          "runtime": 24,
+          "tmdb_episode_id": 5875725,
+          "tmdb_still_path": "/9Ia3qbTcE2JJwBC8jg3CF9XtMW8.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/t5i4k421wz2z"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/r56k0pkpefvt"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/em7ryiqf9vjv"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-20",
+          "runtime": 24,
+          "tmdb_episode_id": 6074396,
+          "tmdb_still_path": "/pyrN5E4dhuSBifSEIFAypfoK9Lr.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://cybervynx.com/e/cda2go6hyzq0"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://cybervynx.com/e/pvajb7vbwd3t"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://cybervynx.com/e/pvr5dlwamh7v"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-04-27",
+          "runtime": 24,
+          "tmdb_episode_id": 6074397,
+          "tmdb_still_path": "/pAR0kQTZUXzTc3Atx0tjKCLbT61.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/wq4m6btkk85k"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/oawx5ira72yq"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/afb0ce759vk9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-04",
+          "runtime": 24,
+          "tmdb_episode_id": 6074398,
+          "tmdb_still_path": "/rnhTE1PS2xOf7qAkIEe6kjj5Mqc.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/zxhaow4yyg9v"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/d2ao63pcr61j"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/ti9j0fo1s7hx"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-11",
+          "runtime": 24,
+          "tmdb_episode_id": 6074399,
+          "tmdb_still_path": "/bBFecmNI2lNXIX8dBT7cf57cjxH.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/x3adnv27eeco"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/egjjpyr9br3j"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/sdxrqmhs31su"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-18",
+          "runtime": 24,
+          "tmdb_episode_id": 6074400,
+          "tmdb_still_path": "/3g4a858eXb8i4hFzVS5yJcUCIwD.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/9yabrlvk8r9f"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/bnedoff88bm9"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/wvn7zgb0f1t7"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-05-25",
+          "runtime": 24,
+          "tmdb_episode_id": 6074401,
+          "tmdb_still_path": "/ehwiwR48ZUoZdoBMwhaJN5Ywamk.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/13nlhcxghujt"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/y09kxl9six47"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/uimvao29w0h8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-01",
+          "runtime": 24,
+          "tmdb_episode_id": 6074402,
+          "tmdb_still_path": "/i8dZXeEneFYg5avL0crFXHjHj3M.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/li73vkpak4g9"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/nxkzgdtcq3l4"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/xgrg115ulc7c"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-08",
+          "runtime": 24,
+          "tmdb_episode_id": 6074403,
+          "tmdb_still_path": "/foycq9Vcy6rb3JFmzpueQf0p9Y5.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://dhcplay.com/e/pi1gc6yvoozn"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://dhcplay.com/e/88lacanf6vth"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://dhcplay.com/e/4bu551du6dyd"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-15",
+          "runtime": 24,
+          "tmdb_episode_id": 6074404,
+          "tmdb_still_path": "/p7c7GOiyhdoT4VpW7o1urx517R3.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/gwxkv9c8ld13"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/rhtkwwcq988w"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/so29r9ozziuh"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-22",
+          "runtime": 24,
+          "tmdb_episode_id": 6074405,
+          "tmdb_still_path": "/uwBtQHO0uIvt1EA8FCXJmcDOH31.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "streamwish",
+              "url": "https://gradehgplus.com/e/2y7azubz7aoe"
+            },
+            {
+              "id": 2,
+              "label": "streamwish - SD",
+              "url": "https://gradehgplus.com/e/6gcj4ymofrou"
+            },
+            {
+              "id": 3,
+              "label": "streamwish - FHD",
+              "url": "https://gradehgplus.com/e/lpsxwp2bnab3"
+            }
+          ],
+          "overview": null,
+          "air_date": "2025-06-29",
+          "runtime": 24,
+          "tmdb_episode_id": 6074406,
+          "tmdb_still_path": "/9DWHSnWE1R2FKbFZmafn3PA2KA9.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Hibi wa Sugiredo Meshi Umashi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Hibi wa Sugiredo Meshi Umashi تتحرك الحكاية حول تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تمنح تصنيفات شريحة من الحياة العمل نبرة واضحة، فهو يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "url": "/anime/hibi-wa-sugiredo-meshi-umashi",
+  "story": "يدور أنمي Hibi wa Sugiredo Meshi Umashi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Hibi wa Sugiredo Meshi Umashi تتحرك الحكاية حول تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تمنح تصنيفات شريحة من الحياة العمل نبرة واضحة، فهو يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+  "year": "2025",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Hana Shimano، Ai Kakuma، Yoshino Aoyama، Natsune Inui، Saya Aizawa",
+  "genre": "أنمي، رسوم متحركة، كوميديا",
+  "trailerId": "6W9eUE1WRYA",
+  "rating": "7.6",
+  "imdb_rating": "7.6",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Hibi wa Sugiredo Meshi Umashi",
+    "mainDescription": "يدور أنمي Hibi wa Sugiredo Meshi Umashi ضمن أجواء رسوم متحركة، كوميديا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2025، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Hibi wa Sugiredo Meshi Umashi تتحرك الحكاية حول تفاصيل يومية داخل المدرسة أو الحياة القريبة من الشخصيات وما تصنعه من صداقات وقرارات. تمنح تصنيفات شريحة من الحياة العمل نبرة واضحة، فهو يتقدم بهدوء عبر مواقف متتابعة تكشف طباع كل شخصية. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب الحكايات الهادئة التي تعتمد على العلاقات أكثر من الصخب.",
+    "metaDescription": "Hibi wa Sugiredo Meshi Umashi أنمي 2025 | يدور أنمي Hibi wa Sugiredo Meshi Umashi ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Hibi wa Sugiredo Meshi Umashi من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/281042"
+    }
+  },
+  "tmdb_id": 281042,
+  "tmdb_url": "https://www.themoviedb.org/tv/281042",
+  "original_title": "日々は過ぎれど飯うまし"
+}

@@ -1,0 +1,544 @@
+{
+  "slug": "gimai-seikatsu",
+  "clean_title": "Gimai Seikatsu",
+  "raw_name": "انمي Gimai Seikatsu",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/gimai-seikatsu.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7567858731595"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=lKqW1qxxpcn7fpyR"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91ipzo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7567869348427"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7567873280587"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7I5vYt5Quv1AQeWG"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-04",
+          "runtime": 24,
+          "tmdb_episode_id": 3849552,
+          "tmdb_still_path": "/kmtVzRv0nvDS55GyEsm908b9zDx.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7588536846923"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wDXiXWL6B1ZT3WEf"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x91yheq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7588542810699"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7588547332683"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=aHfYtqA2yHdGfhRw"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-11",
+          "runtime": 24,
+          "tmdb_episode_id": 5444392,
+          "tmdb_still_path": "/8JRIwn9WyvYaiRX1LY9EYFLFLwJ.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7609810160203"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=r0j12f2WVV6poI9i"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92ed96"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7609816058443"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7609821497931"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=cquHiXVqg6cSNu3i"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-18",
+          "runtime": 24,
+          "tmdb_episode_id": 5448131,
+          "tmdb_still_path": "/eO7C7Kf7SZiigX1CylJjClo0PMT.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7633612376651"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Nw0FAN4mqEyI9oFN"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x92vhmk"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7633615653451"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7633619061323"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HZcPQNovHbQEbdTQ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-07-25",
+          "runtime": 24,
+          "tmdb_episode_id": 5448132,
+          "tmdb_still_path": "/t1zCEOt0UGBIzmKxJ0BSDqVloRL.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7654249204299"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=PWZT6Rx7DcoATN0B"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x93bxbm"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7654259886667"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7654264015435"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=wyIfWM2R0FnsWBiJ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-01",
+          "runtime": 24,
+          "tmdb_episode_id": 5448133,
+          "tmdb_still_path": "/kaYtOzfkFi3Qw2uaIyLpN5NG61x.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7682563639883"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=JV9SbOFKKjOSxij1"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x93pndu"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7682571766347"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7682573535819"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=fCGxl9ZJZuFDgjsR"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-08",
+          "runtime": 24,
+          "tmdb_episode_id": 5448134,
+          "tmdb_still_path": "/yFwCQ5O9597xcZ5eVkAJG3XYpXd.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7708887616075"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kHIL7QPw8Fj5rvTB"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x9431ga"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7708893121099"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7708895021643"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BEJkS8zjtIJVlnWI"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-15",
+          "runtime": 24,
+          "tmdb_episode_id": 5448135,
+          "tmdb_still_path": "/y5wEkflt677fi9h3WyOgeRHlvoo.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7728785197643"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=4a1EhBT0rUPbYYAl"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x94flmo"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7728794241611"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7728800270923"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BAaVqSDdyg5JMeO9"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-22",
+          "runtime": 24,
+          "tmdb_episode_id": 5448136,
+          "tmdb_still_path": "/4ny13wwyW1S9fPS7dpy9KFldDQz.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7750574475851"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iMzQfVsFaXeOgPCk"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x94t25i"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7750579522123"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7750582274635"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=LrOhj91j8uIpTLyl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-08-29",
+          "runtime": 24,
+          "tmdb_episode_id": 5448137,
+          "tmdb_still_path": "/tExdpWLobUwx5Yd3NXQ3zklObdj.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7770911672907"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=7fTpx3MC4I7vkc6t"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x957f2a"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7770918816331"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7770922420811"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pP9wXIQyNsngFQN1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-05",
+          "runtime": 24,
+          "tmdb_episode_id": 5448138,
+          "tmdb_still_path": "/5NnibpjT5GHp1SHYl6H3ZSUqrKL.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7795049040459"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=2PvUeeIdRH1y8u8p"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x95kmuq"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7795050482251"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7795051268683"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=q4Zy3B9BsCs1qvvX"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-12",
+          "runtime": 24,
+          "tmdb_episode_id": 5448139,
+          "tmdb_still_path": "/rAJsthjqKtZkjNFnJZ7iugpf5Cm.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru",
+              "url": "https://ok.ru/videoembed/7814317607499"
+            },
+            {
+              "id": 2,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=0kOtxhUdWiRZFQn6"
+            },
+            {
+              "id": 3,
+              "label": "dailymotion",
+              "url": "https://www.dailymotion.com/embed/video/x95wkje"
+            },
+            {
+              "id": 4,
+              "label": "ok.ru - SD",
+              "url": "https://ok.ru/videoembed/7814324161099"
+            },
+            {
+              "id": 5,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/7814328748619"
+            },
+            {
+              "id": 6,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8HDZTrQswTN2eBi1"
+            }
+          ],
+          "overview": null,
+          "air_date": "2024-09-19",
+          "runtime": 24,
+          "tmdb_episode_id": 5448140,
+          "tmdb_still_path": "/wxA0gM2pdtO7oj1PVa2s25j1udu.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يوتا أسامورا يحصل على أخت غير شقيقة جديدة بعد أن تزوج والده مرة أخرى، وهي ساكي أياسي، التي تُعتبر أجمل فتاة في المدرسة. يتعهدان بعدم التقارب الشديد، وعدم الخصام الكبير، والحفاظ على مسافة مبهمة ومريحة بينهما، بعد أن تعلما دروسًا مهمة عن علاقات الرجال والنساء من تجارب آبائهم السابقة.",
+  "url": "/anime/gimai-seikatsu",
+  "story": "يوتا أسامورا يحصل على أخت غير شقيقة جديدة بعد أن تزوج والده مرة أخرى، وهي ساكي أياسي، التي تُعتبر أجمل فتاة في المدرسة. يتعهدان بعدم التقارب الشديد، وعدم الخصام الكبير، والحفاظ على مسافة مبهمة ومريحة بينهما، بعد أن تعلما دروسًا مهمة عن علاقات الرجال والنساء من تجارب آبائهم السابقة.",
+  "year": "2024",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Kohei Amasaki، Yuki Nakashima، Minori Suzuki، Ayu Suzuki، Daiki Hamano، Chikahiro Kobayashi",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "_laWs_MfqN8",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Gimai Seikatsu",
+    "mainDescription": "يوتا أسامورا يحصل على أخت غير شقيقة جديدة بعد أن تزوج والده مرة أخرى، وهي ساكي أياسي، التي تُعتبر أجمل فتاة في المدرسة. يتعهدان بعدم التقارب الشديد، وعدم الخصام الكبير، والحفاظ على مسافة مبهمة ومريحة بينهما، بعد أن تعلما دروسًا مهمة عن علاقات الرجال والنساء من تجارب آبائهم السابقة.",
+    "metaDescription": "Gimai Seikatsu أنمي 2024 | يوتا أسامورا يحصل على أخت غير شقيقة جديدة بعد أن تزوج والده مرة أخرى | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Gimai Seikatsu من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/206629"
+    }
+  },
+  "tmdb_id": 206629,
+  "tmdb_url": "https://www.themoviedb.org/tv/206629",
+  "original_title": "義妹生活"
+}

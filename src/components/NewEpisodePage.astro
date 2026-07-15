@@ -1,0 +1,363 @@
+---
+/**
+ * Standalone EPISODE page for NEW (SSR) series/anime — the /w namespace.
+ *
+ * Mirrors the OLD EpisodePage.astro (same rich layout, same info fields, same
+ * buttons: watch / previous / next / back to work) but every link points at the
+ * /w + /gw SSR namespace via newDetailRoute / newSeasonRoute / newEpisodeRoute /
+ * newGatewayRoute, and the <title> intentionally drops the "سينما بلس" brand
+ * (Base `noBrand`) exactly like the new detail pages.
+ *
+ * All data helpers (findEpisode / getEpisodeNeighbors / sortedSeasons) are pure
+ * and route-agnostic, so they are reused as-is.
+ */
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import Grid from './Grid.astro';
+import SectionHeader from './SectionHeader.astro';
+import type { Title, TitleIndexEntry } from '../lib/types';
+import { findEpisode, getEpisodeNeighbors, sortedSeasons } from '../lib/episodeRoutes';
+import { SITE } from '../lib/site';
+import {
+  newDetailRoute,
+  newSeasonRoute,
+  newEpisodeRoute,
+  newGatewayRoute,
+} from '../lib/routes';
+import { SUB_BY_KEY, subcatRoute } from '../lib/subcategories';
+import { buildMainDescription, cleanBrand, getRatingInfo, getWorkTitle, splitGenres } from '../lib/detailContent';
+
+interface Props {
+  title: Title;
+  kind: 'series' | 'anime';
+  seasonNumber: number;
+  episodeNumber: number;
+  similar: TitleIndexEntry[];
+}
+
+const { title, kind, seasonNumber, episodeNumber, similar } = Astro.props;
+const workTitle = getWorkTitle(title as any);
+const typeLabel = kind === 'anime' ? 'أنمي' : 'مسلسل';
+const sectionTheme = kind === 'anime' ? 'anime' : 'series';
+const categoryLabel = kind === 'anime' ? 'أنمي' : 'مسلسلات';
+
+const titleRoute = newDetailRoute(title.slug);
+const { season, episode } = findEpisode(title, seasonNumber, episodeNumber);
+const currentSeason = season?.season ?? seasonNumber;
+const currentEpisode = episode?.episode ?? episodeNumber;
+const neighbors = getEpisodeNeighbors(title, currentSeason, currentEpisode);
+
+const sub = (title as any).subcategory as string | undefined;
+const subDef = sub ? SUB_BY_KEY[sub] : undefined;
+
+const episodeTitle = `${workTitle} الموسم ${currentSeason} الحلقة ${currentEpisode}`;
+// No brand suffix (owner request for new works).
+const pageTitle = `مشاهدة ${episodeTitle} مترجمة اون لاين`;
+const description = `شاهد ${typeLabel} ${workTitle} الموسم ${currentSeason} الحلقة ${currentEpisode} مترجمة بجودة عالية اون لاين مع روابط جميع المواسم والحلقات.`;
+const episodeOverview = cleanBrand(episode?.overview);
+const canWatchEpisode = (episode?.servers?.length || 0) > 0;
+const story = episodeOverview || buildMainDescription(title as any, kind as any, currentSeason + currentEpisode);
+const canonical = new URL(newEpisodeRoute(title.slug, currentSeason, currentEpisode), SITE.url).toString();
+const watchHref = newGatewayRoute(title.slug, currentSeason, currentEpisode);
+const genres = splitGenres(title.genre);
+const ratingInfo = getRatingInfo(title as any);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TVEpisode',
+  name: episodeTitle,
+  description,
+  episodeNumber: currentEpisode,
+  partOfSeason: {
+    '@type': 'TVSeason',
+    seasonNumber: currentSeason,
+    partOfSeries: {
+      '@type': 'TVSeries',
+      name: workTitle,
+      url: new URL(titleRoute, SITE.url).toString(),
+    },
+  },
+  image: title.poster || undefined,
+  inLanguage: cleanBrand(title.language) || 'ar',
+  url: canonical,
+};
+
+// Full season/episode list for in-page navigation (same as old page).
+const allSeasons = sortedSeasons(title);
+---
+
+<Base
+  title={pageTitle}
+  description={description}
+  canonical={canonical}
+  image={title.poster ?? undefined}
+  ogType="video.episode"
+  jsonLd={jsonLd}
+  section={sectionTheme}
+  noBrand
+>
+  <section class="container-app py-8 md:py-10">
+    <Breadcrumbs
+      items={[
+        { label: 'الرئيسية', href: '/' },
+        { label: categoryLabel, href: subDef ? subcatRoute(subDef.code) : titleRoute },
+        { label: workTitle, href: titleRoute },
+        { label: `الموسم ${currentSeason}`, href: newSeasonRoute(title.slug, currentSeason) },
+        { label: `الحلقة ${currentEpisode}` },
+      ]}
+    />
+
+    <div class="mt-6 glass-panel overflow-hidden">
+      <div class="relative grid grid-cols-1 gap-6 p-5 md:grid-cols-[220px_1fr] md:p-7">
+        <div class="absolute inset-0 -z-10">
+          {title.poster && <img src={title.poster} alt="" aria-hidden="true" loading="eager" referrerpolicy="no-referrer" class="h-full w-full scale-110 object-cover opacity-25 blur-3xl" />}
+          <div class="absolute inset-0 bg-gradient-to-l from-surface-0 via-surface-0/95 to-surface-0/80"></div>
+        </div>
+        <div class="mx-auto w-[190px] md:w-full">
+          <div class="relative aspect-[2/3] overflow-hidden rounded-2xl bg-surface-3 ring-1 ring-white/10">
+            {title.poster ? (
+              <img src={title.poster} alt={workTitle} loading="eager" decoding="async" referrerpolicy="no-referrer" class="h-full w-full object-cover" />
+            ) : (
+              <div class="flex h-full items-center justify-center p-4 text-center text-sm text-gray-400">{workTitle}</div>
+            )}
+            <div class="badge-hd absolute right-3 top-3">{title.quality || 'HD'}</div>
+          </div>
+        </div>
+        <div class="flex flex-col justify-center">
+          <div class="mb-4 flex flex-wrap items-center gap-2">
+            <span class="chip-brand">{typeLabel}</span>
+            {ratingInfo && (
+              <span class="chip-surface inline-flex items-center gap-1" title={`التقييم من ${ratingInfo.source}`}>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5 text-amber-400"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                {ratingInfo.value}
+                <span class="text-[10px] text-gray-400">{ratingInfo.source}</span>
+              </span>
+            )}
+            {title.year && <span class="chip-surface">{title.year}</span>}
+            <span class="chip-surface">الموسم {currentSeason}</span>
+            <span class="chip-surface">الحلقة {currentEpisode}</span>
+            <span class="chip-surface">{episode?.servers.length ?? 0} سيرفر</span>
+          </div>
+          <h1 class="font-display text-3xl font-extrabold leading-[1.15] text-white md:text-4xl">{episodeTitle}</h1>
+          {genres.length > 0 && (
+            <div class="mt-4 flex flex-wrap gap-2">
+              {genres.map((genre) => <span class="rounded-full border border-white/[0.06] bg-white/[0.04] px-3 py-1 text-xs text-gray-300">{genre}</span>)}
+            </div>
+          )}
+          <p class="mt-5 max-w-3xl text-sm leading-8 text-gray-300 md:text-base">{story}</p>
+          <div class="mt-6 flex flex-wrap gap-3">
+            {canWatchEpisode && (
+              <a href={watchHref} class="btn-primary w-full justify-center px-7 py-3.5 text-base sm:w-auto">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5">
+                  <path d="M8 5v14l11-7z" />
+                </svg>
+                مشاهدة الحلقة الآن
+              </a>
+            )}
+            <a href={titleRoute} class="btn-secondary w-full justify-center px-6 py-3.5 text-base sm:w-auto">
+              صفحة العمل
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-7 grid grid-cols-1 gap-7 lg:grid-cols-12">
+      <div class="space-y-6 lg:col-span-8">
+        <section class="glass-panel p-5 md:p-6">
+          <h2 class="mb-4 flex items-center gap-2 text-lg font-bold text-white">
+            <span class="flex h-6 w-1 rounded-full bg-gradient-to-b from-brand-400 to-gold-400"></span>
+            معلومات الحلقة
+          </h2>
+          <div class="grid grid-cols-1 gap-x-6 gap-y-2 text-sm sm:grid-cols-2">
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">العمل</span>
+              <span class="text-left font-semibold text-white">{workTitle}</span>
+            </div>
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">النوع</span>
+              <span class="text-left font-semibold text-white">{typeLabel}</span>
+            </div>
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">الموسم</span>
+              <span class="text-left font-semibold text-white">{currentSeason}</span>
+            </div>
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">الحلقة</span>
+              <span class="text-left font-semibold text-white">{currentEpisode}</span>
+            </div>
+            {episode?.title && episode.title !== `الحلقة ${currentEpisode}` && (
+              <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+                <span class="text-gray-400">عنوان الحلقة</span>
+                <span class="text-left font-semibold text-white">{episode.title}</span>
+              </div>
+            )}
+            {episode?.air_date && (
+              <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+                <span class="text-gray-400">تاريخ العرض</span>
+                <span class="text-left font-semibold text-white">{episode.air_date}</span>
+              </div>
+            )}
+            {episode?.runtime && (
+              <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+                <span class="text-gray-400">مدة الحلقة</span>
+                <span class="text-left font-semibold text-white">{episode.runtime} دقيقة</span>
+              </div>
+            )}
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">الجودة</span>
+              <span class="text-left font-semibold text-white">{title.quality || 'HD'}</span>
+            </div>
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">اللغة</span>
+              <span class="text-left font-semibold text-white">{cleanBrand(title.language) || 'مترجم'}</span>
+            </div>
+          </div>
+        </section>
+
+        {episodeOverview && (
+          <section class="glass-panel p-5 md:p-6">
+            <h2 class="mb-4 flex items-center gap-2 text-lg font-bold text-white">
+              <span class="flex h-6 w-1 rounded-full bg-gradient-to-b from-brand-400 to-gold-400"></span>
+              قصة الحلقة
+            </h2>
+            <p class="text-sm leading-8 text-gray-300 md:text-base">{episodeOverview}</p>
+          </section>
+        )}
+
+        <div class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+          {neighbors.previous ? (
+            <a
+              href={newEpisodeRoute(title.slug, neighbors.previous.season, neighbors.previous.episode)}
+              class="btn-secondary justify-center px-5 py-3"
+            >
+              الحلقة السابقة
+            </a>
+          ) : (
+            <span class="btn-secondary pointer-events-none justify-center px-5 py-3 opacity-50">الحلقة السابقة</span>
+          )}
+          {neighbors.next ? (
+            <a
+              href={newEpisodeRoute(title.slug, neighbors.next.season, neighbors.next.episode)}
+              class="btn-primary justify-center px-5 py-3"
+            >
+              الحلقة القادمة
+            </a>
+          ) : (
+            <span class="btn-primary pointer-events-none justify-center px-5 py-3 opacity-50">الحلقة القادمة</span>
+          )}
+        </div>
+
+        <!-- Full seasons / episodes list (links to each episode page) -->
+        <section class="glass-panel overflow-hidden" data-new-ep-seasons>
+          <div class="flex flex-wrap items-center gap-2 border-b border-white/[0.06] px-4 py-3">
+            {allSeasons.map((s) => (
+              <button
+                type="button"
+                class={`new-ep-season-tab tab ${s.season === currentSeason ? 'tab-active' : 'tab-inactive'}`}
+                data-season={s.season}
+              >
+                الموسم {s.season}
+                <span class="mr-1 text-[11px] opacity-75">({s.episodes?.length || 0})</span>
+              </button>
+            ))}
+          </div>
+          {allSeasons.map((s) => (
+            <div class={`new-ep-season-panel p-4 ${s.season === currentSeason ? '' : 'hidden'}`} data-season={s.season}>
+              <ul class="grid grid-cols-2 gap-2.5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+                {s.episodes.map((ep) => {
+                  const active = s.season === currentSeason && ep.episode === currentEpisode;
+                  return (
+                    <li>
+                      <a
+                        href={newEpisodeRoute(title.slug, s.season, ep.episode)}
+                        aria-current={active ? 'page' : undefined}
+                        class={`group flex items-center gap-3 rounded-xl border px-3 py-2.5 text-sm transition-all duration-300 ${active ? 'border-brand-500/60 bg-gradient-to-l from-brand-600/30 to-neon-fuchsia/15 text-white' : 'border-white/[0.05] bg-white/[0.03] text-gray-200 hover:border-brand-500/40 hover:bg-brand-600/15 hover:text-white'}`}
+                      >
+                        <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-brand-600/30 to-neon-fuchsia/20 text-brand-300 group-hover:text-white">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5"><path d="M8 5v14l11-7z" /></svg>
+                        </span>
+                        <div class="min-w-0 flex-1">
+                          <div class="font-semibold line-clamp-1">{ep.title || `الحلقة ${ep.episode}`}</div>
+                          <div class="text-[10px] text-gray-500 mt-0.5">الحلقة {ep.episode}</div>
+                        </div>
+                      </a>
+                    </li>
+                  );
+                })}
+              </ul>
+            </div>
+          ))}
+        </section>
+      </div>
+
+      <aside class="space-y-5 lg:col-span-4">
+        <div class="glass-panel overflow-hidden lg:sticky lg:top-24">
+          <div class="relative aspect-[2/3] w-full bg-surface-3">
+            {title.poster ? (
+              <img
+                src={title.poster}
+                alt={workTitle}
+                loading="lazy"
+                decoding="async"
+                referrerpolicy="no-referrer"
+                class="h-full w-full object-cover"
+              />
+            ) : (
+              <div class="flex h-full items-center justify-center p-6 text-center text-sm text-gray-400">{workTitle}</div>
+            )}
+            <div class="absolute inset-0 bg-gradient-to-t from-surface-0 via-transparent to-transparent"></div>
+            <div class="absolute bottom-0 right-0 left-0 p-4">
+              <a href={watchHref} class="btn-primary w-full justify-center px-5 py-3 text-sm">
+                مشاهدة الحلقة
+              </a>
+            </div>
+          </div>
+          <div class="space-y-2 p-5 text-sm">
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">العمل</span>
+              <a href={titleRoute} class="font-semibold text-brand-200 hover:text-white">{workTitle}</a>
+            </div>
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">المواسم</span>
+              <span class="font-semibold text-white">{title.seasons_count}</span>
+            </div>
+            <div class="flex justify-between gap-4 border-b border-white/[0.04] py-2">
+              <span class="text-gray-400">الحلقات</span>
+              <span class="font-semibold text-white">{title.episodes_count}</span>
+            </div>
+            <div class="flex justify-between gap-4 py-2">
+              <span class="text-gray-400">اللغة</span>
+              <span class="font-semibold text-white">{cleanBrand(title.language) || 'مترجم'}</span>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+
+    {similar.length > 0 && (
+      <div class="mt-14 md:mt-20">
+        <SectionHeader title="أعمال مشابهة" subtitle="اقتراحات من نفس التصنيف والأجواء" eyebrow="RELATED" />
+        <Grid items={similar} />
+      </div>
+    )}
+  </section>
+</Base>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-new-ep-seasons]').forEach((root) => {
+    const tabs = root.querySelectorAll<HTMLButtonElement>('.new-ep-season-tab');
+    const panels = root.querySelectorAll<HTMLElement>('.new-ep-season-panel');
+    tabs.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const key = btn.dataset.season;
+        tabs.forEach((b) => {
+          const active = b.dataset.season === key;
+          b.classList.toggle('tab-active', active);
+          b.classList.toggle('tab-inactive', !active);
+        });
+        panels.forEach((p) => p.classList.toggle('hidden', p.dataset.season !== key));
+      });
+    });
+  });
+</script>

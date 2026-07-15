@@ -1,0 +1,561 @@
+{
+  "slug": "helck",
+  "clean_title": "Helck",
+  "raw_name": "انمي Helck",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/helck.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=8zYR5vWl4WiUXNKU"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=8IeODhvhMppvv8gl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-07-12",
+          "runtime": 23,
+          "tmdb_episode_id": 3502875,
+          "tmdb_still_path": "/ry00iiSdu56JbTVq7m2khW9HAAV.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=McbRF090QRNLvf3t"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=92IjHVq4qfCIkW5w"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-07-19",
+          "runtime": 23,
+          "tmdb_episode_id": 4578365,
+          "tmdb_still_path": "/sYFbTfabwDuiaDENbNA7MjPSniL.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=O3NIOqRvty7wLvuf"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=pSy8Zp5GzHYK85lu"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-07-26",
+          "runtime": 23,
+          "tmdb_episode_id": 4578459,
+          "tmdb_still_path": "/dAji7OGfVYjtMWjgKBj3D3FYK6H.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=BTXdbDhpBi7xO04U"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=db8PLiFqWGb6gdMn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-02",
+          "runtime": 23,
+          "tmdb_episode_id": 4578460,
+          "tmdb_still_path": "/hjTO6aihWHbFct2mmYEaAw4UoEQ.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=m9yMN94WBYLt5vQg"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=6M1syn5rpbL2XonT"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-09",
+          "runtime": 23,
+          "tmdb_episode_id": 4578463,
+          "tmdb_still_path": "/z4KhCpwRPQJL8OxzshNfctaikYq.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=pHez4V2g57tCaWer"
+            },
+            {
+              "id": 2,
+              "label": "mega - SD",
+              "url": "https://mega.nz/embed/KvgFnSIA#SWIJKuMYkIzHyIMjvFk-F-k8FVm4GtJ03cAgc7mh2Rk"
+            },
+            {
+              "id": 3,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=Pd5ecRP5CeDyyhNe"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-16",
+          "runtime": 23,
+          "tmdb_episode_id": 4578464,
+          "tmdb_still_path": "/psxPZhXMGxevqmdKlDoURVytj8t.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=j9thLzyoG8nGGDzJ"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XBGcn7GwuljJEkuS"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-23",
+          "runtime": 23,
+          "tmdb_episode_id": 4578466,
+          "tmdb_still_path": "/7a48qdI6UXBeTqsY9GXGUXG6K90.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=qQp9BPFfFKqUSYOr"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=mBI6uMdnemz8RKIq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-08-30",
+          "runtime": 23,
+          "tmdb_episode_id": 4578467,
+          "tmdb_still_path": "/h0F3garceue5sLRH1cToNvT8yfd.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=XBDTusYDJLt18uNw"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ubCiEUS6fT0s7jwn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-09-06",
+          "runtime": 23,
+          "tmdb_episode_id": 4578468,
+          "tmdb_still_path": "/jgSL6Cn5RYq1JpOv8s9jkEn2Hhg.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=9S6r1oIjktwq7pdX"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OoqfblBtNKktztKE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-09-13",
+          "runtime": 23,
+          "tmdb_episode_id": 4578469,
+          "tmdb_still_path": "/Vd2zlW6cXsWd0XhrgFqf3O37fy.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=LU7vQ7e45LCm9Dez"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=89VWKB5EYW0lCqEz"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-09-20",
+          "runtime": 23,
+          "tmdb_episode_id": 4578471,
+          "tmdb_still_path": "/l1PQ3mPPy13T0B1ycnq4EpZXQzP.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=kdgcphd4O2ZzKiVe"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FDhZzILC801pXDdy"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-09-27",
+          "runtime": 23,
+          "tmdb_episode_id": 4578472,
+          "tmdb_still_path": "/6GVva0mdilz6v0PZl25tFglmkNa.jpg"
+        },
+        {
+          "episode": 13,
+          "title": "الحلقة 13",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=iesZnGcyhxFyxu9Q"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FILNGDpomFEcidkU"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-04",
+          "runtime": 23,
+          "tmdb_episode_id": 4671482,
+          "tmdb_still_path": "/4MUSvKfQOepLisOmKDbPebFFCwx.jpg"
+        },
+        {
+          "episode": 14,
+          "title": "الحلقة 14",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=wUYljtTyePk880Cc"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=l81Tn4kAVyJqQLas"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-11",
+          "runtime": 23,
+          "tmdb_episode_id": 4671483,
+          "tmdb_still_path": "/4480xKzpECm9ohzGxJPuXG3sy3b.jpg"
+        },
+        {
+          "episode": 15,
+          "title": "الحلقة 15",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=gRkZYvpBO2vnoCdO"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qQpjnMja2BLGO0bF"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-18",
+          "runtime": 23,
+          "tmdb_episode_id": 4671484,
+          "tmdb_still_path": "/m8wyz3P305Hbx2E4bSS49NtC1Oe.jpg"
+        },
+        {
+          "episode": 16,
+          "title": "الحلقة 16",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=tVNWzxlzcCDy0x62"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=1F3gTBkMJi74rR0T"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-10-25",
+          "runtime": 23,
+          "tmdb_episode_id": 4671485,
+          "tmdb_still_path": "/sOSkAtU7v7wpbJnFb1j7ClxjT0s.jpg"
+        },
+        {
+          "episode": 17,
+          "title": "الحلقة 17",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=Yuu1ysZEefJhLSIQ"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=kmoS04t7Q7ycmDhW"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-01",
+          "runtime": 23,
+          "tmdb_episode_id": 4671487,
+          "tmdb_still_path": "/cr65STeECx0wxv9nAWGBgpsI65n.jpg"
+        },
+        {
+          "episode": 18,
+          "title": "الحلقة 18",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=FrTV6mjOWRMOheVh"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=qClymjWnoA82idSo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-08",
+          "runtime": 23,
+          "tmdb_episode_id": 4671490,
+          "tmdb_still_path": "/ktkPhojZ0CDDzg0MpzIlN0CWVvL.jpg"
+        },
+        {
+          "episode": 19,
+          "title": "الحلقة 19",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=hjr6LWevSK7PCmfl"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=7ZcizVdbk34Y0rJn"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-15",
+          "runtime": 23,
+          "tmdb_episode_id": 4671493,
+          "tmdb_still_path": "/7MapOtuXA1w70TmCgHPnJ5AuNAc.jpg"
+        },
+        {
+          "episode": 20,
+          "title": "الحلقة 20",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=6Di9wPBbpzy7zL2K"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=QMEBk8SWJ5G2uPOf"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-22",
+          "runtime": 23,
+          "tmdb_episode_id": 4671497,
+          "tmdb_still_path": "/tv6ze8OhWL0gY9coyGO1m7iDRuk.jpg"
+        },
+        {
+          "episode": 21,
+          "title": "الحلقة 21",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=a6FBe50SF8zr8PyT"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=en7ET1xPngXAuUMZ"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-11-29",
+          "runtime": 23,
+          "tmdb_episode_id": 4671500,
+          "tmdb_still_path": "/xtsUJl5Gw1ErHU4pzciRP1cdmNH.jpg"
+        },
+        {
+          "episode": 22,
+          "title": "الحلقة 22",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=z2s7HqPL4JQfPbxe"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=80acFFIvdyFNhEUi"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-06",
+          "runtime": 23,
+          "tmdb_episode_id": 4671504,
+          "tmdb_still_path": "/qDbS02uEar4qaR5D8SpDtJa6iZ7.jpg"
+        },
+        {
+          "episode": 23,
+          "title": "الحلقة 23",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=OPyPzn1j8B5PyaZ2"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=a12QYrfuK5ZBb2U0"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-13",
+          "runtime": 23,
+          "tmdb_episode_id": 4671506,
+          "tmdb_still_path": "/hKlHj7OeZXq8HXq8ISnS7HNNOfY.jpg"
+        },
+        {
+          "episode": 24,
+          "title": "الحلقة 24",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa",
+              "url": "https://videa.hu/player?v=cbV27LND0tC9w3IY"
+            },
+            {
+              "id": 2,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=0vOE4qSMeepzTTbE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2023-12-20",
+          "runtime": 23,
+          "tmdb_episode_id": 4671510,
+          "tmdb_still_path": "/7Oa5vFHVU40CLQmgD0Uu6qCWUlC.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Helck ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Helck حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و24 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/helck",
+  "story": "يدور أنمي Helck ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Helck حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و24 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2023",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Katsuyuki Konishi، Mikako Komatsu، Yoshitsugu Matsuoka، Shiori Izawa، Shuichi Ikeda",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا",
+  "trailerId": "GV6R-46NoZY",
+  "rating": "7.0",
+  "imdb_rating": "7.0",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Helck",
+    "mainDescription": "يدور أنمي Helck ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، خيال علمي وفانتازيا، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2023، وتوضح بيانات TMDB أنه يضم 1 موسم و24 حلقة. يدور أنمي Helck حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. ينتمي العمل إلى أجواء أكشن، خيال، لذلك تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. صفحة CINMAPRO ترتب 1 موسم و24 حلقة لتبدأ من الحلقة المناسبة دون بحث طويل. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Helck أنمي 2023 | يدور أنمي Helck ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Helck من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/157571"
+    }
+  },
+  "tmdb_id": 157571,
+  "tmdb_url": "https://www.themoviedb.org/tv/157571",
+  "original_title": "Helck"
+}

@@ -1,0 +1,364 @@
+{
+  "slug": "absolute-duo",
+  "clean_title": "Absolute Duo",
+  "raw_name": "انمي Absolute Duo",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/absolute-duo.jpg",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "الحلقة 1",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434025720395"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/100EnpJ4AlzVuC0xkn1w2Zc86CxzWduPy/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/C9X0R-ediq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-01-04",
+          "runtime": 24,
+          "tmdb_episode_id": 1172967,
+          "tmdb_still_path": "/e8ukJMt2QvUzY9zGPCsmp63cSE4.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "الحلقة 2",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434028014155"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1iKSHr--qS3Y2GjUClmHRxTUFkgBD_RC4/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/l8XVISZGea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-01-11",
+          "runtime": 24,
+          "tmdb_episode_id": 1172968,
+          "tmdb_still_path": "/98MqDN58hHVWynVCW6UJYiwH5rh.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "الحلقة 3",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434037385803"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1VL-myEoBNXkUjb0sX7UoNMBkgC9tYMk2/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/aXj5s618iq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-01-18",
+          "runtime": 24,
+          "tmdb_episode_id": 1172969,
+          "tmdb_still_path": "/ewkgFs7gw8WN8oArfjTrlo56iuP.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "الحلقة 4",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434039548491"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1UkDSFj9EqQ9tDKPZ6FidqF6cx0Vb9Eab/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/L5VCYS-Kiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-01-25",
+          "runtime": 24,
+          "tmdb_episode_id": 1172970,
+          "tmdb_still_path": "/pxfyTm1kCPcwzFYw7HlCpV7Ix28.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "الحلقة 5",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434047806027"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1z12agPgBDT-3VzI-rFShmmdKl6KzilRs/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/3B1TJ2cbiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-02-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1172971,
+          "tmdb_still_path": "/g6Hmtw3FLtQl7uJYUPGEI64LVFK.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "الحلقة 6",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434041842251"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1pfEWFGEJJODx8BvZfzsgbjVkb2Ighs2B/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/Dg4SUWYJiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-02-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1172972,
+          "tmdb_still_path": "/sKRp3Y3mocLMKOWoHOdn0Foz34O.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "الحلقة 7",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434043742795"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1jjWlZyyDQhs-hIAh32hGSry0zXrp0Mo5/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/nJUgWkzeiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-02-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1172973,
+          "tmdb_still_path": "/fghrpR1WFUS3i1j9XUYjGPEFZLE.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "الحلقة 8",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434052852299"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1RlQHgcJWaUxX2qbh1lgwpc8VwrQeq_W9/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/M3OtLnSXea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-02-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1172974,
+          "tmdb_still_path": "/gZzDjmwIHv4182YtNNj5fFOFrAw.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "الحلقة 9",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434055473739"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/14IR3a7KEe8XszGrE6p3mEZrSNFEqLdlO/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/fNlvjJSkiq"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-03-01",
+          "runtime": 24,
+          "tmdb_episode_id": 1172975,
+          "tmdb_still_path": "/3zcWYzHJOeZo1XMhvjVTl0h8F66.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "الحلقة 10",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434057177675"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/1ECkpI5q3MGlct8K5s0yh2HDY0y1iLmSt/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/dpxvwJ8nea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-03-08",
+          "runtime": 24,
+          "tmdb_episode_id": 1172976,
+          "tmdb_still_path": "/9jqHZF1aMgatC54ylpBziyB796t.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الحلقة 11",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434059274827"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/11MkpwBaOSos7ubh394ZTuzHjtyop2B_h/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/4EuaFqhGea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-03-15",
+          "runtime": 24,
+          "tmdb_episode_id": 1172977,
+          "tmdb_still_path": "/soVBO9xapgxh4vowQqsG0hBlISG.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "الحلقة 12",
+          "servers": [
+            {
+              "id": 1,
+              "label": "ok.ru - FHD",
+              "url": "https://ok.ru/videoembed/2434061503051"
+            },
+            {
+              "id": 2,
+              "label": "google drive - FHD",
+              "url": "https://drive.google.com/file/d/140ynbk_Rufiu0Pus8unQqTiv7044Gz0B/preview"
+            },
+            {
+              "id": 3,
+              "label": "4shared - FHD",
+              "url": "https://www.4shared.com/web/embed/file/yxR1kG0Aea"
+            }
+          ],
+          "overview": null,
+          "air_date": "2015-03-22",
+          "runtime": 24,
+          "tmdb_episode_id": 1172978,
+          "tmdb_still_path": "/hLeDBEyvgCUEMRCaOTe04DBOenX.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Absolute Duo ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Absolute Duo من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، حريم، خارق للطبيعة، رومانسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "url": "/anime/absolute-duo",
+  "story": "يدور أنمي Absolute Duo ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Absolute Duo من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، حريم، خارق للطبيعة، رومانسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+  "year": "2015",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Nozomi Yamamoto، Yoshitsugu Matsuoka، Ayaka Suwa، Haruka Yamazaki، Nozomi Nishida، Kentaro Ito",
+  "genre": "أنمي، رسوم متحركة، كوميديا، حركة ومغامرة",
+  "trailerId": "XAakOQIb8h4",
+  "rating": "7.7",
+  "imdb_rating": "7.7",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Absolute Duo",
+    "mainDescription": "يدور أنمي Absolute Duo ضمن أجواء رسوم متحركة، كوميديا، حركة ومغامرة، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2015، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. تبدأ قصة Absolute Duo من سر غامض يضغط على الشخصيات ويدفعها لكشف ما تخفيه الأماكن والذكريات. تمنح تصنيفات أكشن، حريم، خارق للطبيعة، رومانسي العمل نبرة واضحة، فهو يتقدم الإيقاع عبر أسئلة صغيرة وخطر يتضح تدريجيًا بدل الاعتماد على مواجهة واحدة. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب محبي الأجواء المشحونة والتفاصيل التي تحتاج متابعة دقيقة.",
+    "metaDescription": "Absolute Duo أنمي 2015 | يدور أنمي Absolute Duo ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Absolute Duo من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/65764"
+    }
+  },
+  "tmdb_id": 65764,
+  "tmdb_url": "https://www.themoviedb.org/tv/65764",
+  "original_title": "アブソリュート・デュオ"
+}

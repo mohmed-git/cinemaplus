@@ -1,0 +1,244 @@
+{
+  "slug": "runway-de-waratte",
+  "clean_title": "Runway de Waratte",
+  "raw_name": "انمي Runway de Waratte",
+  "category": "anime",
+  "category_label": "أنمي",
+  "poster": "https://pub-7bd753a4463049929e562aa677ad4251.r2.dev/anime/runway-de-waratte.png",
+  "note": "تم إثراء بيانات هذا الأنمي من ملف Witanime مع استبعاد السيرفرات التالفة.",
+  "matched_poster": true,
+  "seasons_count": 1,
+  "episodes_count": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes_count": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "هذه قصتك",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=P2aZ9eg5kQJylUmV"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-11",
+          "runtime": 25,
+          "tmdb_episode_id": 1931275,
+          "tmdb_still_path": "/jdKiWQlUaqaYheofFZBHK4AcGqR.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "عالم المحترفين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=XfA9ZysclToinVCa"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-18",
+          "runtime": 25,
+          "tmdb_episode_id": 2008163,
+          "tmdb_still_path": "/1ToXlx9BEw6Bc5ncesdfjQrlpfk.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "ابتسمي في ممرّ العارضين",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YdntPsNgo3orDIRA"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-01-25",
+          "runtime": 25,
+          "tmdb_episode_id": 2008164,
+          "tmdb_still_path": "/fKSweNT7Mc6ujZ3wFtfSXyv0KTy.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "المواهب الشابّة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=IuflaQXBU3rYkhLE"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-01",
+          "runtime": 25,
+          "tmdb_episode_id": 2008165,
+          "tmdb_still_path": "/uEE9mZZ10o1jff3NaWkQCHzCQLe.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "أسلوب الفرد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=BSHNlxUwagxRIPVm"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-08",
+          "runtime": 25,
+          "tmdb_episode_id": 2008166,
+          "tmdb_still_path": "/d599KPv5URgY8WegyIbU4inP4Sd.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "التفوّق والنقص",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=ujT1AETINjLpBM8U"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-15",
+          "runtime": 25,
+          "tmdb_episode_id": 2008167,
+          "tmdb_still_path": "/3CsVViodTRSHl0c90o6DXF80yvW.jpg"
+        },
+        {
+          "episode": 7,
+          "title": "هالة",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=OKgFhCycCxtyFW1C"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-22",
+          "runtime": 25,
+          "tmdb_episode_id": 2008168,
+          "tmdb_still_path": "/dZodNSEdcgyVEM2pElJuohe4fKo.jpg"
+        },
+        {
+          "episode": 8,
+          "title": "قدرة المصمم",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=E61wq0PWnzYtLRAo"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-02-29",
+          "runtime": 25,
+          "tmdb_episode_id": 2008169,
+          "tmdb_still_path": "/qwB5xHEj4eh0SnbPmf6SQHEkCyk.jpg"
+        },
+        {
+          "episode": 9,
+          "title": "منافسون",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=YxylvHSsPKnOlUyk"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-07",
+          "runtime": 25,
+          "tmdb_episode_id": 2008170,
+          "tmdb_still_path": "/fl9EZ4k5PrLuV2hmTSHpZa7gQJ4.jpg"
+        },
+        {
+          "episode": 10,
+          "title": "لن أخسر",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=HBui6YiLaUlQf6ss"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-14",
+          "runtime": 25,
+          "tmdb_episode_id": 2008171,
+          "tmdb_still_path": "/orkvf3BYYMEMNgvzMa5qGpGHRcU.jpg"
+        },
+        {
+          "episode": 11,
+          "title": "الوعد",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=FoiGVnx2G7tNPDK8"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-21",
+          "runtime": 25,
+          "tmdb_episode_id": 2008172,
+          "tmdb_still_path": "/mrWKFSohbDzYJItLy6NIEdlDArL.jpg"
+        },
+        {
+          "episode": 12,
+          "title": "هذه قصتي",
+          "servers": [
+            {
+              "id": 1,
+              "label": "videa - FHD",
+              "url": "https://videa.hu/player?v=KdHLDf5Nn9dgnNAl"
+            }
+          ],
+          "overview": null,
+          "air_date": "2020-03-28",
+          "runtime": 25,
+          "tmdb_episode_id": 2008173,
+          "tmdb_still_path": "/cmWNGbjU1VP9AO5udHpdFGesqWY.jpg"
+        }
+      ]
+    }
+  ],
+  "description": "يدور أنمي Runway de Waratte ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Runway de Waratte تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، مدرسي، شريحة من الحياة، دراما العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "url": "/anime/runway-de-waratte",
+  "story": "يدور أنمي Runway de Waratte ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Runway de Waratte تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، مدرسي، شريحة من الحياة، دراما العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+  "year": "2020",
+  "quality": "FHD",
+  "duration": null,
+  "language": "اليابانية",
+  "country": "اليابان",
+  "director": null,
+  "stars": "Yumiri Hanamori، Natsuki Hanae، Ai Kayano، Yui Ishikawa، Hibiku Yamamura، Hikaru Akao",
+  "genre": "أنمي، رسوم متحركة، دراما",
+  "trailerId": "z1ve3-LVaD8",
+  "rating": "7.3",
+  "imdb_rating": "7.3",
+  "seoContent": {
+    "generatedAt": "2026-05-18",
+    "arabicTitle": "Runway de Waratte",
+    "mainDescription": "يدور أنمي Runway de Waratte ضمن أجواء رسوم متحركة، دراما، ويعتمد على حكاية تتطور عبر الشخصيات والمواجهات بدل الاكتفاء بفكرة واحدة. بدأ عرض العمل عام 2020، وتوضح بيانات TMDB أنه يضم 1 موسم و12 حلقة. في أنمي Runway de Waratte تتحرك الحكاية حول صراع مباشر يختبر القوة والولاء وقدرة الأبطال على تجاوز خصوم أقسى. تمنح تصنيفات شونين، مدرسي، شريحة من الحياة، دراما العمل نبرة واضحة، فهو تتحرك الحلقات بين تدريب ومواجهات وتغيرات تكشف ثمن الانتصار. وتوضح بيانات المصدر أن حالة العرض هي مكتمل. يتوفر العمل على CINMAPRO بترتيب يشمل 1 موسم و12 حلقة مع روابط مشاهدة محدثة. يناسب من يحب المعارك الواضحة وتطور الشخصيات خطوة بعد خطوة.",
+    "metaDescription": "Runway de Waratte أنمي 2020 | يدور أنمي Runway de Waratte ضمن أجواء رسوم متحركة | شاهد HD على CINMAPRO",
+    "highlights": "تم تحديث بيانات Runway de Waratte من TMDB مع ربط المواسم المتاحة وترتيب الحلقات داخل CINMAPRO. تظهر الصفحة القصة والتصنيفات والتقييم وروابط المشاهدة بدون خلط بين المواسم.",
+    "beforeWatchingPoints": [
+      "ابدأ من الحلقة الأولى إذا كان الأنمي قصصيًا أو يعتمد على تطور الشخصيات.",
+      "اختر السيرفرات الأولى لأنها أضيفت من القائمة الأحدث بعد تنظيف الروابط التالفة.",
+      "المشاهدة بجودة عالية أفضل خصوصًا في الأعمال التي تعتمد على الحركة أو التفاصيل البصرية."
+    ],
+    "sources": {
+      "tmdb": "https://www.themoviedb.org/tv/93688"
+    }
+  },
+  "tmdb_id": 93688,
+  "tmdb_url": "https://www.themoviedb.org/tv/93688",
+  "original_title": "ランウェイで笑って"
+}
