@@ -17,7 +17,7 @@
  *
  * Run as part of the build (prebuild) so the index always matches all.json.
  */
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { createReadStream, writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -47,12 +47,17 @@ function isAdult(t) {
   return ADULT_PATTERNS.some((re) => re.test(hay));
 }
 
-const all = JSON.parse(readFileSync(ALL_PATH, 'utf8'));
-
+// all.json is now ~150MB; JSON.parse(readFileSync) OOMs on small machines, so
+// carve out one top-level Title object at a time by tracking brace depth
+// (string/escape aware) — peak memory stays at ~one title.
 const index = [];
-for (const t of all) {
-  if (isAdult(t)) continue;
+let newCount = 0;
+
+function processObject(jsonText) {
+  const t = JSON.parse(jsonText);
+  if (isAdult(t)) return;
   const url = t.is_new ? `/w/${t.slug}` : `/${DETAIL_CODE[t.category] || 'f'}/${t.slug}`;
+  if (t.is_new) newCount++;
   index.push({
     s: t.slug,
     t: t.clean_title,
@@ -68,10 +73,57 @@ for (const t of all) {
   });
 }
 
-mkdirSync(OUT_DIR, { recursive: true });
-writeFileSync(OUT_PATH, JSON.stringify(index));
-const newCount = all.filter((t) => t.is_new && !isAdult(t)).length;
-const oldCount = index.length - newCount;
-console.log(
-  `[search-index] wrote ${index.length} entries (static: ${oldCount}, new/SSR: ${newCount}) → public/static/search-index.json`,
-);
+let buf = '';
+let depth = 0;
+let inString = false;
+let escaped = false;
+let started = false;
+let collecting = false;
+
+const stream = createReadStream(ALL_PATH, { encoding: 'utf8', highWaterMark: 1 << 20 });
+
+stream.on('data', (chunk) => {
+  for (let i = 0; i < chunk.length; i++) {
+    const ch = chunk[i];
+    if (!started) {
+      if (ch === '[') started = true;
+      continue;
+    }
+    if (collecting) {
+      buf += ch;
+      if (inString) {
+        if (escaped) escaped = false;
+        else if (ch === '\\') escaped = true;
+        else if (ch === '"') inString = false;
+        continue;
+      }
+      if (ch === '"') { inString = true; continue; }
+      if (ch === '{') depth++;
+      else if (ch === '}') {
+        depth--;
+        if (depth === 0) {
+          processObject(buf);
+          buf = '';
+          collecting = false;
+        }
+      }
+      continue;
+    }
+    if (ch === '{') {
+      collecting = true;
+      depth = 1;
+      buf = '{';
+    }
+  }
+});
+
+stream.on('end', () => {
+  mkdirSync(OUT_DIR, { recursive: true });
+  writeFileSync(OUT_PATH, JSON.stringify(index));
+  const oldCount = index.length - newCount;
+  console.log(
+    `[search-index] wrote ${index.length} entries (static: ${oldCount}, new/SSR: ${newCount}) → public/static/search-index.json`,
+  );
+});
+
+stream.on('error', (e) => { console.error(e); process.exit(1); });

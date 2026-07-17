@@ -61,3 +61,13 @@ core
 
 src/data/generated/tmdb-extra-cache.json
 exports/
+
+# topcinemaa merge intermediate artifacts (regenerable, large)
+scripts/__pycache__/
+scripts/data/tc-shards/
+scripts/data/tc-matched-keys.json
+scripts/data/topcinemaa-grouped.json
+scripts/data/topcinemaa-grouped-lean.json
+src/data/generated/new-from-topcinemaa.json
+src/data/generated/topcinemaa-new-built.json
+src/data/generated/topcinemaa-tmdb-cache.json
