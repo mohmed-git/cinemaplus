@@ -1,0 +1,84 @@
+---
+/**
+ * ReportButton — "🚨 السيرفر لا يعمل"
+ *
+ * A self-contained button that reports a broken server to the Telegram bot via
+ * POST /api/notify (type: "server_down"). It disables itself while sending and
+ * shows a success / failure message inline.
+ *
+ * Props:
+ *   - serverName: the label of the server being reported (e.g. "سيرفر 1")
+ *   - pageTitle:  the work / page title (for context in the Telegram message)
+ *
+ * This is a STATIC-context button (used when the server list is server-rendered).
+ * For the watch pages, where servers are drawn client-side, the same behaviour
+ * is generated dynamically — see g/[token].astro & gw/[token].astro.
+ */
+interface Props {
+  serverName: string;
+  pageTitle: string;
+}
+const { serverName, pageTitle } = Astro.props;
+---
+
+<span class="report-btn-wrap inline-flex items-center gap-2">
+  <button
+    type="button"
+    class="report-btn inline-flex items-center gap-1.5 rounded-lg border border-red-500/30 bg-red-500/10 px-2.5 py-1.5 text-[11px] font-bold text-red-300 transition-all duration-300 hover:bg-red-500/20 hover:border-red-500/50 hover:text-red-200 disabled:opacity-50 disabled:pointer-events-none"
+    data-server={serverName}
+    data-page={pageTitle}
+    aria-label={`الإبلاغ عن عطل في ${serverName}`}
+  >
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-3 w-3">
+      <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+      <line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>
+    </svg>
+    <span class="report-btn-label">🚨 السيرفر لا يعمل</span>
+  </button>
+  <span class="report-btn-status text-[11px] font-semibold" role="status" aria-live="polite"></span>
+</span>
+
+<script>
+  // Delegated handler: works for every ReportButton on the page.
+  document.addEventListener('click', async (evt) => {
+    const btn = (evt.target as HTMLElement)?.closest<HTMLButtonElement>('.report-btn');
+    if (!btn || btn.disabled) return;
+
+    const wrap = btn.closest('.report-btn-wrap');
+    const status = wrap?.querySelector<HTMLElement>('.report-btn-status');
+    const label = btn.querySelector<HTMLElement>('.report-btn-label');
+    const originalLabel = label?.textContent || '';
+
+    btn.disabled = true;
+    if (label) label.textContent = 'جاري الإرسال…';
+    if (status) { status.textContent = ''; status.className = 'report-btn-status text-[11px] font-semibold'; }
+
+    try {
+      const res = await fetch('/api/notify', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          type: 'server_down',
+          server: btn.dataset.server || '',
+          page: btn.dataset.page || (typeof location !== 'undefined' ? location.href : ''),
+        }),
+      });
+      const data = await res.json().catch(() => ({ ok: false }));
+
+      if (res.ok && data.ok) {
+        if (label) label.textContent = '✓ تم الإبلاغ';
+        if (status) { status.textContent = 'شكراً، تم إرسال البلاغ.'; status.classList.add('text-green-400'); }
+        // Keep it disabled after a successful report to avoid duplicate spam.
+        setTimeout(() => {
+          if (label) label.textContent = 'تم الإبلاغ';
+        }, 1500);
+      } else {
+        throw new Error(data.error || 'failed');
+      }
+    } catch {
+      if (label) label.textContent = originalLabel;
+      if (status) { status.textContent = 'تعذّر الإرسال، حاول لاحقاً.'; status.classList.add('text-red-400'); }
+      btn.disabled = false;
+    }
+  });
+</script>

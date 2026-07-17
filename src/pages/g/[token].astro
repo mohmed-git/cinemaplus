@@ -304,16 +304,30 @@ const dataJson = JSON.stringify(titleData);
     }
 
     function renderServers(ep: Episode) {
-      const html = ep.servers.map((sv, i) => `
-        <button type="button" class="server-btn group inline-flex items-center gap-2 rounded-xl ${i === 0 ? 'text-white' : 'bg-white/[0.04] border border-white/[0.06] text-gray-200 hover:bg-brand-500/10 hover:border-brand-500/30 hover:text-white'} px-4 py-2.5 text-sm font-semibold transition-all duration-300"
-          ${i === 0 ? 'style="background: linear-gradient(135deg, #7c3aed, #a855f7 50%, #d946ef); box-shadow: 0 6px 20px -4px rgba(168, 85, 247, 0.55), 0 0 0 1px rgba(167, 139, 250, 0.35) inset;"' : ''}
-          data-url="${escapeHtml(sv.url)}" data-idx="${i}">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-3.5 w-3.5">
-            <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
-          </svg>
-          ${escapeHtml(sv.label)}
-        </button>
-      `).join('');
+      const html = ep.servers.map((sv, i) => {
+        const label = sv.label || `سيرفر ${i + 1}`;
+        // Each server is wrapped so its "report broken" button sits right beside it.
+        return `
+        <span class="server-item inline-flex items-center gap-1.5">
+          <button type="button" class="server-btn group inline-flex items-center gap-2 rounded-xl ${i === 0 ? 'text-white' : 'bg-white/[0.04] border border-white/[0.06] text-gray-200 hover:bg-brand-500/10 hover:border-brand-500/30 hover:text-white'} px-4 py-2.5 text-sm font-semibold transition-all duration-300"
+            ${i === 0 ? 'style="background: linear-gradient(135deg, #7c3aed, #a855f7 50%, #d946ef); box-shadow: 0 6px 20px -4px rgba(168, 85, 247, 0.55), 0 0 0 1px rgba(167, 139, 250, 0.35) inset;"' : ''}
+            data-url="${escapeHtml(sv.url)}" data-idx="${i}">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-3.5 w-3.5">
+              <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+            </svg>
+            ${escapeHtml(label)}
+          </button>
+          <button type="button" class="report-server-btn inline-flex items-center gap-1 rounded-lg border border-red-500/25 bg-red-500/10 px-2 py-1.5 text-[11px] font-bold text-red-300 transition-all duration-300 hover:bg-red-500/20 hover:border-red-500/50 hover:text-red-200 disabled:opacity-50 disabled:pointer-events-none"
+            data-server="${escapeHtml(label)}" title="أبلغ إذا كان هذا السيرفر لا يعمل" aria-label="الإبلاغ عن عطل في ${escapeHtml(label)}">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-3 w-3">
+              <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+              <line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>
+            </svg>
+            <span class="report-label">🚨 لا يعمل</span>
+          </button>
+        </span>
+      `;
+      }).join('');
       serversList.innerHTML = html;
       serversCount.textContent = `${ep.servers.length} سيرفر`;
 
@@ -328,6 +342,37 @@ const dataJson = JSON.stringify(titleData);
           loading.classList.remove('hidden');
           setCurrentServer(url);
           frame.src = url;
+        });
+      });
+
+      // "Report broken server" → POST /api/notify (type: server_down)
+      serversList.querySelectorAll<HTMLButtonElement>('.report-server-btn').forEach((rb) => {
+        rb.addEventListener('click', async () => {
+          if (rb.disabled) return;
+          const lbl = rb.querySelector<HTMLElement>('.report-label');
+          const original = lbl?.textContent || '';
+          rb.disabled = true;
+          if (lbl) lbl.textContent = 'جاري الإرسال…';
+          try {
+            const res = await fetch('/api/notify', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                type: 'server_down',
+                server: rb.dataset.server || '',
+                page: `${data.clean_title} — ${location.href}`,
+              }),
+            });
+            const j = await res.json().catch(() => ({ ok: false }));
+            if (res.ok && j.ok) {
+              if (lbl) lbl.textContent = '✓ تم الإبلاغ';
+            } else {
+              throw new Error('failed');
+            }
+          } catch {
+            if (lbl) lbl.textContent = original;
+            rb.disabled = false;
+          }
         });
       });
     }

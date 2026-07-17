@@ -1,0 +1,102 @@
+---
+/**
+ * RequestForm — "اطلب فيلم أو مسلسل"
+ *
+ * A text field + submit button that sends a content request to the Telegram bot
+ * via POST /api/notify (type: "request_content"). Disables while sending and
+ * shows an inline success / failure message.
+ */
+---
+
+<form id="request-form" class="mx-auto max-w-xl" novalidate>
+  <label for="request-input" class="mb-2 block text-sm font-semibold text-gray-200">
+    اسم الفيلم أو المسلسل المطلوب
+  </label>
+
+  <div class="flex flex-col gap-3 sm:flex-row">
+    <input
+      id="request-input"
+      name="content"
+      type="text"
+      required
+      maxlength="200"
+      autocomplete="off"
+      placeholder="مثال: فيلم Inception 2010 — أو اسم مسلسل…"
+      class="input-neon flex-1 !py-3 text-sm"
+    />
+    <button
+      id="request-submit"
+      type="submit"
+      class="btn-primary shrink-0 justify-center px-6 py-3 text-sm font-bold disabled:opacity-50 disabled:pointer-events-none"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4">
+        <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+      </svg>
+      <span class="request-submit-label">إرسال الطلب</span>
+    </button>
+  </div>
+
+  <p id="request-status" class="mt-3 text-sm font-semibold min-h-[1.25rem]" role="status" aria-live="polite"></p>
+
+  <p class="mt-2 text-xs leading-relaxed text-gray-500">
+    اكتب اسم العمل بأكبر قدر من الدقة (الاسم + السنة إن أمكن) وسنحاول إضافته قريباً.
+  </p>
+</form>
+
+<script>
+  const form = document.getElementById('request-form') as HTMLFormElement | null;
+  const input = document.getElementById('request-input') as HTMLInputElement | null;
+  const submit = document.getElementById('request-submit') as HTMLButtonElement | null;
+  const status = document.getElementById('request-status') as HTMLElement | null;
+  const label = submit?.querySelector<HTMLElement>('.request-submit-label') || null;
+
+  function setStatus(text: string, kind: 'ok' | 'err' | '') {
+    if (!status) return;
+    status.textContent = text;
+    status.className = 'mt-3 text-sm font-semibold min-h-[1.25rem]' +
+      (kind === 'ok' ? ' text-green-400' : kind === 'err' ? ' text-red-400' : '');
+  }
+
+  form?.addEventListener('submit', async (evt) => {
+    evt.preventDefault();
+    if (!input || !submit) return;
+
+    const value = input.value.trim();
+    if (value.length < 2) {
+      setStatus('من فضلك اكتب اسم العمل المطلوب.', 'err');
+      input.focus();
+      return;
+    }
+
+    submit.disabled = true;
+    const original = label?.textContent || 'إرسال الطلب';
+    if (label) label.textContent = 'جاري الإرسال…';
+    setStatus('', '');
+
+    try {
+      const res = await fetch('/api/notify', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          type: 'request_content',
+          message: value,
+          page: typeof location !== 'undefined' ? location.href : '',
+        }),
+      });
+      const data = await res.json().catch(() => ({ ok: false }));
+
+      if (res.ok && data.ok) {
+        setStatus('✓ تم إرسال طلبك بنجاح، شكراً لك!', 'ok');
+        input.value = '';
+        if (label) label.textContent = '✓ تم الإرسال';
+        setTimeout(() => { if (label) label.textContent = original; submit.disabled = false; }, 2000);
+      } else {
+        throw new Error(data.error || 'failed');
+      }
+    } catch {
+      setStatus('تعذّر إرسال الطلب، حاول مرة أخرى لاحقاً.', 'err');
+      if (label) label.textContent = original;
+      submit.disabled = false;
+    }
+  });
+</script>

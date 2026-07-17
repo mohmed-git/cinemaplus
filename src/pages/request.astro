@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+import RequestForm from '../components/RequestForm.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '../lib/site';
+
+const title = 'اطلب فيلم أو مسلسل';
+const description = `لم تجد العمل الذي تبحث عنه على ${SITE.name}؟ اطلبه من هنا وسنحاول إضافته قريباً.`;
+---
+
+<Base title={title} description={description} section="home">
+  <section class="container-app py-10 md:py-16">
+    <div class="mx-auto max-w-3xl">
+      <Breadcrumbs items={[{ label: 'الرئيسية', href: '/' }, { label: 'اطلب عملاً' }]} />
+
+      <article class="glass-panel mt-6 p-6 md:p-10">
+        <div class="text-center">
+          <div class="mx-auto mb-5 flex h-16 w-16 items-center justify-center rounded-2xl bg-gradient-to-br from-brand-600 via-neon-violet to-neon-fuchsia text-white shadow-[0_0_24px_-4px_rgba(168,85,247,0.7)]">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-8 w-8">
+              <rect x="2" y="7" width="20" height="15" rx="2"/><path d="m17 2-5 5-5-5"/>
+            </svg>
+          </div>
+          <p class="mb-2 text-sm font-semibold text-brand-300">طلبات المحتوى</p>
+          <h1 class="font-display text-3xl font-extrabold text-white md:text-4xl">اطلب فيلم أو مسلسل</h1>
+          <p class="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-gray-400">
+            لم تجد العمل الذي تبحث عنه؟ اكتب اسمه في الخانة أدناه وسيصل طلبك إلينا مباشرة،
+            وسنعمل على إضافته في أقرب وقت ممكن.
+          </p>
+        </div>
+
+        <div class="mt-8">
+          <RequestForm />
+        </div>
+      </article>
+    </div>
+  </section>
+</Base>
