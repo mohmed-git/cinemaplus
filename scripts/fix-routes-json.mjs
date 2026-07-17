@@ -62,6 +62,7 @@ const routesPath = join(root, 'dist', '_routes.json');
 // the adapter's ASSETS fallthrough anyway, but excluding them keeps Worker
 // invocations to the bare minimum and the static pages 100% free/fast).
 const INCLUDE = [
+  '/api/*',               // SSR API routes (e.g. /api/notify — Telegram bot)
   '/d/*',                 // series episodes  (/d/<slug>/c/<s>/e/<e>) are SSR
   '/n/*',                 // anime  episodes  (/n/<slug>/c/<s>/e/<e>) are SSR
   '/w/*',                 // new CSV works (all SSR)
