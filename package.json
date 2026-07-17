@@ -4,9 +4,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/build-episode-shards.mjs && node scripts/build-search-index.mjs",
-    "build": "ASTRO_TELEMETRY_DISABLED=1 node scripts/build-episode-shards.mjs && node scripts/build-search-index.mjs && astro build && node scripts/fix-routes-json.mjs",
-    "dev": "node scripts/build-episode-shards.mjs && node scripts/build-search-index.mjs && astro dev --host 0.0.0.0",
+    "join": "node scripts/join-all-json.mjs",
+    "prebuild": "node scripts/join-all-json.mjs && node scripts/build-episode-shards.mjs && node scripts/build-search-index.mjs",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 node scripts/join-all-json.mjs && node scripts/build-episode-shards.mjs && node scripts/build-search-index.mjs && astro build && node scripts/fix-routes-json.mjs",
+    "dev": "node scripts/join-all-json.mjs && node scripts/build-episode-shards.mjs && node scripts/build-search-index.mjs && astro dev --host 0.0.0.0",
     "preview": "wrangler pages dev dist --ip 0.0.0.0 --port 3000",
     "astro": "astro",
     "data": "node scripts/build-data.mjs",
