@@ -16,7 +16,7 @@ import { fileURLToPath } from 'node:url';
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const genDir = join(root, 'src/data/generated');
 const ALL = join(genDir, 'all.json');
-const CHUNK = 60 * 1024 * 1024; // 60MB per part — comfortably under GitHub's 100MB
+const CHUNK = 45 * 1024 * 1024; // 45MB per part — under GitHub's 50MB warning threshold
 
 // clean old parts
 for (const f of readdirSync(genDir)) {
