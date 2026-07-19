@@ -15,28 +15,36 @@ import type { Category } from './site';
 /* ───────────────────────── category codes ─────────────────────────
  * Short opaque segments. Chosen so the URL reads like a random handle
  * rather than an English category name.
- *   movie  -> "f"  (single-segment library entry)
- *   series -> "d"
- *   anime  -> "n"
- * Listings live under the "x" namespace so /movies is no longer guessable:
- *   movies  listing -> /x/f
- *   series  listing -> /x/d
- *   anime   listing -> /x/n
- * The streaming gateway lives under "g" with an encoded token.
+ *
+ * URL REFRESH (v2): the detail/listing codes were rotated to brand-new values
+ * so every catalogue URL changes at once, prompting search engines to
+ * re-discover and re-index the whole site with fresh links. Because EVERY
+ * internal link is generated through this codec, the rotation propagates
+ * consistently across the entire site — page-to-page navigation stays intact.
+ * The WATCH gateway (GATEWAY_NS + encodeGateToken and the /gw prefix) is
+ * deliberately LEFT UNCHANGED so existing watch links keep working.
+ *   movie  -> "m"  (was "f")
+ *   series -> "s"  (was "d")
+ *   anime  -> "a"  (was "n")
+ * Listings live under the "c" namespace (was "x"):
+ *   movies  listing -> /c/m
+ *   series  listing -> /c/s
+ *   anime   listing -> /c/a
+ * The streaming gateway still lives under "g" with an encoded token (unchanged).
  */
 export const DETAIL_CODE: Record<Category, string> = {
-  movie: 'f',
-  series: 'd',
-  anime: 'n',
+  movie: 'm',
+  series: 's',
+  anime: 'a',
 };
 
 export const CODE_TO_CATEGORY: Record<string, Category> = {
-  f: 'movie',
-  d: 'series',
-  n: 'anime',
+  m: 'movie',
+  s: 'series',
+  a: 'anime',
 };
 
-export const LISTING_NS = 'x';
+export const LISTING_NS = 'c';
 export const GATEWAY_NS = 'g';
 // NEW (CSV-ingested) works live under their own opaque namespace so the old,
 // fully-static /f /d /n detail pages are left completely untouched. New works

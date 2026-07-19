@@ -1,0 +1,77 @@
+=====================================================================
+ حزمة تعديلات CinemaPlus — المهام D1 / D3 / D4 / D5
+ Commit: e453368  |  الفرع: main
+=====================================================================
+
+هذه الحزمة تحتوي فقط على الملفات "المعدّلة والمضافة والمنقولة" (17 ملفاً).
+انسخها فوق ملفات المشروع مع الحفاظ على بنية المجلدات (تستبدل الموجود).
+
+⚠️ ملاحظة مهمة: هذه الحزمة لا تنفّذ الحذف وإعادة التسمية تلقائياً.
+لكي يعمل المشروع بشكل صحيح يجب أيضاً تطبيق الحذف/النقل التالي يدوياً
+(أو الأفضل: اسحب الـ commit كاملاً من git بدل النسخ اليدوي).
+
+------------------------------------------------------------
+الملفات المعدّلة / المضافة (موجودة في هذه الحزمة):
+------------------------------------------------------------
+  astro.config.mjs                      (D5 - فلتر sitemap)
+  public/robots.txt                     (D5)
+  public/static/search-index.json       (D1+D4 - 13971 عنصر بروابط m/s/a)
+  scripts/build-episode-shards.mjs      (D1 - buckets لكل الأعمال)
+  scripts/build-search-index.mjs        (D1+D4)
+  scripts/fix-routes-json.mjs           (D1+D4)
+  src/components/Header.astro           (D1 - قائمة /c/m /c/s /c/a)
+  src/components/SeasonsTabs.astro      (D3 - أزرار مشاهدة مباشرة)
+  src/lib/routes.ts                     (D4 - الكود المركزي f→m d→s n→a x→c)
+  src/lib/titles.ts                     (D1 - تضمين الأعمال الجديدة)
+  src/pages/gw/[token].astro            (D1 - loadOldGateway)
+  src/pages/a/[slug].astro              (منقول من n/[slug].astro)
+  src/pages/m/[slug].astro              (منقول من f/[slug].astro)
+  src/pages/s/[slug].astro              (منقول من d/[slug].astro)
+  src/pages/c/a/[...page].astro         (منقول من x/n/)
+  src/pages/c/m/[...page].astro         (منقول من x/f/)
+  src/pages/c/s/[...page].astro         (منقول من x/d/)
+
+------------------------------------------------------------
+يجب حذفها من مشروعك (لم تعد موجودة):
+------------------------------------------------------------
+  src/pages/f/[slug].astro   (أصبح m/[slug].astro)
+  src/pages/d/[slug].astro   (أصبح s/[slug].astro)
+  src/pages/n/[slug].astro   (أصبح a/[slug].astro)
+  src/pages/x/f/[...page].astro   (أصبح c/m/)
+  src/pages/x/d/[...page].astro   (أصبح c/s/)
+  src/pages/x/n/[...page].astro   (أصبح c/a/)
+  src/pages/x/c/[code].astro
+  src/pages/d/[slug]/c/[season].astro
+  src/pages/d/[slug]/c/[season]/e/[episode].astro
+  src/pages/n/[slug]/c/[season].astro
+  src/pages/n/[slug]/c/[season]/e/[episode].astro
+  src/pages/w/[slug].astro
+  src/pages/w/[slug]/c/[season].astro
+  src/pages/w/[slug]/c/[season]/e/[episode].astro
+  src/pages/episodes-sitemap.xml.ts
+  src/pages/episodes-sitemap/[chunk].xml.ts
+  src/pages/new-sitemap.xml.ts
+  src/pages/new-sitemap/[chunk].xml.ts
+  src/components/EpisodePage.astro
+  src/components/EpisodicSeasonsList.astro
+  src/components/NewEpisodePage.astro
+  src/components/NewSeasonsTabs.astro
+  src/components/NewTitleDetailContent.astro
+  src/components/SeasonPage.astro
+  src/lib/episodeData.ts
+  src/lib/episodeSitemap.ts
+  src/lib/newSitemap.ts
+  src/lib/newWorks.ts
+  src/lib/similarLite.ts
+  src/lib/subcategories.ts
+  src/data/generated/new-routes.json
+  src/index.tsx
+  src/renderer.tsx
+
+------------------------------------------------------------
+✅ التوصية الأفضل بدل النسخ اليدوي:
+------------------------------------------------------------
+كل التعديلات محفوظة في git (commit e453368 على فرع main).
+عند البناء على Cloudflare سيتم تطبيق كل شيء تلقائياً (الحذف والنقل).
+البناء الكامل يجب أن يتم على Cloudflare CI (الساندبوكس لا يكفيه الذاكرة).
+=====================================================================

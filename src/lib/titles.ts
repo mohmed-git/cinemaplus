@@ -8,7 +8,7 @@
  */
 import type { Title, TitleIndexEntry } from './types';
 import { splitGenres } from './detailContent';
-import { detailRoute, newDetailRoute } from './routes';
+import { detailRoute } from './routes';
 import { isAdultTitle } from './contentSafety';
 
 /**
@@ -90,20 +90,22 @@ export function getAllTitles(): Title[] {
 }
 
 /**
- * Static (prerendered) catalogue only — EXCLUDES the freshly-ingested works
- * flagged `is_new`. Those new works (12k+) are served on-demand (SSR) via the
- * dedicated routes, so they must never enter a static `getStaticPaths()` (that
- * would emit 12k+ extra files and blow Cloudflare Pages' 20k-file limit and the
- * low-memory build). The existing detail/listing pages call this, so the old
- * catalogue keeps building exactly as before.
+ * Catalogue for a category — INCLUDES the CSV-ingested works flagged `is_new`.
+ *
+ * As of the "revert to static" change, new works are no longer SSR: they build
+ * as ordinary static detail pages under the SAME /f /d /n routes as the old
+ * catalogue. Merging episode pages into a single work page (each episode button
+ * links straight to the watch gateway, no per-episode page) keeps the total
+ * static page count at ~14.5k — safely under Cloudflare Pages' 20k-file limit —
+ * so there is no longer any reason to exclude `is_new`.
  */
 export function getStaticTitlesByCategory(category: Title['category']): Title[] {
-  return ALL_TITLES.filter((t) => t.category === category && !(t as any).is_new);
+  return ALL_TITLES.filter((t) => t.category === category);
 }
 
-/** Full catalogue (old + new) for a category — used by SSR listings/search. */
+/** Full catalogue (old + new) for a category. Alias of the static getter. */
 export function getTitlesByCategory(category: Title['category']): Title[] {
-  return ALL_TITLES.filter((t) => t.category === category && !(t as any).is_new);
+  return ALL_TITLES.filter((t) => t.category === category);
 }
 
 export function getTitleBySlug(slug: string): Title | undefined {
@@ -121,9 +123,8 @@ export function toIndexEntry(t: Title): TitleIndexEntry {
     poster: t.poster,
     seasons_count: t.seasons_count,
     episodes_count: t.episodes_count,
-    // NEW (CSV-ingested) works live in the SSR /w namespace; the old catalogue
-    // keeps the static /f /d /n detail routes.
-    url: (t as any).is_new ? newDetailRoute(t.slug) : detailRoute(t.category, t.slug),
+    // All works (old + new) now share the static /f /d /n detail routes.
+    url: detailRoute(t.category, t.slug),
     has_multiple_seasons: t.seasons_count > 1,
     year: t.year || null,
     genres,

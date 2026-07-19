@@ -13,21 +13,17 @@ function shouldIncludeInSitemap(page) {
   const pathname = page.startsWith('http') ? new URL(page).pathname : page;
   const normalized = pathname.replace(/\/$/, '');
 
-  // Exclude the opaque streaming gateway (/g/...) and the 404 page.
-  // NOTE: episode pages (/d|n/.../c/.../e/...) are now SSR (prerender = false)
-  // so Astro's static sitemap can never see them. They are published through a
-  // dedicated SSR sitemap INDEX at /episodes-sitemap.xml and advertised to
-  // crawlers via robots.txt (see public/robots.txt).
+  // Exclude the opaque watch gateways (/g/... old, /gw/... new) — both are
+  // SSR, `noindex`, per-work watch pages that must never be indexed.
   //
-  // IMPORTANT: we must NOT let /episodes-sitemap.xml (nor its /episodes-sitemap/*
-  // chunks) leak into the *regular* page sitemap as a plain <url> entry — that
-  // is what previously happened via `customPages`, and it made Google treat the
-  // episode sitemap as a normal content page instead of a sub-sitemap, so the
-  // episode URLs were never discovered.
+  // As of the "revert to static" change EVERY work (old + new) is a SINGLE
+  // static detail page under /f /d /n, so Astro's static sitemap now naturally
+  // enumerates all ~14.5k work pages — there are no more SSR episode/new-work
+  // sitemaps to stitch in. This is exactly the fresh, complete sitemap we want
+  // search engines to re-crawl after the URL refresh.
   if (normalized.startsWith('/g/')) return false;
+  if (normalized.startsWith('/gw/')) return false;
   if (normalized === '/404') return false;
-  if (normalized === '/episodes-sitemap') return false;
-  if (normalized.startsWith('/episodes-sitemap/')) return false;
   // The search page is intentionally `noindex` (dynamic, query-driven, thin/
   // duplicate results) — a noindex page must not appear in the sitemap.
   if (normalized === '/search') return false;

@@ -9,11 +9,13 @@
  *   - A static JSON fetched on demand keeps the page tiny, is cached by the CDN,
  *     and is guaranteed to contain EVERY public work (old + new).
  *
- * URL mapping mirrors src/lib/titles.ts → toIndexEntry:
- *   - is_new  → /w/<slug>     (SSR new works)
- *   - movie   → /f/<slug>
- *   - series  → /d/<slug>
- *   - anime   → /n/<slug>
+ * URL mapping mirrors src/lib/titles.ts → toIndexEntry (all works are now
+ * single static detail pages — no separate /w SSR namespace):
+ *   - movie   → /m/<slug>
+ *   - series  → /s/<slug>
+ *   - anime   → /a/<slug>
+ *
+ * DETAIL_CODE below MUST stay in sync with src/lib/routes.ts DETAIL_CODE.
  *
  * Run as part of the build (prebuild) so the index always matches all.json.
  */
@@ -26,7 +28,8 @@ const ALL_PATH = join(root, 'src/data/generated/all.json');
 const OUT_DIR = join(root, 'public/static');
 const OUT_PATH = join(OUT_DIR, 'search-index.json');
 
-const DETAIL_CODE = { movie: 'f', series: 'd', anime: 'n' };
+// Keep in sync with src/lib/routes.ts DETAIL_CODE (URL refresh v2).
+const DETAIL_CODE = { movie: 'm', series: 's', anime: 'a' };
 
 // ── adult filter (mirror of src/lib/contentSafety.ts) ──────────────────────
 const ADULT_PATTERNS = [
@@ -56,7 +59,9 @@ let newCount = 0;
 function processObject(jsonText) {
   const t = JSON.parse(jsonText);
   if (isAdult(t)) return;
-  const url = t.is_new ? `/w/${t.slug}` : `/${DETAIL_CODE[t.category] || 'f'}/${t.slug}`;
+  // All works (old + new) now share the static /f /d /n detail routes — new
+  // works are no longer served via the old /w SSR namespace.
+  const url = `/${DETAIL_CODE[t.category] || 'm'}/${t.slug}`;
   if (t.is_new) newCount++;
   index.push({
     s: t.slug,

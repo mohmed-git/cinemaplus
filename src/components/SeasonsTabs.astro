@@ -1,34 +1,74 @@
 ---
+/**
+ * Seasons / episodes browser (used by ALL episodic works — old catalogue AND
+ * the CSV-ingested works, which are now static too).
+ *
+ * IMPORTANT (owner request): episode buttons link DIRECTLY to the WATCH page
+ * (the streaming gateway with ?s=&e=), NOT to a separate episode-detail page.
+ * The standalone episode pages have been removed; each episode button is now a
+ * one-click jump straight into the player for that episode. The watch/gateway
+ * page itself is unchanged.
+ *
+ * The look was upgraded: numbered episode chips with a play badge, a season
+ * pill row, and a quick episode-number filter for long lists.
+ */
 import type { Title } from '../lib/types';
-import { getNavigableEpisodeRouteForTitle } from '../lib/episodeRoutes';
 import { gatewayRoute } from '../lib/routes';
 
 interface Props {
   title: Title;
   categoryPath: 'series' | 'anime' | 'movie';
 }
-const { title, categoryPath } = Astro.props;
+const { title } = Astro.props;
 
-const seasons = title.seasons;
+// Sorted seasons/episodes so the browser is always in natural order.
+const seasons = [...(title.seasons || [])]
+  .filter((s) => (s.episodes?.length || 0) > 0)
+  .sort((a, b) => a.season - b.season)
+  .map((s) => ({ ...s, episodes: [...s.episodes].sort((a, b) => a.episode - b.episode) }));
+
 const initial = seasons[0]?.season ?? 1;
+const totalEpisodes = seasons.reduce((n, s) => n + (s.episodes?.length || 0), 0);
+const showFilter = totalEpisodes > 16;
+
+/** Direct watch link for a given episode (streaming gateway). */
+function watchHref(season: number, episode: number): string {
+  return `${gatewayRoute(title.slug)}?s=${season}&e=${episode}`;
+}
 ---
 
-<div class="glass-panel overflow-hidden">
-  <!-- Tabs -->
-  <div class="flex flex-wrap items-center gap-2 border-b border-white/[0.06] px-4 py-3">
-    {seasons.map((s) => (
-      <button
-        type="button"
-        class={`season-tab tab ${
-          s.season === initial ? 'tab-active' : 'tab-inactive'
-        }`}
-        data-season={s.season}
-      >
-        الموسم {s.season}
-        <span class="mr-1 text-[11px] opacity-75">({s.episodes_count})</span>
-      </button>
-    ))}
-  </div>
+<div class="glass-panel overflow-hidden" data-seasons>
+  <!-- Season pills -->
+  {seasons.length > 1 && (
+    <div class="flex flex-wrap items-center gap-2 border-b border-white/[0.06] px-4 py-3">
+      {seasons.map((s) => (
+        <button
+          type="button"
+          class={`season-tab tab ${s.season === initial ? 'tab-active' : 'tab-inactive'}`}
+          data-season={s.season}
+        >
+          الموسم {s.season}
+          <span class="mr-1 text-[11px] opacity-75">({s.episodes.length})</span>
+        </button>
+      ))}
+    </div>
+  )}
+
+  {showFilter && (
+    <div class="border-b border-white/[0.06] px-4 py-3">
+      <label class="relative block">
+        <span class="sr-only">ابحث عن رقم الحلقة</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-500"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input
+          type="search"
+          inputmode="numeric"
+          data-episode-filter
+          placeholder="ابحث عن رقم الحلقة…"
+          class="w-full rounded-xl border border-white/[0.06] bg-white/[0.04] py-2.5 pr-10 pl-3 text-sm text-white placeholder:text-gray-500 focus:border-brand-500/50 focus:outline-none focus:ring-2 focus:ring-brand-500/20"
+        />
+      </label>
+    </div>
+  )}
 
   <!-- Panels -->
   {seasons.map((s) => (
@@ -36,46 +76,61 @@ const initial = seasons[0]?.season ?? 1;
       class={`season-panel p-4 ${s.season === initial ? '' : 'hidden'}`}
       data-season={s.season}
     >
-      <ul class="grid grid-cols-2 gap-2.5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+      <ul class="grid grid-cols-3 gap-2.5 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-8">
         {s.episodes.map((ep) => (
-          <li>
+          <li data-episode={ep.episode}>
             <a
-              href={categoryPath === 'movie' ? `${gatewayRoute(title.slug)}?s=${s.season}&e=${ep.episode}` : getNavigableEpisodeRouteForTitle(title, categoryPath, s.season, ep.episode)}
-              class="group relative flex items-center gap-3 rounded-xl bg-white/[0.03] border border-white/[0.05] px-3 py-2.5 text-sm text-gray-200 transition-all duration-300 hover:bg-gradient-to-l hover:from-brand-600/20 hover:to-neon-fuchsia/10 hover:border-brand-500/40 hover:text-white hover:shadow-[0_0_20px_-6px_rgba(168,85,247,0.5)]"
+              href={watchHref(s.season, ep.episode)}
+              title={`مشاهدة ${ep.title || `الحلقة ${ep.episode}`}`}
+              class="ep-chip group relative flex flex-col items-center justify-center gap-1 rounded-xl border border-white/[0.06] bg-white/[0.03] px-2 py-3 text-center transition-all duration-300 hover:-translate-y-0.5 hover:border-brand-500/50 hover:bg-gradient-to-br hover:from-brand-600/25 hover:to-neon-fuchsia/15 hover:shadow-[0_8px_24px_-8px_rgba(168,85,247,0.55)]"
             >
-              <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-brand-600/30 to-neon-fuchsia/20 text-brand-300 group-hover:from-brand-500 group-hover:to-neon-fuchsia group-hover:text-white transition-all">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5">
-                  <path d="M8 5v14l11-7z" />
-                </svg>
+              <span class="flex h-8 w-8 items-center justify-center rounded-full bg-gradient-to-br from-brand-600/40 to-neon-fuchsia/25 text-brand-200 transition-all group-hover:from-brand-500 group-hover:to-neon-fuchsia group-hover:text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-3.5 w-3.5 opacity-0 transition-opacity group-hover:opacity-100"><path d="M8 5v14l11-7z" /></svg>
+                <span class="absolute text-xs font-bold group-hover:opacity-0">{ep.episode}</span>
               </span>
-              <div class="min-w-0 flex-1">
-                <div class="font-semibold line-clamp-1">{ep.title}</div>
-                <div class="text-[10px] text-gray-500 mt-0.5">
-                  {ep.servers.length} سيرفر
-                </div>
-              </div>
+              <span class="text-[11px] font-medium leading-tight text-gray-300 group-hover:text-white">الحلقة {ep.episode}</span>
             </a>
           </li>
         ))}
       </ul>
+      <p class="hidden py-6 text-center text-sm text-gray-500" data-empty>لا توجد حلقة بهذا الرقم.</p>
     </div>
   ))}
 </div>
 
 <script>
-  const tabs = document.querySelectorAll<HTMLButtonElement>('.season-tab');
-  const panels = document.querySelectorAll<HTMLElement>('.season-panel');
-  tabs.forEach((btn) => {
-    btn.addEventListener('click', () => {
-      const key = btn.dataset.season;
-      tabs.forEach((b) => {
-        const active = b.dataset.season === key;
-        b.classList.toggle('tab-active', active);
-        b.classList.toggle('tab-inactive', !active);
-      });
-      panels.forEach((p) => {
-        p.classList.toggle('hidden', p.dataset.season !== key);
+  document.querySelectorAll<HTMLElement>('[data-seasons]').forEach((root) => {
+    const tabs = root.querySelectorAll<HTMLButtonElement>('.season-tab');
+    const panels = root.querySelectorAll<HTMLElement>('.season-panel');
+    const filter = root.querySelector<HTMLInputElement>('[data-episode-filter]');
+
+    tabs.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const key = btn.dataset.season;
+        tabs.forEach((b) => {
+          const active = b.dataset.season === key;
+          b.classList.toggle('tab-active', active);
+          b.classList.toggle('tab-inactive', !active);
+        });
+        panels.forEach((p) => p.classList.toggle('hidden', p.dataset.season !== key));
+        if (filter) { filter.value = ''; applyFilter(); }
       });
     });
+
+    function applyFilter() {
+      const q = (filter?.value || '').trim();
+      panels.forEach((p) => {
+        if (p.classList.contains('hidden')) return;
+        let shown = 0;
+        p.querySelectorAll<HTMLElement>('[data-episode]').forEach((li) => {
+          const match = !q || (li.dataset.episode || '').includes(q);
+          li.style.display = match ? '' : 'none';
+          if (match) shown++;
+        });
+        const empty = p.querySelector<HTMLElement>('[data-empty]');
+        if (empty) empty.classList.toggle('hidden', shown > 0);
+      });
+    }
+    filter?.addEventListener('input', applyFilter);
   });
 </script>

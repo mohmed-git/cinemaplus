@@ -1,8 +1,18 @@
 ---
 import { SITE, NAV } from '../lib/site';
-import { SUBCATEGORIES, subcatRoute } from '../lib/subcategories';
+import { listingRoute } from '../lib/routes';
 const { currentPath = '', section = 'home' } = Astro.props as { currentPath?: string; section?: string };
 const path = currentPath || Astro.url.pathname;
+
+// The granular sub-category listing pages were removed when the site reverted
+// to fully-static detail pages (they would have blown Cloudflare Pages' 20k-file
+// budget). The "أقسام" dropdown now simply points at the three main static
+// listing pages (/c/m /c/s /c/a), which contain every work (old + new).
+const SECTIONS: { label: string; href: string }[] = [
+  { label: 'أفلام', href: listingRoute('movie') },
+  { label: 'مسلسلات', href: listingRoute('series') },
+  { label: 'أنمي', href: listingRoute('anime') },
+];
 
 // أيقونات التنقل
 const navIcons: Record<string, string> = {
@@ -50,14 +60,14 @@ const navIcons: Record<string, string> = {
 
       <!-- أقسام (sub-categories) dropdown -->
       <div class="relative group/sections">
-        <button type="button" class={`nav-link relative rounded-xl px-4 py-2 text-sm font-bold transition-all duration-300 inline-flex items-center gap-1 ${path.startsWith('/x/c/') ? 'text-white nav-link--active' : 'text-gray-300 hover:text-white'}`} aria-haspopup="true">
+        <button type="button" class="nav-link relative rounded-xl px-4 py-2 text-sm font-bold transition-all duration-300 inline-flex items-center gap-1 text-gray-300 hover:text-white" aria-haspopup="true">
           أقسام
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="h-3.5 w-3.5 transition-transform group-hover/sections:rotate-180"><path d="M6 9l6 6 6-6"/></svg>
         </button>
         <div class="invisible opacity-0 translate-y-1 group-hover/sections:visible group-hover/sections:opacity-100 group-hover/sections:translate-y-0 absolute right-0 top-full pt-2 transition-all duration-200 z-50">
           <div class="glass-strong rounded-2xl border border-white/[0.08] p-2 w-56 shadow-2xl grid grid-cols-1 gap-0.5">
-            {SUBCATEGORIES.map((s) => (
-              <a href={subcatRoute(s.code)} class={`flex items-center justify-between rounded-xl px-3 py-2 text-sm font-semibold transition-all ${path === subcatRoute(s.code) ? 'text-white bg-brand-500/15' : 'text-gray-300 hover:text-white hover:bg-white/[0.05]'}`}>
+            {SECTIONS.map((s) => (
+              <a href={s.href} class={`flex items-center justify-between rounded-xl px-3 py-2 text-sm font-semibold transition-all ${path === s.href ? 'text-white bg-brand-500/15' : 'text-gray-300 hover:text-white hover:bg-white/[0.05]'}`}>
                 {s.label}
                 <span class="h-1 w-1 rounded-full bg-brand-400/60"></span>
               </a>
@@ -125,8 +135,8 @@ const navIcons: Record<string, string> = {
       <div class="mt-2 pt-2 border-t border-white/[0.06]">
         <p class="px-4 pb-1.5 text-[11px] font-bold uppercase tracking-wider text-gray-500">أقسام تفصيلية</p>
         <div class="grid grid-cols-2 gap-1">
-          {SUBCATEGORIES.map((s) => (
-            <a href={subcatRoute(s.code)} class={`flex items-center gap-2 rounded-xl px-3 py-2.5 text-[13px] font-semibold transition-all ${path === subcatRoute(s.code) ? 'text-white bg-brand-500/15' : 'text-gray-200 hover:bg-white/[0.04]'}`}>
+          {SECTIONS.map((s) => (
+            <a href={s.href} class={`flex items-center gap-2 rounded-xl px-3 py-2.5 text-[13px] font-semibold transition-all ${path === s.href ? 'text-white bg-brand-500/15' : 'text-gray-200 hover:bg-white/[0.04]'}`}>
               <span class="h-1 w-1 rounded-full bg-brand-400/60"></span>
               {s.label}
             </a>

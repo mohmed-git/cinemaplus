@@ -32,24 +32,12 @@ const similarDir = join(root, 'public/_data/similar');
 const manifestPath = join(root, 'src/data/generated/episode-manifest.json');
 const routeIndexPath = join(root, 'src/data/generated/episode-routes.json');
 
-// NEW-works (CSV-ingested, is_new=true) artifacts. These works are served
-// on-demand (SSR), never statically built, so we emit:
-//   - hashed bucket files (bucket -> { slug: Title }) -> public/_data/new/<n>.json
-//   - a slim per-subcategory card index               -> public/_data/subcat/<sub>.json
-const newDir = join(root, 'public/_data/new');
-const subcatDir = join(root, 'public/_data/subcat');
-const subcatCountsPath = join(root, 'src/data/generated/subcat-counts.json');
-// Slim list of NEW-work routes (slug + category) for the SSR new-works sitemap.
-// New works are SSR (/w/<slug>) so Astro's static sitemap can't see them; this
-// tiny index lets a dedicated SSR sitemap enumerate them for indexing.
-const newRoutesPath = join(root, 'src/data/generated/new-routes.json');
-
-// OLD-works (original catalogue) gateway buckets. The /g gateway page used to be
-// statically built — one HTML file per work (~5.8k files) — which, on top of the
-// detail + season pages, pushed the deployment over Cloudflare's 20,000-file
-// limit. We now serve /g as SSR too, loading each work's slim "gateway payload"
-// (slug, title, poster, category, seasons+servers) from a hashed bucket file at
-// request time. Same NEW_BUCKETS hash; loaded on the edge via loadOldGateway().
+// Gateway (watch) buckets. Detail pages (old + new works) are all static now,
+// but the watch page stays SSR: each work's slim "gateway payload" (slug, title,
+// poster, category, seasons+servers) is loaded from a hashed bucket file at
+// request time via loadOldGateway(). This keeps the ~15k watch pages out of the
+// static file count (Cloudflare Pages' 20,000-file limit) and the catalogue out
+// of the Worker bundle. Covers BOTH /g (old) and /gw (new) — same loader.
 const oldGwDir = join(root, 'public/_data/oldgw');
 
 
@@ -169,24 +157,13 @@ if (existsSync(outDir)) rmSync(outDir, { recursive: true, force: true });
 mkdirSync(outDir, { recursive: true });
 if (existsSync(similarDir)) rmSync(similarDir, { recursive: true, force: true });
 mkdirSync(similarDir, { recursive: true });
-if (existsSync(newDir)) rmSync(newDir, { recursive: true, force: true });
-mkdirSync(newDir, { recursive: true });
-if (existsSync(subcatDir)) rmSync(subcatDir, { recursive: true, force: true });
-mkdirSync(subcatDir, { recursive: true });
 if (existsSync(oldGwDir)) rmSync(oldGwDir, { recursive: true, force: true });
 mkdirSync(oldGwDir, { recursive: true });
 
 const manifest = {};
 const routeIndex = [];
-// NEW works: hashed buckets (bucket -> { slug: Title }) + slim per-subcategory
-// card index. Bucketing keeps the static file count tiny (NEW_BUCKETS files
-// instead of ~12.8k), staying under Cloudflare Pages' 20,000-file limit.
-const newBuckets = {}; // bucketIndex -> { slug: Title }
-const subcatIndex = {}; // sub -> [card entries]
-const newRoutes = []; // [{ s: slug, c: category }] for the new-works sitemap
-let newCount = 0;
 
-// OLD works gateway payloads → hashed buckets (bucket -> { slug: GatewayPayload }).
+// Gateway payloads → hashed buckets (bucket -> { slug: GatewayPayload }).
 // Replaces the ~5.8k statically-built /g pages with NEW_BUCKETS files served via
 // SSR, removing the last big chunk of the deployment's file count.
 const oldGwBuckets = {}; // bucketIndex -> { slug: { slug, clean_title, category, poster, seasons } }
@@ -231,9 +208,13 @@ function processObject(jsonText) {
   // can be recommended too) into its category bucket. Only the fields the
   // runtime scorer/renderer needs — keeps each category file small.
   const cat = t.category;
-  if (cat && !t.is_new) {
-    // OLD-work gateway payload → hashed bucket (replaces static /g pages).
-    // Only the fields the gateway player needs: identity + seasons/servers.
+  if (cat) {
+    // Gateway (watch) payload → hashed bucket. As of the "revert to static"
+    // change BOTH the old catalogue and the new (CSV-ingested) works build as
+    // ordinary static /f /d /n detail pages, and BOTH watch through the same
+    // SSR gateway (/g for old, /gw for new — identical loader). So we emit a
+    // gateway payload for EVERY work (old + new), keyed by slug hash. Only the
+    // fields the gateway player needs: identity + seasons/servers.
     oldGwCount++;
     const gb = slugToBucket(t.slug);
     (oldGwBuckets[gb] ??= {})[t.slug] = {
@@ -258,7 +239,8 @@ function processObject(jsonText) {
           }))
         : [],
     };
-
+  }
+  if (cat && !t.is_new) {
     (similarByCategory[cat] ??= []).push({
       slug: t.slug,
       clean_title: t.clean_title,
@@ -278,51 +260,11 @@ function processObject(jsonText) {
     });
   }
 
-  // NEW works (CSV-ingested) → append into a hashed BUCKET (not one file each, to
-  // stay under Cloudflare's 20k-file limit) + register in the slim per-subcategory
-  // card index. These are SSR-only (never statically built). The per-episode SSR
-  // page (/w/.../e/...) loads the full work from its bucket via loadNewWork, so
-  // new works do NOT need a separate episodes/ shard or route-index entry.
-  if (t.is_new) {
-    newCount++;
-    const b = slugToBucket(t.slug);
-    (newBuckets[b] ??= {})[t.slug] = t;
-    newRoutes.push({ s: t.slug, c: t.category });
-    // Episodic new works (series/anime with >1 episode) also expose one URL per
-    // episode (/w/<slug>/c/<season>/e/<episode>) — enumerate them so the
-    // new-works sitemap includes every episode page for indexing.
-    if ((t.category === 'series' || t.category === 'anime') && (t.episodes_count || 0) > 1) {
-      for (const s of t.seasons || []) {
-        for (const ep of s.episodes || []) {
-          newRoutes.push({ s: t.slug, c: t.category, se: s.season, ep: ep.episode });
-        }
-      }
-    }
-    const sub = t.subcategory || 'other';
-    (subcatIndex[sub] ??= []).push({
-      slug: t.slug,
-      clean_title: t.clean_title,
-      category: t.category,
-      category_label: t.category_label,
-      subcategory: t.subcategory ?? null,
-      subcategory_label: t.subcategory_label ?? null,
-      poster: t.poster ?? null,
-      year: t.year ?? null,
-      episodes_count: t.episodes_count ?? 0,
-      seasons_count: t.seasons_count ?? 0,
-      genre: t.genre ?? null,
-      rating: t.rating ?? 0,
-      votes: t.tmdb_votes ?? 0,
-      sort_rating: t.sort_rating ?? 0,
-      sort_recent: t.sort_recent ?? 0,
-      // Quality signals for default ordering / first-page curation.
-      is_program: isTvProgram(t),
-      score: qualityScore({ rating: t.rating, votes: t.tmdb_votes, year: t.year }),
-      is_new: true,
-    });
-    return;
-  }
-
+  // NEW works (CSV-ingested) now build as ordinary STATIC /f /d /n detail pages
+  // (single page per work, episode buttons link straight to the /gw gateway), so
+  // they no longer need SSR buckets, a per-subcategory card index, or a dedicated
+  // SSR sitemap route list. They still contribute an episode shard below like any
+  // other episodic work.
   if (!isEpisodic(t)) return;
 
   episodicCount++;
@@ -408,54 +350,15 @@ stream.on('end', () => {
     console.log(`[episode-shards] similar/${cat}.json -> ${entries.length} titles`);
   }
 
-  // NEW-works artifacts: bucket files + per-subcategory slim card indexes.
-  // Each bucket is a { slug: Title } map; the runtime loader hashes the slug to
-  // pick the bucket and pulls the work out of it.
-  let bucketFiles = 0;
-  for (const [b, works] of Object.entries(newBuckets)) {
-    writeFileSync(join(newDir, `${b}.json`), JSON.stringify(works));
-    bucketFiles++;
-  }
-  console.log(`[episode-shards] new buckets: ${bucketFiles} files for ${newCount} works (NEW_BUCKETS=${NEW_BUCKETS})`);
-
-  // OLD-works gateway buckets (replaces the static /g pages).
+  // Gateway (watch) buckets — one hashed bucket file per NEW_BUCKETS slice,
+  // covering BOTH old and new works. Served via SSR (/g + /gw) so the ~15k watch
+  // pages never enter the static file count.
   let oldGwFiles = 0;
   for (const [b, works] of Object.entries(oldGwBuckets)) {
     writeFileSync(join(oldGwDir, `${b}.json`), JSON.stringify(works));
     oldGwFiles++;
   }
-  console.log(`[episode-shards] old gateway buckets: ${oldGwFiles} files for ${oldGwCount} works`);
-  const subcatCounts = {};
-  for (const [sub, entries] of Object.entries(subcatIndex)) {
-    // Default order is now CURATED so the first page of every section shows
-    // good, diverse, appealing works (owner request):
-    //   1. TV programs (reality/talk/news) are pushed to the BACK.
-    //   2. Within each group, sort by the trust-weighted quality score so a
-    //      1-vote "10/10" obscure title can't hijack the top.
-    //   3. The leading window is genre-interleaved so the first page isn't all
-    //      one genre (variety pulls the visitor in).
-    const cmp = (a, b) =>
-      (b.score - a.score) || (b.sort_recent - a.sort_recent) ||
-      String(a.clean_title).localeCompare(String(b.clean_title), 'ar');
-    const main = entries.filter((e) => !e.is_program).sort(cmp);
-    const programs = entries.filter((e) => e.is_program).sort(cmp);
-
-    // Genre interleave on the curated main list so consecutive cards vary.
-    const ordered = genreInterleave(main);
-    const finalEntries = [...ordered, ...programs];
-
-    // Drop the now-internal helper fields from the shipped card to keep the
-    // index slim (clients re-sort with sort_rating/sort_recent already present).
-    for (const e of finalEntries) { delete e.score; }
-
-    writeFileSync(join(subcatDir, `${sub}.json`), JSON.stringify(finalEntries));
-    subcatCounts[sub] = finalEntries.length;
-    console.log(`[episode-shards] subcat/${sub}.json -> ${finalEntries.length} works (${programs.length} programs pushed back)`);
-  }
-  writeFileSync(subcatCountsPath, JSON.stringify(subcatCounts, null, 2));
-  writeFileSync(newRoutesPath, JSON.stringify(newRoutes));
-  console.log(`[episode-shards] new routes -> ${newRoutes.length} (src/data/generated/new-routes.json)`);
-  console.log(`[episode-shards] new works: ${newCount} (shards + subcat index)`);
+  console.log(`[episode-shards] gateway buckets: ${oldGwFiles} files for ${oldGwCount} works (NEW_BUCKETS=${NEW_BUCKETS})`);
   console.log(`[episode-shards] skipped ${skippedAdult} adult/indecent works`);
 
 

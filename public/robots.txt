@@ -1,22 +1,14 @@
 User-agent: *
 Allow: /
 Disallow: /g/
+Disallow: /gw/
 Disallow: /_data/
 # Search results are dynamic, query-driven and produce thin/duplicate content;
 # the /search page is also marked noindex. Keep it out of the crawl budget.
 Disallow: /search
 Disallow: /*?q=
 
-# Static pages (home, listings, movies, series/anime detail + season pages).
+# Every work (movies, series, anime — old + new) is now a single STATIC detail
+# page under /f /d /n, so Astro's static sitemap enumerates the entire catalogue
+# (~14.5k pages). There are no more SSR episode/new-work sub-sitemaps to declare.
 Sitemap: https://cinemanaplus.site/sitemap-index.xml
-
-# SSR episode pages (/d|n/<slug>/c/<season>/e/<episode>). These are rendered
-# on-demand and are invisible to Astro's static sitemap, so they are published
-# through a dedicated SSR sitemap INDEX that points at sharded child sitemaps
-# (/episodes-sitemap/<n>.xml). Declaring it here is the correct, crawler-
-# supported way to register an additional sitemap.
-Sitemap: https://cinemanaplus.site/episodes-sitemap.xml
-
-# NEW works (/w/<slug>) are SSR too and invisible to the static sitemap, so they
-# get their own SSR sitemap INDEX (sharded child sitemaps at /new-sitemap/<n>.xml).
-Sitemap: https://cinemanaplus.site/new-sitemap.xml

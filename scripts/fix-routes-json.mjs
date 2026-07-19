@@ -9,45 +9,38 @@
  * *shapes* that live under the same URL prefixes:
  *
  *   STATIC  : /                      (home)
- *             /f/<slug>              (movie detail)
- *             /d/<slug>  /d/<slug>/c/<season>     (series detail + season)
- *             /n/<slug>  /n/<slug>/c/<season>     (anime  detail + season)
- *             /x/...                 (listings)
+ *             /m/<slug>              (movie detail)
+ *             /s/<slug>              (series detail — single page per work)
+ *             /a/<slug>              (anime  detail — single page per work)
+ *             /c/...                 (listings: /c/m /c/s /c/a)
  *             /search /contact /privacy /terms /404
  *
- *   SSR     : /d/<slug>/c/<season>/e/<episode>    (series episode)
- *             /n/<slug>/c/<season>/e/<episode>    (anime  episode)
- *             /w/...                 (new CSV works, all depths)
- *             /gw/<token> /g/<token> (streaming gateway)
- *             /x/c/<code>            (listing code resolver)
- *             /episodes-sitemap.xml  /episodes-sitemap/<n>.xml
- *             /new-sitemap.xml       /new-sitemap/<n>.xml
+ *   SSR     : /gw/<token> /g/<token> (streaming / watch gateway)
+ *             /api/*                 (e.g. /api/notify — Telegram bot)
  *             /_image  /_server-islands/*
+ *
+ * As of the "revert to static" change EVERY detail page (old + new works) is
+ * prerendered as a SINGLE static page per work — there are no more SSR episode
+ * pages (/d|/n/<slug>/c/<s>/e/<e>), no /w new-works namespace, no /x/c listing
+ * resolver, and no SSR sitemaps. Episode navigation happens client-side and each
+ * episode button links straight to the watch gateway (/gw or /g). The ONLY
+ * dynamic routes left are the two watch gateways + the notify API.
  *
  * Because the static page count is far above Cloudflare's 100-rule limit, the
  * adapter falls back to `include: ["/*"]` with a TRUNCATED exclude list. That
- * routes EVERY request (every static page + asset) through the SSR Worker:
- *   - On the free plan this burns the daily Functions request quota fast
- *     (Googlebot alone was crawling ~4k/day), after which pages fail to serve
- *     and Google stops indexing.
- *   - Even when it serves, episode SSR pages compete for the same starved
- *     Worker, so "crawled - currently not indexed" piles up.
+ * routes EVERY request (every static page + asset) through the SSR Worker,
+ * which on the free plan burns the daily Functions request quota fast
+ * (Googlebot alone was crawling ~4k/day), after which pages fail to serve and
+ * Google stops indexing.
  *
  * THE FIX
  * -------
- * Write a precise _routes.json whose `include` lists ONLY the SSR prefixes.
- * Everything else is served as a pure static asset (unlimited + fast + correct
- * HTML), so the Worker is invoked solely for genuinely dynamic routes.
- *
- * Static /d/<slug> and /n/<slug> (and their /c/<season> pages) are NOT
- * renderable SSR routes in the Worker manifest, so when they DO hit the Worker
- * (they share the /d/* and /n/* include prefix with episodes) the adapter's
- * handler finds no matching route and falls through to env.ASSETS — i.e. the
- * static HTML is still served correctly. Keeping /d/* and /n/* in `include` is
- * required so the deeper episode URLs (which ARE SSR) are reachable.
- *
- * The resulting rule set is tiny (well under 100), so Cloudflare never
- * truncates it and the home page / movies / listings / assets are 100% static.
+ * Write a precise _routes.json whose `include` lists ONLY the SSR prefixes
+ * (/gw, /g, /api, /_image, /_server-islands). Everything else — home, every
+ * /f /d /n detail page, listings and assets — is served as a pure static asset
+ * (unlimited + fast + correct HTML), so the Worker is invoked solely for the
+ * watch gateways and the notify API. The rule set is tiny (well under 100), so
+ * Cloudflare never truncates it.
  */
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -57,37 +50,26 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const routesPath = join(root, 'dist', '_routes.json');
 
 // SSR-only include prefixes. Trailing "*" = Cloudflare prefix match.
-// `exclude` always wins over `include`, so we exclude the static assets that
-// would otherwise be swept up by the broad /d/* and /n/* prefixes (handled by
-// the adapter's ASSETS fallthrough anyway, but excluding them keeps Worker
-// invocations to the bare minimum and the static pages 100% free/fast).
+// Only the watch gateways + notify API + Astro's image/server-island endpoints
+// are dynamic now; everything else is static and served straight from ASSETS.
 const INCLUDE = [
   '/api/*',               // SSR API routes (e.g. /api/notify — Telegram bot)
-  '/d/*',                 // series episodes  (/d/<slug>/c/<s>/e/<e>) are SSR
-  '/n/*',                 // anime  episodes  (/n/<slug>/c/<s>/e/<e>) are SSR
-  '/w/*',                 // new CSV works (all SSR)
-  '/gw/*',                // streaming gateway (encoded)
-  '/g/*',                 // legacy streaming gateway
-  '/x/c/*',               // listing code resolver (SSR)
-  '/episodes-sitemap.xml',
-  '/episodes-sitemap/*',
-  '/new-sitemap.xml',     // new-works sitemap index (SSR)
-  '/new-sitemap/*',       // new-works sitemap chunks (SSR)
+  '/gw/*',                // streaming/watch gateway (new works, encoded token)
+  '/g/*',                 // streaming/watch gateway (old catalogue, encoded)
   '/_image',              // Astro on-demand image endpoint
   '/_server-islands/*',
 ];
 
 // These are STATIC and must never invoke the Worker. `exclude` beats `include`.
-// NOTE: we cannot list every /d/<slug> individually (thousands), so we rely on
-// the adapter's ASSETS fallthrough for the detail/season pages under /d & /n.
-// We still explicitly exclude the clearly-static top-level areas + assets.
+// All detail pages (/f /d /n) are fully static now — a single page per work —
+// so we exclude them explicitly to keep Worker invocations to the bare minimum.
 const EXCLUDE = [
   '/',
   '/index.html',
-  '/f/*',                 // movie detail pages are fully static
-  '/x/d/*',               // series listing (static)
-  '/x/f/*',               // movie  listing (static)
-  '/x/n/*',               // anime  listing (static)
+  '/m/*',                 // movie  detail pages (static)
+  '/s/*',                 // series detail pages (static, single page per work)
+  '/a/*',                 // anime  detail pages (static, single page per work)
+  '/c/*',                 // all listing pages (static): /c/m /c/s /c/a
   '/search',
   '/contact',
   '/privacy',

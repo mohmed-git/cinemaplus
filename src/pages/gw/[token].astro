@@ -5,30 +5,33 @@
  *   /gw/{token}?s=1&e=5    -> season 1 episode 5
  * The token decodes back to the work slug (see routes.ts encodeGateToken).
  *
- * Rendered on demand — the work's full detail shard is fetched at request time,
- * so the 12k+ new works never get built statically nor bundled into the Worker.
+ * Rendered on demand — the work's slim gateway payload is fetched from a hashed
+ * bucket at request time (loadOldGateway), so the works never get bundled into
+ * the Worker. As of the "revert to static" change new works build as ordinary
+ * static /f /d /n detail pages, but the WATCH page stays SSR and shares the same
+ * bucket loader as the old catalogue's /g gateway — only the URL prefix differs
+ * (kept for backward-compatible links).
  */
 export const prerender = false;
 
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import type { Title } from '../../lib/types';
 import { SITE } from '../../lib/site';
-import { decodeGateToken, newDetailRoute } from '../../lib/routes';
-import { loadNewWork } from '../../lib/newWorks';
-import { SUB_BY_KEY, subcatRoute } from '../../lib/subcategories';
+import { decodeGateToken, listingRoute } from '../../lib/routes';
+import { loadOldGateway } from '../../lib/oldGateway';
 
 const { token } = Astro.params;
 const slug = token ? decodeGateToken(token) : '';
-const title = slug ? await loadNewWork(slug, Astro.url) : undefined;
+const title = slug ? await loadOldGateway(slug, Astro.url) : undefined;
 if (!title) return new Response('Not found', { status: 404 });
 
 const sectionTheme =
   title.category === 'movie' ? 'movies' :
   title.category === 'series' ? 'series' : 'anime';
-const subDef = (title as any).subcategory ? SUB_BY_KEY[(title as any).subcategory] : undefined;
-const categoryBase = subDef ? subcatRoute(subDef.code) : '/';
-const categoryLabel = subDef ? subDef.label : title.category_label;
+const categoryBase = listingRoute(title.category as any);
+const categoryLabel =
+  title.category === 'movie' ? 'أفلام' :
+  title.category === 'series' ? 'مسلسلات' : 'أنمي';
 
 // Build flat episode list for quick client-side nav
 const flat: { season: number; episode: number; servers: typeof title.seasons[0]['episodes'][0]['servers'] }[] = [];
