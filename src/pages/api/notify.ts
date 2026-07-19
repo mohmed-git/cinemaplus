@@ -25,6 +25,10 @@ interface NotifyBody {
   page?: string;
   server?: string;
   message?: string;
+  rating?: number;           // 1-5, for type "feedback"
+  device?: string;           // client-supplied UA/screen summary, optional
+  pages?: string[];          // visited page paths, for type "session_summary"
+  duration_seconds?: number; // total session length, for type "session_summary"
 }
 
 // Read a var from the Cloudflare runtime env, falling back to process.env
@@ -51,7 +55,36 @@ function esc(s: string): string {
     .replace(/>/g, '&gt;');
 }
 
-function buildMessage(body: NotifyBody): string {
+// Cloudflare attaches geo info to the raw Request as `.cf` (non-standard,
+// not in the Fetch spec typings) — used only by the new feedback/session types
+// below, so it never touches the existing server_down / request_content output.
+function readGeo(request: Request): { country?: string; city?: string } {
+  const cf = (request as any)?.cf;
+  if (!cf) return {};
+  return { country: cf.country, city: cf.city };
+}
+
+function buildContextLine(request: Request, body: NotifyBody): string {
+  const geo = readGeo(request);
+  const parts: string[] = [];
+  if (geo.country) parts.push(`🌍 ${esc(geo.country)}${geo.city ? ' - ' + esc(geo.city) : ''}`);
+  if (body.device) parts.push(`📱 ${esc(body.device.slice(0, 150))}`);
+  return parts.length ? parts.join('  |  ') : '';
+}
+
+function stars(n?: number): string {
+  const v = Math.max(1, Math.min(5, Math.round(n || 0)));
+  return '⭐'.repeat(v) + '☆'.repeat(5 - v);
+}
+
+function fmtDuration(sec?: number): string {
+  const s = Math.max(0, Math.round(sec || 0));
+  const m = Math.floor(s / 60);
+  const r = s % 60;
+  return m > 0 ? `${m} د ${r} ث` : `${r} ث`;
+}
+
+function buildMessage(request: Request, body: NotifyBody): string {
   const page = body.page ? esc(body.page.slice(0, 300)) : '—';
   const server = body.server ? esc(body.server.slice(0, 120)) : '—';
   const msg = body.message ? esc(body.message.slice(0, 800)) : '';
@@ -80,6 +113,40 @@ function buildMessage(body: NotifyBody): string {
     ].filter(Boolean).join('\n');
   }
 
+  if (body.type === 'feedback') {
+    const ctx = buildContextLine(request, body);
+    return [
+      '💬 <b>تقييم / رأي جديد</b>',
+      '',
+      `${stars(body.rating)}`,
+      page !== '—' ? `📄 <b>الصفحة:</b> ${page}` : '',
+      msg ? `📝 <b>الرأي:</b> ${msg}` : '',
+      ctx,
+      '',
+      `🕒 ${now}`,
+    ].filter(Boolean).join('\n');
+  }
+
+  if (body.type === 'session_summary') {
+    const ctx = buildContextLine(request, body);
+    const list = Array.isArray(body.pages) ? body.pages.slice(0, 50) : [];
+    const pagesText = list.length
+      ? list.map((p, i) => `${i + 1}. ${esc(String(p).slice(0, 200))}`).join('\n')
+      : '—';
+    return [
+      '🧭 <b>ملخص جلسة زائر</b>',
+      '',
+      `⏱️ <b>المدة الإجمالية:</b> ${fmtDuration(body.duration_seconds)}`,
+      `📄 <b>عدد الصفحات:</b> ${list.length}`,
+      ctx,
+      '',
+      '<b>مسار التصفح:</b>',
+      pagesText,
+      '',
+      `🕒 ${now}`,
+    ].filter(Boolean).join('\n');
+  }
+
   // Unknown type — still forward something useful.
   return [
     'ℹ️ <b>إشعار من الموقع</b>',
@@ -102,13 +169,18 @@ export const POST: APIRoute = async ({ request, locals }) => {
   }
 
   const type = body.type;
-  if (type !== 'server_down' && type !== 'request_content') {
+  const validTypes = ['server_down', 'request_content', 'feedback', 'session_summary'];
+  if (!type || !validTypes.includes(type)) {
     return json({ ok: false, error: 'invalid_type' }, 400);
   }
 
   // request_content must carry something to request.
   if (type === 'request_content' && !((body.message && body.message.trim()) || (body.page && body.page.trim()))) {
     return json({ ok: false, error: 'empty_request' }, 400);
+  }
+
+  if (type === 'feedback' && !body.rating && !(body.message && body.message.trim())) {
+    return json({ ok: false, error: 'empty_feedback' }, 400);
   }
 
   const botToken = readEnv(locals, 'TELEGRAM_BOT_TOKEN');
@@ -119,7 +191,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
     return json({ ok: false, error: 'not_configured' }, 503);
   }
 
-  const text = buildMessage(body);
+  const text = buildMessage(request, body);
 
   try {
     const ctrl = new AbortController();
