@@ -153,8 +153,9 @@ function genreInterleave(list) {
   return out;
 }
 
+// Per-title episode shards are no longer emitted (see processObject). Remove any
+// stale shard directory from a previous build so it can't inflate the file count.
 if (existsSync(outDir)) rmSync(outDir, { recursive: true, force: true });
-mkdirSync(outDir, { recursive: true });
 if (existsSync(similarDir)) rmSync(similarDir, { recursive: true, force: true });
 mkdirSync(similarDir, { recursive: true });
 if (existsSync(oldGwDir)) rmSync(oldGwDir, { recursive: true, force: true });
@@ -260,29 +261,19 @@ function processObject(jsonText) {
     });
   }
 
-  // NEW works (CSV-ingested) now build as ordinary STATIC /f /d /n detail pages
-  // (single page per work, episode buttons link straight to the /gw gateway), so
-  // they no longer need SSR buckets, a per-subcategory card index, or a dedicated
-  // SSR sitemap route list. They still contribute an episode shard below like any
-  // other episodic work.
-  if (!isEpisodic(t)) return;
-
-  episodicCount++;
-  const file = slugToFile(t.slug);
-  writeFileSync(join(outDir, `${file}.json`), JSON.stringify(t));
-  manifest[t.slug] = file;
-
-  routeIndex.push({
-    s: t.slug,
-    c: t.category, // 'series' | 'anime'
-    z: [...t.seasons]
-      .filter((season) => Array.isArray(season.episodes) && season.episodes.length > 0)
-      .sort((a, b) => a.season - b.season)
-      .map((season) => [
-        season.season,
-        [...season.episodes].sort((a, b) => a.episode - b.episode).map((e) => e.episode),
-      ]),
-  });
+  // NOTE (revert-to-static + file-count fix):
+  // Per-title episode shards under public/_data/episodes/ are NO LONGER emitted.
+  // They were only ever consumed by the OLD SSR episode pages (now deleted). The
+  // watch gateways (/g, /gw) read the slim gateway payload from the hashed
+  // oldgw/<bucket>.json files (built above) and inline it at SSR time — they do
+  // NOT fetch per-title episode shards. Emitting one shard per episodic work
+  // added ~6,859 files to the deployment and pushed it over Cloudflare Pages'
+  // hard 20,000-file limit (build failed at "validating assets"). Skipping them
+  // drops the deployment from ~21,500 to ~14,600 files (safe margin).
+  //
+  // The gateway payload for every work (including episodic ones) was already
+  // emitted into oldGwBuckets above, so no watch functionality is lost.
+  return;
 }
 
 // Incremental state machine. `buf` only ever holds the bytes of the element
@@ -339,8 +330,8 @@ stream.on('data', (chunk) => {
 });
 
 stream.on('end', () => {
-  writeFileSync(manifestPath, JSON.stringify(manifest));
-  writeFileSync(routeIndexPath, JSON.stringify(routeIndex));
+  // NOTE: episode-manifest.json / episode-routes.json are no longer written —
+  // nothing imports them since the SSR episode pages were removed.
 
   // Emit one slim similar-index per category as a STATIC asset. The SSR episode
   // routes fetch only their own category file at request time, so the 5MB index
@@ -363,9 +354,7 @@ stream.on('end', () => {
 
 
   console.log(`[episode-shards] scanned ${scanned} titles`);
-  console.log(`[episode-shards] wrote ${episodicCount} shards -> public/_data/episodes/`);
-  console.log(`[episode-shards] manifest -> src/data/generated/episode-manifest.json`);
-  console.log(`[episode-shards] route index (${routeIndex.length} titles) -> src/data/generated/episode-routes.json`);
+  console.log(`[episode-shards] per-title episode shards: DISABLED (unused; saved ~6.8k files)`);
 });
 
 stream.on('error', (err) => {
