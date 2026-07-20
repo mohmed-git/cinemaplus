@@ -13,6 +13,12 @@ import type { APIRoute } from 'astro';
  * Secrets (TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID) are read server-side only from
  * the Cloudflare runtime env — they are NEVER exposed to the browser.
  *
+ * TWO-BOT ROUTING: "server_down" / "request_content" / "feedback" go to the
+ * main bot (TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID). "session_summary" (visitor
+ * behavior tracking) goes to a separate bot (TELEGRAM_BOT_TOKEN_ANALYTICS /
+ * TELEGRAM_CHAT_ID_ANALYTICS) so behavior noise never mixes with real alerts.
+ * If the analytics vars aren't set, session_summary falls back to the main bot.
+ *
  * Expected JSON body:
  *   { type: "server_down" | "request_content",
  *     page?: string, server?: string, message?: string }
@@ -45,6 +51,24 @@ function json(data: unknown, status = 200): Response {
     status,
     headers: { 'Content-Type': 'application/json; charset=utf-8' },
   });
+}
+
+// Pick which bot/chat to send to based on message type.
+// session_summary (behavior tracking) -> analytics bot, if configured.
+// everything else (alerts/requests) -> main bot.
+function pickTelegramTarget(locals: App.Locals, type: string): { botToken?: string; chatId?: string } {
+  if (type === 'session_summary') {
+    const analyticsToken = readEnv(locals, 'TELEGRAM_BOT_TOKEN_ANALYTICS');
+    const analyticsChat = readEnv(locals, 'TELEGRAM_CHAT_ID_ANALYTICS');
+    if (analyticsToken && analyticsChat) {
+      return { botToken: analyticsToken, chatId: analyticsChat };
+    }
+    // Fall back to the main bot if the analytics bot isn't configured yet.
+  }
+  return {
+    botToken: readEnv(locals, 'TELEGRAM_BOT_TOKEN'),
+    chatId: readEnv(locals, 'TELEGRAM_CHAT_ID'),
+  };
 }
 
 // Telegram uses HTML parse mode — escape user-controlled text.
@@ -208,11 +232,9 @@ export const POST: APIRoute = async ({ request, locals }) => {
     }
   }
 
-  const botToken = readEnv(locals, 'TELEGRAM_BOT_TOKEN');
-  const chatId = readEnv(locals, 'TELEGRAM_CHAT_ID');
+  const { botToken, chatId } = pickTelegramTarget(locals, type);
 
   if (!botToken || !chatId) {
-    // Misconfiguration — do not leak which var is missing to the client.
     return json({ ok: false, error: 'not_configured' }, 503);
   }
 
