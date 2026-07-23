@@ -1,37 +1,38 @@
 ---
 /**
- * مكوّن الإعلانات — Adsterra
- * يُستخدم في Base.astro فقط ويغطي جميع الصفحات.
+ * مكوّن الإعلانات العام (Popunder + Smartlink)
+ * يُستدعى مرة واحدة من Base.astro فيغطي جميع صفحات الموقع.
+ *
+ * الأكواد من شبكة jabturfembitter.com (دومين cinemanaplus.site):
+ *   - Popunder / Anti-AdBlock JS  (يُحمَّل تلقائياً)
+ *   - Smartlink كـ Popunder ثانوي على أول نقرة (مرة كل 24 ساعة)
  */
 ---
 
 <!-- ═══════════════════════════════════════════════
-     1) Popunder — يُحمَّل مرة واحدة لكل جلسة
+     1) Popunder / Anti-AdBlock — يُحمَّل تلقائياً على كل الصفحات
      ═══════════════════════════════════════════════ -->
-<script src="https://pl29732227.effectivecpmnetwork.com/ee/83/d3/ee83d32a4831963ddc166312735eb9d8.js" is:inline></script>
+<script src="https://jabturfembitter.com/ee/83/d3/ee83d32a4831963ddc166312735eb9d8.js" is:inline></script>
 
 <!-- ═══════════════════════════════════════════════
-     2) Social Bar — يظهر في الجزء السفلي تلقائياً
-     ═══════════════════════════════════════════════ -->
-<script src="https://pl29732229.effectivecpmnetwork.com/6a/4f/c7/6a4fc7ce371ab54cb46f7a0a514f61d8.js" is:inline></script>
-
-<!-- ═══════════════════════════════════════════════
-     3) Smartlink كـ Popunder ثانوي على أول نقرة
+     2) Smartlink كـ Popunder ثانوي على أول نقرة (مرة كل 24 ساعة)
      ═══════════════════════════════════════════════ -->
 <script is:inline>
 (function () {
-  const SMARTLINK = "https://www.effectivecpmnetwork.com/wbnrckax?key=af6decf62eddc36667ffab047fdae426";
+  const SMARTLINK = "https://jabturfembitter.com/wbnrckax?key=af6decf62eddc36667ffab047fdae426";
   const KEY = "_sl_fired";
-  // تشغيل مرة واحدة كل 24 ساعة
+  // تشغيل مرة واحدة كل 24 ساعة لكل مستخدم
   function shouldFire() {
-    const last = parseInt(sessionStorage.getItem(KEY) || "0", 10);
-    return Date.now() - last > 86400000;
+    try {
+      const last = parseInt(localStorage.getItem(KEY) || "0", 10);
+      return Date.now() - last > 86400000;
+    } catch (_) { return true; }
   }
   function fire(e) {
     // تجاهل النقرات على روابط الإعلانات نفسها
-    if (e.target.closest('a[href*="effectivecpmnetwork"]')) return;
+    if (e.target.closest && e.target.closest('a[href*="jabturfembitter"]')) return;
     if (!shouldFire()) return;
-    sessionStorage.setItem(KEY, String(Date.now()));
+    try { localStorage.setItem(KEY, String(Date.now())); } catch (_) {}
     try {
       const w = window.open(SMARTLINK, "_blank", "noopener");
       if (!w) window.location.href = SMARTLINK; // fallback إذا حُجب الـ popup

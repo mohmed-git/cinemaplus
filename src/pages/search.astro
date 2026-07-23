@@ -166,10 +166,13 @@ const trendingPicks = pickStable(getAllTitles().filter(t => t.poster), 8);
     let data: Entry[] = [];
     let fuse: Fuse<Entry> | null = null;
     let pendingQuery = false;
+    let indexPromise: Promise<void> | null = null;
 
-    // Load the FULL corpus (old static catalogue + new SSR works) from the
-    // build-time static index so every public work is searchable.
-    fetch('/static/search-index.json', { cache: 'force-cache' })
+    // The index is loaded only when the visitor actually searches, avoiding a
+    // multi-megabyte download for visitors who merely open this page.
+    function loadIndex(): Promise<void> {
+      if (indexPromise) return indexPromise;
+      indexPromise = fetch('/static/search-index.json', { cache: 'force-cache' })
       .then((r) => (r.ok ? r.json() : []))
       .then((rows: RawEntry[]) => {
         data = rows.map((e) => ({
@@ -196,7 +199,13 @@ const trendingPicks = pickStable(getAllTitles().filter(t => t.poster), 8);
         });
         if (pendingQuery || input.value.trim()) search();
       })
-      .catch(() => {});
+      .catch(() => {
+        indexPromise = null;
+        pendingQuery = false;
+        countEl.textContent = '0';
+      });
+      return indexPromise;
+    }
 
     function escapeHtml(s: string): string {
       return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
@@ -238,6 +247,7 @@ const trendingPicks = pickStable(getAllTitles().filter(t => t.poster), 8);
       if (q.length > 0 && !fuse) {
         pendingQuery = true;
         countEl.textContent = '…';
+        void loadIndex();
         return;
       }
       let results: Entry[];

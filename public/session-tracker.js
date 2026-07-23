@@ -27,17 +27,19 @@
   // Fresh page load means the visitor is still around — clear any stale "sent" guard.
   sessionStorage.removeItem(SENT_KEY);
 
-  // Mark same-site link clicks so pagehide knows this is internal navigation, not an exit.
-  document.addEventListener('click', function (e) {
-    var a = e.target.closest ? e.target.closest('a[href]') : null;
-    if (!a) return;
-    try {
-      var url = new URL(a.href, location.href);
-      if (url.origin === location.origin) {
-        sessionStorage.setItem(NAV_FLAG, '1');
-      }
-    } catch (err) {}
+  // Mark ANY click as "still active" — covers same-site <a> links AND
+  // JS-driven navigation (buttons/onclick used for server selection, filters,
+  // pagination, etc.), which is what this site mostly uses. Being broad here
+  // is the right trade-off: it may occasionally miss a real exit summary if
+  // the user's last action was a non-navigating click, but that's far better
+  // than the previous behavior of sending a duplicate Telegram message on
+  // almost every single page transition.
+  document.addEventListener('click', function () {
+    sessionStorage.setItem(NAV_FLAG, '1');
   }, true);
+  document.addEventListener('touchstart', function () {
+    sessionStorage.setItem(NAV_FLAG, '1');
+  }, { capture: true, passive: true });
 
   function sendSummary() {
     if (sessionStorage.getItem(SENT_KEY)) return;
