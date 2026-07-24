@@ -1,0 +1,62 @@
+تقرير إصلاح Avatar + سيرفر videoland — CinemaPlus
+====================================================
+
+(1) مشكلة Avatar — تم الإصلاح
+─────────────────────────────
+كان العملان مختلطين في البيانات:
+  - الأنمي (slug: avatar-the-last-airbender-2) كان مصنّفًا "أنمي" لكنه
+    يحمل بيانات المسلسل الحي 2024 (Netflix) + سيرفر واحد معطوب "videoland - HD"
+    لكل حلقة → لهذا لم يظهر بشكل صحيح.
+  - المسلسل الحي (slug: last) كان اسمه مشوّهًا إلى "Last".
+
+تمت إعادة بناء العملين من ملف CSV (topcinemaa) كعملين مستقلين تمامًا:
+
+  1. Avatar: The Last Airbender  ← الأنمي الأصلي (2005)
+     • slug: avatar-the-last-airbender
+     • التصنيف: أنمي (anime) — الرابط /a/avatar-the-last-airbender
+     • السنة: 2005 | الإنتاج: Nickelodeon | tmdb_id: 246
+     • 3 مواسم / 54 حلقة
+     • السيرفرات الحقيقية: streamwish, luluvdo, uqload, earnvids, updown,
+       d0o0d, streamtape, filemoon, mixdrop, vidtube (10 سيرفرات) — بلا videoland
+
+  2. Avatar: The Last Airbender 2024  ← المسلسل الحي (Live Action)
+     • slug: avatar-the-last-airbender-2024
+     • التصنيف: مسلسلات (series) — الرابط /s/avatar-the-last-airbender-2024
+     • السنة: 2024 | الإنتاج: Netflix | tmdb_id: 82452
+     • 7 حلقات (الموسم المتاح في CSV)
+     • 8 سيرفرات حقيقية
+
+مهم: العملان لهما tmdb_id مختلف (246 مقابل 82452) فلن يُدمجا أبدًا،
+ولكل منهما صفحته وبياناته وصوره وتصنيفه المستقل.
+
+ملاحظة: يوجد عمل ثالث غير مرتبط (فيلم) اسمه
+  "The Legend of Aang: The Last Airbender 2026" (tmdb 980431) — تُرك كما هو.
+
+
+(2) تقرير سيرفر videoland - HD
+─────────────────────────────
+سيرفر videoland غير موجود إطلاقًا في ملف CSV (0 نتيجة) — مصدره بيانات قديمة.
+الأعمال التي ما زالت تحتوي على سيرفر videoland بعد إصلاح Avatar (8 أعمال):
+
+  [فيلم]   Birth/Rebirth 2023                          — 9 سيرفرات (videoland واحد منها)
+  [فيلم]   The Killer 2024                             — 12 سيرفر
+  [مسلسل] Women at War                                 — 72 سيرفر
+  [مسلسل] Maiko-san Chi no Makanai-san  ★ معطوب تمامًا — 9 سيرفرات كلها videoland فقط
+  [مسلسل] The Doll Factory                             — 50 سيرفر
+  [أنمي]  ون بيس One Piece                             — 12,615 سيرفر
+  [فيلم]   From the World of John Wick: Ballerina 2025  — 20 سيرفر
+  [فيلم]   Pictures of Ghosts 2023                     — 10 سيرفرات
+
+★ العمل الوحيد المعطوب بالكامل (يعتمد على videoland فقط) = Maiko-san Chi no
+  Makanai-san — وهو غير موجود في CSV لذا لا يمكن إصلاحه منه.
+  الباقي لديه سيرفرات أخرى تعمل بجانب videoland (videoland مجرد سيرفر إضافي).
+
+توصية: يمكنني (عند طلبك) حذف سيرفر videoland المعطوب من الأعمال الـ8 جميعًا،
+وحذف عمل Maiko-san أو تركه فارغًا. أخبرني بما تريد.
+
+
+الملفات في الحزمة (انسخها فوق مشروعك محافظًا على المسارات):
+  scripts/fix-avatar.mjs
+  src/data/generated/all.json.part-000..002  (أعيد تقسيمها)
+  src/data/generated/all.json.parts.json
+  public/static/search-index.json
