@@ -4,28 +4,64 @@
  * يُستدعى مرة واحدة من Base.astro فيغطي جميع صفحات الموقع.
  *
  * الأكواد من شبكة jabturfembitter.com (دومين cinemanaplus.site):
- *   - Popunder / Anti-AdBlock JS  (يُحمَّل تلقائياً)
- *   - Smartlink كـ Popunder ثانوي على أول نقرة (مرة كل 24 ساعة)
+ *   - Popunder / Anti-AdBlock JS  (يُحمَّل تلقائياً — يفتح Popunder مرة واحدة لكل صفحة)
+ *   - إعادة تشغيل Popunder مرة أخرى إذا بقي المستخدم أكثر من دقيقتين في الصفحة
+ *   - Smartlink كـ Popunder ثانوي على النقر (مرة كل 5 دقائق)
  */
 ---
 
 <!-- ═══════════════════════════════════════════════
      1) Popunder / Anti-AdBlock — يُحمَّل تلقائياً على كل الصفحات
+        (يفتح Popunder مرة واحدة عند أول تفاعل في الصفحة)
      ═══════════════════════════════════════════════ -->
 <script src="https://jabturfembitter.com/ee/83/d3/ee83d32a4831963ddc166312735eb9d8.js" is:inline></script>
 
 <!-- ═══════════════════════════════════════════════
-     2) Smartlink كـ Popunder ثانوي على أول نقرة (مرة كل 24 ساعة)
+     2) إعادة تشغيل الـ Popunder مرة إضافية بعد دقيقتين من البقاء في الصفحة
+        (Popunder الأساسي يعمل مرة واحدة لكل تحميل صفحة، وهذا يضيف مرة ثانية فقط
+         للمستخدمين الذين يبقون أكثر من دقيقتين)
+     ═══════════════════════════════════════════════ -->
+<script is:inline>
+(function () {
+  const POPUNDER_SRC = "https://jabturfembitter.com/ee/83/d3/ee83d32a4831963ddc166312735eb9d8.js";
+  const DWELL_MS = 120000; // دقيقتان
+  let secondFired = false;
+
+  // بعد دقيقتين من التحميل، أعِد حقن سكربت الـ Popunder لتشغيله مرة ثانية
+  // على أول تفاعل يلي الدقيقتين (مرة واحدة إضافية فقط لكل صفحة).
+  setTimeout(function () {
+    if (secondFired) return;
+    const trigger = function () {
+      if (secondFired) return;
+      secondFired = true;
+      try {
+        const s = document.createElement("script");
+        s.src = POPUNDER_SRC + "?r=" + Date.now(); // كسر الكاش لإعادة التنفيذ
+        s.async = true;
+        document.body.appendChild(s);
+      } catch (_) {}
+      document.removeEventListener("click", trigger, true);
+      document.removeEventListener("touchstart", trigger, true);
+    };
+    document.addEventListener("click", trigger, { capture: true, passive: true });
+    document.addEventListener("touchstart", trigger, { capture: true, passive: true });
+  }, DWELL_MS);
+})();
+</script>
+
+<!-- ═══════════════════════════════════════════════
+     3) Smartlink كـ Popunder ثانوي على النقر (مرة كل 5 دقائق)
      ═══════════════════════════════════════════════ -->
 <script is:inline>
 (function () {
   const SMARTLINK = "https://jabturfembitter.com/wbnrckax?key=af6decf62eddc36667ffab047fdae426";
   const KEY = "_sl_fired";
-  // تشغيل مرة واحدة كل 24 ساعة لكل مستخدم
+  const COOLDOWN_MS = 300000; // 5 دقائق
+  // تشغيل مرة واحدة كل 5 دقائق لكل مستخدم
   function shouldFire() {
     try {
       const last = parseInt(localStorage.getItem(KEY) || "0", 10);
-      return Date.now() - last > 86400000;
+      return Date.now() - last > COOLDOWN_MS;
     } catch (_) { return true; }
   }
   function fire(e) {

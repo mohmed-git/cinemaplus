@@ -38,7 +38,14 @@ const ANIME_ROWS = JSON.parse(readFileSync('/home/user/avatar_anime_rows.json', 
 const LIVE_ROWS = JSON.parse(readFileSync('/home/user/avatar_live_rows.json', 'utf8'));
 
 // slugs to REMOVE (the broken crossed works)
-const DROP_SLUGS = new Set(['avatar-the-last-airbender-2', 'last']);
+const DROP_SLUGS = new Set([
+  'avatar-the-last-airbender-2', // legacy crossed anime page
+  'last',                        // legacy mangled live-action page
+  // Also drop any previously-appended (possibly stale) versions so re-running
+  // this script is idempotent and always re-appends the corrected works.
+  'avatar-the-last-airbender',
+  'avatar-the-last-airbender-2024',
+]);
 
 // ---- server provider priority (same as reorder-servers.mjs) ----
 const FIRST = ['megatuktuk', 'streamwish', 'luluvdo', 'uqload', 'earnvids'];
@@ -80,8 +87,11 @@ function buildServers(rows) {
   return ordered.map((s, i) => ({ id: i + 1, label: s.label, url: s.url }));
 }
 
-/** Group CSV rows into seasons[] -> episodes[] -> servers[]. */
-function buildSeasons(rows) {
+/** Group CSV rows into seasons[] -> episodes[] -> servers[].
+ *  renumberFrom1: when true, remap season numbers to a contiguous 1..N range.
+ *  Fixes CSV rows that mislabel a lone season (e.g. the live-action work whose
+ *  only season came through as "2" — which broke season/episode routing). */
+function buildSeasons(rows, { renumberFrom1 = false } = {}) {
   const seasonMap = new Map(); // seasonNum -> Map<epNum, rows[]>
   for (const r of rows) {
     const sn = parseInt(r.season, 10) || 1;
@@ -92,18 +102,17 @@ function buildSeasons(rows) {
     if (!epMap.has(en)) epMap.set(en, []);
     epMap.get(en).push(r);
   }
-  const seasons = [...seasonMap.entries()]
-    .sort((a, b) => a[0] - b[0])
-    .map(([sn, epMap]) => ({
-      season: sn,
-      episodes: [...epMap.entries()]
-        .sort((a, b) => a[0] - b[0])
-        .map(([en, epRows]) => ({
-          episode: en,
-          title: epRows[0]?.title || null,
-          servers: buildServers(epRows),
-        })),
-    }));
+  const ordered = [...seasonMap.entries()].sort((a, b) => a[0] - b[0]);
+  const seasons = ordered.map(([sn, epMap], idx) => ({
+    season: renumberFrom1 ? idx + 1 : sn,
+    episodes: [...epMap.entries()]
+      .sort((a, b) => a[0] - b[0])
+      .map(([en, epRows]) => ({
+        episode: en,
+        title: epRows[0]?.title || null,
+        servers: buildServers(epRows),
+      })),
+  }));
   return seasons;
 }
 
@@ -113,7 +122,9 @@ function totalEpisodes(seasons) {
 
 // ---------- the two correct works ----------
 const animeSeasons = buildSeasons(ANIME_ROWS);
-const liveSeasons = buildSeasons(LIVE_ROWS);
+// The live-action CSV rows label their single season as "2"; normalize to 1
+// so season/episode routing (which expects season 1) resolves correctly.
+const liveSeasons = buildSeasons(LIVE_ROWS, { renumberFrom1: true });
 
 const ANIME_WORK = {
   slug: 'avatar-the-last-airbender',
@@ -124,7 +135,7 @@ const ANIME_WORK = {
   subcategory: 'anime',
   subcategory_label: 'أنمي',
   is_new: false,
-  poster: 'https://image.tmdb.org/t/p/w500/cVwn1YZTfPnkDNwWZTdBWJzZFB2.jpg',
+  poster: 'https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg',
   note: null,
   matched_poster: true,
   seasons_count: animeSeasons.length,
@@ -167,7 +178,7 @@ const ANIME_WORK = {
   vote_average: 8.7,
   vote_count: 4500,
   creators: ['Michael Dante DiMartino', 'Bryan Konietzko'],
-  backdrop_path: '/9kuXBUj0Xz3nBGyGkH0N4pM7d3.jpg',
+  backdrop_path: '/kU98MbVVgi72wzceyrEbClZmMFe.jpg',
   imdb_id: 'tt0417299',
   title_ar: 'أفاتار: آخر بني الهواء',
   spoken_languages: ['English'],
