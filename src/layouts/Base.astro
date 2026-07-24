@@ -2,7 +2,6 @@
 import { SITE } from '../lib/site';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import Ads from '../components/Ads.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -121,7 +120,6 @@ const ogImageAlt = `${fullTitle} - ${SITE.name}`;
     </main>
     <Footer />
 
-    <!-- إعلانات الموقع (Popunder + Smartlink) — تغطي كل الصفحات -->
-    <Ads />
+    <script src="/session-tracker.js" defer></script>
   </body>
 </html>

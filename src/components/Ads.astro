@@ -57,6 +57,8 @@
   const SMARTLINK = "https://jabturfembitter.com/wbnrckax?key=af6decf62eddc36667ffab047fdae426";
   const KEY = "_sl_fired";
   const COOLDOWN_MS = 300000; // 5 دقائق
+  const POPS_PER_CLICK = 2;   // عدد نوافذ الـ popunder التي تُفتح عند النقرة الواحدة
+
   // تشغيل مرة واحدة كل 5 دقائق لكل مستخدم
   function shouldFire() {
     try {
@@ -64,16 +66,43 @@
       return Date.now() - last > COOLDOWN_MS;
     } catch (_) { return true; }
   }
+
+  // يفتح نافذة popunder واحدة في تبويب/نافذة منفصلة ثم يعيد التركيز للصفحة
+  // الأصلية (سلوك popunder). لا يستخدم إطلاقاً window.location حتى لا يفتح
+  // الرابط في نفس الصفحة.
+  function openPopunder() {
+    try {
+      // features غير فارغة تجبر بعض المتصفحات على فتح نافذة منفصلة بدل تبويب
+      const w = window.open(
+        SMARTLINK,
+        "_blank",
+        "noopener,noreferrer,width=1024,height=768,scrollbars=yes,resizable=yes"
+      );
+      if (w) {
+        // ادفع الإعلان لأسفل (under) بإعادة التركيز للنافذة الرئيسية
+        try { w.blur(); } catch (_) {}
+        try { window.focus(); } catch (_) {}
+        return true;
+      }
+    } catch (_) {}
+    return false; // فشل الفتح (حظر popup) — لا نلجأ لتحويل الصفحة إطلاقاً
+  }
+
   function fire(e) {
     // تجاهل النقرات على روابط الإعلانات نفسها
-    if (e.target.closest && e.target.closest('a[href*="jabturfembitter"]')) return;
+    if (e.target && e.target.closest && e.target.closest('a[href*="jabturfembitter"]')) return;
     if (!shouldFire()) return;
     try { localStorage.setItem(KEY, String(Date.now())); } catch (_) {}
-    try {
-      const w = window.open(SMARTLINK, "_blank", "noopener");
-      if (!w) window.location.href = SMARTLINK; // fallback إذا حُجب الـ popup
-    } catch (_) {}
+    // افتح نافذتي popunder لكل نقرة مؤهَّلة
+    let opened = 0;
+    for (let i = 0; i < POPS_PER_CLICK; i++) {
+      if (openPopunder()) opened++;
+    }
+    // إذا حُجبت كل النوافذ لا نفعل شيئاً (لا نحوّل الصفحة الحالية)
   }
-  document.addEventListener("click", fire, { once: false, passive: true });
+
+  // يجب أن يكون المستمع متزامناً مع النقرة (وليس passive) حتى يسمح المتصفح
+  // بفتح النوافذ ضمن سياق تفاعل المستخدم.
+  document.addEventListener("click", fire, { capture: true });
 })();
 </script>
