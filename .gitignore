@@ -74,3 +74,6 @@ src/data/generated/topcinemaa-tmdb-cache.json
 
 # all.json is >100MB (GitHub limit); committed as split parts + reassembled at build
 src/data/generated/all.json
+
+# ingest temp artifacts (regenerable)
+scripts/_*.json
